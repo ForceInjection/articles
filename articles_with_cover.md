@@ -1,4684 +1,4479 @@
+### [《动手学大模型智能体》by 上海交大](https://mp.weixin.qq.com/s/uLtMHc4fPaojO7g_PqovjA)
+
+- **发布日期**：2025-12-31 08:17
+- **所属合集**：#好书推荐
+- **摘要**：《动手学大模型智能体》系统介绍大模型智能体的理论与实践，涵盖基础概念、提示工程、评估调试、主流架构、记忆与工具调用、推理规划、微调方法及前沿方向。通过丰富示例与代码，帮助读者全面掌握智能体原理与应用。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgXSb6Riccic4IW40mdsyrSich7oC7zJMN1iaDOj2YRWYViaibRhq7tUf0JiaeMWe5iceUZE226ydJvYRqKQ/0?wx_fmt=jpeg" width="400"/>
+
+### [从数据仓库到湖仓一体：现代数据架构的演进与原理](https://mp.weixin.qq.com/s/YoDfEiOcLfOw0y2UH-Oqpw)
+
+- **发布日期**：2025-12-29 21:06
+- **所属合集**：#大数据
+- **摘要**：本文以银行案例为主线，阐述数据架构从数仓、数据湖到湖仓一体的演进。分析数仓的实时性瓶颈及数据湖的“沼泽化”痛点，详解 Lakehouse 如何利用 Table Format 技术融合数仓管理能力与数据湖灵活性，实现流批一体与高效数据治理。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSmG5FsrgsnKPORI11V10kmfgmlB9CRam7kSx7DCO5foqfNc5iagKAgCH2AmfMc687RmXV2aTGmK5A/0?wx_fmt=jpeg" width="400"/>
+
+### [KAG：基于知识增强生成的大语言模型逻辑推理与问答框架](https://mp.weixin.qq.com/s/81pKIBXYrwjm_7Ob2FE-7w)
+
+- **发布日期**：2025-12-28 14:52
+- **所属合集**：#智能 Agent
+- **摘要**：KAG 通过 LLM 友好的互索引知识表示与逻辑符号引导的混合推理引擎，有效解决了专业领域应用中对逻辑敏感性不足的问题，为构建高精度企业级 AI 应用提供了全新范式。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQxaxjNeMhazAuwfSN5ibKOBVoFSNdlUmqxcDmRtibB75rATvlGLvLclqwt9c3KUhC55ORhE96vTjlg/0?wx_fmt=jpeg" width="400"/>
+
+### [从 40 亿整数到 HBase：一个 Membership Test 问题的抽象与演化](https://mp.weixin.qq.com/s/2qgXoZjMD8twL0GioHIrBw)
+
+- **发布日期**：2025-12-27 14:17
+- **所属合集**：#大数据
+- **摘要**：这篇文章从一个经典的"40 亿整数判存在"问题出发，带你理解工程系统（以 HBase 为例）的设计思路：当数据规模大到无法全部放入内存时，系统如何通过巧妙的数据结构和读取路径设计，高效地回答"某个数据在不在集合中"这类问题。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQUCq4z7UtbDFetmGsaqG9Ro1RP6On0IdEKosmQg2o6qlk1YbP9vSnfgcdL5Wd18OaMyeLzVWMwQA/0?wx_fmt=jpeg" width="400"/>
+
+### [Nvidia KAI Scheduler 功能架构解析](https://mp.weixin.qq.com/s/tNqKeDL9INNqHvK15W15Uw)
+
+- **发布日期**：2025-12-26 08:15
+- **所属合集**：#AI Infra
+- **摘要**：本文档深入解析了 NVIDIA KAI Scheduler 的核心架构与关键特性，并将其与 HAMi 进行多维度对比。通过分析两者在系统定位、资源隔离及适用场景上的差异，为构建高效、可靠的 AI 基础设施提供技术选型依据。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSLItEwLqHCcGGkY5x0Ggata4DFxJMdiaawTuUialkPJ4HQLicl9wiaauNWByqCjpArZ3Z0rpU39TmnwA/0?wx_fmt=jpeg" width="400"/>
+
+### [NVIDIA Model Optimizer 技术详解：功能、原理与实现](https://mp.weixin.qq.com/s/UiwVkVNj8b5GFvwMID1B9A)
+
+- **发布日期**：2025-12-25 08:15
+- **所属合集**：#AI Infra
+- **摘要**：NVIDIA Model Optimizer（简称 ModelOpt）是一个包含最先进模型优化技术的库，专为加速生成式 AI 模型而设计。通过量化、稀疏化、剪枝、蒸馏等技术，对现有进行压缩和优化。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTTfmNwBzcY062gwIwYYO1ibiazadAPYH0AmjfV1DwBasj01wKj5ktFXYsIAMTGQT9p307610PjEkVg/0?wx_fmt=jpeg" width="400"/>
+
+### [Synergized LLMs + KGs 教学：银行反电诈智能系统设计方案与 Demo 实现](https://mp.weixin.qq.com/s/rds_oswLlWvvfsBx6zCwlg)
+
+- **发布日期**：2025-12-24 09:03
+- **所属合集**：#智能 Agent
+- **摘要**：本文档详细阐述基于 Synergized LLMs + KGs 协同技术的银行反电诈智能系统设计方案，全面涵盖系统背景、架构设计、Demo 实现细节、运行指南、工程化路线以及参考文献，旨在为银行反欺诈系统建设提供完整的技术参考和实施指导。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTTfmNwBzcY062gwIwYYO1ibbSdAdqt4Br7bRVmvp0TLMXmGXsiaX3M0c3t2a55mr1eaib1Yu6hhqib1Q/0?wx_fmt=jpeg" width="400"/>
+
+### [深度融合：大语言模型（LLMs）与知识图谱（KGs）的协同演进全景图](https://mp.weixin.qq.com/s/Q0ygmiIHHrQq6ig77j3l0A)
+
+- **发布日期**：2025-12-22 08:15
+- **所属合集**：#AI Infra
+- **摘要**：LLMs 与 KGs 的结合并非简单的 1+1，而是 “大脑”与“图书馆” 的深度协作。未来的 AI 系统既需要像诗人一样流畅地表达，也需要像学者一样严谨地查证。这种双向奔赴的融合，将是实现更具信任感、更智能的通用人工智能的关键基石。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRh81XXZAQSW9icRXuzmomhc6D4Scb3zsM1TK4zomoNGYOGoq2TjqtopB7oMl0qAkR34TRVv1YW5AQ/0?wx_fmt=jpeg" width="400"/>
+
+### [大数据理论与实践总结课程总结 - 从数据仓库到湖仓一体](https://mp.weixin.qq.com/s/eSOEkfxgr21jRFkshbeTpw)
+
+- **发布日期**：2025-12-20 08:24
+- **所属合集**：#大数据
+- **摘要**：本课程聚焦从传统数据仓库到数据湖、再到湖仓一体（Lakehouse）的演进路径，强调原理讲解与架构思维训练，帮助学习者从工程实践和系统设计两个维度理解现代数据平台的整体图景。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRYJyfpiciabS9wnRolvtQbVMUkZicpUb12jc5PvmibbqsHYRh3SXicOicGqBlECSIkgP8AarTOt7T5nQPw/0?wx_fmt=jpeg" width="400"/>
+
+### [【翻译】智能体工程现状 By LangChain](https://mp.weixin.qq.com/s/0LILm4wQShLDo91qtZi4CA)
+
+- **发布日期**：2025-12-18 07:22
+- **所属合集**：#AI Infra
+- **摘要**：进入 2026 年，企业关注点已从“是否构建智能体”转向“如何可靠、高效、规模化部署”。调研显示，57% 的组织已将智能体投入生产，质量问题成为最大阻碍；可观测性已成标配，多模型并用是常态，而微调仍未普及。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJT1wL5bjesnVFhzAGnaiavriaH8thGDq9BcdN6voUv2aesyqxQP53IUleXnsqA1aPPSCjHSqM0qQg/0?wx_fmt=jpeg" width="400"/>
+
+### [深度解析：从原理到工程化落地——读《生成式 AI 开发揭秘》](https://mp.weixin.qq.com/s/AKjOPsAduchJrlOKAtaGqA)
+
+- **发布日期**：2025-12-17 08:15
+- **所属合集**：#好书推荐
+- **摘要**：随着大语言模型普及，AI 开发正从 Demo 演示迈向生产级应用。《生成式 AI 开发揭秘：大模型详解》聚焦 Transformer 原理、模型微调方法及生产环境中的幻觉与性能问题，系统呈现面向实战的大模型全栈开发指南。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQF0tuDqZpicvvXPPKj1vE1w4K0icwyKpUsMIkljmrYOHiaicXjvibImgXOHlicybicLX6yIIn2djFcW17CQ/0?wx_fmt=jpeg" width="400"/>
+
+### [《Generative AI in Action》深度导读：从概念到企业级落地实战指南](https://mp.weixin.qq.com/s/KC_V2dJzjR0iSFQ778ck_Q)
+
+- **发布日期**：2025-12-16 19:36
+- **所属合集**：#好书推荐
+- **摘要**：本书不仅是一本好书，更是一套完整的 GenAI 开发工具箱。通过配套代码，系统掌握 LLM 原理、上下文工程、RAG、多模态生成与企业级架构设计，并以“企业级智能市场研报生成助手”为贯穿案例，展示从原理到落地的完整实践路径。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSTBJcib3c0ft7EOUxhx6rL4aPgPd4yNfRO46vCqAxvQrCBblxzV5meypKwlntgjSicb3yxIXTDfzAQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Google TPU 101](https://mp.weixin.qq.com/s/0PqT8cCfFiQlnKfhIVWN6g)
+
+- **发布日期**：2025-12-14 21:00
+- **所属合集**：#AI Infra
+- **摘要**：TPU 与 GPU 目标相同，都是高吞吐地支持深度学习训练与推理，但 Google 并未复刻 GPU 架构，而是围绕深度学习负载重新设计。从硬件到软件，TPU 聚焦两点：以大规模矩阵乘加为核心计算模式，以及面向模型规模持续增长的多芯片协同执行
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ5QDM8YJicFsxBdmWqgqmdhbDE6NiaSa7ruvicffW5xibnbgl7iawX8EPKib5ax0YhIozR4s6MvKNt3pPA/0?wx_fmt=jpeg" width="400"/>
+
+### [现代数据架构的演讲：从数据仓库到湖仓一体](https://mp.weixin.qq.com/s/HhcUTJgi0FQSYIvshY75KQ)
+
+- **发布日期**：2025-12-13 17:11
+- **所属合集**：#AI Infra Visualization
+- **摘要**：我使用 Google NotebookLM（https://notebooklm.google/）工具，基于一份教案生成了两张信息图和一张思维导图。 信息图整体视觉风格较为出色，结构清晰、信息表达直观；但在中文字体与排版细节方面仍存在明显不足，例如字体选择不统一、字形渲染不够规范，影响了整体的专业性与可读性。 文档介绍：本文一份深入的课程大纲与技术解析，核心聚焦于现代数据架构从传统数据仓库到数据湖，再到湖仓一体 (Lakehouse)的演进过程。课程强调原理讲解与架构思维训练，通过商业银行对账的典型案例，对比分析了三代架构在一致性、时效性、成本与治理方面的优劣和适用边界。技术部分详细剖析了 Lakehouse 的核心技术基石——Table Format (表格式)，尤其是以 Apache Iceberg 为例，解释了如何在低成本的对象存储之上实现 ACID 事务、多版本并发控制 (MVCC)和批流一体等关键能力。最终，文本将 Lakehouse 置于现代数据栈的完整视图中，讨论了其在 CDC 实时入湖、流批统一以及合规修正等典型应用场景中的实现方案和业界实践。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRX0rpWUtteiajhMUqmmQAP1jluUFnPhr2o7tZqYg8D60LEM5fV6jsh8aVny5CFz7rrEymvLfibqYuw/0?wx_fmt=jpeg" width="400"/>
+
+### [大模型核心推理优化技术深度解析及方案指导 （写大模型技术规划报告必备）](https://mp.weixin.qq.com/s/194559hWz23OsJMbld6f0Q)
+
+- **发布日期**：2025-12-12 08:15
+- **所属合集**：#AI Infra
+- **摘要**：本文涵盖了量化剪枝、KV Cache 管理及算子融合等基础优化技术，更深入解析了张量并行、流水线并行等分布式计算策略，以及连续批处理、投机解码、MoE 优化等前沿加速方案，并配套提供了标准化的性能基准测试方法论。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRV5CcuCrhZuI5U08TZ8I5q4icKxHZGhckNC9YKj80DdgL5hHMBqm4ltJf26CSV9o10WE02GZ3ibA6g/0?wx_fmt=jpeg" width="400"/>
+
+### [从 SIMT 到 Tile-Based：GPU 编程范式的演进与实战解析 —— 以矩阵乘法为例](https://mp.weixin.qq.com/s/bIkZIYh3XtbGzwFEUIXgOA)
+
+- **发布日期**：2025-12-11 08:15
+- **所属合集**：#AI Infra
+- **摘要**：nan
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTHriaVw2NcvMvwI6H1V7kJOgplnABiasNoIZUxzy7AeEbF9aJ4PauBnqJnEFyM7iavY3j4c343jnufg/0?wx_fmt=jpeg" width="400"/>
+
+### [从 ETL 到流式计算：理论与实践入门](https://mp.weixin.qq.com/s/vmZNxqYQLDDx-N5FDn1ajw)
+
+- **发布日期**：2025-12-10 07:45
+- **所属合集**：#大数据
+- **摘要**：系统梳理从传统 ETL 到流式计算的理论与工程实践：涵盖典型案例、时间与窗口、DataStream API、状态与容错、端到端语义与连接器，并配套动手示例与参考文献。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRbS5JKNLXOamOaM5qYaA41qEhqfaagF1FfibiaDOwLFU1ibSmjg6iaHbfic9jqNiaAX7SkYaSuymFCpoJA/0?wx_fmt=jpeg" width="400"/>
+
+### [《性能之巅》的作者 Brendan Gregg 离开 Intel 了](https://mp.weixin.qq.com/s/DndR81lp2pSWwWIuPIuh-g)
+
+- **发布日期**：2025-12-07 11:37
+- **所属合集**：#AI Infra Visualization
+- **摘要**：有兴趣的朋友可以看他的博客：https://www.brendangregg.com/blog/2025-12-05/leaving-intel.html，了解他在 Intel 的工作总结。 和笔者关系比较大的工作是他的 AI 火焰图：https://www.brendangregg.com/blog/2024-10-29/ai-flame-graphs.html <a data-unique-id="miv60mjm-3n6b0t" href="https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247485127&idx=1&sn=1d9a0604ecd0d01c43b9d2235335dea7&scene=142#wechat_redirect" class="normal_text_link mp_article_text_link" target="_blank" data-itemshowtype="0">《BPF 之巅：洞悉 Linux 系统和应用性能》读书笔记开篇</a>
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRAAkzqlibDoSxbV6NMyG99sjHkQGqUic7NUtsmPqBqqSWtiagsmx8Ric82ryCz23D26aOe9Vywa4EJ2w/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes Runtime Class 原理与实现](https://mp.weixin.qq.com/s/mXRsT9w5FcJ7OlpjVQQsQQ)
+
+- **发布日期**：2025-12-06 21:28
+- **所属合集**：#Kubernetes
+- **摘要**：Kubernetes RuntimeClass 正是为了解决多运行时需求而设计的 API 资源。它允许用户在 Pod 级别指定容器运行时配置，为不同的工作负载选择最适合的运行时环境。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSDRjvP5pkqVuWyNVjAERBv5ibkicdztQD7wo7OdfYicwVTMIhunne9yQ0dx6Dm0d2UYPmHUzzgGpyow/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes Pod QoS 原理与实现](https://mp.weixin.qq.com/s/L-PO8RdXiCKUbphsjYlT2w)
+
+- **发布日期**：2025-12-05 08:15
+- **所属合集**：#Kubernetes
+- **摘要**：QoS 类由 K8s 根据 Pod 的 CPU/内存请求与限制自动确定。该分类不仅影响调度优先级，更直接映射到底层 Cgroups 与 OOM Score 设置，从而决定 CPU 紧张时的调度权重，以及内存不足时的 OOM 终止顺序。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSFaIUSDF4KuHicP36y74HIdJ4nMrC7Txlr7rJqiaKbLe4cXPggagGYcUwJSDjbQZbo31tykWtZicU5w/0?wx_fmt=jpeg" width="400"/>
+
+### [Linux 内存 Watermark 工作机制详解：从 3.x 到 6.x](https://mp.weixin.qq.com/s/e_i7CDPdDKmDKlyXjE2QZA)
+
+- **发布日期**：2025-12-04 20:15
+- **所属合集**：#Linux
+- **摘要**：在 Linux 内核的物理内存管理中，伙伴系统（Buddy Allocator）通过一系列水位线（Watermark）来判断系统的内存健康度，并驱动 kswapd、direct reclaim 乃至 OOM Killer 的触发时机。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSFaIUSDF4KuHicP36y74HIdHGUYjEOPgXmrgYjCsK4MC14uPWOmwd8yKaypcFJK8mnJcnG8rOjNiaw/0?wx_fmt=jpeg" width="400"/>
+
+### [从硅谷杀出的 AI 记忆革命：MemMachine 如何重新定义智能体交互体验](https://mp.weixin.qq.com/s/IIzGb_ofJbsSANF_f52PGw)
+
+- **发布日期**：2025-12-03 13:15
+- **所属合集**：#智能 Agent
+- **摘要**：作为 AI 智能体的持久记忆层，MemMachine 通过情景与语义多层记忆架构及混合检索技术，突破了传统 RAG 的局限。本文基于 Docker 提供完整实战指南，演示如何以精简 Python 代码实现个性化记忆读写与多用户隔离。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQvATDPNGtDHugSMbBzfKnOjBXPujljZXia02G0PorgNmB23Wz0s1WHeFnCR9icF11ickrUDEgYib9LNw/0?wx_fmt=jpeg" width="400"/>
+
+### [Spark on Kubernetes 简介](https://mp.weixin.qq.com/s/eIf4Yzr9HKeoK4g9iQVzJg)
+
+- **发布日期**：2025-12-02 20:15
+- **所属合集**：#大数据
+- **摘要**：Apache Spark 可以在 K8s 集群上原生运行，利用 K8s 的原生调度器来管理 Spark 应用程序的资源分配和执行。这种架构提供了容器化的部署方式，使得 Spark 应用程序能够更好地利用云原生环境的优势。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQIQE702sCaHLJa2TJsDTWeA6RzhK90tCPxvG16iatIxqI4PbIDibmak5qu9ibWw5fuVGEQ55WX0sFqw/0?wx_fmt=jpeg" width="400"/>
+
+### [Feed 流系统架构发展综述](https://mp.weixin.qq.com/s/53Aqhk0mnT9ru1wmWUZ7jA)
+
+- **发布日期**：2025-12-01 20:15
+- **所属合集**：#大数据
+- **摘要**：本文系统梳理了社交网络 Feed 流系统架构从 2006 年至今的技术演进历程。通过分析业界主流公司的实际实施方案，总结了六个主要发展阶段的技术特点、性能表现和适用场景。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR8Xcb58H6LWowFtu7LBpNnoI9LkqCxpQUmq5hHJ9jzjuXB231BibHoa3A8ZCzcS5rY6iaGrHHaWIKg/0?wx_fmt=jpeg" width="400"/>
+
+### [LSM Tree MemTable 的核心结构 SkipList：原理、优势与高并发实现](https://mp.weixin.qq.com/s/f0f_ny23Wb-cyt2fGQ_B7g)
+
+- **发布日期**：2025-11-29 10:12
+- **所属合集**：#大数据 #存储引擎
+- **摘要**：在 LSM Tree 中，MemTable 是前台读写路径的核心组件。它负责接收所有新增写入（Put、Delete）并以有序结构维护最新数据，使系统能够在内存中完成快速写入与低延迟查询。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHThczz4rebBuK4u1BDoTuPrVDRjA8tMsMkTO7KztZWNtff5al9yibs0m6oZNU4tLicibico1rU78diaFJg/0?wx_fmt=jpeg" width="400"/>
+
+### [Google Bigtable: 分布式结构化数据存储系统深度解析与架构实现](https://mp.weixin.qq.com/s/JS_ca31ODCl2MbBSv-xR_g)
+
+- **发布日期**：2025-11-27 08:15
+- **所属合集**：#大数据
+- **摘要**：本文是对 Google BigTable 论文的深度技术解析，系统性地分析 BigTable 的核心数据模型、分布式架构、存储引擎和实现机制。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSn7gfM46UXMMibknTHng1PSyTKttkAZyf1bl0ppBlhCicnWTH54xzmqFibNIn9iaoBH0JiaZKvyz7Rbgg/0?wx_fmt=jpeg" width="400"/>
+
+### [AI 时代 - 不卷算力卷效率！HAMi Meetup 上海站](https://mp.weixin.qq.com/s/HaUTYNCmq4f2Wd_6tOTmCg)
+
+- **发布日期**：2025-11-26 07:49
+- **所属合集**：#AI Infra
+- **摘要**：本次活动由 HAMi 社区和密瓜智能主办，CNCF 特别支持。CNCF、密瓜智能、沐曦股份、蔚来、DaoCloud 道客、星环科技将齐聚现场进行主题分享，共同探索异构算力调度的高效解法，在思维碰撞中破解算力资源浪费难题，实现不卷算力卷效率！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTpciaiaPsaDiaWqn5vtAmt1JxbicYl08ANmjMqhwpicohDsfmjl1ajrncre6pl3TfibQQMPynic1r7ClibBQ/0?wx_fmt=jpeg" width="400"/>
+
+### [又开发了一个 MCP Server，用于参考文献和引用的格式化](https://mp.weixin.qq.com/s/MIOrbpZhbbc7cdSsUOvUyg)
+
+- **发布日期**：2025-11-25 07:15
+- **所属合集**：#智能 Agent
+- **摘要**：Markdown Reference MCP Server 是一个基于 MCP 的参考文献处理工具，专为 Markdown 文档设计，提供自动化的参考文献提取、引用重编号映射、参考文献列表生成以及相关文献推荐功能。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTDkNIjgJHxgwCwAun4BqxTEp6WicdKtgFkLzeFSrpyOdu8hHryYWMbJqnSY8jibrIsmmEnan9C4C8w/0?wx_fmt=jpeg" width="400"/>
+
+### [GPU 管理相关技术深度解析 - 虚拟化、切分及远程调用（v2）](https://mp.weixin.qq.com/s/ckm8ap7uExo3hHTQIcV7KA)
+
+- **发布日期**：2025-11-23 11:50
+- **所属合集**：#AI Infra
+- **摘要**：本文将深入剖析 GPU 资源管理的三大核心技术：虚拟化、切分及远程调用。虚拟化技术通过 NVIDIA MIG 等方案实现硬件级资源隔离；切分技术涵盖时间片分配、空间划分等策略；远程调用技术突破物理边界，实现跨节点的 GPU 资源共享。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS4gwr1m4Ic2Up8GCw4icNPIOR42TxicG8Xu3DN2YOrc8WILOicxRGZ68xqTZAgJ8fe4hKIRA7J1z2jQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes AIOps 大模型能力评估框架](https://mp.weixin.qq.com/s/cNJYA0XNiyUlBWj8GQUSkg)
+
+- **发布日期**：2025-11-20 08:15
+- **所属合集**：#LLM
+- **摘要**：本文档构建了 K8s AIOps 大模型能力评估的完整框架，采用"知识验证、推理评估、场景测试"三位一体方法论，涵盖控制平面诊断、Pod 与容器故障诊断、节点级组件诊断、网络组件诊断、存储组件诊断、自动化运维与工具调用、安全与合规核心维度。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQsWVbibp57pYDKSvJ9U3AYI3qYzKw5IwlLgWYwic2DU4b4o36WE2trak9dhQuAljU7sQ6bYk68prvQ/0?wx_fmt=jpeg" width="400"/>
+
+### [AIOps 大模型构想：后训练技术与潜在实践路径](https://mp.weixin.qq.com/s/GXJVEvIUhTeoDTYT7zSekA)
+
+- **发布日期**：2025-11-18 20:15
+- **所属合集**：#LLM
+- **摘要**：在 AIOps 场景中，后训练的根本目标在于：让模型从"通用智能"转变为"懂运维、能诊断、会处理"的专业模型。AIOps 不仅仅是简单的模型对齐，而是要求模型具备以下七大核心能力!
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQv7E65fyjnBNT9icZiaGx3jrxUwmrSndAcgrDXRQ8FyHvCfz2UickRqKVkSpUpsN4Sibm1mwNjtVS9Hw/0?wx_fmt=jpeg" width="400"/>
+
+### [DIY：基于 MCP 协议集成 Kimi 模型实现图片文字识别](https://mp.weixin.qq.com/s/Mm-qFf034aBoDIuPLn1rHg)
+
+- **发布日期**：2025-11-15 08:26
+- **所属合集**：#智能 Agent
+- **摘要**：MCP OCR Server 项目成功展示了如何基于 MCP 标准化协议构建高性能、可扩展的 AI 服务。通过实践验证，MCP 协议在构建现代化 AI 基础设施方面展现出显著优势：统一的接口规范、无缝的工具集成能力以及出色的跨平台兼容性。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQt4ic2LpPZIbSNI9SxPOcNIOJMj6sIBPQoZWP8Fic7kxsyMq31gSBZEmEj8zlrLH8403WZAXKiaL9yg/0?wx_fmt=jpeg" width="400"/>
+
+### [Linux 挂载传播机制原理解析](https://mp.weixin.qq.com/s/bUCswX89PGKd6KOokxK5CA)
+
+- **发布日期**：2025-11-12 20:41
+- **所属合集**：#Linux
+- **摘要**：本文亮点：本文提供了两个 Step by Step 的示例，帮助在学习挂载传播的过程中，直观理解相关概念！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRumpetnia2UibvpJyhLp1rmiaLx7vvbs9KlUpg2RDnyLmaAN69ZDNgONEReyOccYFN6KdicWib5oc6iaMA/0?wx_fmt=jpeg" width="400"/>
+
+### [好书推荐：《Cursor 与 MCP 快速入门》- 让每个人都能成为 AI 时代的创造者](https://mp.weixin.qq.com/s/lDTAw0HEGl_qVwFRvp-4FA)
+
+- **发布日期**：2025-11-11 12:12
+- **所属合集**：#好书推荐
+- **摘要**："AI 会不会取代程序员？"这个问题在《Cursor 与 MCP 快速入门》中找到了令人振奋的答案——AI 不是替代者，而是创造力的放大器。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRde3ko8OKEdSQjTx4O5t5wHBicNSeJEJIOBJQwX4HfXNsLiclIcEhTTeW8Fiaxqpp6h7aCNiajUIvt4g/0?wx_fmt=jpeg" width="400"/>
+
+### [【Anthropic】面向 AI 智能体的高效上下文工程](https://mp.weixin.qq.com/s/N0J8wCKpeDGe-0zmBQHGyg)
+
+- **发布日期**：2025-11-10 08:19
+- **所属合集**：#智能 Agent
+- **摘要**：在这篇文章中，我们将探讨上下文工程这一新兴艺术，并为构建可操控、有效的智能体提供精炼的心智模型。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRde3ko8OKEdSQjTx4O5t5wFbhXiaWhTC3icx8RxiaVTNUkPCfrNCnSGbBwwylVlA6PS2neQdakVJjkA/0?wx_fmt=jpeg" width="400"/>
+
+### [从文本到语义：让智能体高效处理 Markdown 的结构化语义中间层](https://mp.weixin.qq.com/s/csW6T5lga8sE1TtClrWxtA)
+
+- **发布日期**：2025-11-09 19:54
+- **所属合集**：#智能 Agent
+- **摘要**：要让智能体真正具备技术文档的"理解与编辑"能力，关键在于从纯文本处理过渡到结构化表示层。通过构建结构化中间表示（SIR）并提供语义化操作接口，智能体可以安全、精确地修改文档内容，实现从传统的"文本编辑"到现代的"语义编辑"的根本性转变。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGNRnU2qibGPu2xjwq7CMFwzIk9klCQpcDckQ2W0kZppEHduiaibic0Laf6AHtyJAj6qGfqT5VlJDZWw/0?wx_fmt=jpeg" width="400"/>
+
+### [Apache Spark 设计与实现（一）](https://mp.weixin.qq.com/s/JaB8VzAUIpoFr8Fyqqt-Bg)
+
+- **发布日期**：2025-11-08 15:15
+- **所属合集**：#大数据
+- **摘要**：本文档是 Spark 的系统性教学材料，全面介绍了 Spark 作为新一代大数据处理引擎的设计理念、核心技术和实现原理，从产生背景出发深入剖析 RDD 抽象、作业执行机制、内存管理策略及其在分布式计算中的应用，为读者构建完整的知识体系。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQSyQaCK7ANChnuwX1SCFkd1lDlOZWwDytpAgaHfZcqFnN6hJuFBsKAiboibIPgm5MF7ExhP1gbQymA/0?wx_fmt=jpeg" width="400"/>
+
+### [从零构建 MCP 服务：为 TRAE IDE 添加智能 Markdown TOC 处理能力](https://mp.weixin.qq.com/s/J0C5i1SOqkn0UA0z-7mrJw)
+
+- **发布日期**：2025-11-02 14:53
+- **所属合集**：#智能 Agent
+- **摘要**：通过本项目的实践，我们深度验证了 MCP 协议在专业工具开发中的技术可行性和实际应用价值。本项目不仅是一个 MVP 功能的 Markdown 文档处理工具，更是一个 MCP 协议实践的完整示例，为开发者提供了从架构设计到部署运维的全流程参考
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRz6GZjflFFbjZkcREia0kyicgbY4wcyAicTMXFY022tvALAodpxo53GOhI4hK3JvaOrWibZHVPiaTQDzg/0?wx_fmt=jpeg" width="400"/>
+
+### [从 Linux 内核到应用层：YARN 与 Kubernetes 资源隔离技术全栈解析（一）](https://mp.weixin.qq.com/s/-IrR-OWW7VYdvl62olee7Q)
+
+- **发布日期**：2025-10-31 08:15
+- **所属合集**：#Kubernetes
+- **摘要**：本文深入对比分析了 Apache YARN 和 K8s 两种主流资源管理平台的底层隔离技术实现机制。研究从 Linux 内核隔离基础出发，系统性分析了 YARN Container 和 K8s Pod 的资源抽象模型、隔离技术架构和实现细节
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSUIo66HVxSibG2fcQSKngA3KsZ2S8SG50bmSpWDZhUiawWFriaCkibzPZ22aoV1TiaHgLyqlwSSePCKyQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Java LSM Tree 14 天循序渐进学习计划](https://mp.weixin.qq.com/s/qoucZYQa2PsvNaeson2pwQ)
+
+- **发布日期**：2025-10-27 07:15
+- **所属合集**：#大数据
+- **摘要**：基于项目的源码解析文档和现有教程，制定了一个 14 天的循序渐进学习计划。每天包含理论学习、代码阅读、动手实践三个环节，确保深入理解 LSM Tree 的设计原理和实现细节。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQhfSRpLP5219tqZK3RBJPJ859dQ4iaowQRQgH1jcDlo2Wg3BmMQic1vZRqssLjwDd9l64icYwycoGKg/0?wx_fmt=jpeg" width="400"/>
+
+### [Java LSM Tree 学习之第一天完成总结](https://mp.weixin.qq.com/s/rlMFNBHDTto_HjowwOuiWw)
+
+- **发布日期**：2025-10-26 20:24
+- **所属合集**：#大数据
+- **摘要**：Java LSM Tree 学习计划第一天完成总结！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQhfSRpLP5219tqZK3RBJPJGhvr0l2Fmm9TxetJnOsVYwnlp55FG6eiaNbUoO641SCgzcZuwvnUDCA/0?wx_fmt=jpeg" width="400"/>
+
+### [LSM Tree 再入门](https://mp.weixin.qq.com/s/Ty7QBpZCyxI_WADWJFwVNA)
+
+- **发布日期**：2025-10-25 21:47
+- **所属合集**：#大数据
+- **摘要**：本文将基于《The Log-Structured Merge-Tree (LSM-Tree)》一文，从原理与流程两个角度深入解析 LSM Tree 的工作机制（偏理论）。后续笔者会介绍一个 Java LSM Tree 实现，供大家学习！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTLDFKYiboUka7D4861GnFwqBtGbiccActWQfPGkcPh2A4DVUzzicllsWqib4GaWBQyBp8qsdrnt8Z2qQ/0?wx_fmt=jpeg" width="400"/>
+
+### [MapReduce 分布式计算框架：从理论到实践的完整指南](https://mp.weixin.qq.com/s/aHOI6prNUOJQ1H4bcnXagg)
+
+- **发布日期**：2025-10-22 20:36
+- **所属合集**：#大数据
+- **摘要**：MapReduce 是一种编程模型，由 Google 在 2004 年首次提出，后来成为 Hadoop 生态系统的核心组件。它的设计理念是将复杂的数据处理任务分解为两个简单的阶段：Map 和 Reduce，从而实现大规模数据的并行处理。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRFiao7zCq5vkr47cldG6Z8WoH1UIXd6Wibnu1fyAkUgu7V8uUf2S7fLqmicp3IG70s67dl3YIFht6wA/0?wx_fmt=jpeg" width="400"/>
+
+### [好书《AI Engineering》 抢先读](https://mp.weixin.qq.com/s/0rEroYnHtp4bG-5kMm4Q2w)
+
+- **发布日期**：2025-10-18 09:38
+- **所属合集**：#好书推荐
+- **摘要**：《AI Engineering: Building Applications with Foundation Models》不仅是一本技术指南，更是一本帮助你建立 AI 工程思维的实战宝典！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTdR9nlFltfNdlLEribUMXd1u1ID8op8tibqslLILIP6ZibHu65MgLL5ianW1IedbaEsRopLTZ1tPpUGw/0?wx_fmt=jpeg" width="400"/>
+
+### [Pod Scheduling Readiness 简介](https://mp.weixin.qq.com/s/5tfEcrZb4AjxdkgIt00cjQ)
+
+- **发布日期**：2025-10-17 09:40
+- **所属合集**：#Kubernetes
+- **摘要**：K8s 1.26 引入了 Pod 调度就绪特性，通过调度门控机制来解决这个问题。调度门控允许声明新创建的 Pod 尚未准备好进行调度。当 Pod 上设置了调度门控时，调度程序会忽略该 Pod，从而避免不必要的调度尝试。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT2uAJXA2nz6P9hVsD1SDjEfBvfYTYMZ4oRhsqKXtd7jWnnjkkMZoZcMe0nujiagrXkugx0MbwvPIg/0?wx_fmt=jpeg" width="400"/>
+
+### [HDFS 常见操作教学指南](https://mp.weixin.qq.com/s/Y6NG3hEEYnUulZ_yy6F8EQ)
+
+- **发布日期**：2025-10-15 22:25
+- **所属合集**：#大数据
+- **摘要**：本文系统介绍了 HDFS 的常见操作命令与应用，包括文件系统目录操作、文件上传与下载、文件读写方式、权限管理、数据块处理等。通过这些命令，用户能够对 HDFS 上的数据进行增删改查、权限控制、系统维护与监控操作。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQHoicNVuetOEN8KxYE4u25UdP5RkwyVjCTQQwUAWX5f57UTMdttWia6EUZA8curXJSwtQk0feOo1fw/0?wx_fmt=jpeg" width="400"/>
+
+### [【论文解读】A Survey on Agent Workflow – Status and Future](https://mp.weixin.qq.com/s/CwDQEIJbkLHdd545pW-_5w)
+
+- **发布日期**：2025-10-13 20:15
+- **所属合集**：#智能 Agent
+- **摘要**：本文系统梳理“大模型智能体工作流”研究与实践，围绕定义、构建、瓶颈与未来四个问题，建立双维度评估体系，分析 24 个主流框架，并提出标准化、可编排的统一框架构想，为“Agent 即服务”奠定基础。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRmibVC5SIIbyK9wjxvXIiaibTN2WGcKeeibkwAPKaGSycENOjCqbZR880XgSomttSFIcIGPtrVzJFXkw/0?wx_fmt=jpeg" width="400"/>
+
+### [科研助手 Agent 需求分析](https://mp.weixin.qq.com/s/WvxTUTG3kozw0kg5jtgPiA)
+
+- **发布日期**：2025-10-12 11:33
+- **所属合集**：#智能 Agent
+- **摘要**：智能 Agent 的落地，归根结底仍然离不开对用户场景的深入理解。无论技术如何演进，需求分析始终是构建有效系统的核心环节。只有理解“为谁而建、为何而建”，智能 Agent 才能真正“落地生根”。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRciahL0FgQ6zbtnumHeaA2Ks3dvUyPmicQUbD2icA61ic8P9zcqWNBQV6WEnjh5iaYph0p2giagvojYavg/0?wx_fmt=jpeg" width="400"/>
+
+### [HDFS 架构原理、读写流程与性能优化深度解析](https://mp.weixin.qq.com/s/lMT0ZmC4idZ2tEPM3qa9lw)
+
+- **发布日期**：2025-10-10 13:20
+- **所属合集**：#大数据
+- **摘要**：本文系统解析 HDFS 分布式文件系统的架构原理与读写流程，深入阐述控制流与数据流分离的设计思想，详细说明文件分块机制、客户端交互过程及关键数据结构，并探讨性能优化与错误处理策略，帮助读者全面掌握 HDFS 工作原理与实践应用。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSbgichIjTXBzrxT5KdHw0KwWowPgF23RWLWuoFFkEUE50T1v1MRkiarJ6xLVH9ibyrZDiaRbZMrALQWA/0?wx_fmt=jpeg" width="400"/>
+
+### [HDFS 分布式文件系统原理与设计](https://mp.weixin.qq.com/s/UM1ee_Tg_-D8CMhCfTeW7g)
+
+- **发布日期**：2025-10-09 20:15
+- **所属合集**：#大数据
+- **摘要**：本文系统介绍了 HDFS 分布式文件系统，从 Google GFS 理论起源到企业级实践。涵盖 HDFS 架构设计、数据存储机制、容错策略，详述 0.x 到 3.x 版本演进及 Federation、HA、纠删码等关键技术。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQBe7abj3yBRDnxsS09ia2HHtksaymvNXibCAYyru48YibkRgADic9UoYQaQkHGc1TQibglCIBWrm0ibZjQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Google File System (GFS)：大规模分布式存储系统的设计与实现](https://mp.weixin.qq.com/s/KFVJ8RIUvbKfQfOiM5Oj1g)
+
+- **发布日期**：2025-10-08 11:25
+- **所属合集**：#大数据
+- **摘要**：GFS 是谷歌在 2003 年发表的经典论文中提出的分布式文件系统，它是现代大数据系统的奠基石之一。作为谷歌"三驾马车"的重要组成部分，GFS 解决了大规模数据存储的核心问题，为后续的分布式存储系统设计提供了重要的理论基础和实践指导。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS2icONhMIoN0n94qpnpviasHUJicETKhLiaZSHpw7h9K01vztLBZ4ppTjrSJJow9Htu4foKjwBqzy20w/0?wx_fmt=jpeg" width="400"/>
+
+### [AI Agent 基础设施——三个决定性层次：工具、数据、编排](https://mp.weixin.qq.com/s/IjgLMvNKGoZ3fNfQrQ-4Yw)
+
+- **发布日期**：2025-10-06 09:42
+- **所属合集**：#智能 Agent
+- **摘要**：AI Agent 基础设施分为工具、数据、编排三层；支持长时非确定性流程与状态；生态走向标准化（MCP）、专业化与集成简化；机遇在增长与护城河，挑战为演化快、集成复杂与安全合规。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT4DDxAxZFleKOC4sEonzohz9zbWchH6GB3miat6qW7sibdgUfew5iarCS5ouZTgWQZphmnzRKP4h4Mg/0?wx_fmt=jpeg" width="400"/>
+
+### [AI Agent 基础设施的崛起](https://mp.weixin.qq.com/s/UgB1AHvdH_Jjo6x5G3Glwg)
+
+- **发布日期**：2025-10-05 19:34
+- **所属合集**：#智能 Agent
+- **摘要**：AI Agent 基础设施从手工到专业化演进，围绕工具、数据与编排。生态涵盖开发工具、浏览器基础设施、个性化内存、身份认证与托管编排。随着前沿模型推理增强，平台将更标准化、可扩展，开发者专注产品与数据。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTMZzah10CtXkiaibK8GXib73TjYkVZnuvoaVmyGHSI0PjofcJpTzEmulTicgrKDbzfnL0zIO6SwomibAQ/0?wx_fmt=jpeg" width="400"/>
+
+### [TileLang 快速入门](https://mp.weixin.qq.com/s/c5Ozs4P2wKVy6-z3q2ad1w)
+
+- **发布日期**：2025-10-02 09:11
+- **所属合集**：#AI Infra
+- **摘要**：TileLang 是一种专为高性能 GPU/CPU 内核开发而设计的简洁领域特定语言（DSL）。它采用 Pythonic 语法，底层基于 TVM 编译器基础设施，旨在让开发者专注于生产力，同时不牺牲获得最先进性能所需的底层优化
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTp5Pfauz6uibRTC9MpYOt044lqWMAkkLXoE82NUAtNXqSdJ1l4xFxmicb5RCyrJTRpkK1FVMoKBziag/0?wx_fmt=jpeg" width="400"/>
+
+### [论文解读：深度研究智能体（Deep Research Agents）的定义与核心能力](https://mp.weixin.qq.com/s/OpBXzl6YZs51zs2-8qrA0w)
+
+- **发布日期**：2025-09-30 22:49
+- **所属合集**：#智能 Agent
+- **摘要**：什么是 DR 智能体？它就是由 LLM 驱动的 AI 智能体，它整合了动态推理、自适应规划和迭代工具使用，以获取、聚合和分析外部信息，最终产出全面结果，从而完成开放式信息研究任务。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSm1lbXbeNDpibJIyWQuJ8FeQYFjtWjZ3hyMCDicxibVjeovbo7P50ozmIZQb8rr9xngiapsgth4LSY3w/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes 挂载卷的传播机制介绍](https://mp.weixin.qq.com/s/tGrO2UzUEkuwea6ETgo3_Q)
+
+- **发布日期**：2025-09-28 20:15
+- **所属合集**：#Kubernetes
+- **摘要**：Kubernetes 引入了 mount propagation（挂载传播）机制。这一机制提供了灵活的挂载共享能力，允许容器挂载的卷共享给同一 Pod 内的其他容器，甚至同一节点上的其他 Pod。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT9BqJ7MnHMSFkmcgHXmkicjg4nZ1bxnTsrwqLiaJlm3sET9AVJutR2oC1ibHiaulcficj6EbQWdgciaFzw/0?wx_fmt=jpeg" width="400"/>
+
+### [ZooKeeper Leader 选举机制详解](https://mp.weixin.qq.com/s/1natvvHNuaU-lPMFQhz6uw)
+
+- **发布日期**：2025-09-27 09:09
+- **所属合集**：#大数据
+- **摘要**：Leader 选举是 ZooKeeper 集群管理的基础，它决定了哪个节点将承担协调者的角色，负责处理所有的写请求并将状态变更同步到其他节点。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRwdibZ2r1J1e83kAbvhKoaEyTT51Wq13hPPJrnZgerprpJWUCVqxL70pRUmGz6iaxIibicaFS26qqkEQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Containerd CRI Plugin 代码分析](https://mp.weixin.qq.com/s/6sOEF5wjVuxaMcJbuA2O9Q)
+
+- **发布日期**：2025-09-26 09:21
+- **所属合集**：#Kubernetes
+- **摘要**：本文档对 containerd CRI Plugin 进行了深入的代码分析，针对每个 CRI 接口绘制了详细的时序图，展示了调用关系和执行流程。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRwdibZ2r1J1e83kAbvhKoaEEgk5dFVhd93icLf8a1AWPyLIGQNibXxREic6ibkrEwxGliadKfXxFCWE4LQ/0?wx_fmt=jpeg" width="400"/>
+
+### [全面的 GPU 技术术语词典，涵盖 GPU 架构、CUDA 编程、并行计算等核心概念](https://mp.weixin.qq.com/s/85FG0ZsbOx1-eG8bjobJRA)
+
+- **发布日期**：2025-09-24 08:15
+- **所属合集**：#AI Infra Visualization
+- **摘要**：Modal GPU Glossary 是由 Modal Labs 开发的一个综合性 GPU 技术词汇表，专门为解决 GPU 文档碎片化问题而设计。该词汇表采用超链接互联的文档架构，为 GPU 领域提供了一个统一、系统化的技术参考资源。 • 在线文档地址：https://modal.com/gpu-glossary • GitHub 仓库：https://github.com/modal-labs/gpu-glossary • AI 原力注入：https://github.com/ForceInjection/AI-fundermentals 一、核心亮点 1. 全面的技术覆盖：词汇表涵盖了从硬件架构到软件平台的完整 GPU 技术栈，包括： • 设备硬件层面：CUDA 核心、Tensor 核心、流式多处理器（SM）、纹理处理集群（TPC）等 • 编程模型层面：CUDA 编程模型、线程层次结构、内存层次结构、并行线程执行（PTX）等 • 软件平台层面：CUDA 驱动程序、运行时 API、编译器工具链、性能分析工具等 • 性能优化层面：性能瓶颈分析、Roofline 模型、占用率优化、内存带宽管理等 2. 超链接互联设计：采用现代化的超文本结构，所有术语之间通过智能链接相互关联，便于用户在相关概念间快速导航和深入理解。 3. 专业性与实用性并重：专注于 NVIDIA GPU 技术栈，特别是在 Modal 平台上运行的 GPU 环境，确保内容的准确性和实用性。 4. 开源协作模式：项目托管在 GitHub 上，采用开源许可证，支持社区贡献和持续更新，确保内容的时效性和准确性。 二、技术价值 Modal GPU Glossary 填补了 GPU 技术文档分散、术语定义不统一的空白，为 GPU 开发者、研究人员和工程师提供了一个权威的技术参考平台。其系统化的知识组织方式和互联的文档结构，显著提升了 GPU 技术学习和开发的效率，是 GPU 计算领域不可多得的专业资源。 该词汇表特别适合从事 CUDA 编程、GPU 性能优化、深度学习加速、高性能计算等领域的专业人士使用，也是 AI 基础设施学习路径中硬件基础部分的重要补充资源。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSInChPxR3tg5LZNEMiadKk1f0eexYleUYibmCrHlXkxaxw9fRPuAoXg0eIQnRtN42ICHhyQwG6NAWw/0?wx_fmt=jpeg" width="400"/>
+
+### [Containerd 的 Overlay 文件系统简介](https://mp.weixin.qq.com/s/3vWTirpFuf31Bx6Pg_B0sA)
+
+- **发布日期**：2025-09-23 09:00
+- **所属合集**：#Docker
+- **摘要**：在现代容器运行时中，文件系统隔离与高效存储管理是容器技术的核心。为了实现这一点，Linux 提供的 OverlayFS 文件系统被广泛使用。本文将结合实例，介绍 containerd 中 OverlayFS 的工作原理与目录结构。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSIOvu7ekL01iaoV92lOQmDJ6ubc0rialCzoxg230BUb5oM1AHAyreaiaTSyk6mUxNzy0sON9fbaw95w/0?wx_fmt=jpeg" width="400"/>
+
+### [深度解读「通义 DeepResearch」：ReAct 范式驱动的智能 Agent 架构](https://mp.weixin.qq.com/s/KiZdfaNuASRwLCsXDeyBaA)
+
+- **发布日期**：2025-09-22 20:15
+- **所属合集**：#智能 Agent
+- **摘要**：本文档深入分析 DeepResearch 基于 ReAct 范式的推理流程架构，系统对比传统 LLM 的 PD 静态推理流程，重点阐述 DeepResearch 如何通过工具调用实现动态信息获取、多轮交互推理以及外部环境感知能力。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSIOvu7ekL01iaoV92lOQmDJpIKPbicPGMqhpPZCyWib8Sb6raMUEXkErzIUIZkXAmz3xow7pTuwmQUA/0?wx_fmt=jpeg" width="400"/>
+
+### [容易被忽略的 containerd 运行时日志](https://mp.weixin.qq.com/s/3wuWCjtrJIJXXgha7zqgNw)
+
+- **发布日期**：2025-09-21 16:31
+- **所属合集**：#AI Infra
+- **摘要**：在 containerd 生产环境中，log.json 文件的无限制增长已成为一个严重的运维问题。该文件记录 runc 运行时的操作信息，但由于缺乏自动轮转机制，可能导致磁盘空间耗尽，进而影响整个容器平台的稳定性。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQtia592OF6RlMaQ93xnEvLnoWRP6GEiczvx4IWxr5oyfeg7hibMBjlEoWNwZDQWajMWG4yZ9BYoZ9DQ/0?wx_fmt=jpeg" width="400"/>
+
+### [订单履约 Agent 系统设计文档（一）](https://mp.weixin.qq.com/s/pHtNmWvqFtHG2YMOhiVfKQ)
+
+- **发布日期**：2025-09-18 08:15
+- **所属合集**：#智能 Agent
+- **摘要**：基于制造业订单履约业务需求，设计一个智能化的订单履约 Agent 系统，实现从订单接收到库存分配的全流程自动化处理。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ3KfNLUE1iawwL9HLJsuibOdwE8TcrGxU1I9yBPhvicFzUQKI6gpiaZau1IzjHR9FxibDlxOpEcaX7OpA/0?wx_fmt=jpeg" width="400"/>
+
+### [订单履约 Agent 需求分析](https://mp.weixin.qq.com/s/OWcLM2C_6guaBr2IS8IE9w)
+
+- **发布日期**：2025-09-17 08:25
+- **所属合集**：#智能 Agent
+- **摘要**：博主最近在研究如何在企业落地 Agent，正好浏览到了一个例子: Palantir AIP Agent 落地场景解析-订单履约，因此结合文章内容把订单履约 Agent 的需求做了整理，形成了一个需求分析文档。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRogWJYFC4US0LPTozr5tsecKQevrZ4oD4UU9R4GgC8pbDYlc16OqGaqyiaRVCJcpd4YlK2Do1TJnw/0?wx_fmt=jpeg" width="400"/>
+
+### [《Building Research Agents for Tech Insights》深度解读](https://mp.weixin.qq.com/s/-BnQCxpvXtpVRofNY65CPA)
+
+- **发布日期**：2025-09-16 07:05
+- **所属合集**：#智能 Agent
+- **摘要**：【重发】本文深度解读《Building Research Agents for Tech Insights》，介绍研究智能体的构建方法：依托独特数据、受控工作流和提示链，形成三层架构，并扩展讨论企业数据策略与评估体系。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRXh5rINp2BVmKWmJm3YrAu3zjVbf8FsWWib8LgcZDa2Kk5BQpqVUaXjbvWqQ6alOB0cJFzP6qbRmA/0?wx_fmt=jpeg" width="400"/>
+
+### [【文章合集】AI 智能体记忆系统](https://mp.weixin.qq.com/s/0wdk7AIwBFiwDkGAl4XT_g)
+
+- **发布日期**：2025-09-13 17:07
+- **所属合集**：#智能 Agent
+- **摘要**：AI 智能体记忆系统合集包含 AI 智能体记忆系统的技术文档，涵盖理论基础、架构设计和工程实践。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQssOeMz9VZmpGxJibOkknTLETJLCffMUOicGkoxMpzibUibfGoKf2cPmZ27EAZhBhdEhx13pQwhHXpBg/0?wx_fmt=jpeg" width="400"/>
+
+### [AI 记忆系统 Mem0 快速入门](https://mp.weixin.qq.com/s/49Kr58whvY-lphC8Hx9beQ)
+
+- **发布日期**：2025-09-12 20:59
+- **所属合集**：#智能 Agent
+- **摘要**：Mem0 是一个为大型语言模型（LLM）应用设计的自改进记忆层，它通过提供持久化、个性化的记忆能力来增强 AI 助手和智能体的表现。该项目同时提供托管平台服务和开源解决方案，让开发者能够为 AI 应用添加上下文记忆功能。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRxkpkFhUziayarFjBdgIHqO24ODYG1NicnxwdRM8Cl2yzibRshwE8c9C9P4Z5qY0iaMCuVJVuh2Hibz9A/0?wx_fmt=jpeg" width="400"/>
+
+### [12-Factor Agents - 构建可靠 LLM 应用的原则](https://mp.weixin.qq.com/s/12jzAwIkIlc-5TvoAUVciw)
+
+- **发布日期**：2025-09-09 09:02
+- **所属合集**：#智能 Agent
+- **摘要**：12-Factor Agents 借鉴了著名的 12 Factor Apps 方法论，为构建可靠的 LLM 应用提供了一套经过验证的原则。这套方法论的核心理念是：将智能体视为由确定性代码和 LLM 步骤组成的软件系统，而非黑盒框架!
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQicxLx0icKkrq1Jm6wHM1N8eJ0XficO7Bg7R98yc3IFONDBha9cJOibIDgOYo6GVE6XibwdukX6mAicp0w/0?wx_fmt=jpeg" width="400"/>
+
+### [Databricks Assistant Data Science Agent 使用场景解读](https://mp.weixin.qq.com/s/LzyFbDpU6V3PRBTrlfjIHg)
+
+- **发布日期**：2025-09-07 10:59
+- **所属合集**：#智能 Agent
+- **摘要**：Databricks Assistant Data Science Agent 完全集成在 Databricks Notebooks 和 SQL Editor 中，将智能化、适应性和执行能力融合在单一体验中。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT3xBfwxBZSMPibbf6NfHibyX1svzFNbcZdSpCyRqvqIjEFblEiaKAEbua8yEHicaUDuuZ6u84g3YEWXQ/0?wx_fmt=jpeg" width="400"/>
+
+### [GPGPU vs NPU：大模型推理与训练的算力选择指南](https://mp.weixin.qq.com/s/FZ2n96GL8bcltrFsZImirQ)
+
+- **发布日期**：2025-09-06 22:25
+- **所属合集**：#AI Infra
+- **摘要**：本文档旨在为 AI 从业者和技术决策者提供全面的 GPGPU vs NPU 对比分析。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRju6NNg2AIiambZznNicIJqVFLU7vERhicu7waQm72WGARxFVHy8J4d00RdicmREdyc3WrzqasBDiaVDg/0?wx_fmt=jpeg" width="400"/>
+
+### [Container Device Interface (CDI) 技术介绍](https://mp.weixin.qq.com/s/3l2W_SFQcbQlogyWfzIoug)
+
+- **发布日期**：2025-09-03 21:57
+- **所属合集**：#Kubernetes
+- **摘要**：本文系统梳理容器环境中 GPU 等异构设备访问的挑战与传统方案局限，深入解析 CDI 的设计原理、配置方式、安全机制与扩展性，并结合相关示例展示其实践应用，同时提供快速上手指南与 Kubernetes 集成示例，帮助大家理解并应用 CDI
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSwzdm63q65Vb12iaxPqFatqsC4uHibnZ1rCnY6GbibOWRWMld6cuOhszhjd5vOxTkOQZzFARShCiam4w/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes Dynamic Resource Allocation 权威指南](https://mp.weixin.qq.com/s/htBr8NzVzOvWSsIs0aUSkw)
+
+- **发布日期**：2025-09-02 21:55
+- **所属合集**：#Kubernetes
+- **摘要**：DRA 是 K8s 1.26 版本引入的一项重要特性，旨在解决传统 Device Plugin 在硬件资源管理方面的局限性。随着 AI/ML 工作负载的快速发展和硬件加速器的广泛应用，传统的静态资源分配方式已无法满足现代云原生应用的复杂需求
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQu7nDsBbMKRW9UeGgUdhm895csibuNic3UtfVurUSibMGVw9XRicR64KwRqWPXRoHjYmtDyf6RQsbJNg/0?wx_fmt=jpeg" width="400"/>
+
+### [使用 LangChain 实现智能对话机器人的记忆功能](https://mp.weixin.qq.com/s/Jfdr74Je9nftnAVhqWWCjA)
+
+- **发布日期**：2025-09-01 20:15
+- **所属合集**：#AI Infra
+- **摘要**：本文将深入探讨如何使用 LangChain 框架实现智能对话机器人的记忆功能，从 AI Agent 记忆系统的理论基础到 LangChain 的具体实现，再到实际应用案例，为开发者提供完整的技术指南和可运行的代码示例。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT6yoiaj0MeDPDu29icwPIvnROGRF9cYgRrTSz2EFjhC4SrerIMko7h5XxnOAUgsUswYLAiby0AbdzYA/0?wx_fmt=jpeg" width="400"/>
+
+### [论文解读 - 大模型 Agent 记忆系统：理论基础与交互机制](https://mp.weixin.qq.com/s/hWIFm-gfG28OHHlMaB4tdg)
+
+- **发布日期**：2025-08-30 20:36
+- **所属合集**：#AI Infra
+- **摘要**：本文总结了论文关于大模型 Agent 记忆系统的定义、概念和交互机制，旨在帮助读者理解记忆系统的产生、存储和使用原理。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSSyzzANWgTPeOqem64obyABjHXOSeNOmtLIYH9xBMSVCwAc6oCSibHth7erBWQb9jMO8FjsibOPfyQ/0?wx_fmt=jpeg" width="400"/>
+
+### [AI 智能体记忆系统 - MemoryOS 入门指南](https://mp.weixin.qq.com/s/5dwMcf2tXlAYRXxamTYbag)
+
+- **发布日期**：2025-08-29 20:15
+- **所属合集**：#AI Infra
+- **摘要**：MemoryOS 是一个智能记忆管理系统，采用模块化架构设计，通过可插拔的存储后端和分层记忆管理机制，为 AI 助手提供持久化的记忆能力。本文档深入分析 MemoryOS 主入口类的架构设计与配置机制。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQA5uGye0ABOfexpkxgG8wTVWoWiaSES1UaQkfyljP705pl1SLTFavLLSj9XxXmQGgzSILpEicGlgog/0?wx_fmt=jpeg" width="400"/>
+
+### [AI 原力注入：AI Infra 知识体系 v2.0](https://mp.weixin.qq.com/s/jXraAoj3WYRT6wPOjom-mw)
+
+- **发布日期**：2025-08-28 20:25
+- **所属合集**：#AI Infra
+- **摘要**：本知识体系，涵盖从硬件基础到高级应用的完整技术栈。内容包括 GPU 架构与编程、CUDA 开发、大语言模型、AI 系统设计、性能优化、企业级部署等核心领域，旨在为 AI 工程师、研究人员和技术爱好者提供系统性的学习路径和实践指导。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTcPcg1WOsxzbkLz1LwXRVfo36n9rPeQmMYWpVRAjY6yaCGHMs5VL2Nl06dBX58w4LvDUiaptjvfPA/0?wx_fmt=jpeg" width="400"/>
+
+### [Coze 部署和配置手册](https://mp.weixin.qq.com/s/3rApfimVqCKeHaJkL8qxsg)
+
+- **发布日期**：2025-08-26 21:45
+- **所属合集**：#AI Infra
+- **摘要**：Coze Studio 是一个基于 Docker 容器化部署的 AI 应用开发平台，采用微服务架构设计。本手册详细介绍了 Coze Studio 的部署架构、组件配置和部署步骤。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRVicgl8deIGIY9CbYNWmCuD7fF8W7icXrgEiaDRGwFtroMQZEVAHbTo2GAZa02wEuCFpdUpPicVhkZBA/0?wx_fmt=jpeg" width="400"/>
+
+### [KubeSphere 4.x 架构设计与扩展机制深度分析（三）](https://mp.weixin.qq.com/s/9Px1GvOz28shJFrOHHeVJg)
+
+- **发布日期**：2025-08-25 20:15
+- **所属合集**：#Kubernetes
+- **摘要**：KubeSphere 4.x 的架构设计代表了云原生平台发展的新方向。通过微内核 + 扩展组件的创新架构、完善的可插拔扩展机制、全面的安全防护体系和丰富的生态建设，鲁班架构为企业级云原生应用提供了一个功能强大、灵活可扩展、安全可靠的平台基础
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS18KCMraU75D0zia3b0FdFOFrmPLu6LceAGz824zUQkN0I9UUf6DedxjVsqylNLicTgLibeGHaTDvtA/0?wx_fmt=jpeg" width="400"/>
+
+### [容器实战 - 多架构镜像制作及推送指南](https://mp.weixin.qq.com/s/LpT0cx4piBJfH4OFhM9H8g)
+
+- **发布日期**：2025-08-23 10:15
+- **所属合集**：#Docker
+- **摘要**：在现代容器化环境中，多架构镜像已成为支持异构计算环境的关键技术。其核心机制基于 OCI 镜像规范中的 Image Index 概念，通过 Manifest List 实现对不同架构镜像的统一管理。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRIEnnZLvH08L1ofLkIvxHACnOwPebb4iblf5Ijg5GmxEjjHiaXk5yWDvvIlTSeYPcHjeQ9icdQsdniag/0?wx_fmt=jpeg" width="400"/>
+
+### [KubeSphere 架构设计与扩展机制深度分析（二）](https://mp.weixin.qq.com/s/OCu8sjjsHNPDI5MIq69eNQ)
+
+- **发布日期**：2025-08-22 08:15
+- **所属合集**：#Kubernetes
+- **摘要**：从 KubeSphere 4.0 开始，采用了全新的微内核 + 扩展组件架构（代号鲁班），其中内核部分仅包含系统运行的必备基础功能，将独立的功能模块拆分为扩展组件（Extensions）的形式进行管理，实现了真正的模块化和可插拔架构。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTmbg2B6OkUbAUem5dxeOCSZLzurINFqO4vticMjDxK8VaAplj1K58WtSoFcG7ibeicfcU02nC2o0ZYw/0?wx_fmt=jpeg" width="400"/>
+
+### [DeepSeek-V3 在 32 张 H20 GPU 集群上的部署方案【理论分析篇】](https://mp.weixin.qq.com/s/5NcaNxmAvW-4EW34nCk9GA)
+
+- **发布日期**：2025-08-20 08:15
+- **所属合集**：#AI Infra
+- **摘要**：在 32 张 H20 上，采用 TP=8 / EP=4 / DP=1 能稳态提供 30-40k tokens/s，并在通信-计算重叠、EP 路由与编译优化到位时，有机会达到 50k tokens/s 与 TTFT < 1.2s 的目标。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQKtSvibVwibNjAzWkWpXSM5U7gbwMQ7OOpoJQWBtzfOSwWONvOToxR7iaaBzlrbJGQhicIcqu0yt40wA/0?wx_fmt=jpeg" width="400"/>
+
+### [KubeSphere 4.x 架构设计与扩展机制深度分析（一）](https://mp.weixin.qq.com/s/6EBoLfamsV9bC9esLn0HpA)
+
+- **发布日期**：2025-08-19 08:15
+- **所属合集**：#Kubernetes
+- **摘要**：KubeSphere 是一个以 K8s 为内核的云原生分布式操作系统，提供多租户容器平台、全栈 IT 自动化运维和简化的 DevOps 工作流。其独特的可插拔扩展机制和分层架构设计为企业级容器平台提供了创新的解决方案。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQFoGiahcLmVwWJXiaUE9e8K6x6tew4hZThMkq4ia2cicYzibNVIILGIJr1BJpnr2BCMLprVu6fGcqOvew/0?wx_fmt=jpeg" width="400"/>
+
+### [Python 编程新经典：从基础到高级的 Pythonic 编程指南](https://mp.weixin.qq.com/s/s-zMPgSGZfEBIrfcAeLO0A)
+
+- **发布日期**：2025-08-16 15:02
+- **所属合集**：#好书推荐
+- **摘要**：Python 编程新经典：从基础到高级的 Pythonic 编程指南系统性学习 Python 惯用模式与最佳实践！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTeXHRG663IsV5Qgx5lQGbw6OC6Q4F1lgWh9l5VzicP0FQ3p2mKV0UGljXrC8EW6icBjbCCia05an7oA/0?wx_fmt=jpeg" width="400"/>
+
+### [DeepSeek-V3 MoE 模型基于 vLLM + Ascend 910B2 的推理部署方案【理论篇】](https://mp.weixin.qq.com/s/SeR-RI6oSJKOosxYiod2CQ)
+
+- **发布日期**：2025-08-15 23:52
+- **所属合集**：#AI Infra
+- **摘要**：本方案基于 `DeepSeek-V3` 模型的技术特点和业务需求，采用 `vLLM` 推理框架设计了一套高性能、稳定、经济的模型部署方案。通过合理的架构设计、并行策略和监控体系，满足大规模推理服务的性能要求。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQfP56T2YUgJxuJckLWLenoWGtlyWYxFP8ibPN1icicsxfntf45r0H0ENicjEMTEU0kkKxqRUbU14iacjw/0?wx_fmt=jpeg" width="400"/>
+
+### [Nvidia K8s Device Plugin 原理解析和源码分析](https://mp.weixin.qq.com/s/FuCEZuaq3mMYkebySY1hwA)
+
+- **发布日期**：2025-08-13 21:15
+- **所属合集**：#AI Infra
+- **摘要**：本文将深入分析 NVIDIA K8s Device Plugin 的实现原理，通过源码解析的方式，详细介绍其架构设计、核心组件以及关键特性的实现机制。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQdTrNRKNDBIzSQamfDKiaRABMdKeqnMzX3kyLvEdiax0ThAOIPMDJfwbrtku3XnaE3oEXPNIluUnWA/0?wx_fmt=jpeg" width="400"/>
+
+### [NVIDIA Container Toolkit 原理分析与代码深度解析](https://mp.weixin.qq.com/s/hmQOrdNzdON3qNtMOY6Gww)
+
+- **发布日期**：2025-08-12 20:15
+- **所属合集**：#AI Infra
+- **摘要**：NVIDIA Container Toolkit 作为 GPU 容器化的重要基础设施，其架构设计和实现方式为其他专用硬件的容器化提供了重要参考，推动了整个容器生态系统向更加标准化、安全化的方向发展。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQp0KVtJmN0LJt0TB7ABl3cvqSwdqen4TyUJjfyI8XicfgjALNpYiap4lbczeBGo7YOlVz0U77xicIbA/0?wx_fmt=jpeg" width="400"/>
+
+### [云原生高性能分布式 LLM 推理框架 llm-d 介绍（K8s + vLLM）](https://mp.weixin.qq.com/s/8tfU9rWb6EXZFvfrVkprCg)
+
+- **发布日期**：2025-08-11 20:15
+- **所属合集**：#AI Infra
+- **摘要**：llm-d 是一个 Kubernetes 原生的分布式推理服务栈，为大规模生成式 大语言模型（LLM） 提供成熟路径，实现最快的价值实现时间和在大多数硬件加速器上的竞争性性价比。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQx8U4PzhWC2TcCHs3xiabdXQOSKMlFlypunBHEQEpIs1iaw3Pcvvc5F1xia6gPSy6KjmAiaExJVCXo7Q/0?wx_fmt=jpeg" width="400"/>
+
+### [Local Path Provisioner 简介](https://mp.weixin.qq.com/s/hKQurvq-fUp3eOWPiKFQ5g)
+
+- **发布日期**：2025-08-09 09:08
+- **所属合集**：#Kubernetes
+- **摘要**：Local Path Provisioner 在功能上相对简单，但它填补了 Kubernetes 在本地存储动态供应方面的空白，为开发者和运维人员提供了一个实用的工具。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpT5HjXHFfUu4ZSH2rgfyyxm2ARoaTNicgy2Utw8cPhPvbOicaXmLFr938ZiaeLWxC1Aibic6jeQnTJBQ/0?wx_fmt=jpeg" width="400"/>
+
+### [NCCL 测试验证工具说明文档（更新版）](https://mp.weixin.qq.com/s/ZHfdZLxlKCGv8pDWhMEJ-Q)
+
+- **发布日期**：2025-08-05 08:15
+- **所属合集**：#AI Infra
+- **摘要**：NCCL 测试验证工具说明文档（更新版）注意：性能部分指标的解释和计算方法可能会根据具体的硬件配置和网络环境
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS2GKzrrHqtWoN1qnfcLBVPFdW7kTViaFPjfdLxugjnpib5TldR0T3ErfvmzNtdEriaK8PPzlL02vItw/0?wx_fmt=jpeg" width="400"/>
+
+### [当 AI 开始"反向测试"人类：《大语言模型》揭示智能革命的深层奥秘](https://mp.weixin.qq.com/s/noMglLQAYYns7L1GHRqEIg)
+
+- **发布日期**：2025-08-04 08:15
+- **所属合集**：#好书推荐
+- **摘要**：《大语言模型》不仅是一本关于技术的书，更是一本关于未来的书，一本关于我们自己的书。在这个 AI 与人类智能交相辉映的时代，读懂这本书，就是读懂未来。现在就开始阅读，与 AI 共舞，在智能革命的浪潮中找到属于你的位置。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS6ldsQ1578tkDU8ThT4CVhtNE2SWSvkNLQaibPh69rgABLIHcmFCrKCbccLp8tqAWDaTenCsIUC6Q/0?wx_fmt=jpeg" width="400"/>
+
+### [Qwen2-VL-7B-Instruct 昇腾部署入门指南（基于 docker run）](https://mp.weixin.qq.com/s/II4ip8_6sY9k10nwxsaypA)
+
+- **发布日期**：2025-07-30 20:51
+- **所属合集**：#AI Infra
+- **摘要**：Qwen2-VL-7B-Instruct 是阿里云研发的大规模视觉语言模型，可以以图像、文本、视频作为输入，并以文本作为输出。本文介绍了在华为昇腾环境的入门部署和验证，供大家参考！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQCPhX6UtPKfLQxYBQ6CKoAQ753ic5qE3LM8sbiccbjlk74VeJiafy4WrIIdICnPYd63wHJWgp6lW7yg/0?wx_fmt=jpeg" width="400"/>
+
+### [基于上下文工程的 LangChain 人工智能智能体应用](https://mp.weixin.qq.com/s/eTRj7_rrVVWaoHzHdNxbgg)
+
+- **发布日期**：2025-07-28 07:35
+- **所属合集**：#LLM
+- **摘要**：本文介绍了基于 LangGraph 的 StateGraph 构建短期记忆区，并以 InMemoryStore 存储长期记忆，使智能体具备信息存取能力。通过 RAG 与多工具选择实现高效提取与调用，辅以摘要机制和上下文隔离，优化长对话与任务执行。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRvrSibJxHOwlvuia5FI5gREuEjAJic3XFsMmJbZDq7pQ8kUbjltE0cqPDDCv9iaN2Rf1fRJX0nHD3D4w/0?wx_fmt=jpeg" width="400"/>
+
+### [好书推荐 - 《MCP 开发从入门到实战》](https://mp.weixin.qq.com/s/igCe4ndURrZ5Y9spZDijYA)
+
+- **发布日期**：2025-07-27 08:45
+- **所属合集**：#好书推荐
+- **摘要**：《MCP 开发从入门到实战》是一本全面系统的 MCP 技术指南。本书旨在为读者提供一份关于 MCP 的实用指南，帮助读者顺利打通从 MCP 基础知识到高级应用的完整学习路径。这本书不仅是技术手册，更是通往 AI 应用开发新世界的钥匙。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRvrSibJxHOwlvuia5FI5gREu1nocvVZaBNdrcAIsbBmaKD4Ryib8yIw0ia0zEu43KJ689x1hbeXOUXkA/0?wx_fmt=jpeg" width="400"/>
+
+### [NCCL InfiniBand 测试验证工具说明文档](https://mp.weixin.qq.com/s/qCLmsJVr1IXLYsYVJEdnmg)
+
+- **发布日期**：2025-07-26 08:48
+- **所属合集**：#AI Infra
+- **摘要**：nccl_ib_test.sh 是一个专业的 NCCL InfiniBand 网络测试验证工具，用于验证和测试 NCCL 在 InfiniBand 网络环境下的性能和配置。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSmtV5qlsztj4ZtnzaYicRbtaPicrbgkK6Pqoq3HMb6yv8bOZFM2dtZgCd2TBYQ4D2HbXjlEwJtxJvg/0?wx_fmt=jpeg" width="400"/>
+
+### [InfiniBand 网络带宽监控脚本使用说明](https://mp.weixin.qq.com/s/mmC1D9JAn1GAiwL9X_SqYA)
+
+- **发布日期**：2025-07-25 21:15
+- **所属合集**：#AI Infra
+- **摘要**：ib_bandwidth_monitor.sh 是一个专门用于监控和计算 InfiniBand 网络实际传输速率的脚本。它通过读取 InfiniBand 设备的性能计数器，实时计算网络的发送和接收速率，并以 SAR 风格格式输出。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTj4ZOGwJkLtPvd5jYGwD5UOyBp1UvJVk56gb6apVxeh4rC6RaKoxEJpyU21ibm2EA7LgW1rxfa2aA/0?wx_fmt=jpeg" width="400"/>
+
+### [InfiniBand 网络检查脚本使用说明](https://mp.weixin.qq.com/s/8cRqmNqO0CgEq0W3KDOWdA)
+
+- **发布日期**：2025-07-24 21:15
+- **所属合集**：#AI Infra
+- **摘要**：ib_health_check.sh 是一个专业的 InfiniBand 网络健康检查脚本，基于 Ubuntu 服务器 IB 网络分析报告开发。该脚本专注于检查和诊断，不会修改任何系统配置，所有优化建议需要用户手工执行。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSHvuvsQ5MyiaAO0nrus1IeTymq8J5PKXeWFuYMbevzdjbY0Sq2C3iaY8UmDia3iaW05C33TjWycMNT1w/0?wx_fmt=jpeg" width="400"/>
+
+### [InfiniBand 网络理论与实践](https://mp.weixin.qq.com/s/XNLYWI1VXvW-7SRk5UZ-yQ)
+
+- **发布日期**：2025-07-23 21:16
+- **所属合集**：#AI Infra
+- **摘要**：IB 是一种高性能、低延迟的网络互连技术，专为高性能计算 (HPC)、数据中心和企业级应用设计。IB 架构由 InfiniBand Trade Association (IBTA) 标准化，提供了比传统以太网更优越的性能特性。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRUcG9vAicF2O3PYnX5BlZtKEeMEhjpMmkuXqVk4XCXeYvN9mCqny268eNOTtbTia760qa0TQ3IAuZQ/0?wx_fmt=jpeg" width="400"/>
+
+### [上下文工程（Context Engineering）原理简介](https://mp.weixin.qq.com/s/9KrnTk9LwWGmsiaypu-AVw)
+
+- **发布日期**：2025-07-22 13:15
+- **所属合集**：#LLM
+- **摘要**：nan
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgWyGlWyPk2UGbI9icnDMVfZHiaGS6KFyQjdDZcuOfnH0ljhoEWyseKoY7prj0UQmqcXN0gBF4c6SA/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes HPA 原理与实践](https://mp.weixin.qq.com/s/f2Ax02HzHMgEbohoZ-dSeg)
+
+- **发布日期**：2025-07-20 09:20
+- **所属合集**：#Kubernetes
+- **摘要**：在云原生时代，应用的弹性伸缩能力是保证服务质量和资源效率的关键。Kubernetes HPA 作为容器编排平台的核心功能，提供了基于指标的自动扩缩容能力。本文通过理论分析、环境配置和实践案例三个维度，全面展示 HPA 的技术价值和应用方法。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQdZoPgdQdC1zB0uhV8hkN8U6cMhQticsfWTg7rQN1x9IzQtCsV168JKhVF6ldic1aZ6lytNRd3XXqA/0?wx_fmt=jpeg" width="400"/>
+
+### [JuiceFS 文件修改之 chunk/slice/block 更新机制分析](https://mp.weixin.qq.com/s/RDvih6bmUdJ4Jytr3lZ8NA)
+
+- **发布日期**：2025-07-19 10:38
+- **所属合集**：#AI Infra
+- **摘要**：JuiceFS 采用分层存储架构，将文件数据分解为 Chunk、Slice 和 Block 三个层次。当对文件进行修改时（无论是前部、中间还是尾部），这些存储单元会发生相应的变化。本文详细分析这些变化机制。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRm7cHGD27EGqLqbpXiaRqG0PaJ7IqwYbppoW2H1V3sIZNf4oR2NWw4O3wusdbV1Bzy4oHVMsh0muA/0?wx_fmt=jpeg" width="400"/>
+
+### [HAMi GPU 资源管理完整指南](https://mp.weixin.qq.com/s/xQOFyucz3_0_HVCyP8gvDA)
+
+- **发布日期**：2025-07-18 19:25
+- **所属合集**：#AI Infra
+- **摘要**：本指南面向对 HAMi 有一定了解的技术人员，提供从基础概念到高级特性的全方位技术说明。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTvOwuZuwFQOONXia8NLGWY6gUHznh6KLAIHzZwJD1xnh9BJPBPHnL6aehAeg4E98fmvvWXia4l7I2A/0?wx_fmt=jpeg" width="400"/>
+
+### [成功使用 AI 编程的三大关键要素以及综合项目实战（一）](https://mp.weixin.qq.com/s/FsWJgAFxjRsi3Dma3t7bVQ)
+
+- **发布日期**：2025-07-17 08:46
+- **所属合集**：#LLM
+- **摘要**：成功使用 AI 编程工具，依赖开发者自身扎实的工程功底、对大模型机制与提示词使用的深刻理解，以及系统化的跨领域思维能力。AI 是助力而非替代，只有真正懂架构、懂语义、懂协作的人，才能将其转化为高效完成复杂项目的生产力工具。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS8OD6NEts6sdx11U0yt20z15ICkNc6miaeWTdOdgNpOrQE3cMuRaHZIVlpzkXVzckscCdzVJoP5UA/0?wx_fmt=jpeg" width="400"/>
+
+### [《Trae 编程实战》课程提纲](https://mp.weixin.qq.com/s/hvR4jID9B-HPsV-jZnf_eQ)
+
+- **发布日期**：2025-07-16 22:06
+- **所属合集**：#LLM
+- **摘要**：《Trae 编程实战》是一套面向专业开发者的 AI 编程助手实战教程，采用系统化、实战化的教学方法，致力于帮助开发者全面掌握 Trae AI 编程助手的核心功能与最佳实践，显著提升编程效率和代码质量。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRlVQ0LqF02QDATb8YyJkWRJg1ToEOF93IZFh63YTYbfWhjD9c0dNiaNXmKcJF25RCDu9vTXTwUtKw/0?wx_fmt=jpeg" width="400"/>
+
+### [支持多轮对话指代消解的 ChatBot 系统：架构设计与实现详解](https://mp.weixin.qq.com/s/m5jL2tCfW3RLZ0IXGAo3dw)
+
+- **发布日期**：2025-07-15 23:25
+- **所属合集**：#LLM
+- **摘要**：本文将详细介绍如何设计一个支持多轮对话场景下的指代消解系统，包括系统架构、核心组件、配置选项、应用场景、核心机制设计与实现建议等方面。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQFJHrLwk2dQ7wVmOBlicgIxA5c0A7vpFyCXuHdgQb7hccgHoXUT2vuMX05GnORvIL20uumJBuA7dA/0?wx_fmt=jpeg" width="400"/>
+
+### [企业级多智能体 AI 系统构建实战](https://mp.weixin.qq.com/s/BasRlLGKqyTYyRtRfp3LzQ)
+
+- **发布日期**：2025-07-14 22:15
+- **所属合集**：#AI Infra
+- **摘要**：本文档是《多智能体 AI 系统基础：理论与框架》的实战篇，专注于使用 LangGraph 和 LangSmith 构建企业级多智能体 AI 系统的具体实现。本文档提供完整的代码实现、部署方案和最佳实践，帮助开发者将多智能体理论转化为生产级系统。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQpkl78KfpiarYrHFClicjjxH0UVDGOvhUes5RTyJxuxcSd305eBUL3uPYDFdugseB2jTaoCU5Ah0BA/0?wx_fmt=jpeg" width="400"/>
+
+### [6 月-7 月 AI Infra 精华文章合集](https://mp.weixin.qq.com/s/mEEfL-AK1eCP6SL3KP-gdw)
+
+- **发布日期**：2025-07-13 09:01
+- **所属合集**：#AI Infra
+- **摘要**：AI 原力注入精华文章合集！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTuhS8vIf8nb7iclY3l3p6sbHNqwz9tib1oKF6upsxBEpG9qepFzrjUEb2UarmtL1gicNEYnYuR4Y9rw/0?wx_fmt=jpeg" width="400"/>
+
+### [AI 智能体记忆系统：理论与实践（包含 MemoryOS 介绍）](https://mp.weixin.qq.com/s/E7Qsdw42q1mcNnCbcd2Vgw)
+
+- **发布日期**：2025-07-12 14:02
+- **所属合集**：#LLM
+- **摘要**：本文全面解析智能体记忆系统的核心技术与工程实践。从传统记忆管理的局限性出发，深入剖析`MemoryOS`等先进框架的设计理念、架构原理和关键实现，系统阐述参数性记忆与明文记忆的技术机制。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT9RKARz3L1uhKia6VzAgz3aibRkJqjibZk6ichxj2o8KagWpOiasF6ia6nw3icEhztvwLicXjJ2QicX1Xndhw/0?wx_fmt=jpeg" width="400"/>
+
+### [多智能体 AI 系统基础：理论与框架](https://mp.weixin.qq.com/s/MNrcQ_EvKsKRwL6RQnIczA)
+
+- **发布日期**：2025-07-11 19:45
+- **所属合集**：#LLM
+- **摘要**：本文档深入探讨多智能体 AI 系统的核心理论、技术框架和实际应用，涵盖系统架构设计、关键技术实现和企业级部署方案。文档重点介绍 LangGraph 框架的工作流构建能力和 LangSmith 平台的监控调试功能，为企业级多智能体系统开发提供技术参考。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSRFsZwKrAJqeaSzKD1yCNSOTVtHHIEAeA6ov67fEN8sib7ackp1SxS8GiboqVh0joIo0sibxuLprAibA/0?wx_fmt=jpeg" width="400"/>
+
+### [GPU 虚拟化与资源管理技术深度解析 - 第四部分：实践应用篇](https://mp.weixin.qq.com/s/wlVLTIiCP-o4EOb9OmQBeA)
+
+- **发布日期**：2025-07-10 08:15
+- **所属合集**：#AI Infra
+- **摘要**：本篇将 GPU 虚拟化与资源管理技术从理论转向实践，提供完整的部署指南、运维最佳实践、性能调优策略和故障排查手册，帮助读者在实际环境中成功应用 GPU 虚拟化与资源管理技术。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSglcEpZ51NIxg7aVtm7pnE9xQYibC4cwkAGzFOHlLsRXWcr6KbPx9RPhuVMLTWwia5PwMrS9Ny121Q/0?wx_fmt=jpeg" width="400"/>
+
+### [GPU 虚拟化与资源管理技术深度解析 - 第三部分：资源管理与优化篇](https://mp.weixin.qq.com/s/NrV92jG5ktN0Ir_uZsicQw)
+
+- **发布日期**：2025-07-09 08:25
+- **所属合集**：#AI Infra
+- **摘要**：本篇主要介绍 GPU 资源管理与优化技术，包括 GPU 切分技术、CUDA 流和 MPS 技术、GPU 资源管理核心技术与算法等。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSiaFQCmicdrEOQkKrLS9ibfdFiaLIUgQe5yETiaFicPtSNbAGBTibAh4BIfB1biaRAlKtIlwFd7e56QSibfdA/0?wx_fmt=jpeg" width="400"/>
+
+### [GPU 虚拟化与资源管理技术深度解析 - 第二部分：虚拟化技术篇](https://mp.weixin.qq.com/s/QTu-1OwqSpsH5utCpRB_ow)
+
+- **发布日期**：2025-07-08 08:22
+- **所属合集**：#AI Infra
+- **摘要**：本篇将详细解析 GPU 虚拟化技术，包括硬件级 GPU 虚拟化技术、内核态 GPU 虚拟化技术以及用户态 GPU 虚拟化技术。我们将深入探讨这些技术的原理、实现机制以及在实际场景中的应用。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSiaFQCmicdrEOQkKrLS9ibfdFbofxZeuWJicH0rclATrmMiadwx1X8icsa1lPCGR4ksl4H1xgicq2FsyY6A/0?wx_fmt=jpeg" width="400"/>
+
+### [GPU 虚拟化与资源管理技术深度解析 - 第一部分：基础理论篇](https://mp.weixin.qq.com/s/zyORXB7k-6QpR1hyGeRsIw)
+
+- **发布日期**：2025-07-07 12:28
+- **所属合集**：#AI Infra
+- **摘要**：GPU 虚拟化与资源管理技术深度解析一共包含三个部分：基础理论篇、核心技术篇、实践应用篇。本篇将系统阐述 GPU 虚拟化与资源管理技术的背景、核心概念、硬件架构基础以及技术选型决策框架，为深入理解 GPU 虚拟化、切分和远程调用技术奠定坚实的理论基础
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQrVbibNVlp3Ml3hCsOmmicqibnRbSEswDXibw4yszo95XjwJkLObDeyTPBsEMqpNwenGKoibzjqMRPHdQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes Operator for Spring Boot 应用开发教学指南](https://mp.weixin.qq.com/s/TvzHAPFVk7vVWe1ki_KJdA)
+
+- **发布日期**：2025-07-05 21:55
+- **所属合集**：#Kubernetes
+- **摘要**：本文将介绍如何基于 Kubernetes Operator 模式开发一个用于管理 Spring Boot 应用的 Spring Boot Operator，实现对应用的自动部署、升级、回滚等生命周期管理操作。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRcDfcmtusvtKJUEicGxibfBkrp6svA7n39MqV85aqC2CfjSkGj2bye9vgRJxAeZBVzWk3RSJ4sF8icw/0?wx_fmt=jpeg" width="400"/>
+
+### [基于 Colima 虚拟机在 Mac 上搭建容器化开发环境](https://mp.weixin.qq.com/s/Ix263GLuJHDThtP-owrCcA)
+
+- **发布日期**：2025-07-04 22:10
+- **所属合集**：#Kubernetes
+- **摘要**：基于 Colima 的轻量级 Docker/Kubernetes 开发环境，支持 macOS 10.15+ 和 Apple Silicon/Intel 芯片。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSRIwXUkaooaLmapCOvicibCtBN2s02uTf5wWWqicp5Zy5Zrhqic2CJNrfHvuVBtjHGvOJxjHDZic569jQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes 调度器生产最佳实践](https://mp.weixin.qq.com/s/SiaNI5B_hOKPoN3wVK1WCA)
+
+- **发布日期**：2025-07-03 13:48
+- **所属合集**：#Kubernetes
+- **摘要**：本文将详细介绍如何通过部署和配置一套完整的 Kubernetes 调度器工具套件，系统性解决上述生产环境挑战，帮助企业构建高效、可靠、可观测的调度系统。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQvbHCIT3ENaJiatGic0IRGkYHFHoITyfCvI51pwIYUxTtA7J3AUDLbpe0vC3Yrv0NyKgLfJnibQgNuQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes 调度器介绍](https://mp.weixin.qq.com/s/gR_cljYFUKtq4GpfKev6HA)
+
+- **发布日期**：2025-07-02 12:18
+- **所属合集**：#Kubernetes
+- **摘要**：本文档基于 Kubernetes v1.27+ 版本编写，使用稳定的 `kubescheduler.config.k8s.io/v1` API。所有配置示例和代码均已针对该版本进行优化。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSFJ20FkgSFIOrOkCzNhliaKEqcvNpGf9ibWNexeZpMiav0TAtnTmjn0VNibgqn4iarz52nUaEIuWyMONA/0?wx_fmt=jpeg" width="400"/>
+
+### [豆瓣 9.5 分神作来袭！《深度学习入门 5:生成模型》——"鱼书"系列第 5 部震撼登场](https://mp.weixin.qq.com/s/zwTGpUKfV6lUBWeVKctETw)
+
+- **发布日期**：2025-07-01 08:15
+- **所属合集**：#好书推荐
+- **摘要**：豆瓣 9.5 分神作来袭！《深度学习入门 5:生成模型》——"鱼书"系列第 5 部震撼登场！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT8uqkRYnKT4CNg5hEcf2hANQw87LKPzaAd5q81WZVsznXdMEjictvkagDroC2WtoLkhASrzNmsmicg/0?wx_fmt=jpeg" width="400"/>
+
+### [不同 GPU 集群规模的推理技术选型策略](https://mp.weixin.qq.com/s/Ecki52j-uBciwxT9qa7eBQ)
+
+- **发布日期**：2025-07-01 08:15
+- **所属合集**：#AI Infra
+- **摘要**：本章介绍了不同集群规模的技术选型策略，基于统一的集群分类标准：小型集群（1-8 个 GPU 节点）、中型集群（8-50 个 GPU 节点）、大型集群（50+个 GPU 节点）。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT8uqkRYnKT4CNg5hEcf2hAWlp00le747fOeWWHPmPOTK7djhJJWu2OuSQtiaNBibos3vUuZxRsKRnw/0?wx_fmt=jpeg" width="400"/>
+
+### [大模型推理优化：集群规模分类与特征分析](https://mp.weixin.qq.com/s/35T68yrU-xXBR2yl46WeAA)
+
+- **发布日期**：2025-06-30 08:15
+- **所属合集**：#AI Infra
+- **摘要**：根据集群中节点数量和 GPU 数量的不同，可以将集群分为小型、中型和大型三类。不同规模的集群适用于不同的场景和需求，因此对集群进行分类与特征分析对于优化大模型推理性能至关重要。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTHEHZBlBOjQSL5t3otibXk9aRu630nr5CsuQU00Bc34aZV32sCvDEdaWFpEGMFWibMnjswoHu0EBuA/0?wx_fmt=jpeg" width="400"/>
+
+### [大模型核心推理优化技术深度解析及方案指导](https://mp.weixin.qq.com/s/WxEREYBLkSVFF_EqWi5wtQ)
+
+- **发布日期**：2025-06-29 11:45
+- **所属合集**：#AI Infra
+- **摘要**：本文档深入解析大模型推理优化的核心技术，从基础的模型压缩到高级的并行计算策略，为不同技术水平的团队提供详细的实施指南。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTHEHZBlBOjQSL5t3otibXk93eK84npd3TMibEO65WAFJXzvJtZeCCAfouR2Hib0PhJDYwWz9tUJQNLQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Kubernetes GPU 资源调度方案参考实现](https://mp.weixin.qq.com/s/oUVGPvvU6op7gJa5pFYkxA)
+
+- **发布日期**：2025-06-26 09:15
+- **所属合集**：#Kubernetes
+- **摘要**：在现代云原生环境中，GPU 资源调度已成为支持机器学习、深度学习和高性能计算工作负载的关键需求。本文将通过一个完整的实际案例，展示如何扩展 Kubernetes 调度器来实现智能的 GPU 资源调度。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR9fSmzF8Bhib737Kk4bctHmrOejbNicZLFaTBPe8T7CxP6IpxShdT6ibW9P3MShue0hicuYngNoRfoiaA/0?wx_fmt=jpeg" width="400"/>
+
+### [联合文件系统（Union File System）深度教程](https://mp.weixin.qq.com/s/gs9CZl6fZJNSfvPP6euOrA)
+
+- **发布日期**：2025-06-25 09:15
+- **所属合集**：#Docker
+- **摘要**：联合文件系统（Union File System，简称 UnionFS）是一种特殊的文件系统，它可以将多个不同的文件系统或目录"联合"成一个统一的视图。用户看到的是一个合并后的文件系统，但实际上数据可能分布在多个不同的存储位置。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSNrmw7TNpViciclPicibFwhrqld8tm2VwmXdnTwRpibTmUoQzeEmjoYJGXabx6rdGp9ddCZjicJunhtxZA/0?wx_fmt=jpeg" width="400"/>
+
+### [GPU 虚拟化与切分技术原理解析](https://mp.weixin.qq.com/s/if8K8V3U0jiEyc4Cvz4Nng)
+
+- **发布日期**：2025-06-24 19:35
+- **所属合集**：#AI Infra
+- **摘要**：随着人工智能技术的快速发展，GPU 作为 AI 计算的核心硬件资源，其管理和调度技术变得越来越重要。传统的 GPU 使用模式存在资源利用率低、管理复杂等问题，GPU 虚拟化、切分和远程调用技术应运而生，为解决这些挑战提供了有效的技术方案。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSNrmw7TNpViciclPicibFwhrql7iclP7f8j4EVhRXpVQn9eukZxfKR95eCP8S1CdLCrPkVdgRyiaupYC1A/0?wx_fmt=jpeg" width="400"/>
+
+### [使用云原生开发现代软件 - Linux 入门课](https://mp.weixin.qq.com/s/8jVVNLhyfhcE8yvY8dz_Ow)
+
+- **发布日期**：2025-06-23 09:05
+- **所属合集**：#Linux
+- **摘要**：理解 Linux 系统架构和文件系统；掌握 Linux 基础操作和命令；为后续 Docker/Kubernetes 学习打下坚实基础培；养云原生开发环境的使用能力
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSHfHymR3zL6oXnzPnkib4mZqWu6K8VhibibyZ10lMddkypEyEOZzCkdQZzNibcsvvRicV8ZswRqRVrlrg/0?wx_fmt=jpeg" width="400"/>
+
+### [贝叶斯垃圾邮件过滤器简介](https://mp.weixin.qq.com/s/FOXdgnbfOKz331BZgCWRJA)
+
+- **发布日期**：2025-06-22 08:30
+- **所属合集**：#机器学习
+- **摘要**：贝叶斯垃圾邮件过滤器是贝叶斯方法在机器学习中的一个典型应用，它基于朴素贝叶斯分类器，通过学习词汇与邮件类型的联合概率，来判断新邮件是否为垃圾邮件。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSHfHymR3zL6oXnzPnkib4mZmIkicFFuA5Y1S0oqAzynF7mtxfiap0VgBm9gT1Hb003vdq8oT5ulxWiag/0?wx_fmt=jpeg" width="400"/>
+
+### [Docker 动手教程重装上阵！](https://mp.weixin.qq.com/s/d_bGlcgtNgoPl8bcSMRjEA)
+
+- **发布日期**：2025-06-21 09:15
+- **所属合集**：#Docker
+- **摘要**：原力注入 - Docker 动手教程重装上阵！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQDduEuvJBYW2yvmbhdhI3iaxkE0icPbTT8iabtvyeBuicOGqJwiaicI32Gs3eZvxjicjibquHJD0GPpyApIQ/0?wx_fmt=jpeg" width="400"/>
+
+### [程序员效率革命！《Cursor 与 Copilot 开发实战》让你的编程速度飞起来](https://mp.weixin.qq.com/s/PR2PGdAXVaUlix9OZvSO_g)
+
+- **发布日期**：2025-06-20 08:15
+- **所属合集**：#好书推荐
+- **摘要**：正如 Cursor 联合创始人 Michael Truell 所说："未来的工程师，是给 AI 下任务的人！"在这个 AI 时代，不会用 AI 编程工具的程序员，就像不会用 IDE 的程序员一样落后。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTxXwLr501MSaVoAwpiaAZRPkUzanqJMdZuah4sriaSCNsezVyyO4jy0pZiaIdgKwxvWqbYsAmKxgKrw/0?wx_fmt=jpeg" width="400"/>
+
+### [使用大模型智能写作实现《Linux 基础课程》教案](https://mp.weixin.qq.com/s/_tRIqbeHayCKEgBF9wfjOg)
+
+- **发布日期**：2025-06-19 09:08
+- **所属合集**：#LLM
+- **摘要**：通过大模型辅助工具的合理应用，我们可以显著提升课程内容的生产效率与展示质量。本文的例子《Linux 基础课程》的完整教案、演示页面与交互逻辑均可在数小时内完成初版构建，并具备良好的可迭代性与可重用性。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTxXwLr501MSaVoAwpiaAZRP0pO0Hk9mmeHfnC5W7jy1EywRp5ZicTNkYYK1RRAHiaChcGibj6DgezDmQ/0?wx_fmt=jpeg" width="400"/>
+
+### [基于 ReAct Agent 模式的技术博客撰写系统设计方案](https://mp.weixin.qq.com/s/aNAO6Ux2-hOkpngfoR5Txw)
+
+- **发布日期**：2025-06-15 09:15
+- **所属合集**：#LLM
+- **摘要**：本文档详细介绍了一个基于 ReAct（Reasoning and Acting）架构的智能技术博客撰写系统方案设计。该系统采用推理与行动交替进行的 AI 范式，为技术博客作者、内容创作者和技术团队提供从主题输入到文章发布的全流程自动化写作服务。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSOePYsPBmrdNq736l3xvXpsibf9enqCpmV3gXeEsa9bFI5gv66OXMnsuPzLSticgUzgPNcibwxicJ7cg/0?wx_fmt=jpeg" width="400"/>
+
+### [Cursor ReAct Agent 技术架构深度分析](https://mp.weixin.qq.com/s/9pgffO4JrAPNIb2ynwelZQ)
+
+- **发布日期**：2025-06-14 09:05
+- **所属合集**：#LLM
+- **摘要**：Cursor 采用类 ReAct 架构，将大语言模型的推理能力与实际代码操作深度融合。作为独立于 VSCode 的 Electron 应用，它支持 AST 渲染和跨文件上下文理解，致力于“将零熵操作交给 AI”，实现智能、高效的编程辅助体验
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQtn82ibBsz4HtmeRcTafZFTvRO82ibhzv1A416ibaHaofictbIjtM3ThuibTsWF47jA2ibEic949AEiboicDw/0?wx_fmt=jpeg" width="400"/>
+
+### [Agentic RAG 实现案例：技术博客撰写智能体设计方案](https://mp.weixin.qq.com/s/Fp24g0NSZA2vSqEUi4yfGw)
+
+- **发布日期**：2025-06-13 08:15
+- **所属合集**：#智能 Agent
+- **摘要**：本系统是一个面向博客作者的智能技术博客撰写平台，采用多 Agent 协作架构（Planner-Writer-Critic 模式），为用户提供从主题输入到文章发布的全流程自动化写作服务。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR3flicu8uic0nUf12LNf2kIXwSf15Gz9icXicK8nc9XmX7OQqWxkzLFNarFvGgIPCsRtR6a9FCJGGGcg/0?wx_fmt=jpeg" width="400"/>
+
+### [理解机器学习中的误差与残差：一个生活化的解释](https://mp.weixin.qq.com/s/bJkxbEsbI8-B9415XseHyQ)
+
+- **发布日期**：2025-06-12 08:15
+- **所属合集**：#机器学习
+- **摘要**：理解机器学习中的误差与残差：一个生活化的解释机器学习中的误差（Error） 和 残差（Residual） 是
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSFyh208kRTCVSdP7yGnzQibpHfulrsBUlP6u2mXJvHW0RFiad7HiaretpL3picLIxiaxg1KasQQ0JWsRg/0?wx_fmt=jpeg" width="400"/>
+
+### [知乎问题：大模型的 Embedding 层和独立的 Embedding 模型有什么区别？](https://mp.weixin.qq.com/s/5OVmT0eSs7-YjqXMAFRgkA)
+
+- **发布日期**：2025-06-11 08:15
+- **所属合集**：#LLM
+- **摘要**：独立 Embedding 和大模型 Embedding 是互补而非竞争关系。理解它们的区别和联系，能帮助我们在实际应用中做出更明智的选择，既避免过度设计，也避免欠缺设计。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQuc6cFc2aBDuicaTzIENJ3zSTRibTJpGmDsYYsG2JNVibARB0dVr4Wc5BurTsJnSxrMGibpicwCfPQc0g/0?wx_fmt=jpeg" width="400"/>
+
+### [中文 RAG 系统 Embedding 模型选型技术文档（模版）](https://mp.weixin.qq.com/s/ESWLc6INWgFjBRKOL0_stA)
+
+- **发布日期**：2025-06-10 13:15
+- **所属合集**：#AI Infra
+- **摘要**：中文 RAG 系统对高质量文本向量化能力（Embedding）要求极高，因为 Embedding 模型的选择直接决定检索召回的准确性与相关性，并进一步影响整体问答质量、部署成本、推理效率及后续维护迭代的便捷性。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQuc6cFc2aBDuicaTzIENJ3zyVE96CRd7CrF3wIEQcZagic7o4IQsGNYDRicCicCgI9yfrscY6wEd6LbQ/0?wx_fmt=jpeg" width="400"/>
+
+### [AI 智能阅读助手：深入了解 Google NotebookLM 的强大功能](https://mp.weixin.qq.com/s/13wOcHZNGBykjJOjtdhYcw)
+
+- **发布日期**：2025-06-09 13:57
+- **所属合集**：#LLM
+- **摘要**：Google NotebookLM 作为一款专业的文档分析工具，为学术研究提供了强有力的支持。通过合理使用其各项功能，可以显著提高文献阅读和分析的效率。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTPSyfDCVZRgu3bFcvadpTtm9hmJvDvpRMDK5AGmNCibjqxxAViciapOOiamZIyCje9AmUSc1sS4jmpIg/0?wx_fmt=jpeg" width="400"/>
+
+### [微软 NLWeb：用自然语言重新定义 AI 网站开发](https://mp.weixin.qq.com/s/i4fKwmf3XO9BlueGxhOrmQ)
+
+- **发布日期**：2025-06-08 10:09
+- **所属合集**：#LLM
+- **摘要**：当我只需说一句"在页面顶部添加一个能理解 PDF 内容并回答用户问题的 AI 聊天机器人"，而不是手动集成 API、构建前端组件、处理错误和优化性能时，我知道 NLWeb 正在重塑我们的开发范式。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSg2xFoD9lX9LibavicicZpa2mgPmZlu35KN5D18ar5A1cVJb5h2CkbnFhn8s1qIOAcicNSD5f7XEPmIA/0?wx_fmt=jpeg" width="400"/>
+
+### [聊聊 AI 编程工具的护城河：从 Cursor 这个案例说起](https://mp.weixin.qq.com/s/R_JVZ0Ly62cjEJHE3hJxtw)
+
+- **发布日期**：2025-06-05 12:48
+- **所属合集**：#LLM
+- **摘要**：在 AI 能力快速商品化的时代，传统的护城河概念确实需要重新思考。但这不意味着护城河不存在，而是护城河的形式在发生变化。对于做 AI 产品的团队来说，可能需要从"拥有更好的 AI"转向"更好地应用 AI"。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTCNlZVB4rnbwukNKdPz05cgFTOfaJw8b63DcLBYgMsYIL7nQLxd9ULZ9L3E1DcAneFrbMDC9NGHA/0?wx_fmt=jpeg" width="400"/>
+
+### [梯度下降算法：从直觉到实践](https://mp.weixin.qq.com/s/pAoPoCMYTxaUAPByC8DRlw)
+
+- **发布日期**：2025-06-02 17:01
+- **所属合集**：#机器学习
+- **摘要**：梯度下降作为参数优化的核心算法，贯穿于从线性回归到深度神经网络的各类模型中，构成现代机器学习与深度学习方法的基石。它通过迭代地最小化损失函数，使模型不断逼近最优解，体现出极强的通用性与扩展性。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTGvevreTVibU4ohe0B8APcTlD59TsQ0jhqEVnpgO95qvcwID1P8Ih2mZIYxNJrBjPZnFAAWaSDOrA/0?wx_fmt=jpeg" width="400"/>
+
+### [让用户"说半句"话也能懂：ChatBox 的意图识别与语义理解机制解析（探讨）](https://mp.weixin.qq.com/s/BhZwKelw3psowQZj8BD2Kw)
+
+- **发布日期**：2025-06-01 22:58
+- **所属合集**：#LLM
+- **摘要**：实际对话中，用户常用省略或含糊表达，如“帮我查一下”“改成明天吧”。这类模糊请求对传统系统是挑战，而大语言模型正重塑意图理解方式，使系统更像人类，能理解“说半句”的表达。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTic3EQBbqzCEq5J3p9gMAiaKR97yX1H6r0bg61qmHiaibl17TbfLPzIDHNO4NuYUGKsx6wm7UeicGCdbg/0?wx_fmt=jpeg" width="400"/>
+
+### [非线性分类入门经典：神经网络是怎么学会异或的？](https://mp.weixin.qq.com/s/jOlSPwgjPovHiT6eKEUnDg)
+
+- **发布日期**：2025-05-30 20:25
+- **所属合集**：#机器学习
+- **摘要**：本文以解决经典的非线性 XOR 问题为例，介绍神经网络的基本结构、前向传播与反向传播机制，以及完整的模型训练与可视化过程，帮助读者直观理解其工作原理。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRJEdC8WCYM7ZOmicEReYU6UhAvb9uHUGAYvGFlw4iazy8FmgyhhuiaHMmx0bpbagUpRCuVkKcM9p2JQ/0?wx_fmt=jpeg" width="400"/>
+
+### [宇树科技创始人王兴兴重磅推荐：《大模型应用开发 RAG 实战课》——打造面向实践的智能系统技术全景图](https://mp.weixin.qq.com/s/mMEGdFiSuvrR-PLs5FwmyQ)
+
+- **发布日期**：2025-05-29 22:30
+- **所属合集**：#好书推荐
+- **摘要**：《大模型应用开发：RAG 实战课》是一本专为 AI 工程师、技术决策者及智能系统开发者打造的实战指南，系统阐述了 RAG（Retrieval-Augmented Generation，检索增强生成）技术的原理、构建方法与优化策略。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRdHwPSKgVYeibGnzxH8rSqtw9WnCoreCMB4sZPeHHjOB3V19NgZUcRZejcnYOTeiaBNvQ7GlNicEZgA/0?wx_fmt=jpeg" width="400"/>
+
+### [深度学习概述](https://mp.weixin.qq.com/s/czuaw3KgS93ylguOvW3PLA)
+
+- **发布日期**：2025-05-28 23:40
+- **所属合集**：#机器学习
+- **摘要**：本文是对深度学习的概述，包括深度学习的起源与发展、深度学习的应用场景、核心概念与基本结构。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT0E41AtG21FoNa63IC9SPhwu9AdXdbWMEqrLQibJX6FqbuvMTFZqbmNLPUdfALE6ffiakF767Z8icBA/0?wx_fmt=jpeg" width="400"/>
+
+### [大模型文件格式完整指南](https://mp.weixin.qq.com/s/D3eBqBLjyV4A6Wg5zOiO9Q)
+
+- **发布日期**：2025-05-27 22:58
+- **所属合集**：#LLM
+- **摘要**：大语言模型（LLM）部署中涉及多种模型文件格式，格式的选择直接影响模型的加载速度、推理性能、内存占用与跨平台兼容性。理解各类格式的技术特性与适用场景，有助于构建高效、可扩展、安全的部署方案。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS6V1wvFr7M3NzLPPzaKFNbKZbqUPAT7uWLTgiabnVxuaSmiceGbr1vY2KVgTibh4oJniaiaEGsJjOcHXA/0?wx_fmt=jpeg" width="400"/>
+
+### [Mooncake 架构概览：以 KVCache 为中心的高效 LLM 推理系统设计](https://mp.weixin.qq.com/s/BUGmmvLZ7TrmwleDWsb5SA)
+
+- **发布日期**：2025-05-26 19:35
+- **所属合集**：#LLM
+- **摘要**：Mooncake 是 Kimi 的高效 LLM 服务平台，采用以 KVCache 为中心的分离架构，解耦预取与解码流程，并通过预测性拒绝机制应对过载。在长上下文场景下，吞吐量提升最高达 525%，实测可多处理 75% 请求。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQibRxK5wkicssV3sMWQicgwAIaHsbJEZe3oycUicWaRpicAiapictbMvcEQWpibwE8BZWzOIjianjg8yWXiaOw/0?wx_fmt=jpeg" width="400"/>
+
+### [英伟达发布低延迟分布式推理框架 Dynamo，赋能 AI 模型规模化推理](https://mp.weixin.qq.com/s/RyiW_u45IncpGS3UcLtqdQ)
+
+- **发布日期**：2025-05-24 10:30
+- **所属合集**：#LLM
+- **摘要**：英伟达推出的开源推理框架 NVIDIA Dynamo 通过解耦推理阶段、智能路由与分布式资源管理等创新技术，实现生成式 AI 模型在多节点 GPU 集群上的高效、低延迟部署，推理性能可达传统方案的 30 倍。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ4Nnaic9HdLnRpqLZY0pclzfWSIFcQy16XxucWwdRMd79O905wjoRcV5WNaVVM7Aqatxspz3GWDiaQ/0?wx_fmt=jpeg" width="400"/>
+
+### [理解 PD 分离和分布式 KVCache 的几张图](https://mp.weixin.qq.com/s/HhZa_GeanL6D9gviOPb_3w)
+
+- **发布日期**：2025-05-24 10:30
+- **所属合集**：#AI Infra Visualization
+- **摘要**：图一：NVIDIA Dynamo, A Low-Latency Distributed Inference Framework for Scaling Reasoning AI Models. 图二：llm-d, a Kubernetes-native high-performance distributed LLM inference framework. 图三：Mooncake is a KVCache-centric disaggregated architecture for LLM serving. The core of Mooncake is the Transfer Engine（核心）, which provides a unified interface for batched data transfer across various storage devices and network links. 图四：vLLM production stack, vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization. 图五：AIBrix is an open-source initiative designed to provide essential building blocks to construct scalable GenAI inference infrastructure.
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ4Nnaic9HdLnRpqLZY0pclzqKq1Zhr0RmT6t15pgiaAS8ObjJ2VlmfDP2LsticmlmKDqEfJZO5hcr1g/0?wx_fmt=jpeg" width="400"/>
+
+### [大模型时代为什么需要一本深度学习教科书？揭秘《深度学习：基础与概念》的独特价值](https://mp.weixin.qq.com/s/890mBdrIqzo3Of9RefsMxg)
+
+- **发布日期**：2025-05-23 08:15
+- **所属合集**：#好书推荐
+- **摘要**：在大模型席卷各行各业的今天，AI 已从“黑科技”走进现实生活。ChatGPT、Copilot、AI 绘画层出不穷，让人惊叹。但也有人疑惑：模型都这么强了，还要学深度学习基础吗？答案是：理解本质，才能创造未来。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLTcnM6V5cy3q0IuU4710xGHbwHA9rkPbkLOG921sAAhnibwhBeRGbWhyuVbuNa6LyQibP0wJMFoSA/0?wx_fmt=jpeg" width="400"/>
+
+### [一文读懂隐马尔可夫模型（HMM）](https://mp.weixin.qq.com/s/lXQ_GujOsvvCG7WgZZws5g)
+
+- **发布日期**：2025-05-22 08:15
+- **所属合集**：#机器学习
+- **摘要**：隐马尔可夫模型（Hidden Markov Model, HMM）是统计学习中经典的时序建模方法，广泛用于语音识别、自然语言处理、金融分析等场景。它通过引入隐藏状态，对具有时序依赖性但又存在不可观测因素的数据进行建模与推理。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSwsib6XfyOVMfUIYeic58qADWX44N2XImsicuaOxAAicGjpciaaxQu5br2f49TTjZOFzy8IoxqacichGeg/0?wx_fmt=jpeg" width="400"/>
+
+### [一文读懂贝叶斯网络](https://mp.weixin.qq.com/s/H_2jMmKdgztkg6XxKBTnLg)
+
+- **发布日期**：2025-05-21 08:15
+- **所属合集**：#机器学习
+- **摘要**：概率图模型是一种将概率论与图论相结合的建模方法，用于表示一组随机变量之间的依赖关系。它通过图结构（节点表示变量，边表示依赖关系）来描述复杂的联合概率分布，使得高维数据建模、推理与学习变得更加高效与可解释。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQbMCp9urEIhoqulx8Qh6PtlD39Af8zLibnbj8y1s6aJMdibUVw9UYNsTVm9GYw6ibJGdDFeM0r0ZdPA/0?wx_fmt=jpeg" width="400"/>
+
+### [Linux 内核版本变更记录查看指南](https://mp.weixin.qq.com/s/cqQemDPZ5uT4A1AOy41ieA)
+
+- **发布日期**：2025-05-19 12:58
+- **所属合集**：#Linux 小技巧
+- **摘要**：本指南面向希望理解 Linux 内核更新机制、定位安全补丁、追踪补丁源码来源的技术人员，涵盖 changelog 获取、CVE 快速筛选、源码版本控制操作以及真实案例分析，帮助你从「内核升级日志」走向「代码级掌握」。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRnNOyqEQlH240ricicckgK8PTSZcgC6Gg3plZ8F2l19yjNIfkQkGgEnvgffFksOCIokM2nKr8Wm6UQ/0?wx_fmt=jpeg" width="400"/>
+
+### [吴恩达最新课程 《MCP：使用 Anthropic 构建富上下文 AI 应用》现已上线](https://mp.weixin.qq.com/s/S4810MVuD4lKWTxZvlSBnw)
+
+- **发布日期**：2025-05-18 08:15
+- **所属合集**：#LLM
+- **摘要**：吴恩达与 Anthropic 合作推出的新课程《MCP：使用 Anthropic 构建富上下文 AI 应用》现已上线，旨在帮助开发者掌握如何通过模型上下文协议（Model Context Protocol, MCP）构建更强大、可扩展的 AI 应用。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSicg6JjK9H9BNaPIIURM6BVNib9hvbiciccZMNKBSRAicmpR5aFFMJhtIAHpln60jnvseyP0eB6xkc5Lw/0?wx_fmt=jpeg" width="400"/>
+
+### [基于矩阵分解的推荐算法入门](https://mp.weixin.qq.com/s/CGIeKJXC83KGhoiKt4cnyA)
+
+- **发布日期**：2025-05-17 09:15
+- **所属合集**：#机器学习
+- **摘要**：在个性化推荐系统中，协同过滤是一种经典且有效的技术。它通过用户与物品之间的历史交互数据中挖掘“集体智慧”，实现用户兴趣建模。其中基于矩阵分解的方法，因其兼具建模能力强、可扩展性好、效果稳健等优势，已成为工业界应用最广泛的协同过滤算法之一。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRUzUavSYhWsRo9ENGZ35pQt7TiaFgo2u1fc6r8QMR6WibFIYaZl4NwBTn0OicC6HT7xI1Ier4OliacLQ/0?wx_fmt=jpeg" width="400"/>
+
+### [混合专家系统（MoE）图解指南之好书推荐：《图解大模型：生成式 AI 原理与实践》](https://mp.weixin.qq.com/s/tYrHrpMrZySgWKE1ECqTWg)
+
+- **发布日期**：2025-05-16 08:15
+- **所属合集**：#LLM
+- **摘要**：混合专家系统是一种提升大型语言模型计算效率的架构，通过多个专精不同任务的专家单元协同工作。其核心包括专家集群，即由多个前馈神经网络组成的可动态调度专家单元，以及路由分配器，用于智能选择合适专家处理输入数据。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQGbibVGvfGfOvS4KRVWPaJlkqSEUbQgtQMFUvBGgY5bAfMePMB6sBnlQjMlBwwRzaykhKiauV6rHzQ/0?wx_fmt=jpeg" width="400"/>
+
+### [你真的懂“损失函数”吗？一文通透机器学习中的核心概念！](https://mp.weixin.qq.com/s/djc3O0-V8zaN7JtOWUB5Cw)
+
+- **发布日期**：2025-05-15 08:15
+- **所属合集**：#机器学习
+- **摘要**：这篇文章通俗讲解了机器学习中的核心概念，包括损失函数、交叉熵、最大似然估计、KL 散度、正则化等，帮助你理解模型如何学习、如何衡量预测好坏，以及这些数学工具背后的直觉含义，适合初学者系统入门。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQdG1cho8XzPG9cohdibjPqz7Q4Q6CZ1EZ2dy2tzAuUYUPOe7wM290hneIUmHM8V4ibKz0SKLfTcRhQ/0?wx_fmt=jpeg" width="400"/>
+
+### [为何挂载失败？搞懂 systemd 与 fstab 的管理机制与常见坑](https://mp.weixin.qq.com/s/1fKHforS9bKUBlaXyQ5Lww)
+
+- **发布日期**：2025-05-13 12:18
+- **所属合集**：#Linux 小技巧
+- **摘要**：修改 /etc/fstab 后未执行 daemon-reload，systemd 仍按旧配置生成 .mount 单元并管理挂载状态。 若手动挂载与 .mount 单元定义不一致，systemd 会在设备变更时强制卸载或重挂载，导致挂载异常
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHROSG6n5tpaBm0P6xzsVHjesicmsFFibnaSunurAOP6H4icI91Mlb3VYfy9CDETMfdmp3mAryCMrAVNQ/0?wx_fmt=jpeg" width="400"/>
+
+### [《百面大模型》打通大模型求职与实战的关键一书](https://mp.weixin.qq.com/s/rBJ5an0pr3TgjFbyJXa0WA)
+
+- **发布日期**：2025-05-12 19:15
+- **所属合集**：#好书推荐
+- **摘要**：《百面大模型》不是一本简单的面试题集，而是一本融合原理讲解 × 工程实践 × 面试突破的实战型技术参考书！求职通关，只是起点；构建系统技术力，才是你的长期核心竞争力。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQb1wfedQcQuAUIW41a5A7BYib1yY6Z32uz7gkiczZEUk2lzv0eeoshK7iaIERZcng9hq8nMXDejBAibA/0?wx_fmt=jpeg" width="400"/>
+
+### [零基础入门大模型微调](https://mp.weixin.qq.com/s/jlZNYMWM4Chho1nGsX2lQQ)
+
+- **发布日期**：2025-05-11 09:05
+- **所属合集**：#LLM
+- **摘要**：很多 AI 新手在接触大模型时都会被"微调"二字劝退。想实战没有环境？自己根本玩不转？本文带你用一杯咖啡的时间，了解大模型的微调技术，无需高端显卡，用魔塔社区免费资源即可实战体验，在实战中理解微调技术，感受薅羊毛的快乐！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSAX4k6bwibhpSwVsiaGtp3XNN7VtVRKeYHAlj8ybQhiaB02FCWWn8IVUU7F3Xy9gVHy0EIvQt9DY7vw/0?wx_fmt=jpeg" width="400"/>
+
+### [好书推荐 - 普通人也能立刻上手的 AI 工具书：《DeepSeek 极速上手》](https://mp.weixin.qq.com/s/3LVcYT5Bd05IV-nHu6Td2g)
+
+- **发布日期**：2025-05-11 09:05
+- **所属合集**：#好书推荐
+- **摘要**：《DeepSeek 极速上手：高效做事不内耗》这本书，正是为“不是程序员、也想玩转 AI”的你准备的。全书不讲深奥原理、不卷技术细节，而是手把手教你如何像用搜索引擎一样轻松使用 DeepSeek，高效工作、快乐生活。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSAX4k6bwibhpSwVsiaGtp3XNliay4Iibb2LhrjljIu9R5rndTOfXSXnr55l01yhgdCMMfKK1GHf5HRDQ/0?wx_fmt=jpeg" width="400"/>
+
+### [基于内容的推荐算法入门](https://mp.weixin.qq.com/s/OEn2R_lWKT98wSWHRY-ckg)
+
+- **发布日期**：2025-05-10 09:05
+- **所属合集**：#机器学习
+- **摘要**：基于内容的推荐通过构建物品特征向量和用户兴趣向量，计算内容相似度（如余弦相似度），推荐与用户兴趣最匹配的物品，核心流程包括物品建模、用户建模与相似度排序。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTNuSD1oozEUGtlNTFbsVHlGVbaDsVk7bKn2ertE3Mia68esq2hoDWcLw551jbJVsJicOp2wKIhRPwQ/0?wx_fmt=jpeg" width="400"/>
+
+### [协同过滤推荐算法：原理、实现与分析](https://mp.weixin.qq.com/s/aDNVQbLlcg1F0hZhcZY3jA)
+
+- **发布日期**：2025-05-09 08:15
+- **所属合集**：#机器学习
+- **摘要**：协同过滤是推荐系统中应用最广泛的方法之一，基于用户与物品的历史交互行为挖掘兴趣关联。常见分为两类：基于用户的协同过滤（推荐相似用户喜欢的物品）和基于物品的协同过滤（推荐与已喜欢物品相似的其他物品）。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQBWHFWUYic1KL26Ricl62G83KLicLS0glxotAGmTPLICQibIcqdrBCYkbXv0gvV1ibHIf4Q4xD3I0GMyQ/0?wx_fmt=jpeg" width="400"/>
+
+### [推荐系统入门](https://mp.weixin.qq.com/s/t_rbPus_LsUr6tO9_Ac5Lw)
+
+- **发布日期**：2025-05-08 19:15
+- **所属合集**：#机器学习
+- **摘要**：信息过载怎么办？推荐系统正是帮你“挑重点”的幕后智囊。本文系统梳理推荐系统的核心流程、主流算法（协同过滤、深度学习等）、数据处理与评估方法，并结合知识图谱、大模型等前沿趋势，带你深入理解智能推荐的技术全景。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQBWHFWUYic1KL26Ricl62G83lFfHCxSdNib7Kk9O6sn3ibSJSF31f14WPz1P7jwlLgnBwOlwswuVNQEg/0?wx_fmt=jpeg" width="400"/>
+
+### [vLLM + LWS：Kubernetes 上的多机多卡推理方案](https://mp.weixin.qq.com/s/RTSx9LqNuLZ_GPsrgbWDBw)
+
+- **发布日期**：2025-05-07 08:15
+- **所属合集**：#LLM
+- **摘要**：K8s 上的 LLM 推理实践暴露出现有工作负载在多 Pod 管理、调度粒度、拓扑感知等方面的不足。K8s 推出新控制器原语 LeaderWorkerSet（LWS），支持分布式启动、组调度与原子恢复，赋能 vLLM 等新一代推理系统。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS761l2efzic3Sfic79RyEz7iac4zl1Gic8JK0KSGcIU7oFJ9GYboc5QMRJr8YrGnBNooajibngxyTcnSg/0?wx_fmt=jpeg" width="400"/>
+
+### [不写代码，也能做开发？这本书教你用 Cursor 开启 AI 编程新时代](https://mp.weixin.qq.com/s/U0CryUGW6VjQkzu106fF9g)
+
+- **发布日期**：2025-05-06 12:18
+- **所属合集**：#好书推荐
+- **摘要**：《用 Cursor 玩转 AI 辅助编程——不写代码也能做软件开发》是一本实用指南，全面介绍了 Cursor 这款革命性的 AI 驱动的代码编辑器。本书深入浅出地讲解 Cursor 的核心功能、工作原理和实际应用，旨在帮助读者快速掌握 AI 辅助编程技术。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS761l2efzic3Sfic79RyEz7iac6UnvbENEc3HibiciaWT4GDyHyQlFZGzOYPHXFmFNPWAwmXTmmePibIqow/0?wx_fmt=jpeg" width="400"/>
+
+### [LangGraph 实战：用 Python 打造有状态智能体](https://mp.weixin.qq.com/s/lCymdm2q713BAH-XsyBJZg)
+
+- **发布日期**：2025-05-05 13:45
+- **所属合集**：#LLM
+- **摘要**：LangGraph 是一个专为构建有状态、多节点执行流程的 AI 智能体系统设计的 Python 框架，它将状态机（State Machine）与图结构（Graph）相结合，使得开发者能够直观地用"节点+边"来描述执行逻辑和状态转移。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRb7elWjZWdMyqrcgvibO7licsH7wbPjKiau6u34t1sibMG1ibPtvvVcfU5tT6MxcdZ3ljRx5a0aXwXibXA/0?wx_fmt=jpeg" width="400"/>
+
+### [华为云业务上云 - 卓越架构技术框架简介](https://mp.weixin.qq.com/s/IPaFZ9eP3Z77UzRc9YtW-Q)
+
+- **发布日期**：2025-05-04 16:15
+- **所属合集**：#应用上云
+- **摘要**：华为的卓越架构技术框架，聚焦客户业务上云后的关键问题的设计指导和最佳实践。以韧性、安全性、性能效率、成本优化与卓越运营五个架构关注点为支柱，支撑完成云架构设计、云架构治理体系建设、研发生产力提升、现代化应用构建及运营运维体系建设等！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQx2urdQLxuh0et6y7Heck7CN0xrTOj86h5k3kFslBKL5icjOWAlrasYVWP84lUcVjjwibibDUaHYRuA/0?wx_fmt=jpeg" width="400"/>
+
+### [使用 n8n 构建多智能体系统的实践指南](https://mp.weixin.qq.com/s/__eq8sFOQsBiGEuMP8PkcQ)
+
+- **发布日期**：2025-05-02 22:50
+- **所属合集**：#LLM
+- **摘要**：多智能体系统是一种由多个相互协作的智能体组成的系统结构。这些智能体具备自主性、交互性、协作性等特征，能够共同完成复杂任务。随着大语言模型和自动化工具的发展，MAS 越来越多地被用于构建复杂的智能应用，例如多轮问答、自动化客服、内容生成等
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLXUkAtnAQ0d2y3ZYe7PugZYd9efmNhBjINKxfgg0BhUmtIiaxTZSUAY2Fj8yPjfeEUZF2vRQVibdw/0?wx_fmt=jpeg" width="400"/>
+
+### [五一五天乐 - 大模型相关好书推荐汇总](https://mp.weixin.qq.com/s/bUf_RW4qyLigsaKMBeMKPA)
+
+- **发布日期**：2025-05-01 08:54
+- **所属合集**：#好书推荐
+- **摘要**：nan
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSCpNAqrHbCbBXSbmv770JInn3qvibib5ZqsRicY3FhfzQkTjErb5Cy69bohsJS1fXiaiaObp3PR3Gaopg/0?wx_fmt=jpeg" width="400"/>
+
+### [DeepWiki 使用方法与技术原理深度分析](https://mp.weixin.qq.com/s/2WE_BfU3nsf4HeQOBgoPlQ)
+
+- **发布日期**：2025-04-29 19:15
+- **所属合集**：#LLM
+- **摘要**：DeepWiki 是一款自动文档生成平台，专为 GitHub 项目设计。用户只需将仓库地址中的域名替换为 deepwiki.com，即可生成该项目的结构化 “百科” 页面，内容涵盖项目概览、系统架构、模块说明、API 文档等。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRHqeCXanTxOFhcxaATNRXib6WVar2pGDTR1SbCqibI6U0h7yic5dGsXdXUHDdPib7XrIFy3HB8aB77RQ/0?wx_fmt=jpeg" width="400"/>
+
+### [一文入门垂域模型 SFT 微调](https://mp.weixin.qq.com/s/8CYetYpcz7Ehab0yJ_t6Mg)
+
+- **发布日期**：2025-04-28 19:15
+- **所属合集**：#LLM
+- **摘要**：SFT 相比从零训练大模型，成本更低（通常仅需 10%–20%预训练全量算力）、周期更短。例如对一个 7B 模型在 8 × A100（80 GB）上做 SFT，通常仅需 4–12 小时即可完成。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRxY842l96V3ia8MD5DqqHxRwtVFOD8FxTT2FPysEFqeo4ia83KAHCnIGbsQhJOmSWvRkb3xUpxpQ6Q/0?wx_fmt=jpeg" width="400"/>
+
+### [开源大模型应用编排平台：Dify、AnythingLLM、Ragflow 与 n8n 的功能与商用许可对比分析](https://mp.weixin.qq.com/s/mLyRw-klCyEYNINvuDnHEQ)
+
+- **发布日期**：2025-04-26 14:20
+- **所属合集**：#LLM
+- **摘要**：本文选取 Dify、AnythingLLM、Ragflow 和 n8n 四个具有代表性的开源项目，从功能特性、许可协议、商用风险等方面进行系统对比分析，帮助开发者更科学地选择适合自身场景的工具。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRupibaEaic55tIyPqGwWksOIoptDib0HiaVEX4icicUdfia5gDRbG6QfUr6zXZdVCZZsesxiaLsx9C5iaYa7Q/0?wx_fmt=jpeg" width="400"/>
+
+### [好书推荐 - 《大规模语言模型：从理论到实践（第二版）》](https://mp.weixin.qq.com/s/9ytiPHPSu8xhZqxfzlkGCQ)
+
+- **发布日期**：2025-04-25 22:35
+- **所属合集**：#好书推荐 #LLM
+- **摘要**：《大规模语言模型：从理论到实践（第 2 版）》内容涵盖多模态大语言模型、大模型智能体、检索增强生成、大语言模型效率优化、大语言模型评估和大语言模型应用开发等多个热门方向，全面展示了当前大语言模型在不同领域的最新进展与应用潜力。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRyYkTDsDzb3ZC3DMVtC7qkmP7gzhJEmrGWKBgOFPszf2JjXd3Ic17MQmBbC1VCP61vZzn5icIibNnw/0?wx_fmt=jpeg" width="400"/>
+
+### [从编程视角看 Linux 文件系统](https://mp.weixin.qq.com/s/tH-xhZ9JXcfAVw_X9tc_9Q)
+
+- **发布日期**：2025-04-24 22:35
+- **所属合集**：#Linux
+- **摘要**：Linux 文件系统是 Linux 操作系统的核心组件之一，它为用户和应用程序提供了统一的文件访问接口，屏蔽了底层存储设备的差异。从编程视角来看，理解 Linux 文件系统的结构和原理对于开发高效、可靠的文件操作程序至关重要。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRPJSdBLRuX7dicThS9G8W2lFrKaf00heC79P6sRYmjytooiaVy9bOnA7Gu322rWLq9Hhuib9mepZpJQ/0?wx_fmt=jpeg" width="400"/>
+
+### [一图胜千言：Function calling vs. MCP](https://mp.weixin.qq.com/s/PGnvBlXS01uDwCqY9YDwtw)
+
+- **发布日期**：2025-04-21 08:15
+- **所属合集**：#AI Infra Visualization
+- **摘要**：MCP（延伸为多工具控制平台）和 Function Calling（函数调用）并不冲突，它们是同一工作流的两个关键环节： 1. Function Calling 帮助大模型确定“要做什么”； 2. MCP 则负责“怎么做”——确保工具可被可靠发现、调用和执行，而无需开发者为每个工具进行手动集成。 例如，一个智能体可能发出“我需要搜索网页”的请求，这是通过 Function Calling 表达的意图。如果该请求由你的代码直接处理，调用具体工具，这属于最原始的 Function Calling 模式。而如果这个请求被交由 MCP 进行调度，由其从多个可用的网页搜索工具中选择合适的一个，完成调用并以标准格式返回结果，整个“选工具 + 调用工具”的逻辑由 Agent 自动完成，那么这就是 MCP 模式的体现。 相关文章： 1. <a href="https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247489532&idx=1&sn=ea13af1f07be91baee5e4f494af5689c&scene=21#wechat_redirect" target="_blank" data-itemshowtype="0">【转载】MCP（Model Context Protocol）全面研究报告：概念、实践与未来趋势</a> 2. <a href="https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247489554&idx=1&sn=1074aed9e07ee612a5670f24dd04740d&scene=21#wechat_redirect" target="_blank" data-itemshowtype="0">MCP、Function Calling 有什么区别？与 AI Agent 有什么关系？</a> 3. <a href="https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247489703&idx=1&sn=b2018b9723234931a8675f457208ba49&scene=21#wechat_redirect" target="_blank" data-itemshowtype="0">LangChain + 模型上下文协议（MCP）：AI 智能体 Demo</a> 4. <a href="https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247489754&idx=1&sn=7baf05f36de25614243657890ef8d562&scene=21#wechat_redirect" target="_blank" data-itemshowtype="0">深度解析 MCP 与 AI 工具化的未来</a> 5. <a href="https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247489760&idx=1&sn=213752964261ade7995c20924af90e56&scene=21#wechat_redirect" target="_blank" data-itemshowtype="0">MCP-K8s 实践：构建大模型驱动的 Kubernetes 运维管理能力</a> 原图来自： https://blog.dailydoseofds.com/p/function-calling-and-mcp-for-llms https://www.dailydoseofds.com/p/hands-on-building-an-mcp-server/
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTDYktibbcWRumD7Gd950NZqibFNfFmASwCUkd8j88QOhhemRHbxFicOy8B9Umj1jKVKI5vCjicmAHxrg/0?wx_fmt=jpeg" width="400"/>
+
+### [好书推荐 -《云原生数据库：原理与实践》](https://mp.weixin.qq.com/s/NZJFaB3VC9ioavuRl60XAQ)
+
+- **发布日期**：2025-04-20 20:40
+- **所属合集**：#好书推荐
+- **摘要**：在数据库技术持续演进的今天，从“单机部署”走向“云原生架构”已成为不可逆的时代潮流。云计算、容器化、弹性资源管理与高可用机制，正以前所未有的方式重塑数据库的架构形态与运维范式。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTDYktibbcWRumD7Gd950NZqgiagfBlIBBeibNNb22LGEo2llsvfxdjl8USrFsgwk3ia19CxEBlia6PiaFw/0?wx_fmt=jpeg" width="400"/>
+
+### [Linux 小技巧 - 使用 iostat 监控磁盘性能](https://mp.weixin.qq.com/s/_zibTY5ukdnWPTfGA0kYRQ)
+
+- **发布日期**：2025-04-17 21:58
+- **所属合集**：#Linux #Linux 小技巧
+- **摘要**：iostat 是一个用于监控磁盘性能的工具，它可以显示磁盘设备的读写性能、IOPS、吞吐量、等待时间等信息。iostat 是 Linux 系统自带的工具，无需额外安装。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRibxMRicopE1yLqBZ9Z6JQeIYbbJXQB2IvJlb6r5k028RazBMiclWWFoIAdGwSXyU3sLtn1xedSiciayw/0?wx_fmt=jpeg" width="400"/>
+
+### [MCP-K8s 实践：构建大模型驱动的 Kubernetes 运维管理能力](https://mp.weixin.qq.com/s/FqIyBz3nr4Ywe17c5a5sfA)
+
+- **发布日期**：2025-04-16 08:15
+- **所属合集**：#智能 Agent #LLM
+- **摘要**：一个基于 MCP（Model Control Protocol）的 Kubernetes 服务器，支持通过 MCP 工具与 Kubernetes 集群进行交互。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT5PH9NK2qzqHHDzYuRJllnH7X6Esa6pTdw2f7fLo3hCaA8qlaW8HGuchs1mfHuEN5rRwrSosoIeQ/0?wx_fmt=jpeg" width="400"/>
+
+### [深度解析 MCP 与 AI 工具化的未来](https://mp.weixin.qq.com/s/BBWf7tqmdrPDGjQ9e4l06g)
+
+- **发布日期**：2025-04-14 20:35
+- **所属合集**：#LLM #智能 Agent
+- **摘要**：2024 年 11 月推出的模型上下文协议（MCP）已在开发者与 AI 社区中引发强烈关注，被视为潜在的解决方案。本文我们将深入探讨 MCP 的核心原理、它如何改变 AI 与工具的交互范式、开发者基于该协议已构建的应用场景，以及仍需攻克的挑战
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0cx8UhyWj2JqiaYKAb4lA2wOO9OgylNyMriaCaHiacrdufUnZAWfX5h3l6kXGE17HoL1xyU1jgl3yg/0?wx_fmt=jpeg" width="400"/>
+
+### [好书推荐 | 《从零构建大模型》：从理论到实践，手把手教你打造自己的大语言模型](https://mp.weixin.qq.com/s/FkBjsQmeXEPlsdFXETYSng)
+
+- **发布日期**：2025-04-11 09:15
+- **所属合集**：#好书推荐
+- **摘要**：《从零构建大模型》，不仅讲透了大模型的基本原理，更从实际出发，带领读者从最底层一步步构建出一个完整的 GPT 风格 的模型，实现训练、微调和部署。这是一本将理论与实践完美结合的指南，无论你是研究者、工程师，还是 AI 初学者，都能从中受益良多
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ22U6qRvgP0pfJBEOLf5cSD4icBIicrzzW1Aa0bp50Dr7UScsQ4fYFGQIkcw0qvcIaJBeqNibeRBwMA/0?wx_fmt=jpeg" width="400"/>
+
+### [原力注入公众号全篇合集一文读尽（截止 2025 年 4 月 9 日）](https://mp.weixin.qq.com/s/SAnUefVrCAHPgupZktVCZw)
+
+- **发布日期**：2025-04-09 20:25
+- **所属合集**：#好书推荐
+- **摘要**：nan
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS6RQbWicvUbSjHgxekylxqx9PInZR7aWibyvBzR0TnoFibIgGyVE7vp1LP2bIeAMUp23hyt0hLuWaCQ/0?wx_fmt=jpeg" width="400"/>
+
 ### [GPU 利用率(Utilization) 是一个误导性指标!](https://mp.weixin.qq.com/s/dUhxU3QBnZ4kUMBzxrmC_w)
 
-- **发布日期**：2025-04-08 19:15  
-- **所属合集**：#CUDA #GPU #AI Infra  
-- **摘要**：评估GPU使用时，许多人首看利用率，但它并不等于性能高。例如仅内存读写也会让GPU Util达100%，因此不能简单类比CPU Util，需结合更多指标（例如 SM Efficiency 和 MFU）全面判断。  
+- **发布日期**：2025-04-08 19:15
+- **所属合集**：#AI Infra
+- **摘要**：评估 GPU 使用时，许多人首看利用率，但它并不等于性能高。例如仅内存读写也会让 GPU Util 达 100%，因此不能简单类比 CPU Util，需结合更多指标（例如 SM Efficiency 和 MFU）全面判断。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgIPNeJh5kicdtKepIjIWId01kiaKjzEXcuppkonwSibvn3JIOLRajqiae3CRfwSWltTpG41e8IFeUYA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgIPNeJh5kicdtKepIjIWIdTJibvteLbzFR1O31PZJ45v35l8FL4hFfA73ibxTKveDJ2p3EMa3RteeA/0?wx_fmt=jpeg" width="400"/>
 
 ### [LangChain + 模型上下文协议（MCP）：AI 智能体 Demo](https://mp.weixin.qq.com/s/D5d3F3xKeqstBataPBVbFA)
 
-- **发布日期**：2025-04-07 20:18  
-- **所属合集**：#智能 Agent #LLM  
-- **摘要**：在基于大语言模型构建应用时，一个核心痛点是数据与工具的接入困难。模型虽然能力强大，但通常处于“沙盒”状态，无法直接访问外部环境。为此，RAG、微调、插件等方案陆续诞生。而MCP的目标正是统一接口协议，以便标准化集成上下文、工具、服务与数据源  
+- **发布日期**：2025-04-07 20:18
+- **所属合集**：#智能 Agent #LLM
+- **摘要**：在基于大语言模型构建应用时，一个核心痛点是数据与工具的接入困难。模型虽然能力强大，但通常处于“沙盒”状态，无法直接访问外部环境。为此，RAG、微调、插件等方案陆续诞生。而 MCP 的目标正是统一接口协议，以便标准化集成上下文、工具、服务与数据源
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTafVughS2U3dGxekzJ795K1KKIiaKkXicZQ5BTb8lYAqv2jN9GbPxwRoNH6bDeUCbb8iaIw6ThpZO7Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTafVughS2U3dGxekzJ795K3QZVZhl4t22gvVJn6OAickY6ZrMcd232AibbhSZfdInWNN7uQYEgAa7Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [MCP、Function Calling 有什么区别？与 AI Agent 有什么关系？](https://mp.weixin.qq.com/s/LF3p1m1qapY1O7JFp-WP4w)
 
-- **发布日期**：2025-04-05 12:20  
-- **所属合集**：#智能 Agent #好书推荐 #LLM  
-- **摘要**：Function Calling、MCP 以及 AI Agent 是三个密切相关但层级分明的概念。我们可以把这三者类比为“调用指令 → 调度系统 → 自主执行者”，分别解决不同层级的问题。  
+- **发布日期**：2025-04-05 12:20
+- **所属合集**：#智能 Agent #好书推荐 #LLM
+- **摘要**：Function Calling、MCP 以及 AI Agent 是三个密切相关但层级分明的概念。我们可以把这三者类比为“调用指令 → 调度系统 → 自主执行者”，分别解决不同层级的问题。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQTMvd8QhBnWtLGKyk3kduSf1btZMunQGFDNfnhYhdwGWSmNu43ibQlafYTNLxrkIA3vxSPovChH0Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQTMvd8QhBnWtLGKyk3kduS6hdmoRNjScPJGxt8TMzdYsx9x5Zt0N8emXI5WKF6vHHvt8GTKb09BA/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐《大模型应用开发极简入门》](https://mp.weixin.qq.com/s/fapHgJtV--lzEDpn5MiSBA)
 
-- **发布日期**：2025-04-04 08:55  
-- **所属合集**：#LLM #好书推荐  
-- **摘要**：《大模型应用开发极简入门：基于GPT-4和ChatGPT（第2版）》一书为开发者提供了系统化的答案。作为热销2万册的经典升级版，本书不仅是初学者的“最小可用知识”手册，更是进阶者构建复杂AI应用的实战指南。  
+- **发布日期**：2025-04-04 08:55
+- **所属合集**：#LLM #好书推荐
+- **摘要**：《大模型应用开发极简入门：基于 GPT-4 和 ChatGPT（第 2 版）》一书为开发者提供了系统化的答案。作为热销 2 万册的经典升级版，本书不仅是初学者的“最小可用知识”手册，更是进阶者构建复杂 AI 应用的实战指南。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ8rEjUfERQKlJvtXuNtO1BvmicIOTiamdHhDTdDFSbCF3U1WjImD8yTtBOXKvBFBqVibicGYWoicZGGibg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ8rEjUfERQKlJvtXuNtO1BtNCvickv2F2ficBJPia0AS3fvA9QiaJ3KHtnGBLjCicwLKPIP8xK2iaFWS9Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [Cline 55k 系统提示词刷新了我对提示词工程的认知](https://mp.weixin.qq.com/s/aYi7SnAzqDV93lwZxiCDIw)
 
-- **发布日期**：2025-04-03 19:24  
-- **所属合集**：#智能 Agent  
-- **摘要**：该系统的核心价值在于将复杂的开发环境操作抽象为标准化工具集，通过严谨的流程控制和安全机制，使AI能在真实开发环境中可靠执行任务。其设计平衡了灵活性与安全性，特别适合作为AI辅助开发的基础平台。  
+- **发布日期**：2025-04-03 19:24
+- **所属合集**：#智能 Agent
+- **摘要**：该系统的核心价值在于将复杂的开发环境操作抽象为标准化工具集，通过严谨的流程控制和安全机制，使 AI 能在真实开发环境中可靠执行任务。其设计平衡了灵活性与安全性，特别适合作为 AI 辅助开发的基础平台。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTMOqicXWWm6ib413sQboiaQ5VAbpPA7G5EL4QSR0egaV298nExMTO8wWfPoT2e9soaIa94TsapOwFtA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTMOqicXWWm6ib413sQboiaQ5VNJSagoshkAHCjYxicBmHsHdOpPibNQ9BMFdUnwbk1TIOichLkib3utfk9g/0?wx_fmt=jpeg" width="400"/>
 
 ### [【转载】MCP（Model Context Protocol）全面研究报告：概念、实践与未来趋势](https://mp.weixin.qq.com/s/iRHqxurMx72xg5YRS4VzPA)
 
-- **发布日期**：2025-04-02 08:15  
-- **所属合集**：#LLM #智能 Agent  
-- **摘要**：模型上下文协议（Model Context Protocol，简称MCP）是Anthropic于2024年推出的一种开放标准，旨在规范AI模型与外部数据源、工具之间的交互方式。  
+- **发布日期**：2025-04-02 08:15
+- **所属合集**：#LLM #智能 Agent
+- **摘要**：模型上下文协议（Model Context Protocol，简称 MCP）是 Anthropic 于 2024 年推出的一种开放标准，旨在规范 AI 模型与外部数据源、工具之间的交互方式。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREm8LOn3Jsv8peCljN29UQfo06JFibquy09P8gQb8kXAr8aRsViclzDic3FbOiacCFEsNGndcmByFovA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREm8LOn3Jsv8peCljN29UQF2ArvCcyUT0fAEGcn330BrPlvGvQQkGY1bdu6rl3eLdxQ0vQLVyGkg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Chroma 技术报告 - Evaluating Chunking Strategies for Retrieval 总结](https://mp.weixin.qq.com/s/ttYBpV7I0yZZRwDsD7VPTw)
 
-- **发布日期**：2025-04-01 19:15  
-- **所属合集**：#LLM  
-- **摘要**：在检索增强生成（RAG）系统中，如何将长文档高效切分为适合嵌入和检索的小块，是提高系统性能的关键步骤。本文总结了 Chroma 技术报告的主要内容，重点讨论了文档分块策略对检索性能的影响，并提出了一种基于 token 级别的新型评估方法。  
+- **发布日期**：2025-04-01 19:15
+- **所属合集**：#LLM
+- **摘要**：在检索增强生成（RAG）系统中，如何将长文档高效切分为适合嵌入和检索的小块，是提高系统性能的关键步骤。本文总结了 Chroma 技术报告的主要内容，重点讨论了文档分块策略对检索性能的影响，并提出了一种基于 token 级别的新型评估方法。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREm8LOn3Jsv8peCljN29UQ3O7sChKiaAYKHmLWltw19q8uTT71nBsnEALScAyFcr7Siaibb4WTmM6Eg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREm8LOn3Jsv8peCljN29UQ9sw4ia5d4PxJubj6fgibt0W0CpvWasSWax4p6ibcJbFACwaqbk75UO7Cg/0?wx_fmt=jpeg" width="400"/>
 
 ### [LLM 嵌入技术详解：图文指南](https://mp.weixin.qq.com/s/X3Gbiam3z-Hdn9JOTEe0uw)
 
-- **发布日期**：2025-03-30 10:20  
-- **所属合集**：#LLM  
-- **摘要**：本文探讨嵌入技术，解析其本质特征，回顾从传统统计方法到现代技术的演进，考察实际应用，实现方式及核心技术，并展示大语言模型DeepSeek-R1-Distill-Qwen-1.5B的嵌入向量在图示化中的形态特征。  
+- **发布日期**：2025-03-30 10:20
+- **所属合集**：#LLM
+- **摘要**：本文探讨嵌入技术，解析其本质特征，回顾从传统统计方法到现代技术的演进，考察实际应用，实现方式及核心技术，并展示大语言模型 DeepSeek-R1-Distill-Qwen-1.5B 的嵌入向量在图示化中的形态特征。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQT7qSSQDpgEjqsfRVRNQKN05j2BuZM5AjWFficRLibhh6Eh4MZdwg1rianoOXv1URFZhVM23ROEuFBw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQT7qSSQDpgEjqsfRVRNQKNia7dw4jWwNvfvzeBq4QvicCGDtByGQjZCkvaDRIq64iadyFbCl12KSaYw/0?wx_fmt=jpeg" width="400"/>
 
 ### [【极客时间】零基础实战机器学习 - RFM 模型在用户消费行为分析中的应用](https://mp.weixin.qq.com/s/gpEvWgVYwHHTmkB4ZfGllg)
 
-- **发布日期**：2025-03-29 09:15  
-- **所属合集**：#机器学习  
-- **摘要**：在数字化时代，理解用户行为是企业制定精准运营策略的关键。因此，将行为转化为可量化的指标，成为企业洞察用户特征、优化运营决策的第一步。在众多分析方法中，RFM模型（Recency、Frequency、Monetary）是被广泛采用的经典工具。  
+- **发布日期**：2025-03-29 09:15
+- **所属合集**：#机器学习
+- **摘要**：在数字化时代，理解用户行为是企业制定精准运营策略的关键。因此，将行为转化为可量化的指标，成为企业洞察用户特征、优化运营决策的第一步。在众多分析方法中，RFM 模型（Recency、Frequency、Monetary）是被广泛采用的经典工具。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSI4cY47QuqO7wSK5K9pMOkEVBpYzJgiceAeHePmxicIqgL4HS5LOqkgVewjyuXXx8ibGdbznZfZkopQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSI4cY47QuqO7wSK5K9pMOkXFqDzdKqGfXY8SB4mU035Gt7xU7sic9lZuAFk4KSUMia4uK6zq1VibqXw/0?wx_fmt=jpeg" width="400"/>
 
 ### [文本特征向量化：词袋模型、Word2Vec 以及 TF-IDF 介绍](https://mp.weixin.qq.com/s/Djw5GiPbvYmS1M5yBIWEMw)
 
-- **发布日期**：2025-03-28 08:15  
-- **所属合集**：#机器学习 #好书推荐  
-- **摘要**：在自然语言处理（NLP）领域，计算机无法直接理解文本信息，因此需要将文本转换为数值向量，以便进行后续的分析和计算。这一过程被称为文本特征向量化。常见的文本向量化方法包括词袋模型（BoW）、TF-IDF 以及Word2Vec  
+- **发布日期**：2025-03-28 08:15
+- **所属合集**：#机器学习 #好书推荐
+- **摘要**：在自然语言处理（NLP）领域，计算机无法直接理解文本信息，因此需要将文本转换为数值向量，以便进行后续的分析和计算。这一过程被称为文本特征向量化。常见的文本向量化方法包括词袋模型（BoW）、TF-IDF 以及 Word2Vec
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS12yGf85RfXIicFDuqaOcG5SOIAljSS4wMqvibEE6RZLtkA09Kld11ibvn8SCmyDA88lrsCRmyPIAyQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS12yGf85RfXIicFDuqaOcG5D0oD35OibE0wrpqgRziadMFtgGcB34FBHic4CibkraRibcU0gEZCnz8EhbQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [《精通特征工程》：让数据真正为模型赋能](https://mp.weixin.qq.com/s/iblZE9Rz6pd0P8GiF8y7Rg)
 
-- **发布日期**：2025-03-27 19:15  
-- **所属合集**：#机器学习 #好书推荐  
-- **摘要**：引言在机器学习的世界里，数据决定了模型的上限，算法只是无限逼近这个上限。这句话深刻揭示了数据和特征工程的核心地位。  
+- **发布日期**：2025-03-27 19:15
+- **所属合集**：#机器学习 #好书推荐
+- **摘要**：引言在机器学习的世界里，数据决定了模型的上限，算法只是无限逼近这个上限。这句话深刻揭示了数据和特征工程的核心地位。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS12yGf85RfXIicFDuqaOcG5SOIAljSS4wMqvibEE6RZLtkA09Kld11ibvn8SCmyDA88lrsCRmyPIAyQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS12yGf85RfXIicFDuqaOcG545VbXpABw5mOovvT6w6NqH00cUNN0I64gkicmjHJ4GJ0ic3blVzAIFHQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [大家眼中的 AI vs （牛马眼中）真实的 AI](https://mp.weixin.qq.com/s/xp8ah4wlhBJ_d1ISM5H75Q)
 
-- **发布日期**：2025-03-26 23:55  
-- **所属合集**：nan  
-- **摘要**：我们来谈谈一些常见的误区和 AI 的现实：
-
-1️⃣ 数据：
-大多数人怎么想： 他们认为 AI 主要是收集和分析大量数据。
-
-✅ AI 实际上是什么：
-数据对 AI 来说确实至关重要，但它不仅仅是数量问题。数据的质量、相关性和多样性，以及有效的数据管理实践，对于准确和有意义的 AI 驱动型见解至关重要
-
-2️⃣ 数据科学：
-大多数人的看法：他们认为 AI 是一个完全由数据科学家主导的领域，他们处理数字并做出预测
-
-✅ AI 实际上是什么：
-数据科学对 AI 至关重要，但它并不是唯一的重点。AI 涵盖一系列学科，包括机器学习、自然语言处理和计算机视觉，它们协同工作以从数据中提取价值
-
-3️⃣ 价值：
-大多数人的看法：他们期望 AI 能够提供有形的商业价值，并毫不费力地立即实现利润最大化
-
-✅ AI 实际上是什么：
-虽然 AI 有可能产生巨大的价值，但它需要战略方法和谨慎的实施。实现 AI 的优势通常涉及渐进式进步、持续改进以及使 AI 计划与特定目标保持一致
-
-4️⃣ 数据工程：
-大多数人的看法：与开发 AI 模型相比，他们认为数据工程是次要的
-
-✅ AI 实际上是什么：
-数据工程在 AI 旅程中起着至关重要的作用。它涉及收集、存储和预处理数据，确保其质量和可访问性。如果没有适当的数据工程实践，AI 模型可能会出现性能不佳或存在偏差
-
-5️⃣ 建模和作：
-大多数人的看法：他们将构建 AI 模型视为最终目标，而往往忽视了部署的挑战
-
-✅ AI 实际上是什么：
-模型开发只是一个方面。在实际场景中实施 AI 模型涉及将它们集成到现有系统中，监控其性能，并确保持续的维护和更新。
-
-要真正了解 AI 的潜力，大多数人必须超越误解和流行语。
-
-通过认识到数据、数据科学、价值生成、数据工程、建模和作化的重要性，个人可以更深入地了解 AI 的真正能力！  
+- **发布日期**：2025-03-26 23:55
+- **所属合集**：#AI Infra Visualization
+- **摘要**：我们来谈谈一些常见的误区和 AI 的现实： 1️⃣ 数据： 大多数人怎么想： 他们认为 AI 主要是收集和分析大量数据。 ✅ AI 实际上是什么： 数据对 AI 来说确实至关重要，但它不仅仅是数量问题。数据的质量、相关性和多样性，以及有效的数据管理实践，对于准确和有意义的 AI 驱动型见解至关重要 2️⃣ 数据科学： 大多数人的看法：他们认为 AI 是一个完全由数据科学家主导的领域，他们处理数字并做出预测 ✅ AI 实际上是什么： 数据科学对 AI 至关重要，但它并不是唯一的重点。AI 涵盖一系列学科，包括机器学习、自然语言处理和计算机视觉，它们协同工作以从数据中提取价值 3️⃣ 价值： 大多数人的看法：他们期望 AI 能够提供有形的商业价值，并毫不费力地立即实现利润最大化 ✅ AI 实际上是什么： 虽然 AI 有可能产生巨大的价值，但它需要战略方法和谨慎的实施。实现 AI 的优势通常涉及渐进式进步、持续改进以及使 AI 计划与特定目标保持一致 4️⃣ 数据工程： 大多数人的看法：与开发 AI 模型相比，他们认为数据工程是次要的 ✅ AI 实际上是什么： 数据工程在 AI 旅程中起着至关重要的作用。它涉及收集、存储和预处理数据，确保其质量和可访问性。如果没有适当的数据工程实践，AI 模型可能会出现性能不佳或存在偏差 5️⃣ 建模和作： 大多数人的看法：他们将构建 AI 模型视为最终目标，而往往忽视了部署的挑战 ✅ AI 实际上是什么： 模型开发只是一个方面。在实际场景中实施 AI 模型涉及将它们集成到现有系统中，监控其性能，并确保持续的维护和更新。 要真正了解 AI 的潜力，大多数人必须超越误解和流行语。 通过认识到数据、数据科学、价值生成、数据工程、建模和作化的重要性，个人可以更深入地了解 AI 的真正能力！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTBVqn8IdVFAImIOvib2bbibz7dUBWP1Dicfd6nKbHcT8DKLpJT771yrZ2WXPFnu8wFiaaK2KvDvXS3Wg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTBVqn8IdVFAImIOvib2bbibz39ibQicB5AsiaNn09hwZibfuJvaI2dTOCvmwbHeFNGaDgaXuTcQm9vUYYw/0?wx_fmt=jpeg" width="400"/>
 
 ### [基于大型语言模型的意图检测](https://mp.weixin.qq.com/s/rG35b3lA-Ubc4rcjMwDVcg)
 
-- **发布日期**：2025-03-25 23:40  
-- **所属合集**：#LLM #RAG实战  
-- **摘要**：意图识别是NLP技术，专注于解析用户查询背后的核心诉求，在搜索与推荐系统领域具有重要地位，包括自然语言理解，即解析用户话语中隐含的语义；上下文分析，结合用户查询的上下文来精准识别意图；以及分类，将预定义标签或类别分配给用户输入及其预测意图  
+- **发布日期**：2025-03-25 23:40
+- **所属合集**：#LLM #RAG 实战
+- **摘要**：意图识别是 NLP 技术，专注于解析用户查询背后的核心诉求，在搜索与推荐系统领域具有重要地位，包括自然语言理解，即解析用户话语中隐含的语义；上下文分析，结合用户查询的上下文来精准识别意图；以及分类，将预定义标签或类别分配给用户输入及其预测意图
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRX4MtAsuNbhcwthKXIz4PL0wicuhZPnQGL8aZeoyVNWWoy99fykITLpMUmnTKlZjZiaJTy73ibjVFRA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRX4MtAsuNbhcwthKXIz4PLoI4Ed6MJkR6HSFPNbDNVzpmiclTxxT42DicqxxG8wvKowia1uUxmxvrKQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Qwen2 大模型指令微调入门实战](https://mp.weixin.qq.com/s/Atf61jocM3FBoGjZ_DZ1UA)
 
-- **发布日期**：2025-03-24 23:25  
-- **所属合集**：#LLM  
-- **摘要**：本文是笔者在 Mac 上复现林泽毅的微调流程，方便其他读者在本地实验！  
+- **发布日期**：2025-03-24 23:25
+- **所属合集**：#LLM
+- **摘要**：本文是笔者在 Mac 上复现林泽毅的微调流程，方便其他读者在本地实验！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRr3yOO83r6aBQqOtJKcQIKdQFtTP07lyU3pY0qRgQheberibiaCu6RXerHyWKcRlxbrztVJHD9vfQw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRr3yOO83r6aBQqOtJKcQIKhauPpIA7AzbbUPiahIbCTqsYtCgRBdxgc4EBApGMgZnsJ4ibHhUhGtkQ/0?wx_fmt=jpeg" width="400"/>
 
-### [学习总结 - RAG 快速开发实战 - 《02｜从0到1快速搭建RAG应用》](https://mp.weixin.qq.com/s/89-bwZ4aPor4ySj5U3n5zw)
+### [学习总结 - RAG 快速开发实战 - 《02 ｜从 0 到 1 快速搭建 RAG 应用》](https://mp.weixin.qq.com/s/89-bwZ4aPor4ySj5U3n5zw)
 
-- **发布日期**：2025-03-23 11:45  
-- **所属合集**：#LLM #RAG实战  
-- **摘要**：实战内容包括技术框架的介绍与选型、开发环境搭建与技术库安装、RAG 流程的代码实现。  
+- **发布日期**：2025-03-23 11:45
+- **所属合集**：#LLM #RAG 实战
+- **摘要**：实战内容包括技术框架的介绍与选型、开发环境搭建与技术库安装、RAG 流程的代码实现。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0ecuJSyDQ2RvMWyoeGUSSjKYULHSiczV4miagvOKGXLt0c8RmFP6ibgmUSk3DCWCyv961BfLkrSukw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0ecuJSyDQ2RvMWyoeGUSSK3DhiaUMoRXia0gOmGjZAuMaYiaXqwN0KFzbu954fL2MIF9TH0icnnFOGg/0?wx_fmt=jpeg" width="400"/>
 
 ### [提示词工程 vs RAG vs 微调](https://mp.weixin.qq.com/s/kdeksSoFNoXLzd1vp5Ho6A)
 
-- **发布日期**：2025-03-22 16:48  
-- **所属合集**：#LLM  
-- **摘要**：提示工程 vs RAG vs 微调  
+- **发布日期**：2025-03-22 16:48
+- **所属合集**：#LLM
+- **摘要**：提示工程 vs RAG vs 微调
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRnR6NmRiaZic4XxYM3zA3ung8e68ZCV6mRjTUbdbnJiaYfnxZEAvicqHiauGBzWomQmK6K8rZEVLv2ia5A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRnR6NmRiaZic4XxYM3zA3ungTVG4ibP7LCZ1qxYwLjpbEa4MhNItlicRxPjNE5gicCppSkX9wkeicISFAw/0?wx_fmt=jpeg" width="400"/>
 
 ### [动手学机器学习层次聚类算法](https://mp.weixin.qq.com/s/9qM0hB_7kwfSa_gAW7-tNg)
 
-- **发布日期**：2025-03-21 08:15  
-- **所属合集**：#机器学习  
-- **摘要**：层次聚类算法是一种重要的聚类分析方法，它通过构建一个层次结构（树形结构）来表示数据之间的相似性或距离关系。与划分聚类方法（如K-Means）不同，层次聚类无需预先指定聚类的类别数量，这使得它在某些特定场景下具有独特的优势。  
+- **发布日期**：2025-03-21 08:15
+- **所属合集**：#机器学习
+- **摘要**：层次聚类算法是一种重要的聚类分析方法，它通过构建一个层次结构（树形结构）来表示数据之间的相似性或距离关系。与划分聚类方法（如 K-Means）不同，层次聚类无需预先指定聚类的类别数量，这使得它在某些特定场景下具有独特的优势。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ4sdeRiciaD5DuxOEYstvoib0lfwLVTicFVe3W6xMzkHOtS1Bib6p4EcHnzwzWk8tHGs5hIVA9LrpdwMQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ4sdeRiciaD5DuxOEYstvoib0TywwulicCzVnE6jNBrsxJvrnzzwiaSHJkUgU1diafYjSvDRLVkZoFZzrQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [动手学机器学习 Kmeans 聚类算法](https://mp.weixin.qq.com/s/4UwH6GxcjeZF6bgObjhrGQ)
 
-- **发布日期**：2025-03-20 19:15  
-- **所属合集**：#机器学习  
-- **摘要**：Kmeans 算法是聚类算法中的一种，其基本思想是将数据集划分为 K 个簇，每个簇由其质心（centroid）表示。算法通过迭代优化的方式，使得每个样本被分配到最近的质心所在的簇，并不断更新质心的位置，直到达到收敛条件。  
+- **发布日期**：2025-03-20 19:15
+- **所属合集**：#机器学习
+- **摘要**：Kmeans 算法是聚类算法中的一种，其基本思想是将数据集划分为 K 个簇，每个簇由其质心（centroid）表示。算法通过迭代优化的方式，使得每个样本被分配到最近的质心所在的簇，并不断更新质心的位置，直到达到收敛条件。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ4sdeRiciaD5DuxOEYstvoib0MByhhpibdxxXKCzcEClWet9pALaCQGaCeNgx1QIOZKiaUbuGX1mxF90w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ4sdeRiciaD5DuxOEYstvoib0ox2pa4kL6kLkYLQAbHLsz8UFLkvlAIvF2123qhiapcgAP8TaRTheUaw/0?wx_fmt=jpeg" width="400"/>
 
 ### [混合专家系统（MoE）图解指南](https://mp.weixin.qq.com/s/9B_F6xbrWEMTXrtccjTsiw)
 
-- **发布日期**：2025-03-19 19:15  
-- **所属合集**：#LLM  
-- **摘要**：混合专家系统是一种提升大型语言模型计算效率的架构，通过多个专精不同任务的专家单元协同工作。其核心包括专家集群，即由多个前馈神经网络组成的可动态调度专家单元，以及路由分配器，用于智能选择合适专家处理输入数据。  
+- **发布日期**：2025-03-19 19:15
+- **所属合集**：#LLM
+- **摘要**：混合专家系统是一种提升大型语言模型计算效率的架构，通过多个专精不同任务的专家单元协同工作。其核心包括专家集群，即由多个前馈神经网络组成的可动态调度专家单元，以及路由分配器，用于智能选择合适专家处理输入数据。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQGbibVGvfGfOvS4KRVWPaJlSgKGibVsWib8uxWJUMW5zy60snAtjicPBicMwAbuS5to1RLOM7vXWxonPQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQGbibVGvfGfOvS4KRVWPaJlkqSEUbQgtQMFUvBGgY5bAfMePMB6sBnlQjMlBwwRzaykhKiauV6rHzQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [大模型量化技术（Quantization）可视化指南](https://mp.weixin.qq.com/s/8ABfKytTXp78ZTOWyoT0yw)
 
-- **发布日期**：2025-03-18 19:15  
-- **所属合集**：#好书推荐 #LLM  
-- **摘要**：大型语言模型的规模通常过于庞大，难以在消费级硬件上运行。这类模型的参数量可达数十亿级别，通常需要配备大容量显存的GPU来加速推理过程。为此，越来越多的研究聚焦于通过优化训练方式、引入适配器等技术缩小模型规模。其中一项关键技术便是量化。  
+- **发布日期**：2025-03-18 19:15
+- **所属合集**：#好书推荐 #LLM
+- **摘要**：大型语言模型的规模通常过于庞大，难以在消费级硬件上运行。这类模型的参数量可达数十亿级别，通常需要配备大容量显存的 GPU 来加速推理过程。为此，越来越多的研究聚焦于通过优化训练方式、引入适配器等技术缩小模型规模。其中一项关键技术便是量化。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSWfnAzp3AJTibLqXjES7lHo4sNehLRqj49ibTmhQqkqdDWBX1frbmxX6g7RxXG7PTZeO84ewZB7NjA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSWfnAzp3AJTibLqXjES7lHoEk3pmOb0jYEsgApN48fJXornZ23qRfS93WLww1lFoicEP7XUIlxHovw/0?wx_fmt=jpeg" width="400"/>
 
 ### [一文了解思维链（Chain-of-Thought, CoT）](https://mp.weixin.qq.com/s/RJymdxTIMVjalZyIRRSftg)
 
-- **发布日期**：2025-03-17 12:15  
-- **所属合集**：#LLM  
-- **摘要**：对于普通用户而言，如果某个问题必须依赖 COT 才能准确解答，那就请忘掉 COT，直接让大模型自动推理即可！  
+- **发布日期**：2025-03-17 12:15
+- **所属合集**：#LLM
+- **摘要**：对于普通用户而言，如果某个问题必须依赖 COT 才能准确解答，那就请忘掉 COT，直接让大模型自动推理即可！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHScibS9cGk5jvWKIJ6EnVsfWIsczNs2WqrwEWtj3e6pia84ebMAic6KmtM75qxNILkaspvzuOKwvO8Xw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHScibS9cGk5jvWKIJ6EnVsfWFCssMiaMwekaR1e5KjV475nRlhAcoicLmicuSKPsaLgG21GiclWkJC8icNA/0?wx_fmt=jpeg" width="400"/>
 
 ### [动手学机器学习随机森林算法](https://mp.weixin.qq.com/s/Rj2WwD96HAI5yqnOGjt8JA)
 
-- **发布日期**：2025-03-16 08:25  
-- **所属合集**：#机器学习  
-- **摘要**：随机森林是一种集成学习方法，它通过构建多个决策树并将其结果进行整合，利用降低方差的策略提高模型的泛化能力，从而减少过拟合风险。随机森林就像是一个由许多棵决策树组成的 “森林”，每棵树都是独立生长的，最终的预测结果是综合所有树的输出得出的。  
+- **发布日期**：2025-03-16 08:25
+- **所属合集**：#机器学习
+- **摘要**：随机森林是一种集成学习方法，它通过构建多个决策树并将其结果进行整合，利用降低方差的策略提高模型的泛化能力，从而减少过拟合风险。随机森林就像是一个由许多棵决策树组成的 “森林”，每棵树都是独立生长的，最终的预测结果是综合所有树的输出得出的。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSawROW6PVK1BjMMFFwmQfpwHjJLfMmeeYKyibmI3m6U3y9hdOr0SVsTFe3Au9nwvEnT9gZIZibGcvw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSawROW6PVK1BjMMFFwmQfpeEpfEibOOuh40lqiaZYnB7IvibGmOziaKLw7gg5MEOQ6y57b4sSn92gI7g/0?wx_fmt=jpeg" width="400"/>
 
-### [大模型时代，智能体崛起：从技术解构到工程落地的全栈指南 ——《大模型技术30讲》](https://mp.weixin.qq.com/s/bNH2HaN1GJPyHTftg62Erg)
+### [大模型时代，智能体崛起：从技术解构到工程落地的全栈指南 ——《大模型技术 30 讲》](https://mp.weixin.qq.com/s/bNH2HaN1GJPyHTftg62Erg)
 
-- **发布日期**：2025-03-15 08:15  
-- **所属合集**：#LLM #智能 Agent  
-- **摘要**：《大模型技术30讲》这本书如同一座桥梁，连接起了学术理论与工程实践的两岸，为工程师们提供了一套全面且深入的技术知识体系和实践指导。它不仅详细阐述了Transformer架构背后的数学原理，还构建了一条从单卡调试到大规模集群部署的完整工程路径  
+- **发布日期**：2025-03-15 08:15
+- **所属合集**：#LLM #智能 Agent
+- **摘要**：《大模型技术 30 讲》这本书如同一座桥梁，连接起了学术理论与工程实践的两岸，为工程师们提供了一套全面且深入的技术知识体系和实践指导。它不仅详细阐述了 Transformer 架构背后的数学原理，还构建了一条从单卡调试到大规模集群部署的完整工程路径
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0WWCkdib31VW8L4GowR129GZiaHBBR3U0GVm4Fjicia3rhT3J4Zuj3IwiaaWercGq9R5HkuhvdrqVOrg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0WWCkdib31VW8L4GowR129ribSTVXibtPL3buqpua7Ds7gSr7ic6icR6zqXYbicRgouhmr86F2mZvCc7A/0?wx_fmt=jpeg" width="400"/>
 
 ### [动手学机器学习朴素贝叶斯算法](https://mp.weixin.qq.com/s/Vd5gibkU3oeHURSm63lphQ)
 
-- **发布日期**：2025-03-14 08:15  
-- **所属合集**：#机器学习  
-- **摘要**：朴素贝叶斯算法基于贝叶斯定理和特征条件独立性假设，通过计算后验概率进行分类。尽管独立性假设在现实中可能不完全成立，但该算法在许多实际应用中仍能取得较好的效果，尤其在文本分类等任务中表现突出。  
+- **发布日期**：2025-03-14 08:15
+- **所属合集**：#机器学习
+- **摘要**：朴素贝叶斯算法基于贝叶斯定理和特征条件独立性假设，通过计算后验概率进行分类。尽管独立性假设在现实中可能不完全成立，但该算法在许多实际应用中仍能取得较好的效果，尤其在文本分类等任务中表现突出。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQxY3NHPfg4ed083DOO1t7hickwGfn4icicxdhDhlwAzReIia6B0QLOcy1go9tDS0Xicy54BMazWIDdEbg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQxY3NHPfg4ed083DOO1t7hicTznHgoic1W4KB0BgibDmMg10EUSdt1dtUYT6khOkBKHxCkjSdmrQwxg/0?wx_fmt=jpeg" width="400"/>
 
 ### [动手学机器学习逻辑回归算法](https://mp.weixin.qq.com/s/sy5nu3jtJ81yIT6i03n7Tg)
 
-- **发布日期**：2025-03-13 08:15  
-- **所属合集**：#机器学习  
-- **摘要**：逻辑回归是一种广为人知且应用广泛的算法。尽管它的名字中包含 “回归”，但它实际上主要用于分类任务，尤其是二分类问题。所谓二分类问题，就是我们要将数据划分为两个互斥的类别，例如判断一封邮件是否为垃圾邮件，或者预测一个患者是否有某种疾病。  
+- **发布日期**：2025-03-13 08:15
+- **所属合集**：#机器学习
+- **摘要**：逻辑回归是一种广为人知且应用广泛的算法。尽管它的名字中包含 “回归”，但它实际上主要用于分类任务，尤其是二分类问题。所谓二分类问题，就是我们要将数据划分为两个互斥的类别，例如判断一封邮件是否为垃圾邮件，或者预测一个患者是否有某种疾病。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ5MlcEs1IFDWMhVbY7nML0mft3A1ZR3aPAOvtsX5mADnDVLmjJfF3J1J1R4iaSxviakSdibicaI4icf2g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ5MlcEs1IFDWMhVbY7nML0aMn2HHcl6uMeE66IknQcvN9Jj1ichQfaH5icD78MSDoksreDibQKxzO4Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [动手学机器学习支持向量机](https://mp.weixin.qq.com/s/xg3LsueOdGyniZmibgB2Lw)
 
-- **发布日期**：2025-03-12 08:15  
-- **所属合集**：#机器学习  
-- **摘要**：支持向量机（Support Vector Machine，简称 SVM）是一种监督学习算法，主要用于分类和回归任务。其核心思想是通过寻找一个最优的超平面，将不同类别的数据点尽可能宽地分开，这个超平面在高维空间中起到分类决策边界的作用。  
+- **发布日期**：2025-03-12 08:15
+- **所属合集**：#机器学习
+- **摘要**：支持向量机（Support Vector Machine，简称 SVM）是一种监督学习算法，主要用于分类和回归任务。其核心思想是通过寻找一个最优的超平面，将不同类别的数据点尽可能宽地分开，这个超平面在高维空间中起到分类决策边界的作用。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJPDhfibhzkYKVkCTRbxMQ9Aicw8aIrSWVv2YO0176uCXOQ8WSDvAFFXmcOXPNDw9HI6O5LbicSCOFA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJPDhfibhzkYKVkCTRbxMQ9EzcdR6pKQ78DIVBZhtaMadmwFMsm3O93tg7vxyAKr1bibmgibJtYazkg/0?wx_fmt=jpeg" width="400"/>
 
-### [AI Agents for Beginners 课程之 AI Agent及使用场景简介](https://mp.weixin.qq.com/s/XpBYMTKj4j7CT-N_xkKvBg)
+### [AI Agents for Beginners 课程之 AI Agent 及使用场景简介](https://mp.weixin.qq.com/s/XpBYMTKj4j7CT-N_xkKvBg)
 
-- **发布日期**：2025-03-12 08:15  
-- **所属合集**：#LLM #智能 Agent  
-- **摘要**：AI Agents for Beginners是一门由微软提供的课程，旨在帮助初学者全面了解 `AI Agent` 的构建与应用。课程涵盖的基础概念、开发框架、设计模式、工具使用、可信赖构建、规划、多智能体系统、元认知以及生产环境部署等内容  
+- **发布日期**：2025-03-12 08:15
+- **所属合集**：#LLM #智能 Agent
+- **摘要**：AI Agents for Beginners 是一门由微软提供的课程，旨在帮助初学者全面了解 `AI Agent` 的构建与应用。课程涵盖的基础概念、开发框架、设计模式、工具使用、可信赖构建、规划、多智能体系统、元认知以及生产环境部署等内容
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJPDhfibhzkYKVkCTRbxMQ9JXMBJCoBRs60GqX469n5D5zCLia47hN9FCLETgw7P3QNPU0rjYoy4mA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJPDhfibhzkYKVkCTRbxMQ9S4pFd4nRnTgcJwnW1yjV4VXx8fLIGBldSBJ4hsnA1Jbz6aEenAMhgA/0?wx_fmt=jpeg" width="400"/>
 
 ### [动手学线性回归算法](https://mp.weixin.qq.com/s/3W72yBZ3YjfVXjCKZHF_Ug)
 
-- **发布日期**：2025-03-11 08:15  
-- **所属合集**：#机器学习  
-- **摘要**：在统计学中，线性回归（linear regression）是利用称为线性回归方程的最小二乘函数对一个或多个自变量和因变量之间关系进行建模的一种回归分析。这种函数是一个或多个称为回归系数的模型参数的线性组合。  
+- **发布日期**：2025-03-11 08:15
+- **所属合集**：#机器学习
+- **摘要**：在统计学中，线性回归（linear regression）是利用称为线性回归方程的最小二乘函数对一个或多个自变量和因变量之间关系进行建模的一种回归分析。这种函数是一个或多个称为回归系数的模型参数的线性组合。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTeItsZiaxoD7kqjZWIfrU7tPicUwibgjw9g6B5baOXjGoQTLUyxL0QgbNpYam1bFb138OxdWIic7c1Aw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTeItsZiaxoD7kqjZWIfrU7tW4vxFzpKicw6yAptYO50YdUEpoJaXzIVsdmd7EUHuibh7xU57G6NmeHw/0?wx_fmt=jpeg" width="400"/>
 
 ### [分类模型评估工具 - 混淆矩阵](https://mp.weixin.qq.com/s/B8Ogm3mnzQzzL-gofMdq3Q)
 
-- **发布日期**：2025-03-10 08:15  
-- **所属合集**：#机器学习  
-- **摘要**：混淆矩阵（Confusion Matrix）是评估分类模型性能的重要工具，尤其适用于二分类问题，但也可扩展至多分类。它通过统计模型预测结果与真实结果的对应关系，直观展示分类模型的优势和不足。  
+- **发布日期**：2025-03-10 08:15
+- **所属合集**：#机器学习
+- **摘要**：混淆矩阵（Confusion Matrix）是评估分类模型性能的重要工具，尤其适用于二分类问题，但也可扩展至多分类。它通过统计模型预测结果与真实结果的对应关系，直观展示分类模型的优势和不足。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQghnJnADMzDvHF6icaK59bf9TtB6WR74sm6lo4Uk1zx8IAYo7J5gnNuKIicI1QMPIWy9EUPXVSvORw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQghnJnADMzDvHF6icaK59bfLM0LdgOd9tuuSFyZiccmDnicYckWGgibneOjZhF742y7Aj8Ns1Iay8UKg/0?wx_fmt=jpeg" width="400"/>
 
 ### [什么是大模型的幻觉？用户如何应对呢？](https://mp.weixin.qq.com/s/7OCNx37k9xCouF08fnoJMQ)
 
-- **发布日期**：2025-03-09 08:30  
-- **所属合集**：#LLM  
-- **摘要**：大模型的幻觉问题是一个复杂且多面的挑战，需要从数据治理、模型优化、解码控制以及用户侧防御等多个维度综合应对。当然了作为普通用户，我们更加关注用户侧防御！  
+- **发布日期**：2025-03-09 08:30
+- **所属合集**：#LLM
+- **摘要**：大模型的幻觉问题是一个复杂且多面的挑战，需要从数据治理、模型优化、解码控制以及用户侧防御等多个维度综合应对。当然了作为普通用户，我们更加关注用户侧防御！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTeItsZiaxoD7kqjZWIfrU7tWfQ542P6kkwPCwHGNoqPE5QGLrIgo8uYZb5qicjiaxoqVwAfLh5h1oiaQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTeItsZiaxoD7kqjZWIfrU7terXc1B9R6ibs9ib7S3FXR1wdzAU8TxC4AvMWzpSic5OLepEg4gbEUSt7A/0?wx_fmt=jpeg" width="400"/>
 
 ### [动手学决策树算法](https://mp.weixin.qq.com/s/oduSu4oFpum82Tf7LlZnag)
 
-- **发布日期**：2025-03-08 09:15  
-- **所属合集**：#机器学习  
-- **摘要**：决策树是一种监督学习算法，广泛应用于分类和回归任务。它通过递归地分裂数据集，将数据分成越来越小的子集，直到达到某种停止条件。每个内部节点表示一个特征或属性，每个分支表示一个决策规则，每个叶节点表示一个类别或预测值。  
+- **发布日期**：2025-03-08 09:15
+- **所属合集**：#机器学习
+- **摘要**：决策树是一种监督学习算法，广泛应用于分类和回归任务。它通过递归地分裂数据集，将数据分成越来越小的子集，直到达到某种停止条件。每个内部节点表示一个特征或属性，每个分支表示一个决策规则，每个叶节点表示一个类别或预测值。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjAibYRMhDhDvoJCcicXicvHRuEfYBURHOdKDlBwk3v6O8MOYoFQ9t3eH2GlsX8zL6qxRaMBDJFuCnA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjAibYRMhDhDvoJCcicXicvHRet5jARgMpcnBQVMxAytNAbZ9kEWCO5hvRe93BpibPbxwiaIvACyFegpQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [KNN 算法简介](https://mp.weixin.qq.com/s/o3gMk515fp5abW4yjG9UmQ)
 
-- **发布日期**：2025-03-07 12:35  
-- **所属合集**：#机器学习  
-- **摘要**：K 近邻（K-Nearest Neighbors，KNN）是一种基本的机器学习算法，广泛应用于分类和回归任务。它的核心思想是：“物以类聚”，即如果一个数据点在特征空间中与某些已知类别的数据点靠得很近，那么它很可能属于这些数据点所属的类别。  
+- **发布日期**：2025-03-07 12:35
+- **所属合集**：#机器学习
+- **摘要**：K 近邻（K-Nearest Neighbors，KNN）是一种基本的机器学习算法，广泛应用于分类和回归任务。它的核心思想是：“物以类聚”，即如果一个数据点在特征空间中与某些已知类别的数据点靠得很近，那么它很可能属于这些数据点所属的类别。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjAibYRMhDhDvoJCcicXicvHRriaLffUvWt5mER27ltbfFJkibfeozvA68LwLlmBaMLiaDEXt6J0LnB8iaA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjAibYRMhDhDvoJCcicXicvHRrG5FzCTfQUibVqdrS8WibWymMIDECzMR6z1ccJIaKb61C5ibEN8j376NQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [读《数据密集型应用系统设计》，学分布式系统～！](https://mp.weixin.qq.com/s/gH8FvAxuQKwc1HvOleyoLw)
 
-- **发布日期**：2025-03-06 08:15  
-- **所属合集**：#分布式系统 #好书推荐  
-- **摘要**：《数据密集型应用系统设计》这本书对与「数据」相关的知识点进行了深入剖析、整理和总结。它从宏观层面阐述了各项技术的共性与差异，并将底层原理讲解得透彻清晰。理解了这些原理后，我们就能明白每项技术的诞生背景、所要解决的问题以及适用场景。  
+- **发布日期**：2025-03-06 08:15
+- **所属合集**：#分布式系统 #好书推荐
+- **摘要**：《数据密集型应用系统设计》这本书对与「数据」相关的知识点进行了深入剖析、整理和总结。它从宏观层面阐述了各项技术的共性与差异，并将底层原理讲解得透彻清晰。理解了这些原理后，我们就能明白每项技术的诞生背景、所要解决的问题以及适用场景。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRlviak1TR1NicKqWkianMkQGfYyFb2pwWoY7Ts88w74c7ALNS3PvQnwKX1UJUuQ1X1WHLfCmh3HfZpQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRlviak1TR1NicKqWkianMkQGfYC1l3x3tJJfS7azsSBPa44GKmWLiawZO6k29icv6JdrkzRtyT3tBh1Sw/0?wx_fmt=jpeg" width="400"/>
 
 ### [送书了 - 《数据密集型应用系统设计》](https://mp.weixin.qq.com/s/I8RWdzAJu7lTlta1BC5blQ)
 
-- **发布日期**：2025-03-05 08:15  
-- **所属合集**：#分布式系统 #好书推荐  
-- **摘要**：《数据密集型应用系统设计》，英文名称是《Designing Data-Intensive Application》 ，也被简称为 DDIA。这是一本神书，豆瓣评分高达 9.7 分。  
+- **发布日期**：2025-03-05 08:15
+- **所属合集**：#分布式系统 #好书推荐
+- **摘要**：《数据密集型应用系统设计》，英文名称是《Designing Data-Intensive Application》 ，也被简称为 DDIA。这是一本神书，豆瓣评分高达 9.7 分。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTWY7OsozpkuGRicELsicicPpbodsNKBIfq9jrOTal4HhffoPf3bRtmOpCs44lqFNfXA7VF5zLibLK2Jw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTWY7OsozpkuGRicELsicicPpbn7mfMkcY2jzQWbP3DdowFfcJtIZMS1ZFl8l7RXJ6jj8ia7e8fdlv1Uw/0?wx_fmt=jpeg" width="400"/>
 
 ### [上海人工智能实验室开源工具 MinerU 助力复杂 PDF 高效解析提取](https://mp.weixin.qq.com/s/toz-sSNV7_t3mgFTxCEBgw)
 
-- **发布日期**：2025-03-04 08:15  
-- **所属合集**：#deepseek #LLM  
-- **摘要**：MinerU 是一款开源智能文档解析工具，专注于将 PDF、网页、电子书等多模态内容转换为结构化数据（如 Markdown、JSON），支持 AI 训练、知识管理、RAG（检索增强生成）等场景。  
+- **发布日期**：2025-03-04 08:15
+- **所属合集**：#deepseek #LLM
+- **摘要**：MinerU 是一款开源智能文档解析工具，专注于将 PDF、网页、电子书等多模态内容转换为结构化数据（如 Markdown、JSON），支持 AI 训练、知识管理、RAG（检索增强生成）等场景。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTzb0QLSZTcIRmwkrmkl2KA7AibzbN6l6Gh9IWO4gFxxjrMfw4XlWRIwKzQSD5MBocG9lfssmlic4MQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTzb0QLSZTcIRmwkrmkl2KA3dxbXs9bicXU60aBicaLNBuwdcwT2BQ5cN7ic65iaMJ1ChJfUzicO7R87Eg/0?wx_fmt=jpeg" width="400"/>
 
 ### [深入探索：AI 驱动的 PDF 布局检测引擎源代码解析](https://mp.weixin.qq.com/s/NPKjONTcLCUfMUGr4mc_wQ)
 
-- **发布日期**：2025-03-03 08:15  
-- **所属合集**：#LLM #deepseek  
-- **摘要**：Marker 能够将 `PDF`、`EPUB` 和 `MOBI` 文件转换成 `Markdown` 格式。它的转换速度比 `nougat` 快 10 倍，准确度更高，且几乎没有误解风险。  
+- **发布日期**：2025-03-03 08:15
+- **所属合集**：#LLM #deepseek
+- **摘要**：Marker 能够将 `PDF`、`EPUB` 和 `MOBI` 文件转换成 `Markdown` 格式。它的转换速度比 `nougat` 快 10 倍，准确度更高，且几乎没有误解风险。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQHdWMMA6tYojNFokRjOsRKtyHv6vtOAXfPd6fM9exMic6BoSNMyIaSZBTFeZxhRVibS5kBWzcZSQcQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQHdWMMA6tYojNFokRjOsRK2Kb3eJddbgT1yjEjmDbdse1DfSGXdqWNa7VP9IW7opSnvOP4ZfLX2A/0?wx_fmt=jpeg" width="400"/>
 
 ### [Deepseek 3FS（ Fire-Flyer File System）设计笔记](https://mp.weixin.qq.com/s/B_5xdV2gl9APcJyBuBuUgQ)
 
-- **发布日期**：2025-03-01 10:40  
-- **所属合集**：#Linux #deepseek #分布式系统  
-- **摘要**：Fire-Flyer File System (3FS) 是一种高性能分布式文件系统，旨在解决 AI 训练和推理工作负载的挑战。它利用现代 SSD 和 RDMA 网络来提供共享存储层，从而简化分布式应用程序的开发。  
+- **发布日期**：2025-03-01 10:40
+- **所属合集**：#Linux #deepseek #分布式系统
+- **摘要**：Fire-Flyer File System (3FS) 是一种高性能分布式文件系统，旨在解决 AI 训练和推理工作负载的挑战。它利用现代 SSD 和 RDMA 网络来提供共享存储层，从而简化分布式应用程序的开发。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRe9PHVY6Mx6AO9OiaicwZBibmvLDtYTZMiaABTK0eKO9QJRR8Dpqn79Hib10A51Q95pZMHzvkWOPtvdoA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRe9PHVY6Mx6AO9OiaicwZBibmAAKprf5f296SqEsCnf5UIf06Fqrh5jCO4PXSqZnsfEUCUpickwibmW7A/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 进程间共享内存通信方案 v2：基于 Futex 锁的实现](https://mp.weixin.qq.com/s/CIrXEOBA2NSF95JDdPVcmw)
 
-- **发布日期**：2025-02-28 23:29  
-- **所属合集**：#Linux  
-- **摘要**：Linux 进程间共享内存通信方案 v2：基于 Futex 锁的实现  
+- **发布日期**：2025-02-28 23:29
+- **所属合集**：#Linux
+- **摘要**：Linux 进程间共享内存通信方案 v2：基于 Futex 锁的实现
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTAgxkOI74zIpJfdOO23wDqgUlOSb1xGPzx82F2xzJGwicYMQXia2Sm5jvpXwS2eeQp1YE6715ic116w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTAgxkOI74zIpJfdOO23wDqDkfw1iazsiaGgeOXQs3fRnZWcgYHzl2Io1Mcz57NjTsoiak1Y6cYR9zwA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 进程间共享内存通信方案（代码版）](https://mp.weixin.qq.com/s/9-3oSrNkxYcjphwimruMbg)
 
-- **发布日期**：2025-02-27 08:15  
-- **所属合集**：#Linux  
-- **摘要**：共享内存是一种高效的进程间通信机制，允许多个进程直接访问同一块内存区域，从而实现数据的快速交换。  
+- **发布日期**：2025-02-27 08:15
+- **所属合集**：#Linux
+- **摘要**：共享内存是一种高效的进程间通信机制，允许多个进程直接访问同一块内存区域，从而实现数据的快速交换。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSyF0ibTnWfpFmB0fo7kurLKiaBpYdQGS7Zpj3ibmp7ibBmNYvIcdWhUMT85KutnMCZibxhicgia1KHvcAFQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSyF0ibTnWfpFmB0fo7kurLKOlAFtzNvTtsULicC1ZaTvJcON9p6CJWvUibw2ria9xAiaFnibLkUzXRTykQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [详解 Kubernetes 中的等待重试机制](https://mp.weixin.qq.com/s/DTwodGjz9CQ8cQ6fC26g5w)
 
-- **发布日期**：2025-02-26 10:10  
-- **所属合集**：nan  
-- **摘要**：Kubernetes 中有很多需要重试的地方，比如重启 Pod、CSI 的 PVC 挂载重试等。出错重试时通常都会等待一个指数增长的时间，本文就来解析这个等待重试的机制。  
+- **发布日期**：2025-02-26 10:10
+- **所属合集**：#Kubernetes
+- **摘要**：Kubernetes 中有很多需要重试的地方，比如重启 Pod、CSI 的 PVC 挂载重试等。出错重试时通常都会等待一个指数增长的时间，本文就来解析这个等待重试的机制。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCqUXibTVNXpokMHHWNmsqueN1a1Iy4BhwBpVDwia3TMkqs1G6TA1hJ4zQxNTKTaFibYpx95RbIScBkSg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCqUXibTVNXpokMHHWNmsqueN2ADp6n695d6ksCkpnkHdLgdy8RMzvdMU2A8YAblAOYicU4duiaibrYr7g/0?wx_fmt=jpeg" width="400"/>
 
 ### [DeepSeek Open Infra 开源五天乐及好书《动手学机器学习》推荐](https://mp.weixin.qq.com/s/pgwpndnu0vUru7r4qTgTJw)
 
-- **发布日期**：2025-02-26 10:10  
-- **所属合集**：#LLM #机器学习  
-- **摘要**：DeepSeek Open Infra 开源五天乐及好书《动手学机器学习》推荐  
+- **发布日期**：2025-02-26 10:10
+- **所属合集**：#LLM #机器学习
+- **摘要**：DeepSeek Open Infra 开源五天乐及好书《动手学机器学习》推荐
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSyF0ibTnWfpFmB0fo7kurLKzibHqN0Ceg6Blgib3n9gjL0z8rkFRM00XkgOwtsNseJD9gUvnJ8vtu8A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSyF0ibTnWfpFmB0fo7kurLKxqb3w18hXcLdsicdRn4n4tr0vadCUvIjdKQ2vGlgGqedhQ8uRN1clFA/0?wx_fmt=jpeg" width="400"/>
 
 ### [列式存储的 Repetition Level 与 Definition Level](https://mp.weixin.qq.com/s/BuKKnxm3OmPUPhwx17eddQ)
 
-- **发布日期**：2025-02-25 12:05  
-- **所属合集**：#大数据  
-- **摘要**：Parquet 的 Repetition Level（重复层级）和 Definition Level（定义层级）是处理嵌套数据结构的关键机制，尤其在列式存储中高效编码和重建复杂数据。  
+- **发布日期**：2025-02-25 12:05
+- **所属合集**：#大数据
+- **摘要**：Parquet 的 Repetition Level（重复层级）和 Definition Level（定义层级）是处理嵌套数据结构的关键机制，尤其在列式存储中高效编码和重建复杂数据。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ5PIegBWqucOwvqRbFNE1icH7bEmAwEEDALGSibWLNYvhNT0nJxeMlibEfG7dicDFiaEtgMJFvUFfM3Qg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ5PIegBWqucOwvqRbFNE1icx1Zx6t3aOnWVYWY2v8LiaErFCdtAW7HnKicpwmRkJjYzkcXbq4bEiaibiag/0?wx_fmt=jpeg" width="400"/>
 
 ### [Hello, DeepSeek Open Infra!](https://mp.weixin.qq.com/s/UzlIZR3i7nKbzE3lvE3nNQ)
 
-- **发布日期**：2025-02-24 11:10  
-- **所属合集**：#LLM #deepseek  
-- **摘要**：没有任何虚假信息，只有【真诚的代码】，推动着我们微小却雄心勃勃的梦想不断前行。  
+- **发布日期**：2025-02-24 11:10
+- **所属合集**：#LLM #deepseek
+- **摘要**：没有任何虚假信息，只有【真诚的代码】，推动着我们微小却雄心勃勃的梦想不断前行。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREef2sanKvAwqEdysODs9UklrrVcMpaZKKfH2wwiawEP5ukO82qC8NLoHkjpPUPdicuXDSKgzpbG8Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREef2sanKvAwqEdysODs9UJohhJ7dmdjQuf5ruh1IDyoJYaJlNZZbs0BI8BMYwX9ZVgDccwd8K2g/0?wx_fmt=jpeg" width="400"/>
 
 ### [大数据中的「文件格式」vs. 「表格格式」](https://mp.weixin.qq.com/s/4hNp_SagYQRjZewAHheZYw)
 
-- **发布日期**：2025-02-23 08:25  
-- **所属合集**：#大数据  
-- **摘要**：文件格式用于高效存储和压缩数据，定义字节组织方式；表格格式在其上提供逻辑抽象，方便组织、查询和更新，使 SQL 引擎能将文件集合当作有行和列的表格来执行操作。  
+- **发布日期**：2025-02-23 08:25
+- **所属合集**：#大数据
+- **摘要**：文件格式用于高效存储和压缩数据，定义字节组织方式；表格格式在其上提供逻辑抽象，方便组织、查询和更新，使 SQL 引擎能将文件集合当作有行和列的表格来执行操作。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHShdZDd2QGWtIedpQJLJ82QW707qqwlacibatW8puqiaGbDFp43zHPhibCoVYhvOMhs8NpVmzeBuXcOQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHShdZDd2QGWtIedpQJLJ82QkAUpKPL403z2yrWQRLzlBxYjcUqHricT5p1768OKADGF2vZUoDcd0qA/0?wx_fmt=jpeg" width="400"/>
 
 ### [啤酒与尿布的故事，以及背后的 Apriori 算法](https://mp.weixin.qq.com/s/5WgVQtWIV6UMNDJLqGv6kA)
 
-- **发布日期**：2025-02-22 08:31  
-- **所属合集**：#机器学习  
-- **摘要**：关联分析（关联规则学习): 从大规模数据集中寻找物品间的隐含关系被称作关联分析(associati analysis)或者关联规则学习（association rule learning），APriori 算法则是常用的算法。  
+- **发布日期**：2025-02-22 08:31
+- **所属合集**：#机器学习
+- **摘要**：关联分析（关联规则学习): 从大规模数据集中寻找物品间的隐含关系被称作关联分析(associati analysis)或者关联规则学习（association rule learning），APriori 算法则是常用的算法。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRHicqFCGqBZkbjgbxp7kP7LoTZu6b5pYHSbyNtTSj70IBhgic74zfiba5SVcoGuiaFzmbqOtjIYRbTUw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRHicqFCGqBZkbjgbxp7kP7L6bjqB0uhDJoRaBg6ExgJV3KDab1GfuZIwUK1G4yU74k0ib7l8M2ndicA/0?wx_fmt=jpeg" width="400"/>
 
-### [南京大学“绿导师原谅你了”- AI时代的操作系统课，开课了！](https://mp.weixin.qq.com/s/r5YiBGJAlSwXHeCA1Mez8Q)
+### [南京大学“绿导师原谅你了”- AI 时代的操作系统课，开课了！](https://mp.weixin.qq.com/s/r5YiBGJAlSwXHeCA1Mez8Q)
 
-- **发布日期**：2025-02-20 20:55  
-- **所属合集**：nan  
-- **摘要**：nan  
+- **发布日期**：2025-02-20 20:55
+- **所属合集**：#CS
+- **摘要**：nan
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTbSEiaWibKAl9Xcaiaqpd83KNibiaHAp4zPGR7zNMGP2vsX6Jz8Ropjr6qtAfjb0PMzP4kicWRD19icv1sQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTbSEiaWibKAl9Xcaiaqpd83KNiaTlwPBCAKGsAPdEhbbkVhNJWeg7W8bF0eYxqwklLHtl9ibT8PO2tB7g/0?wx_fmt=jpeg" width="400"/>
 
 ### [万字长文深入浅出文本嵌入（Text-Embedding）技术](https://mp.weixin.qq.com/s/npwT3_kaS5RDtYslz1caFQ)
 
-- **发布日期**：2025-02-19 08:15  
-- **所属合集**：#LLM  
-- **摘要**：Text-embedding 技术是一种将文本数据转换为向量的技术，通过深度学习模型将文本的语义信息嵌入到高维向量空间中。这些向量不仅能表达文本内容，还能捕捉文本之间的相似性和关系，从而让计算机高效地进行文本检索、分类、聚类等任务。  
+- **发布日期**：2025-02-19 08:15
+- **所属合集**：#LLM
+- **摘要**：Text-embedding 技术是一种将文本数据转换为向量的技术，通过深度学习模型将文本的语义信息嵌入到高维向量空间中。这些向量不仅能表达文本内容，还能捕捉文本之间的相似性和关系，从而让计算机高效地进行文本检索、分类、聚类等任务。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRhaZvoeeSbopVt1IYOnB91hJ2JqwHCltOooibgbP4dO2jPFiayGXujMehzbN45spQWgiaKxeFJZQOKA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRhaZvoeeSbopVt1IYOnB91SDCibraGmibyjQHlufNNqLVyN1mefSmFlcqDoTNHHicwEooR3Kia9C1EcQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Google Cloud 的免费生成式 AI 课程](https://mp.weixin.qq.com/s/91iwIWhzhne1DwOCjCEMCw)
 
-- **发布日期**：2025-02-18 08:15  
-- **所属合集**：#LLM  
-- **摘要**：本学习路径全面介绍了生成式 AI。本专业探索了大型语言模型 (LLM) 的基础、其多样化应用以及负责任的 AI 开发和部署所必需的道德考量。  
+- **发布日期**：2025-02-18 08:15
+- **所属合集**：#LLM
+- **摘要**：本学习路径全面介绍了生成式 AI。本专业探索了大型语言模型 (LLM) 的基础、其多样化应用以及负责任的 AI 开发和部署所必需的道德考量。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSJEUHWLOMSRBby7uX1cvZ3XxhMYANyiczeS9dqrKvTaXpdaKKIjseXZ7hhoxuWic8TuicKibODApTT0w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSJEUHWLOMSRBby7uX1cvZ33XDNT7rD9qJbS63icOjERPDAEsn7nFLqz35pco0az7jribqYFJxLB54A/0?wx_fmt=jpeg" width="400"/>
 
 ### [解密大语言模型中的 Tokens](https://mp.weixin.qq.com/s/ln-AoMyKZG4TzNbkpJBaIQ)
 
-- **发布日期**：2025-02-15 21:45  
-- **所属合集**：#LLM  
-- **摘要**：本文将详细解析大语言模型中 token 的概念、如何估算其数量，并提供具体的 Python 示例，帮助开发者更好地理解和调用大语言模型。  
+- **发布日期**：2025-02-15 21:45
+- **所属合集**：#LLM
+- **摘要**：本文将详细解析大语言模型中 token 的概念、如何估算其数量，并提供具体的 Python 示例，帮助开发者更好地理解和调用大语言模型。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRzTLYlFddDOQNkxhwlsSibXQYTVDfA6sH8VKFCE0jj1uXBuwfRNicEI18qFWIXmM7OHP5C63u9KcwQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRzTLYlFddDOQNkxhwlsSibXBlW7tFpFtEY6KNPSiaC5oqWp0BbVE2kNWLiclIRFhYPMBvo9Y6CAeuYQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [全系列 DeepSeek R1 模型单机部署配置要求](https://mp.weixin.qq.com/s/p_NwBZyf4uT-iU_RFIOXzw)
 
-- **发布日期**：2025-02-14 18:35  
-- **所属合集**：#LLM  
-- **摘要**：全系列 DeepSeek R1 模型「单机部署」配置要求!  
+- **发布日期**：2025-02-14 18:35
+- **所属合集**：#LLM
+- **摘要**：全系列 DeepSeek R1 模型「单机部署」配置要求!
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRRA61ybiacDdePialibXuymgOstLWAiapCOokG3EmNapBiaj0Vmmeay0sBCWyIw69ia5pRV1Dpeiactc1YA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRRA61ybiacDdePialibXuymgOff1XAGTqSwpYQZb6nlib7iaq9BcM3FTcbIjPrZdhFriatujzc2ZMhTlqw/0?wx_fmt=jpeg" width="400"/>
 
 ### [基于大语言模型的文本分类实践](https://mp.weixin.qq.com/s/TPr5CwoAO4sIyTZf7IfZJg)
 
-- **发布日期**：2025-02-13 19:15  
-- **所属合集**：#LLM  
-- **摘要**：随着 **大语言模型**（如 GPT-4、BERT）的出现，文本分类任务也进入了一个新的阶段。大语言模型能够理解文本的上下文，并通过 `zero-shot` 或 `few-shot` 学习进行分类。  
+- **发布日期**：2025-02-13 19:15
+- **所属合集**：#LLM
+- **摘要**：随着 **大语言模型**（如 GPT-4、BERT）的出现，文本分类任务也进入了一个新的阶段。大语言模型能够理解文本的上下文，并通过 `zero-shot` 或 `few-shot` 学习进行分类。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSH8OalCq9ia8hicNAgicV9EDw4EXfZbNyz9Dnbdl9M0gTnHReY9AxrnsxZXzL3H1jFVmhqeHaR2RPkg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSH8OalCq9ia8hicNAgicV9EDwXSMddnanGnMh2pibPc7uhU6IGuN3ic14vkJ8QZc7iahe8qWYu7g34qVLg/0?wx_fmt=jpeg" width="400"/>
 
-### [4090单卡跑满血版DeepSeek-R1，清华团队开源项目再破大模型推理门槛](https://mp.weixin.qq.com/s/C0e6ooiR1NgqeMj7z8yOJQ)
+### [4090 单卡跑满血版 DeepSeek-R1，清华团队开源项目再破大模型推理门槛](https://mp.weixin.qq.com/s/C0e6ooiR1NgqeMj7z8yOJQ)
 
-- **发布日期**：2025-02-12 19:05  
-- **所属合集**：#LLM  
-- **摘要**：清华大学KVCache.AI团队与趋境科技联手放了个大招——开源项目KTransformers，直接让单张RTX 4090显卡（24GB显存）搭配382GB内存就能跑满血版DeepSeek-R1（671B参数）！  
+- **发布日期**：2025-02-12 19:05
+- **所属合集**：#LLM
+- **摘要**：清华大学 KVCache.AI 团队与趋境科技联手放了个大招——开源项目 KTransformers，直接让单张 RTX 4090 显卡（24GB 显存）搭配 382GB 内存就能跑满血版 DeepSeek-R1（671B 参数）！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSYicvA8icacuNibVRBbfRdKrh80vslQVNW5mO5rnia9PR4ohbySzL9ruRvDFIN50aiczcNEYEJyYAib96Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSYicvA8icacuNibVRBbfRdKrhricKQHIB40gdITsGHHubj2d47K0VwD0HicXRAu90DF5NKRjDgGopEfsg/0?wx_fmt=jpeg" width="400"/>
 
-### [关于DeepSeek：五大误解与真相解读](https://mp.weixin.qq.com/s/xl9gN-Oc-3QU0IeVSjIVlw)
+### [关于 DeepSeek：五大误解与真相解读](https://mp.weixin.qq.com/s/xl9gN-Oc-3QU0IeVSjIVlw)
 
-- **发布日期**：2025-02-10 19:05  
-- **所属合集**：#LLM  
-- **摘要**：春节至今，DeepSeek 的热度持续攀升，伴随而来的，还有很多误解和争议，有人说它是"吊打OpenAI的国货之光"，也有人说它"不过是抄国外大模型作业的小聪明"。  
+- **发布日期**：2025-02-10 19:05
+- **所属合集**：#LLM
+- **摘要**：春节至今，DeepSeek 的热度持续攀升，伴随而来的，还有很多误解和争议，有人说它是"吊打 OpenAI 的国货之光"，也有人说它"不过是抄国外大模型作业的小聪明"。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTswODBRUYvr2RzIPOMchMGfic6tFVeebAbXpcofRq8Prgh85JRHc6dfEvUpKdcFISPBIxRx2myHiaw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTswODBRUYvr2RzIPOMchMG8xiaPBQbJr7JRZWHkcNQPKZkOtjTjHasmURWjAWVaIHrWicBJiaib2cfjA/0?wx_fmt=jpeg" width="400"/>
 
 ### [DeepSeek 蒸馏模型简易性能 benchmark](https://mp.weixin.qq.com/s/EIIXUkRUG7cvcN7bXiW6Sg)
 
-- **发布日期**：2025-02-09 09:15  
-- **所属合集**：#LLM  
-- **摘要**：为了评估模型运行性能，博主根据 ollama 官方的 API 文档，编写了一个 benchmark 脚本，用于测试 deepseek 模型运行性能，供大家参考！  
+- **发布日期**：2025-02-09 09:15
+- **所属合集**：#LLM
+- **摘要**：为了评估模型运行性能，博主根据 ollama 官方的 API 文档，编写了一个 benchmark 脚本，用于测试 deepseek 模型运行性能，供大家参考！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQT2sFuUxkYlnLAme2XRbIIRjDrKefibGLtxdCJT8WQq71w4EZgjXamqraV3J182sbUZXnQfA0MUkw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQT2sFuUxkYlnLAme2XRbIIue4JtRuXMkV2BH3f8Eh9BFXhz450NecVu937eHtiawIzV6ClhRzCu1A/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐 - 《高级 Bash 脚本编程指南》](https://mp.weixin.qq.com/s/fVYZ1N_N5RL7wfKDxGYp4g)
 
-- **发布日期**：2025-02-08 12:35  
-- **所属合集**：#Linux  
-- **摘要**：《高级 Bash 脚本编程指南》（Advanced Bash-Scripting Guide）是由 Mendel Cooper 编写的一本深入探讨 Shell 脚本艺术的教程。  
+- **发布日期**：2025-02-08 12:35
+- **所属合集**：#Linux
+- **摘要**：《高级 Bash 脚本编程指南》（Advanced Bash-Scripting Guide）是由 Mendel Cooper 编写的一本深入探讨 Shell 脚本艺术的教程。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQT2sFuUxkYlnLAme2XRbIIHfxr41c2b63HtwK7g0LM3LU8CFFKrtSCQnf5s9gUA6iaT7HC8g3v84g/0?wx_fmt=jpeg" width="400"/>
-
-### [eBPF技术巅峰对话！第三届「中国eBPF开发者大会」，诚邀您的投稿!](https://mp.weixin.qq.com/s/Vq4-tRNB2mCJf90MAI3MdQ)
-
-- **发布日期**：2025-02-07 19:28  
-- **所属合集**：nan  
-- **摘要**：喧嚣的大模型热之外，让我们继续聚焦底层技术！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/SeWfibBcBT0HPjxdbiaynD0oNXFhWARz7be8DTBFd5hMxeVqYx6KON9mGCWlTiccZgHWiapy4Denf462ylhFUZvrOQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQT2sFuUxkYlnLAme2XRbIIHicbbA8rY0wKeCpicOH7uH4RGXw6ejX5gq2PJQjrqfITxH2aUw0esV9Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [大模型辅助 “Diagram as Code” 设计范式初探](https://mp.weixin.qq.com/s/7TNKEGEC7hcnHJ3cHJdDWg)
 
-- **发布日期**：2025-02-05 19:05  
-- **所属合集**：#LLM  
-- **摘要**：相比直接从自然语言生成代码，引入 UML 作为中间产物能带来更大优势——表达清晰、结构直观，更便于理解和验证设计。“Diagram as Code” 设计范式：用自然语言描述需求，大模型同步生成设计图、代码、测试用例及部署脚本。  
+- **发布日期**：2025-02-05 19:05
+- **所属合集**：#LLM
+- **摘要**：相比直接从自然语言生成代码，引入 UML 作为中间产物能带来更大优势——表达清晰、结构直观，更便于理解和验证设计。“Diagram as Code” 设计范式：用自然语言描述需求，大模型同步生成设计图、代码、测试用例及部署脚本。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTibl1zkHSMdojdJCuaykCvAkMxGO0ILtLNpoJpyibt3yf1Plndm6XzaDEl6WaqnN8icLGzYlqNzIICA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTibl1zkHSMdojdJCuaykCvAdd7pvLlDtCeGYG5W22iaiaS3k9zjYVLMiand4KeeRl9TD4UFxuicQXIDUw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 6.13：30 行代码如何节省 30% 数据中心能耗？](https://mp.weixin.qq.com/s/IoFIWkFIiAadIXv3hSNPJg)
 
-- **发布日期**：2025-02-02 08:31  
-- **所属合集**：#Linux  
-- **摘要**：Linux 6.13 中一个 30 行代码的「提交」可以节约数据中心 30% 能源消耗？让我们深入剖析一下！  
+- **发布日期**：2025-02-02 08:31
+- **所属合集**：#Linux
+- **摘要**：Linux 6.13 中一个 30 行代码的「提交」可以节约数据中心 30% 能源消耗？让我们深入剖析一下！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSIrYq06ov2WVZRzuzz0ZkfMFe4gR2z6yztnd1FicsWk1Vl9E4RiacolOptHnjtDXgRtPhRLsKI6wxA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSIrYq06ov2WVZRzuzz0ZkfwHQibCPmPwEnG9O16k6uxsxR1m8pU22ibLl72LFnJsSWiagLkjiaBI8dHw/0?wx_fmt=jpeg" width="400"/>
 
-### [过年八天乐 - 读者来信：请问7b阅读分析不同中医古籍的能力怎么样？可以进行专项训练大幅度提高这方面能力么？](https://mp.weixin.qq.com/s/scomZshsZFK8Ul8rtmBWow)
+### [过年八天乐 - 读者来信：请问 7b 阅读分析不同中医古籍的能力怎么样？可以进行专项训练大幅度提高这方面能力么？](https://mp.weixin.qq.com/s/scomZshsZFK8Ul8rtmBWow)
 
-- **发布日期**：2025-01-31 10:40  
-- **所属合集**：#deepseek #LLM  
-- **摘要**：请问7b阅读分析不同中医古籍的能力怎么样？可以进行专项训练大幅度提高这方面能力么？  
+- **发布日期**：2025-01-31 10:40
+- **所属合集**：#deepseek #LLM
+- **摘要**：请问 7b 阅读分析不同中医古籍的能力怎么样？可以进行专项训练大幅度提高这方面能力么？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSaugow5ZokmDfqktcibgiaEFmRoMsTpT7PJwPMZoQEpbxQEerkx6zjlGh9vIPwjjX1h9VP1sHtOlDQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSaugow5ZokmDfqktcibgiaEF5oo8yLxcnQU3OR1ia6nJayzjeoDgjWlrBnFkNPJqenSJdUQFmUS1ARg/0?wx_fmt=jpeg" width="400"/>
 
 ### [过年八天乐 - DeepSeek 1.5b、7b 和官网模型快速对比](https://mp.weixin.qq.com/s/MbVoImyvvKuTxhceqeviCA)
 
-- **发布日期**：2025-01-30 09:15  
-- **所属合集**：#deepseek #LLM  
-- **摘要**：在昨天的文章（过年八天乐 - 在 Mac 上运行 DeepSeek-R1 模型）中，我们通过 ollma 在本地运行了 deepseek-r1:1.5b 模型，今天让我们对比一下 1.5b、7b 和官网模型。  
+- **发布日期**：2025-01-30 09:15
+- **所属合集**：#deepseek #LLM
+- **摘要**：在昨天的文章（过年八天乐 - 在 Mac 上运行 DeepSeek-R1 模型）中，我们通过 ollma 在本地运行了 deepseek-r1:1.5b 模型，今天让我们对比一下 1.5b、7b 和官网模型。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRUWriamHIHBXZVQwwxMZTibP48ibIMYiaf50LMDhcicGJD2SiacMyB1dDoULHtTkDI4oUWsFdNVMtQdZUQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRUWriamHIHBXZVQwwxMZTibPRibkibYzVEibmict5TKx49lHoQIzKPAMDDia7BDY4icQONF0oVwBDPP6rncw/0?wx_fmt=jpeg" width="400"/>
 
 ### [过年八天乐 - 在 Mac 上运行 DeepSeek-R1 模型](https://mp.weixin.qq.com/s/nnIsTZSaC6nNeVRZ7g7epw)
 
-- **发布日期**：2025-01-29 13:35  
-- **所属合集**：#LLM #deepseek  
-- **摘要**：本教程将指导你在 Mac 上使用 Ollama 运行 DeepSeek-R1，并介绍如何通过 Open-WebUI 提供 Web 端访问。  
+- **发布日期**：2025-01-29 13:35
+- **所属合集**：#LLM #deepseek
+- **摘要**：本教程将指导你在 Mac 上使用 Ollama 运行 DeepSeek-R1，并介绍如何通过 Open-WebUI 提供 Web 端访问。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRUWriamHIHBXZVQwwxMZTibP48ibIMYiaf50LMDhcicGJD2SiacMyB1dDoULHtTkDI4oUWsFdNVMtQdZUQ/0?wx_fmt=jpeg" width="400"/>
-
-### [2025，一个千年一遇的神奇年份！](https://mp.weixin.qq.com/s/w6eYJ73zp9cdZEvwe3VRgg)
-
-- **发布日期**：2025-01-28 09:15  
-- **所属合集**：nan  
-- **摘要**：2025 = 45^2
-2025 = (20 + 25)^2
-2025 = (1+ 2 + 3 + 4 + 5 + 6 +7 + 8 + 9)^2
-2025 = 1³+2³+3³+4³+5³+6³+7³+8³+9³  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/vlkupwJj6x87Lm8pkZSZhdTQe0yI1ER2mRN3eLAhKvaMJV25Y3wswFCbwFt9ySsicfL1iaQMffQ0eAiblCSVETjZQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRUWriamHIHBXZVQwwxMZTibPSiaVuH9Xn4mMLIfR6pfppILR1n73N6ZWH8aROOQtZZokFbXx4YrqYicw/0?wx_fmt=jpeg" width="400"/>
 
 ### [从入门到精通：全面解读 Kubernetes CronJobs](https://mp.weixin.qq.com/s/bHeJRsF-8EmiUi-w4KQBrQ)
 
-- **发布日期**：2025-01-26 13:25  
-- **所属合集**：#Kubernetes  
-- **摘要**：本文将深入探讨 Kubernetes CronJobs 的工作原理、配置方法、最佳实践以及实际用例，以说明如何有效利用它们。  
+- **发布日期**：2025-01-26 13:25
+- **所属合集**：#Kubernetes
+- **摘要**：本文将深入探讨 Kubernetes CronJobs 的工作原理、配置方法、最佳实践以及实际用例，以说明如何有效利用它们。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQgtrQbdm5ibejZZABo5SLbzYT9bxFQYTHoriaTln55jxDhr40aDrZttibBc8GPiaicRmGlrcmpHjDy4icw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQgtrQbdm5ibejZZABo5SLbzmeK1CYmHACfokmr6B4AhQWwJOnn3s26yicNibnPCuaDibt4QQZ450CZmA/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐 - 《分布式系统应用设计》](https://mp.weixin.qq.com/s/ovopXcjXO-7ky35V36hW6g)
 
-- **发布日期**：2025-01-25 21:07  
-- **所属合集**：#Kubernetes #好书推荐  
-- **摘要**：容器及编排系统的快速发展革新了分布式系统的开发与部署方式，为核心开发模式及容器化组件提供全新接口。《分布式系统应用设计》手册聚焦常见设计模式，助力开发者高效构建可靠分布式系统。  
+- **发布日期**：2025-01-25 21:07
+- **所属合集**：#Kubernetes #好书推荐
+- **摘要**：容器及编排系统的快速发展革新了分布式系统的开发与部署方式，为核心开发模式及容器化组件提供全新接口。《分布式系统应用设计》手册聚焦常见设计模式，助力开发者高效构建可靠分布式系统。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT7hhaYB5y5zDlAJ6E0XwoVomff7js3vo6spFB4OmCdDp4eOaerh6c1ZcGuneJHMB6b3o8aeqbJicQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT7hhaYB5y5zDlAJ6E0XwoVIr5st6esEe6A5gtL4mZdt8PibFb13BaRkYicARZ8dV9H29BSwbicey1Og/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 端口转发实战指南](https://mp.weixin.qq.com/s/Q6pB1YFb2zP8k8AalhT2ew)
 
-- **发布日期**：2025-01-24 12:50  
-- **所属合集**：#Kubernetes  
-- **摘要**：本页面介绍如何使用 kubectl port-forward 连接到运行在 Kubernetes 集群中的服务器。这种连接方式对于调试开发非常有用。  
+- **发布日期**：2025-01-24 12:50
+- **所属合集**：#Kubernetes
+- **摘要**：本页面介绍如何使用 kubectl port-forward 连接到运行在 Kubernetes 集群中的服务器。这种连接方式对于调试开发非常有用。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRcnbq2Yj4593uJaRvBG61wr28s9TAfgjaASaqYp0yX6Y7oDknDD11UWBSMjCicp80LqzmJ6Ribe6ew/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRcnbq2Yj4593uJaRvBG61wWibgWNdFwOA1upbGf8fhd7PDOBFm4Gw2IHAAP4iah05Na6Ziczu07NibjQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [使用 Spring AI 高效构建 LLM 代理（第一部分）](https://mp.weixin.qq.com/s/QIe5ZIOZMRiH8-9lyXiWJA)
 
-- **发布日期**：2025-01-23 17:02  
-- **所属合集**：#LLM  
-- **摘要**：在最近的一篇研究论文中：构建高效代理，Anthropic 分享了关于构建高效大型语言模型代理的宝贵见解。这项研究特别有趣的地方在于它强调简单性和可组合性，而非复杂框架。让我们探讨如何利用 Spring AI 将这些原则转化为实际实现。  
+- **发布日期**：2025-01-23 17:02
+- **所属合集**：#LLM
+- **摘要**：在最近的一篇研究论文中：构建高效代理，Anthropic 分享了关于构建高效大型语言模型代理的宝贵见解。这项研究特别有趣的地方在于它强调简单性和可组合性，而非复杂框架。让我们探讨如何利用 Spring AI 将这些原则转化为实际实现。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTaiaibHDvbp6m9IWumg8GoIuIUsOKW6zT1fn9Dt73u8su6FzWfHBTOeSDvscmPkoTickEVDdiaub2euQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTaiaibHDvbp6m9IWumg8GoIuRgznFVIAibmMgic6xF21nqTTdibJYtDRtVILUVA0duv99UTBickYZzDwlA/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐 - 《信息存储与管理（第二版）：数字信息的存储、管理和保护》](https://mp.weixin.qq.com/s/FqzDvywg6JLgpDD4rq5ItQ)
 
-- **发布日期**：2025-01-21 19:35  
-- **所属合集**：#Linux #好书推荐  
-- **摘要**：该书脱胎于 EMC 与麻省理工学院合作开发的《信息基础架构技术》课程，既保留了原课程的系统性，又新增了符合中国《网络安全法》的合规实践指南。作为中国存储领域首部体系化教材，它至今仍是笔者案头必备的技术参考书。  
+- **发布日期**：2025-01-21 19:35
+- **所属合集**：#Linux #好书推荐
+- **摘要**：该书脱胎于 EMC 与麻省理工学院合作开发的《信息基础架构技术》课程，既保留了原课程的系统性，又新增了符合中国《网络安全法》的合规实践指南。作为中国存储领域首部体系化教材，它至今仍是笔者案头必备的技术参考书。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSPgEibIlKXqwDRe0kJmDlXbEHwdNQGuNzlzSGh81lzUVhqYVysWfsth11ib86MPzkIiaQJfrmlqt3EA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSPgEibIlKXqwDRe0kJmDlXbwtfXAhj4Fej0Rcmibfy3rlQv3YAHibfaFTOZrVxSyXYFV6yYpCZ6n0Zg/0?wx_fmt=jpeg" width="400"/>
 
 ### [深入理解 Linux Bond：原理与实践](https://mp.weixin.qq.com/s/J0h_i3BwrIX0wtjAub3t6g)
 
-- **发布日期**：2025-01-20 12:35  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：nan  
+- **发布日期**：2025-01-20 12:35
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：nan
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRia2victCgYeEIqwsSTcDZlV7CjicwowBMO5BQ3nS7Kg3hAlNegJPNuRa5GrDD3JWwAUO1bE2paryaw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRia2victCgYeEIqwsSTcDZlV9veQ4wlicSCsXY6UhPSxsiboQz8iadoKUCUX4FV3fggNkIqo38rUgqoMQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Microsoft AutoGen：具有高级自动化功能的多代理 AI 工作流](https://mp.weixin.qq.com/s/TYIxpB9vYuCExySpDTcujw)
 
-- **发布日期**：2025-01-19 15:16  
-- **所属合集**：#LLM  
-- **摘要**：AutoGen 框架为构建智能多代理系统开辟了新途径。它能够自动化复杂的工作流程、强大的社区、代码执行，并促进无缝代理协作，这些都使其有别于其他 AI 框架。  
+- **发布日期**：2025-01-19 15:16
+- **所属合集**：#LLM
+- **摘要**：AutoGen 框架为构建智能多代理系统开辟了新途径。它能够自动化复杂的工作流程、强大的社区、代码执行，并促进无缝代理协作，这些都使其有别于其他 AI 框架。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRItsicOuRWIpBlfZ83QfvFneqtR5Su5TGr0FAxgvHA9gl1Tmoojzq3R3N7y11Wl9cf2cB9dicmEZXw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRItsicOuRWIpBlfZ83QfvFnCfQf5gUOJVfnkKz18UicsfjDAhC84ACPkicbYG3T6vyObWIv6h9PFYZg/0?wx_fmt=jpeg" width="400"/>
 
 ### [当我们谈论 Linux 主机/集群管理时，我们需要关注哪些工作呢？](https://mp.weixin.qq.com/s/yslC-waAyuXjFbrpUjF9DA)
 
-- **发布日期**：2025-01-18 10:08  
-- **所属合集**：#Linux #Kubernetes  
-- **摘要**：在运行 Kubernetes 集群时，我们实际上依赖于底层的主机集群。本文讨论的集群特指主机集群，即从操作系统（OS）的视角来管理的资源集合。本文仅涵盖与 Linux 操作系统相关的操作。  
+- **发布日期**：2025-01-18 10:08
+- **所属合集**：#Linux #Kubernetes
+- **摘要**：在运行 Kubernetes 集群时，我们实际上依赖于底层的主机集群。本文讨论的集群特指主机集群，即从操作系统（OS）的视角来管理的资源集合。本文仅涵盖与 Linux 操作系统相关的操作。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLjic2Ne5ceqRRwN0H4KuwVmz4JkN85RBcusHSKouiaS9JvLzonrPzmiaQGiaj2YgfjVeVziaAQ2jEtjQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLjic2Ne5ceqRRwN0H4KuwVcCZIBBgmyOocXiapTTQSPA1Ce7nH6r4VcyrcKib9BoAAdKwcgcHKoKWw/0?wx_fmt=jpeg" width="400"/>
 
 ### [FUSE 文件系统 - 使用 securefs 实现文件系统透明加解密](https://mp.weixin.qq.com/s/A1iF_qEoQ5RYT7n75PZ9xg)
 
-- **发布日期**：2025-01-17 08:35  
-- **所属合集**：#Linux #好书推荐  
-- **摘要**：为了满足应用程序对敏感数据安全存储的需求，本文使用 securefs 实现了透明的数据加密与解密功能，确保应用程序在无需额外改动的情况下，能够自动处理数据的加密与解密。同时整个方案以容器化的方式运行，进一步增强了部署的便捷性与安全性。  
+- **发布日期**：2025-01-17 08:35
+- **所属合集**：#Linux #好书推荐
+- **摘要**：为了满足应用程序对敏感数据安全存储的需求，本文使用 securefs 实现了透明的数据加密与解密功能，确保应用程序在无需额外改动的情况下，能够自动处理数据的加密与解密。同时整个方案以容器化的方式运行，进一步增强了部署的便捷性与安全性。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSkMtWpADOBTBVHonx5kYybXhxiaYzQT0vqCqfKiat3Sk0zxaT0cQdCBia10wibkGbh1hYvBbQUPCp6sQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSkMtWpADOBTBVHonx5kYybJ8LygSudibuia2VdthAGxSCZ6WKMIIWwxhibn3icdibz3HJO9ibMs0arrthQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [云原生应用生命周期管理：OAM 介绍](https://mp.weixin.qq.com/s/yby9j21KJpoMeNkEZjh55A)
 
-- **发布日期**：2025-01-16 08:35  
-- **所属合集**：#Kubernetes #云原生  
-- **摘要**：Open Application Model是一个云原生应用的开放标准规范，其核心理念是“以应用为中心”，实现应用描述与基础设施的解耦。通过这种方式，OAM 为开发者提供了更高的关注点抽象，帮助他们专注于应用逻辑，而不必陷入底层技术的复杂性  
+- **发布日期**：2025-01-16 08:35
+- **所属合集**：#Kubernetes #云原生
+- **摘要**：Open Application Model 是一个云原生应用的开放标准规范，其核心理念是“以应用为中心”，实现应用描述与基础设施的解耦。通过这种方式，OAM 为开发者提供了更高的关注点抽象，帮助他们专注于应用逻辑，而不必陷入底层技术的复杂性
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQoLecvx77T2uOwq9Wv5DluUnatN1DfU3EU5et9Vj503RvGh5wkAibLgCib2GIiaLljHbufm8dMSEhIw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQoLecvx77T2uOwq9Wv5DluDIuAXeyYEuA8dcLSWHyAR6hFB83OUhjheoA4ZXOaicUhZufbywKxCOw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 生态中开源软件的 License 分析与合规指南](https://mp.weixin.qq.com/s/A0djGf1tX5uGIAU4qf6SNQ)
 
-- **发布日期**：2025-01-15 08:15  
-- **所属合集**：#Kubernetes  
-- **摘要**：本文旨在梳理 Kubernetes 生态相关软件的 License 类型及其影响，为开发者基于 Kubernetes 开发和发布软件提供参考。  
+- **发布日期**：2025-01-15 08:15
+- **所属合集**：#Kubernetes
+- **摘要**：本文旨在梳理 Kubernetes 生态相关软件的 License 类型及其影响，为开发者基于 Kubernetes 开发和发布软件提供参考。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpbSGC6E3FovicBhBCAva0je6r5BzBcyicaIQK9MMJThcIVPxogX9MeIbqVo91ib1ptyVJXTbic6M7VQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpbSGC6E3FovicBhBCAva0jichorNXX29lvTCiaOGbFft7JEF3SAYDAn6d9ADR3WgGFJyE79TJJQ53Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [云原生应用生命周期管理：主从架构 MySQL 案例解析](https://mp.weixin.qq.com/s/XnEx5IiybadQpBoie9iyWw)
 
-- **发布日期**：2025-01-14 08:05  
-- **所属合集**：#云原生 #Kubernetes  
-- **摘要**：Kubernetes 的 Deployment 和 StatefulSet 适合无状态微服务，但在处理复杂分布式应用（如主从架构的 MySQL）时，原生资源难以满足拓扑管理、故障恢复和动态配置等高级需求。此时就需要使用Operator模式。  
+- **发布日期**：2025-01-14 08:05
+- **所属合集**：#云原生 #Kubernetes
+- **摘要**：Kubernetes 的 Deployment 和 StatefulSet 适合无状态微服务，但在处理复杂分布式应用（如主从架构的 MySQL）时，原生资源难以满足拓扑管理、故障恢复和动态配置等高级需求。此时就需要使用 Operator 模式。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQJ4ReTTgSQtpicj4ZeXqiatPo9AAfVzwibDXHiaCicVtLznibJzQDcjAqN61gJA9LpcAXPIaDOI33b7Knw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQJ4ReTTgSQtpicj4ZeXqiatPWPxwFA0MP5X9xY9UyrSNu5GEL13BSsBA220t4Hk6bqkBVBmz5aicVKQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [云原生应用生命周期管理：需求分析](https://mp.weixin.qq.com/s/T-cR63-Kb6xD0zhgsUYtwA)
 
-- **发布日期**：2025-01-12 23:15  
-- **所属合集**：#Kubernetes #云原生  
-- **摘要**：本文将从需求分析的角度，探讨云原生应用生命周期管理的必要性，并结合云原生应用的需求和 Kubernetes 工作负载的局限性。除此之外，本文还将根据作者多年在 PaaS 平台的工作经验，提出应用生命周期管理的一级功能和二级功能定义。  
+- **发布日期**：2025-01-12 23:15
+- **所属合集**：#Kubernetes #云原生
+- **摘要**：本文将从需求分析的角度，探讨云原生应用生命周期管理的必要性，并结合云原生应用的需求和 Kubernetes 工作负载的局限性。除此之外，本文还将根据作者多年在 PaaS 平台的工作经验，提出应用生命周期管理的一级功能和二级功能定义。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSmRyumkWia5yoyh6tOaJ7eic2QYBvXaj0tNbic8Ou3ibBKibWicF8HOTh0BwmspFNtP1Zn5bx3LVqEQQgw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSmRyumkWia5yoyh6tOaJ7eicGicJqFuTRsuOF4vhE4xJ8pqZS10YWtvyFHicK7JCnbTIicshLz1rDjnVg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Spring Boot on K8s 优雅停机流程解析【修改版】](https://mp.weixin.qq.com/s/AviHIUdxXI0f0pLHPJmnfQ)
 
-- **发布日期**：2025-01-09 12:35  
-- **所属合集**：#Kubernetes  
-- **摘要**：本文将通过一个完整的时间轴，详细解析 Kubernetes 和 Spring Boot 在 Pod 停止时的交互过程，并附上具体配置示例，帮助开发者实现优雅的停止机制。  
+- **发布日期**：2025-01-09 12:35
+- **所属合集**：#Kubernetes
+- **摘要**：本文将通过一个完整的时间轴，详细解析 Kubernetes 和 Spring Boot 在 Pod 停止时的交互过程，并附上具体配置示例，帮助开发者实现优雅的停止机制。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSnTtccd49iaw3gv0pYORxANKl6AtZ0R4zu6BG57R9G7eD2af1lImibUaHHEy9icCT2lGDGy1y7I6Xicg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSnTtccd49iaw3gv0pYORxANlhfTib2LKbSib0q0SYnLa49pLXXH6LLdvqdxdYZKicCiaH9CoRN6TUOic2A/0?wx_fmt=jpeg" width="400"/>
 
 ### [K8s Pod 出现 UnexpectedAdmissionError 的原因及解决方案](https://mp.weixin.qq.com/s/AHmocDUJ54hn579V9mAZGQ)
 
-- **发布日期**：2025-01-09 12:35  
-- **所属合集**：#Kubernetes  
-- **摘要**：UnexpectedAdmissionError 表示在 Pod 的准入控制阶段发生了意外错误，导致 Pod 无法正常启动。这种错误通常与资源分配、调度器配置或设备管理相关。本文提供了原因分析和解决方案。  
+- **发布日期**：2025-01-09 12:35
+- **所属合集**：#Kubernetes
+- **摘要**：UnexpectedAdmissionError 表示在 Pod 的准入控制阶段发生了意外错误，导致 Pod 无法正常启动。这种错误通常与资源分配、调度器配置或设备管理相关。本文提供了原因分析和解决方案。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSsD3wHrJwCSEqGCPgHOrLBGPJjFQ074weF5icsariakcERSXNpZojxtplpZ9NkyxOomW3UCZKWiaAvg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSsD3wHrJwCSEqGCPgHOrLBg14n3pRQEYNSv04tPdtr5fFcsM2BO6aeKBSbDPrL843IG4saxCzdcQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Spring Boot on K8s 优雅停机流程解析](https://mp.weixin.qq.com/s/HBczcBzLZW5fKG8EqzsghQ)
 
-- **发布日期**：2025-01-08 19:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：本文将通过一个完整的时间轴，详细解析 Kubernetes 和 Spring Boot 在 Pod 停止时的交互过程，并附上具体配置示例，帮助开发者实现优雅的停止机制。  
+- **发布日期**：2025-01-08 19:30
+- **所属合集**：#Kubernetes
+- **摘要**：本文将通过一个完整的时间轴，详细解析 Kubernetes 和 Spring Boot 在 Pod 停止时的交互过程，并附上具体配置示例，帮助开发者实现优雅的停止机制。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSnTtccd49iaw3gv0pYORxANKl6AtZ0R4zu6BG57R9G7eD2af1lImibUaHHEy9icCT2lGDGy1y7I6Xicg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSnTtccd49iaw3gv0pYORxANlhfTib2LKbSib0q0SYnLa49pLXXH6LLdvqdxdYZKicCiaH9CoRN6TUOic2A/0?wx_fmt=jpeg" width="400"/>
 
 ### [Docker 多阶段构建简介](https://mp.weixin.qq.com/s/vYzo5bPF48NnTBmvGAb7kQ)
 
-- **发布日期**：2025-01-06 21:25  
-- **所属合集**：#Docker  
-- **摘要**：在本文中，我们将探讨生产容器镜像中不必要的软件包最常见的来源。我们将看到如何使用多阶段构建来生成更小、更安全的镜像（推荐文中的几张图）！  
+- **发布日期**：2025-01-06 21:25
+- **所属合集**：#Docker
+- **摘要**：在本文中，我们将探讨生产容器镜像中不必要的软件包最常见的来源。我们将看到如何使用多阶段构建来生成更小、更安全的镜像（推荐文中的几张图）！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSyQXpJvEgweB64Pda1Se38EMOqunI7HgD8cnsAd0RfqvOmFrYrMfpfaaaDJRcibayicNJ5okNaq4iag/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSyQXpJvEgweB64Pda1Se38d2X3bZ5UzmleyibxHgrYQbx26xX28rtGUrFat8cNUpiaC3AcI3vGUjHA/0?wx_fmt=jpeg" width="400"/>
 
 ### [怀念一下 Mesos](https://mp.weixin.qq.com/s/Qw8VDRwREfWcxYY-qg8wsA)
 
-- **发布日期**：2025-01-05 09:31  
-- **所属合集**：#Kubernetes  
-- **摘要**：大概 2017 年到 2018 年，大家开始全面转向到 Kubernetes 了。Kubernetes 的成功不仅是技术的胜利，更是生态的胜利。容器的标准化设计、社区的强大协作以及高易用性，成为容器编排领域的事实标准。  
+- **发布日期**：2025-01-05 09:31
+- **所属合集**：#Kubernetes
+- **摘要**：大概 2017 年到 2018 年，大家开始全面转向到 Kubernetes 了。Kubernetes 的成功不仅是技术的胜利，更是生态的胜利。容器的标准化设计、社区的强大协作以及高易用性，成为容器编排领域的事实标准。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRf3bGd9VqMt9bKiaTpaakcIgE6H7diaxy36viaYZSyVJzb8HGhE7QDziaGeZNRqjgbZiccUVvuRt5klVA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRf3bGd9VqMt9bKiaTpaakcIHMvFMCjVfyzT21DHPuWbQO9qweVTY6zfIPmIuFibBSibr1fyI5Y0ibibPQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [【翻译】Linux 中 x86 上下文切换的演变](https://mp.weixin.qq.com/s/zkIV1ijOMvl8mobl8QPang)
 
-- **发布日期**：2025-01-03 13:20  
-- **所属合集**：#Linux  
-- **摘要**：分析从最早的（0.01）到 LTS 版本（4.14.67）的 Linux 内核中的上下文切换代码（内容比较艰难，需要懂内核代码和汇编才能读懂！）  
+- **发布日期**：2025-01-03 13:20
+- **所属合集**：#Linux
+- **摘要**：分析从最早的（0.01）到 LTS 版本（4.14.67）的 Linux 内核中的上下文切换代码（内容比较艰难，需要懂内核代码和汇编才能读懂！）
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS7eJsyiaOGbdbOI4qrw0X4KTV2QqUaODLKE6Ewsw7kqRKMmE4A7EdHIibibegYibK7yB4esyc9sxqUDw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS7eJsyiaOGbdbOI4qrw0X4KrlGCg4znO7AWYsvU8ss0VlLl3YfJ2ABiccPDh56Ojfg8O9WP9hB1Pjw/0?wx_fmt=jpeg" width="400"/>
 
 ### [AWK 入门教程：强大的文本处理工具](https://mp.weixin.qq.com/s/Gd8U1bL5S5VHTMAs_jsWRQ)
 
-- **发布日期**：2025-01-02 19:15  
-- **所属合集**：#Linux #Linux 小技巧  
-- **摘要**：AWK 是一种强大的文本处理工具，广泛用于 Linux/Unix 系统中对文本文件或数据流进行操作。它能够基于条件筛选、统计字段、重新排列数据等。  
+- **发布日期**：2025-01-02 19:15
+- **所属合集**：#Linux #Linux 小技巧
+- **摘要**：AWK 是一种强大的文本处理工具，广泛用于 Linux/Unix 系统中对文本文件或数据流进行操作。它能够基于条件筛选、统计字段、重新排列数据等。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRlxz7IIUzPpkP1mcLhqn2WKzvxhqAOv0w1EBbAuA1DGMz7zN4IXPjbibrWqQL6SqDXrygMHibguZ6A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRlxz7IIUzPpkP1mcLhqn2WUZBv6YKuCkwunKg6CsIIKv5mF94GJ0ZqdiclYdJicJgIgN3uUHJTicnmQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [鲲鹏性能优化十板斧](https://mp.weixin.qq.com/s/gf851jn1I6lA4JOp0aS6tw)
 
-- **发布日期**：2025-01-01 15:35  
-- **所属合集**：#Linux #系统可观测性  
-- **摘要**：本文系统介绍了鲲鹏芯片性能优化的常用方法与工具，从 CPU 与内存子系统、网络子系统、磁盘 IO 子系统及应用程序优化四方面展开，内容详实，可作为系统性能优化的实用参考手册！  
+- **发布日期**：2025-01-01 15:35
+- **所属合集**：#Linux #系统可观测性
+- **摘要**：本文系统介绍了鲲鹏芯片性能优化的常用方法与工具，从 CPU 与内存子系统、网络子系统、磁盘 IO 子系统及应用程序优化四方面展开，内容详实，可作为系统性能优化的实用参考手册！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRSphXHvOvhELVCEfUlDwz0UJ74Bfnt5AQJJQm8Puda6oe9Ru4wEQXBAVGvuib3vyTdaG4icqzA43Sw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRSphXHvOvhELVCEfUlDwz0UAj0MClgcDzM0y6Vfb2M5JHeib9icrFV3XMZqfpUm6pqYgpCEAW4bAmw/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐：软件设计的哲学（第二版）](https://mp.weixin.qq.com/s/bQ1J-i-Z6uM1Kx8Z1uDBBg)
 
-- **发布日期**：2024-12-31 17:40  
-- **所属合集**：#好书推荐  
-- **摘要**：这是一本关于软件设计的书（英文原名：A Philosophy of Software Design）：如何将复杂的软件系统分解成模块（比如类和方法），以便这些模块可以相对独立地实现。  
+- **发布日期**：2024-12-31 17:40
+- **所属合集**：#好书推荐
+- **摘要**：这是一本关于软件设计的书（英文原名：A Philosophy of Software Design）：如何将复杂的软件系统分解成模块（比如类和方法），以便这些模块可以相对独立地实现。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR24PUyNia5B9jVFVXRG2gIuYKNI3LrNEXjXwMsvdHts9icRjAI1Ho2BqIYUqysserm5h56gwEpiaPibw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR24PUyNia5B9jVFVXRG2gIuxC7nVoFTv8QL4ibEgteUWEYxzxS1VaZv5YwXqUhX8Vf89fagn4QWkyg/0?wx_fmt=jpeg" width="400"/>
 
 ### [大数据基础之 Parquet 文件格式解析](https://mp.weixin.qq.com/s/bMLjLqNLMcAaYrizXGPl5g)
 
-- **发布日期**：2024-12-31 17:40  
-- **所属合集**：#大数据 #存储引擎  
-- **摘要**：Parquet 是一种开源的列式存储文件格式，专为高效存储和处理大规模数据而设计。它最初由 Apache 软件基金会开发，现已成为大数据生态系统中的重要组成部分。  
+- **发布日期**：2024-12-31 17:40
+- **所属合集**：#大数据 #存储引擎
+- **摘要**：Parquet 是一种开源的列式存储文件格式，专为高效存储和处理大规模数据而设计。它最初由 Apache 软件基金会开发，现已成为大数据生态系统中的重要组成部分。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR24PUyNia5B9jVFVXRG2gIuw4awcEHTcicrnppkicMc8E0gEwQmhSszWfrjYicNIgO5qCMfibgOCB3YuQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR24PUyNia5B9jVFVXRG2gIub1yjyvhI5Ricw2PpPFpK0dRjBtz3Z4t7rrviaIfRd4waRQtauuUhUfkQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [基于 FUSE 的简单文件系统实现](https://mp.weixin.qq.com/s/NkfteGlcXi05_PbSqIdIeA)
 
-- **发布日期**：2024-12-30 22:03  
-- **所属合集**：#Linux  
-- **摘要**：一个使用 C 语言和 FUSE（libfuse） 编写的示例文件系统实现，可用于教学目的。  
+- **发布日期**：2024-12-30 22:03
+- **所属合集**：#Linux
+- **摘要**：一个使用 C 语言和 FUSE（libfuse） 编写的示例文件系统实现，可用于教学目的。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjbiaH759GNzjAiarR4dUIiaMqeicTLeRbuu2uMbO7icibSr8fdHQgPVkHGPV9Tv1UqUHkoia5kqzFv1MpA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjbiaH759GNzjAiarR4dUIiaMpY2ZXfhdhnPbNUrRHoqSGUewo941D2qDQa7NPWn6cvWI1VucwOp7CA/0?wx_fmt=jpeg" width="400"/>
 
 ### [文件性能测试工具 IOzone 使用简介](https://mp.weixin.qq.com/s/gEB-sbPOuELTQITeFnaqzg)
 
-- **发布日期**：2024-12-29 14:01  
-- **所属合集**：#Linux #系统可观测性  
-- **摘要**：IOzone 是一款用于文件系统性能基准测试的开源工具。它可以帮助用户评估文件系统在不同操作模式下的性能，特别是用于磁盘 I/O 操作。IOzone 支持多种操作系统，并提供了多种测试模式来测量不同类型的文件操作性能.  
+- **发布日期**：2024-12-29 14:01
+- **所属合集**：#Linux #系统可观测性
+- **摘要**：IOzone 是一款用于文件系统性能基准测试的开源工具。它可以帮助用户评估文件系统在不同操作模式下的性能，特别是用于磁盘 I/O 操作。IOzone 支持多种操作系统，并提供了多种测试模式来测量不同类型的文件操作性能.
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRkggicG3LjiaVgvJSLpSZdgCBdPMXZiadApqSWKErMrqKN3WyHPEyAwkBiaTHVmWSZPicpqVs1auuPDqw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRkggicG3LjiaVgvJSLpSZdgCNstGoj4elsygTCicAsEPsfmYcHwqMl1PvSaMr39z4fxwLcjiaqiahxbjA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux Slab 内存管理机制简介](https://mp.weixin.qq.com/s/Nk32Asrd7nJTk6zH19vfpg)
 
-- **发布日期**：2024-12-28 11:45  
-- **所属合集**：#Linux #系统可观测性  
-- **摘要**：Slab 层通过向内核申请完整的页（Page），然后对这些页进行精细化管理，从而高效分配和回收小型内存块。通过这种方式，Slab 不仅优化了小对象的内存利用率，还显著降低了分配和销毁的开销。  
+- **发布日期**：2024-12-28 11:45
+- **所属合集**：#Linux #系统可观测性
+- **摘要**：Slab 层通过向内核申请完整的页（Page），然后对这些页进行精细化管理，从而高效分配和回收小型内存块。通过这种方式，Slab 不仅优化了小对象的内存利用率，还显著降低了分配和销毁的开销。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpkkgUJdFnwLIaTfQjaPHdk61q0Bze8RTJc2MV1O0GibYQiauOImgCm1C6eRKu1ucUbZW1Zx3Aiaxuw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpkkgUJdFnwLIaTfQjaPHd7mgBPWg347tWibWucaThDb7ibgglDfjJhHu3hIDD7j4LN4qtszvScHGg/0?wx_fmt=jpeg" width="400"/>
 
 ### [性能调优：学无止境](https://mp.weixin.qq.com/s/b8_A2sSL6SRvRyGR5824IA)
 
-- **发布日期**：2024-12-27 07:15  
-- **所属合集**：#系统可观测性 #BPF之巅  
-- **摘要**：《BPF之巅》则为读者们打开了 Linux 的内核大门，可以一窥内核原理和深入了解工作机制，为大家的以后的内核开发之旅铺平道路。  
+- **发布日期**：2024-12-27 07:15
+- **所属合集**：#系统可观测性 #BPF 之巅
+- **摘要**：《BPF 之巅》则为读者们打开了 Linux 的内核大门，可以一窥内核原理和深入了解工作机制，为大家的以后的内核开发之旅铺平道路。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQQF2QtY5bBPgpyacQBg2mSUpt7oOZbOabu6j22icHILv5It36Qq7bODDWHOyILSNkNFH74Vu8DMpw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQQF2QtY5bBPgpyacQBg2mSBXV11XRNnvoWDYqibaqefgsomNoqT37DqAxgTK20C4ibDo39Sy1uRdqQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [RocksDB 工作原理入门](https://mp.weixin.qq.com/s/TmsUx-LMbqcLUG-xvOJotA)
 
-- **发布日期**：2024-12-26 16:30  
-- **所属合集**：#大数据 #存储引擎  
-- **摘要**：RocksDB 的核心数据结构是 “LSM” 树，一种按键排序、分层存储的高效树形结构。LSM 树专为写入密集型场景设计，通过将写入操作集中到内存中，定期批量刷新到磁盘，提升写入性能并优化存储效率。本文将概述 RocksDB 的工作原理。  
+- **发布日期**：2024-12-26 16:30
+- **所属合集**：#大数据 #存储引擎
+- **摘要**：RocksDB 的核心数据结构是 “LSM” 树，一种按键排序、分层存储的高效树形结构。LSM 树专为写入密集型场景设计，通过将写入操作集中到内存中，定期批量刷新到磁盘，提升写入性能并优化存储效率。本文将概述 RocksDB 的工作原理。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQQF2QtY5bBPgpyacQBg2mSuRVTciaWhNPcYcdsjz8c0zrQkicQPERutBaGegKpQcwaIIGqkdeKWcJg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQQF2QtY5bBPgpyacQBg2mSm2QMScibASSceewjzEj9BHtlVh9wRynoOaCNsIdByzialfR39LItAFibw/0?wx_fmt=jpeg" width="400"/>
 
 ### [CNCF: 在 Kubernetes 上运行数据白皮书 - 数据库模式](https://mp.weixin.qq.com/s/_UT5TwJdBTceHFKcQEzHoA)
 
-- **发布日期**：2024-12-25 12:41  
-- **所属合集**：#Kubernetes  
-- **摘要**：本文档旨在描述 Kubernetes 上运行数据的模式，聚焦数据库应用。内容涵盖存储属性及其对数据库的影响，不同存储堆栈的差异，Kubernetes 内外运行数据的区别，Kubernetes 特性对数据运行的优势，以及最佳实践和经验总结。  
+- **发布日期**：2024-12-25 12:41
+- **所属合集**：#Kubernetes
+- **摘要**：本文档旨在描述 Kubernetes 上运行数据的模式，聚焦数据库应用。内容涵盖存储属性及其对数据库的影响，不同存储堆栈的差异，Kubernetes 内外运行数据的区别，Kubernetes 特性对数据运行的优势，以及最佳实践和经验总结。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSDpAhvuw8Wcn8AfV4ibrD55q3OgUskhMsD2ibyZGb5ZaahEzecPukYtBRDbsJ3d0Yzjrpef5HAkrYg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSDpAhvuw8Wcn8AfV4ibrD55xHWJnIgBkQvYxXsjDsTW2adaknUicoWkkEZiaicfnZPKC0icVnxEIRFIyw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux VFS （Virtual File System）简介](https://mp.weixin.qq.com/s/Rnn30qDvBoKJ7Ylxy_zkMg)
 
-- **发布日期**：2024-12-23 12:28  
-- **所属合集**：#Linux  
-- **摘要**：Linux VFS是操作系统内核中的抽象层，提供统一的文件操作接口，屏蔽底层文件系统差异。它允许用户通过标准系统调用访问多种文件系统。VFS 通过对象模型（超级块、索引节点、目录项和文件对象）管理文件和目录，支持设备文件、网络文件系统等。  
+- **发布日期**：2024-12-23 12:28
+- **所属合集**：#Linux
+- **摘要**：Linux VFS 是操作系统内核中的抽象层，提供统一的文件操作接口，屏蔽底层文件系统差异。它允许用户通过标准系统调用访问多种文件系统。VFS 通过对象模型（超级块、索引节点、目录项和文件对象）管理文件和目录，支持设备文件、网络文件系统等。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQI9Ybub4BRlc2ocrQeWibnB9X0nc7pBDXEROLibwva5thZsAJWl94H7aV3EK5d4D5bBeibE0ADKnKicQ/0?wx_fmt=jpeg" width="400"/>
-
-### [To FUSE or Not to FUSE: Performance of User-Space File Systems](https://mp.weixin.qq.com/s/6GDPfij75z4PXGVlAqTJhQ)
-
-- **发布日期**：2024-12-19 19:15  
-- **所属合集**：#Linux  
-- **摘要**：作者分析了最广为人知的用户空间文件系统框架 FUSE 的设计和实现，并表征了其在各种工作负载下的性能。作者使用 FUSE 来提取有用的统计数据和跟踪，这有助于分析其性能瓶颈并呈现我们的分析结果。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTk94hYtLiczhP2aS5CicMhOwcSgY1NZ235ndPL6bJmGIcXEiaQTZOj0NffDZBCTaWFHOdNAibxbQSzKA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQI9Ybub4BRlc2ocrQeWibnBnwsT9JiaNgW7IKgBLnHP7VBenibZh2JgYg4GQdgYoyRQJ59zX2lSCUjg/0?wx_fmt=jpeg" width="400"/>
 
 ### [存储知识拾遗：LVM && Device Mapper](https://mp.weixin.qq.com/s/D64L6h9av3SbMP3XQQ2kFQ)
 
-- **发布日期**：2024-12-19 19:15  
-- **所属合集**：#Linux #存储  
-- **摘要**：Device Mapper 是由 Linux 内核提供的一个框架，用于将物理块设备映射到更高级别的虚拟块设备。它是逻辑卷管理器（LVM）、软件 RAID 和 dm-crypt 磁盘加密的基础，并提供了其他功能，如文件系统快照。  
+- **发布日期**：2024-12-19 19:15
+- **所属合集**：#Linux #存储
+- **摘要**：Device Mapper 是由 Linux 内核提供的一个框架，用于将物理块设备映射到更高级别的虚拟块设备。它是逻辑卷管理器（LVM）、软件 RAID 和 dm-crypt 磁盘加密的基础，并提供了其他功能，如文件系统快照。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTk94hYtLiczhP2aS5CicMhOwuzozY2cdde90d183FKgbCAPPQ9HSOwkL1GZFmY8GukicJeI0mlCE8vw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTk94hYtLiczhP2aS5CicMhOwMnZs1icqiboNqnImVNm9GhFFdHfRFuj10lU2DOmy7e2GT1UeI3rOMOkQ/0?wx_fmt=jpeg" width="400"/>
+
+### [To FUSE or Not to FUSE: Performance of User-Space File Systems](https://mp.weixin.qq.com/s/6GDPfij75z4PXGVlAqTJhQ)
+
+- **发布日期**：2024-12-19 19:15
+- **所属合集**：#Linux
+- **摘要**：作者分析了最广为人知的用户空间文件系统框架 FUSE 的设计和实现，并表征了其在各种工作负载下的性能。作者使用 FUSE 来提取有用的统计数据和跟踪，这有助于分析其性能瓶颈并呈现我们的分析结果。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTk94hYtLiczhP2aS5CicMhOwN3OYt9Ikf56gcDqFdsmQuiaK95sSwnSdeRzH6icZaqQbsvAq3u8AtHUA/0?wx_fmt=jpeg" width="400"/>
 
 ### [极客时间《大数据经典论文解读》：建立你的大数据知识网络](https://mp.weixin.qq.com/s/DSg8FqdE1cwTVDxxjbOUcA)
 
-- **发布日期**：2024-12-18 12:30  
-- **所属合集**：#大数据 #分布式系统  
-- **摘要**：大数据领域的知识地图涵盖了分布式系统、单节点存储引擎和计算引擎。分布式系统需满足可靠性、可扩展性和可维护性，涉及主从架构、复制策略和分片策略等。这些技术相互关联，需要综合考虑组成原理、算法和数据结构、数据库原理等知识。  
+- **发布日期**：2024-12-18 12:30
+- **所属合集**：#大数据 #分布式系统
+- **摘要**：大数据领域的知识地图涵盖了分布式系统、单节点存储引擎和计算引擎。分布式系统需满足可靠性、可扩展性和可维护性，涉及主从架构、复制策略和分片策略等。这些技术相互关联，需要综合考虑组成原理、算法和数据结构、数据库原理等知识。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSZRf3vB4mmEl8dibFeqrB3ia5wv9fQ0LJe13eofYSbWAa2mbCJ8iapBqJq5YHFLlkUypM1mCK1JfdYA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSZRf3vB4mmEl8dibFeqrB3iada9F0WpAOaOpbHu4ak1LYYd7TrWUPPgYTSp63hxkRRO18vw3QUSNBQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Pod 异常状态排查指南](https://mp.weixin.qq.com/s/YzupmU8lQgoLlxkwZuTCww)
 
-- **发布日期**：2024-12-17 19:30  
-- **所属合集**：nan  
-- **摘要**：图一：《Pod 状态异常和排查》朱冬亚同学整理；
-
-图二：阿里云《Pod异常问题排查》:https://help.aliyun.com/zh/ack/ack-managed-and-ack-dedicated/support/pod-troubleshooting；
-
-图三：华为云《工作负载状态异常定位方法》:https://help.aliyun.com/zh/ack/ack-managed-and-ack-dedicated/support/pod-troubleshooting;
-
-无图：腾讯云《Pod 异常排查概述》:https://cloud.tencent.com/document/product/457/42945。
-
-参考：<a href="https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&amp;mid=2247485573&amp;idx=2&amp;sn=07e9215b3c842b0fed0f28295fb7408e&amp;scene=142#wechat_redirect" target="_blank" data-itemshowtype="0">Kubernetes Pod 异常诊断</a>  
+- **发布日期**：2024-12-17 19:30
+- **所属合集**：#Kubernetes
+- **摘要**：图一：《Pod 状态异常和排查》朱冬亚同学整理； 图二：阿里云《Pod 异常问题排查》:https://help.aliyun.com/zh/ack/ack-managed-and-ack-dedicated/support/pod-troubleshooting； 图三：华为云《工作负载状态异常定位方法》:https://help.aliyun.com/zh/ack/ack-managed-and-ack-dedicated/support/pod-troubleshooting; 无图：腾讯云《Pod 异常排查概述》:https://cloud.tencent.com/document/product/457/42945。 参考：<a href="https://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247485573&idx=2&sn=07e9215b3c842b0fed0f28295fb7408e&scene=142#wechat_redirect" target="_blank" data-itemshowtype="0">Kubernetes Pod 异常诊断</a>
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTsKoWqNO4VUetSib0OYZUibibPOKz7lqrxfTZicsAq4mR5iagRI87276Av7B85PTJErngTYXDOqd6icLzg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTsKoWqNO4VUetSib0OYZUibibVBVP7T4iaRWGLIzBEBb9CaGEDTDSWFaMTSqPiaV9eq4bMJhRAZSkTj5Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [列式存储 vs 行式存储：它们之间的本质区别在哪里？](https://mp.weixin.qq.com/s/vIRzYLpuG0snTbprINYnRw)
 
-- **发布日期**：2024-12-16 19:15  
-- **所属合集**：#大数据 #存储引擎  
-- **摘要**：经典论文《Column-Stores vs. Row-Stores: How Different Are They Really?》解读。  
+- **发布日期**：2024-12-16 19:15
+- **所属合集**：#大数据 #存储引擎
+- **摘要**：经典论文《Column-Stores vs. Row-Stores: How Different Are They Really?》解读。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTaMKm5WW3oaDZ7he26NXZyQJJsV45ZiaUkNtLAMAla9lJzR7GqTUkThCPhWFTvoaVlZSO4CTla35g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTaMKm5WW3oaDZ7he26NXZylwn4IxrbwmzBKdSg14mDfdwPGRCouorMZ0kacxVvdBjMxS3kibwrZEA/0?wx_fmt=jpeg" width="400"/>
 
 ### [OpenAI 【2024 年 12 月 11 日】停服事件复盘](https://mp.weixin.qq.com/s/l3jXly81SiPco-FfESeXFA)
 
-- **发布日期**：2024-12-15 08:05  
-- **所属合集**：#Tech News  
-- **摘要**：这篇事后分析详细描述了 2024 年 12 月 11 日发生的一起事件，当时所有 OpenAI 服务都经历了显著的停机时间。问题源于一个新的遥测服务部署，该服务无意中压垮了 Kubernetes 控制平面，导致关键系统出现连锁故障。  
+- **发布日期**：2024-12-15 08:05
+- **所属合集**：#Tech News
+- **摘要**：这篇事后分析详细描述了 2024 年 12 月 11 日发生的一起事件，当时所有 OpenAI 服务都经历了显著的停机时间。问题源于一个新的遥测服务部署，该服务无意中压垮了 Kubernetes 控制平面，导致关键系统出现连锁故障。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgq0iblzYibSrmCR6xb3TDQJ2NArfniacf9EMWtpz4OtrgurB71sMSibSel6mPEiahwVZykU33fO254fQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgq0iblzYibSrmCR6xb3TDQJ6ObmwhbGyXicibRibCrjdMbI1pBR83tI6t3tL7fYTbhZPkb7jr7GwhYRA/0?wx_fmt=jpeg" width="400"/>
 
 ### [网络收发路径上的一些冷知识 - 参数单位](https://mp.weixin.qq.com/s/6--GJA3sGWekk-hUleBmAg)
 
-- **发布日期**：2024-12-14 11:52  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：在网络调优和排查过程中，了解各种参数及其单位的意义至关重要，因此本文将对常见的参数及其单位进行说明。  
+- **发布日期**：2024-12-14 11:52
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：在网络调优和排查过程中，了解各种参数及其单位的意义至关重要，因此本文将对常见的参数及其单位进行说明。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgq0iblzYibSrmCR6xb3TDQJVxYDzibsbIW2CrjZKho6TibssnoKRIN1KjrkCicNGcDFRqiclY0PZfwT9w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgq0iblzYibSrmCR6xb3TDQJq9RENOk1FNcvDADWpe8bvSalM3XazicnIBWyyH6OWLc3xL4FbI10MsQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 网络优化：RPS 和 RFS 技术概述](https://mp.weixin.qq.com/s/QhsFzATYJDGblSbnNxxVDQ)
 
-- **发布日期**：2024-12-12 12:35  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：RPS和RFS是Linux内核中的两种技术，它们优化网络数据包处理性能，特别是在多核处理器和高吞吐量场景中。这些技术通过将数据包分配到不同的CPU核心上，改善负载均衡并减少缓存未命中。  
+- **发布日期**：2024-12-12 12:35
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：RPS 和 RFS 是 Linux 内核中的两种技术，它们优化网络数据包处理性能，特别是在多核处理器和高吞吐量场景中。这些技术通过将数据包分配到不同的 CPU 核心上，改善负载均衡并减少缓存未命中。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSaZDO8FciauftCvG9WXAyXnjMxj2g9BPRRyQFxr9KNYriaBPicxFetbZ11ybHzEicXYTuiaphqtkVvSXw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSaZDO8FciauftCvG9WXAyXn3gOXNV2d8yOibpkK4ibJSZs5IFiboa2uQsj2AmgAcZaoz7yEM1QZUzfjg/0?wx_fmt=jpeg" width="400"/>
 
 ### [快速了解 TCP 连接的 11 种状态及其转换](https://mp.weixin.qq.com/s/Bjq39k78p9uliudcIW0T9Q)
 
-- **发布日期**：2024-12-10 19:10  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：本文意在用简短的文字总结一下 TCP 的 11 种状态及其转换过程。  
+- **发布日期**：2024-12-10 19:10
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：本文意在用简短的文字总结一下 TCP 的 11 种状态及其转换过程。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS7srUyGq1Zo5Plxpau2VxOPFeQNDicpdiakt8F2E1FajyibpaiaEh5A8OpwtQj9TqGaBImRtoFsVdYDA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS7srUyGq1Zo5Plxpau2VxO9bhUdzsSCfEGl548nj1EzJ462JMec0UwGjib3AZH0aIdFs00duibbNLQ/0?wx_fmt=jpeg" width="400"/>
 
-### [推荐 - SRE 精英联盟发布的《SRE实践白皮书》1.0.5 版本](https://mp.weixin.qq.com/s/y8fTkBEpAdZ5IOe6gv9tQQ)
+### [推荐 - SRE 精英联盟发布的《SRE 实践白皮书》1.0.5 版本](https://mp.weixin.qq.com/s/y8fTkBEpAdZ5IOe6gv9tQQ)
 
-- **发布日期**：2024-12-09 13:01  
-- **所属合集**：#SRE  
-- **摘要**：本次更新重点优化和扩展了《5 故障应急》章节内容：新增了 B 站和蚂蚁在Qcon上海SRE专场上分享的两个案例。并根据实际需求，调整“应用服务 SLI/SLO/SLA” “重大技术保障”章节至本章，并在后者新增《OPPO 春节业务保障》案例  
+- **发布日期**：2024-12-09 13:01
+- **所属合集**：#SRE
+- **摘要**：本次更新重点优化和扩展了《5 故障应急》章节内容：新增了 B 站和蚂蚁在 Qcon 上海 SRE 专场上分享的两个案例。并根据实际需求，调整“应用服务 SLI/SLO/SLA” “重大技术保障”章节至本章，并在后者新增《OPPO 春节业务保障》案例
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQWeThngbMrFGC9xxXI5ActwYcQfUel5nYKNCmMk7DiaibibvZECn3ORFus76N2LSARQ6yOfG9TP64kg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQWeThngbMrFGC9xxXI5ActlQDXWXlibANiaic1ibm2N9nWjKhKpFXHwvalM5NLVowOEOjH0U2wEiaDTOw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 网络参考书籍推荐](https://mp.weixin.qq.com/s/-GaqOPQr-nRxZ5gdo1SiFw)
 
-- **发布日期**：2024-12-06 12:30  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：推荐笔者看过的 Linux 网络相关的书单，分为四大类：网络七层协议、Linux 内核中的网络栈与收发路径、Linux 网络编程及高性能编程、Linux 网络性能分析与调优，适合不同角色的人员参考。  
+- **发布日期**：2024-12-06 12:30
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：推荐笔者看过的 Linux 网络相关的书单，分为四大类：网络七层协议、Linux 内核中的网络栈与收发路径、Linux 网络编程及高性能编程、Linux 网络性能分析与调优，适合不同角色的人员参考。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQUibhv2H1NtU7clP8sqA20ibKGHe7u7ZHGTkOwhBwRltvfeib7fHTHxsmS8DLzk7WNuJibUvwDR3HHFA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQUibhv2H1NtU7clP8sqA20ibicg4ccc7fxjDLYnZ5MAtKmmib7bsY8u0hqZjjxpwNhuX7cia3vEcS4ZZA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Java 网络异常及其解决方案](https://mp.weixin.qq.com/s/kzZvj9sMReoVjRwlmuSVvQ)
 
-- **发布日期**：2024-12-04 15:01  
-- **所属合集**：#Linux  
-- **摘要**：在 Java 开发中，网络异常是常见的挑战之一，尤其是在处理客户端与服务器之间的通信时，本文介绍了常见的异常类型​及其发生场景以及解决方法。  
+- **发布日期**：2024-12-04 15:01
+- **所属合集**：#Linux
+- **摘要**：在 Java 开发中，网络异常是常见的挑战之一，尤其是在处理客户端与服务器之间的通信时，本文介绍了常见的异常类型 ​ 及其发生场景以及解决方法。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTxlcUxPWphzWIZV1FzPPwKiaBQsErJaJbPxnNtLmEXFFazRo1hwbRMgGXcBl9CT7bh6sWpUMiaicJzw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTxlcUxPWphzWIZV1FzPPwKvMnZQOOzuHUat0mUUZWvukrka76BAY9SOYlovBqqM13OoPW3GLVCYQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux FUSE 文件系统的相关一些管理操作](https://mp.weixin.qq.com/s/ZVTdSeF-LtsiSvVeLYsubw)
 
-- **发布日期**：2024-12-02 20:00  
-- **所属合集**：#Linux 小技巧 #Linux  
-- **摘要**：书接上文(Linux 用户态文件系统 FUSE 简介)，大家学习完 FUSE 文件系统后，实操中可能会遇到一些问题，笔者（博主）整理了与 FUSE 文件系统相关的一些管理操作，供大家参考。  
+- **发布日期**：2024-12-02 20:00
+- **所属合集**：#Linux 小技巧 #Linux
+- **摘要**：书接上文(Linux 用户态文件系统 FUSE 简介)，大家学习完 FUSE 文件系统后，实操中可能会遇到一些问题，笔者（博主）整理了与 FUSE 文件系统相关的一些管理操作，供大家参考。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRfn6rp1uno4s9jB63H0SPPkwFvAv1yGbcTQzKxVkY7VmaHjBiaMKhUmX5tWkapTiau2Am3jQkWbyHg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRfn6rp1uno4s9jB63H0SPP44wTzqFycGY2D1LaxmuXr9r3rqvSSXF9kPxPJic3aibBCuq9LNJJdKog/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - 软链接 vs. 硬链接](https://mp.weixin.qq.com/s/tdVgBAORr3sSzCbxO85EwA)
 
-- **发布日期**：2024-12-01 22:00  
-- **所属合集**：#Linux #Linux 小技巧  
-- **摘要**：一文了解 Linux 的硬链接和软链接！  
+- **发布日期**：2024-12-01 22:00
+- **所属合集**：#Linux #Linux 小技巧
+- **摘要**：一文了解 Linux 的硬链接和软链接！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQiaZo3SbMaMbxuy1JSaE5EeX1KK6wzzoKY7UQOmREwgc2vpkjnEVl2WdSCGBib4MHUYZp6U5I17sBg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQiaZo3SbMaMbxuy1JSaE5EeZEyo5CK8ckPST2DniarIibuQ27Iv22KYSazWaKZozPVAA1j7o0FosXTg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 用户态文件系统 FUSE 简介](https://mp.weixin.qq.com/s/Db0xBSMzqT_wPIKaLkGtNA)
 
-- **发布日期**：2024-11-30 19:30  
-- **所属合集**：#Linux  
-- **摘要**：FUSE 是一个开源框架，允许在用户空间构建文件系统，而不是走传统的内核空间路径。许多人认为在用户空间构建文件系统不适合用于生产环境，并且认为其开销过大，无法实际使用。但这一机制为程序员提供了一个更“友好”的开发环境，拥有更丰富的工具集  
+- **发布日期**：2024-11-30 19:30
+- **所属合集**：#Linux
+- **摘要**：FUSE 是一个开源框架，允许在用户空间构建文件系统，而不是走传统的内核空间路径。许多人认为在用户空间构建文件系统不适合用于生产环境，并且认为其开销过大，无法实际使用。但这一机制为程序员提供了一个更“友好”的开发环境，拥有更丰富的工具集
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRb7yk7ZYJGqmK5eQXq7da3g4QOGziaMJZLIoz1EEnYk2mt6owCWG6d1P4gWgrUicnvknAO88pl1Ppw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRb7yk7ZYJGqmK5eQXq7da3SXTShWvO4soIPMkGd2SNdjB1jY2SxLiaZ33vNYK1Pa8kRG5iaQm2qjGg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小技巧 - 使用 smem 了解内存使用情况](https://mp.weixin.qq.com/s/W0dEXBR0oRuWKD0J9EbN9A)
 
-- **发布日期**：2024-11-29 14:22  
-- **所属合集**：#Linux 小技巧 #Linux #系统可观测性  
-- **摘要**：smem 是一个命令行工具，它报告每个进程的内存使用情况，与主要显示 RSS 的 top 或 htop 不同，smem 还可以显示 USS，这是评估终止特定进程将释放多少内存的更好指标。  
+- **发布日期**：2024-11-29 14:22
+- **所属合集**：#Linux 小技巧 #Linux #系统可观测性
+- **摘要**：smem 是一个命令行工具，它报告每个进程的内存使用情况，与主要显示 RSS 的 top 或 htop 不同，smem 还可以显示 USS，这是评估终止特定进程将释放多少内存的更好指标。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQTBuCI5c4S9Nef77rQzfkzh3yhWTzepkOK1PqhIiaa1BjMDHpicBPQmqwYiaWFEWv7FjteyMg2xvibQw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQTBuCI5c4S9Nef77rQzfkzbn53Gzdxc9BNgLzTKBwfgZ3ugVQKOE3gJhXc6B6dqyRpV5zzt0HzuQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [解读 Linux Cgroup 之 cpuset 子系统及其在 Docker 中的使用](https://mp.weixin.qq.com/s/2N_g7nfj1VVsdsE5LIIq5g)
 
-- **发布日期**：2024-11-27 12:55  
-- **所属合集**：#Linux #Docker  
-- **摘要**：在 Linux 系统中，cgroup（Control Groups）是一种用于限制、记录和隔离进程资源使用的机制。其中，cpuset 子系统主要用于管理 CPU 和内存节点的分配，可以有效实现资源隔离和性能优化。  
+- **发布日期**：2024-11-27 12:55
+- **所属合集**：#Linux #Docker
+- **摘要**：在 Linux 系统中，cgroup（Control Groups）是一种用于限制、记录和隔离进程资源使用的机制。其中，cpuset 子系统主要用于管理 CPU 和内存节点的分配，可以有效实现资源隔离和性能优化。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRty761rZ6mvFqwxgT2Z2PhD782KARrhaOeeCYiadFBKGvMQRzKcQk1tNHscnscN210k5ktZFEUbVA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRty761rZ6mvFqwxgT2Z2Ph3o17Dur06qdmHAkRv01xRalib4JIT1ObiclQvjTdBHTH0yMmzuicEibictw/0?wx_fmt=jpeg" width="400"/>
 
 ### [「鲲鹏软件性能调优基础知识」之「基于硬件特性的性能调优方向」](https://mp.weixin.qq.com/s/d0TgvpxEQzknt1BkGD5RYA)
 
-- **发布日期**：2024-11-25 22:40  
-- **所属合集**：#Linux  
-- **摘要**：以「鲲鹏软件性能调优基础知识」之「基于硬件特性的性能调优方向」，构建整个调优知识及方法体系！  
+- **发布日期**：2024-11-25 22:40
+- **所属合集**：#Linux
+- **摘要**：以「鲲鹏软件性能调优基础知识」之「基于硬件特性的性能调优方向」，构建整个调优知识及方法体系！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQSy2icfnibLn7ZuerwxZ8pG7ORCIEicAM52MTXicicqoPqhGI6kaWCFzYnDUFbPQGZ12du90036XXfI5g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQSy2icfnibLn7ZuerwxZ8pG7icDWZJDXAznBeTdf9SfgPNqvItxfMAdcyt2tgI8hXTBt4icxeCAQaqhg/0?wx_fmt=jpeg" width="400"/>
 
 ### [推荐：《百万并发下 Nginx 的优化之道》](https://mp.weixin.qq.com/s/9RFI5ChDTB7tbW8lYGZSYg)
 
-- **发布日期**：2024-11-24 20:55  
-- **所属合集**：#Linux  
-- **摘要**：今天水一篇，把《百万并发下Nginx的优化之道》博文，以及作者陶辉在极客时间开的课给大家介绍一下，有兴趣的小伙伴可以自取！  
+- **发布日期**：2024-11-24 20:55
+- **所属合集**：#Linux
+- **摘要**：今天水一篇，把《百万并发下 Nginx 的优化之道》博文，以及作者陶辉在极客时间开的课给大家介绍一下，有兴趣的小伙伴可以自取！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSImC0b6bgVNdG2ziarJsxmvcpEuMlyolQ2Xc6h6zX8ESevHlBoFC2c1qOEvtcaJ1OD47McTFJMkbg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSImC0b6bgVNdG2ziarJsxmvvqeeFKyROY93icBmXc4TYEjmVSyWvL2518PniboKJOibrfvhYLxuicGTlA/0?wx_fmt=jpeg" width="400"/>
 
 ### [TCP Keepalive 指南](https://mp.weixin.qq.com/s/bKpvKeXZwXn1kytmxRfilA)
 
-- **发布日期**：2024-11-22 12:45  
-- **所属合集**：#Linux  
-- **摘要**：TCP Keepalive 指南  
+- **发布日期**：2024-11-22 12:45
+- **所属合集**：#Linux
+- **摘要**：TCP Keepalive 指南
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQmFaQSjpOpAURb85m2hQqxOiccv8toSCwfn3ODb1Dp8Ntq3FgBPD9wasBBrfxINDjBSic4y1YHdI1Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQmFaQSjpOpAURb85m2hQqxt0m2pTh6NnBlzo0VDpDleg6NWn2En48jiaYUwyMUTrl8evmsgG6tk3A/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - CPU 上下文切换之问题排查](https://mp.weixin.qq.com/s/hv823hRDirjtRciEQBe3eQ)
 
-- **发布日期**：2024-11-20 19:15  
-- **所属合集**：#Linux  
-- **摘要**：今天我们讨论一下关于 Linux CPU 上下文切换相关的一些问题排查思路与方法！  
+- **发布日期**：2024-11-20 19:15
+- **所属合集**：#Linux
+- **摘要**：今天我们讨论一下关于 Linux CPU 上下文切换相关的一些问题排查思路与方法！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLmPY7areVeryuFJAk4zCsdxbjSMpoP1FJfAcRDFWe1GsVicEhWrXBaoxfrP8C48j2Hnq52NaibeicA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLmPY7areVeryuFJAk4zCsfXXKice03LKn8ho8ibtOhHaARN4VoPTw01fEGpJYC0iastQBocBUzZIkA/0?wx_fmt=jpeg" width="400"/>
 
 ### [全新视角解析 Linux 非缓存缓冲 I/O “RWF_UNCACHED”：性能提升 65%~75%](https://mp.weixin.qq.com/s/SvHSM_qwcppRMJEmDda1GQ)
 
-- **发布日期**：2024-11-18 19:25  
-- **所属合集**：#Linux  
-- **摘要**：内存异步回收以及内存直接回收有时候就是性能杀手，解决方案要么用 direct IO，要么自己管理缓存，总之都不好做。而 Uncached Buffered I/O 正是针对这种场景提供了一种新的 IO 模式，从作者的测试来看，性能提升不少！  
+- **发布日期**：2024-11-18 19:25
+- **所属合集**：#Linux
+- **摘要**：内存异步回收以及内存直接回收有时候就是性能杀手，解决方案要么用 direct IO，要么自己管理缓存，总之都不好做。而 Uncached Buffered I/O 正是针对这种场景提供了一种新的 IO 模式，从作者的测试来看，性能提升不少！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQucToVzWNm4QhhAL2o09sibJmoA9edDV4tQsL72Q9RJ3qMDu5jaNuKS1Qumn0WDQUDQibu0TAgpnFA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQucToVzWNm4QhhAL2o09sib6YzqwhiaicdgIp0BeS4SNfq2nbUX5gyJP0SZIWzlexMzn7JddNWJiaXeA/0?wx_fmt=jpeg" width="400"/>
 
 ### [网络协议分析神器 - tcpdump 简介及抓取 HTTP Header 实战](https://mp.weixin.qq.com/s/vmat80PacZbGfKfCZ8g9Vw)
 
-- **发布日期**：2024-11-17 10:05  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：tcpdump 网络嗅探器，将强大和简单结合到一个单一的命令行界面中，能够将网络中的报文抓取，输出到屏幕或者记录到文件中。本文列举了一些常用的命令，并例举了一个在容器网络中抓取 HTTP Header 的实战，供读者参考！  
+- **发布日期**：2024-11-17 10:05
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：tcpdump 网络嗅探器，将强大和简单结合到一个单一的命令行界面中，能够将网络中的报文抓取，输出到屏幕或者记录到文件中。本文列举了一些常用的命令，并例举了一个在容器网络中抓取 HTTP Header 的实战，供读者参考！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSK22fsEiawtSgIzmILiaPL7hzOS0GJBtwZuqhicdbdk8hw1FFcwnD0QLc39yhTwtOibjZ1fdONZib0mKQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSK22fsEiawtSgIzmILiaPL7hIAq3S76nOAEibkWK2l12OFsendRZPyq5xc621ln5DxRu2Iyh4IEosCg/0?wx_fmt=jpeg" width="400"/>
 
 ### [I/O 多路复用与网络服务器并发策略](https://mp.weixin.qq.com/s/3Zvo_48wVNI747M9dIrJaw)
 
-- **发布日期**：2024-11-14 19:05  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：目前主流的网络服务器，网络 I/O 相关的底层最核心的技术都是 I/O 多路复用。本文尝试解释各种 I/O 模型，同时也总结 I/O 多路复用底层的系统调用 select、poll、kqueue 和 epoll 的演进和区别，并辅以代码！  
+- **发布日期**：2024-11-14 19:05
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：目前主流的网络服务器，网络 I/O 相关的底层最核心的技术都是 I/O 多路复用。本文尝试解释各种 I/O 模型，同时也总结 I/O 多路复用底层的系统调用 select、poll、kqueue 和 epoll 的演进和区别，并辅以代码！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSWuoFd5L5ZgLd4rjSJUGNZ8loFibRnoN4ORBxBvppcgBDicibhmQWjlmB4bSwa6doLm5bVYmriaEdHCg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSWuoFd5L5ZgLd4rjSJUGNZZ3AEtMem024C4jY4jibKo0ox8k7ubJHKfIzodsoLofVDRsaquc4rib1Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [超越 POSIX：一个时代的终结？](https://mp.weixin.qq.com/s/xZ1-rk_O56WWbojVPsLECw)
 
-- **发布日期**：2024-11-12 12:59  
-- **所属合集**：#Linux  
-- **摘要**：在本文中，我们通过系统回顾可移植操作系统接口 (POSIX) 抽象的历史演变，提供对它的全面了解。我们讨论了推动演变的一些关键因素，并找出了在构建现代应用程序时导致它们不可行的缺陷。  
+- **发布日期**：2024-11-12 12:59
+- **所属合集**：#Linux
+- **摘要**：在本文中，我们通过系统回顾可移植操作系统接口 (POSIX) 抽象的历史演变，提供对它的全面了解。我们讨论了推动演变的一些关键因素，并找出了在构建现代应用程序时导致它们不可行的缺陷。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSWst65VuRVWISHDKkcTmND61y9NEyAYiaChNTia52PKxNY5Lv8fDlPLIW84UEqBJEDYFJM3ClqemIA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSWst65VuRVWISHDKkcTmNDpt0EVv7oREZnRfsTs5iaqrzOuSxUNzopQ8sPWbkGWbdOFfRqxcNmGHw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux TCP 统计指标详解](https://mp.weixin.qq.com/s/F7KjHOzHjRmdbFxnSaA4mw)
 
-- **发布日期**：2024-11-09 09:59  
-- **所属合集**：#Linux  
-- **摘要**：最近写了几篇关于 Linux 网络收发包，TCP 连接三次握手、结束连接四次挥手以及 TCP 收发包优化的内核参数。那最后我们就把 Linux TCP 统计指标这块再和大家讲一讲。  
+- **发布日期**：2024-11-09 09:59
+- **所属合集**：#Linux
+- **摘要**：最近写了几篇关于 Linux 网络收发包，TCP 连接三次握手、结束连接四次挥手以及 TCP 收发包优化的内核参数。那最后我们就把 Linux TCP 统计指标这块再和大家讲一讲。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9I6CVib6PCmj7eAN4mT5qNWTLibdib2erv8EsQu4H1DFcqeBoGCNHhOxxjPqdaEXcRCydv4ofv6oow/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9I6CVib6PCmj7eAN4mT5qNdWLVZGAsibs0SluTicicbnhlVrlPrPGp2wOHhb9whgSKRiaMrHm2t28tHw/0?wx_fmt=jpeg" width="400"/>
 
 ### [图解 TCP 收发包需要注意的内核参数](https://mp.weixin.qq.com/s/3pGiiWPLHQsVNzTjBy6lmg)
 
-- **发布日期**：2024-11-07 12:59  
-- **所属合集**：#Linux  
-- **摘要**：TCP 收包和发包的过程是网络应用中容易出现问题的地方，最常见的问题就是丢包。要解决这些问题，我们需要理解 TCP 收发包过程中的关键因素，以及如何配置参数使之与业务场景匹配！  
+- **发布日期**：2024-11-07 12:59
+- **所属合集**：#Linux
+- **摘要**：TCP 收包和发包的过程是网络应用中容易出现问题的地方，最常见的问题就是丢包。要解决这些问题，我们需要理解 TCP 收发包过程中的关键因素，以及如何配置参数使之与业务场景匹配！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSDhufyp8PrcAMXyrvT9UxOGvN2KM37QFGznAHZRCJzIcia2XsCvuIsvarzq94MqTWXUqWybflHibxA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSDhufyp8PrcAMXyrvT9UxOm8tKRYGBZhSkTgtcaknNMZTKsmW0JIiau4rb45eRnBM7ia8hMHMUYMiaQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [图解 TCP 连接生命周期](https://mp.weixin.qq.com/s/cOXUH8knOomVLGE6YWs9Mg)
 
-- **发布日期**：2024-11-05 12:31  
-- **所属合集**：#Linux  
-- **摘要**：图解 TCP 连接生命周期，包含建立连接三次握手以及关闭连接四次挥手，并重点介绍了 Linux 相关内核参数的含义和使用建议，从系统层解决 C10K 这样的问题！  
+- **发布日期**：2024-11-05 12:31
+- **所属合集**：#Linux
+- **摘要**：图解 TCP 连接生命周期，包含建立连接三次握手以及关闭连接四次挥手，并重点介绍了 Linux 相关内核参数的含义和使用建议，从系统层解决 C10K 这样的问题！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQT8micGvdzLibt3XvMpfBgJicgFibm4WJuF5KgscdOZdk1icAkWx8nQiajO4RSmH82kyhxKAbRH30LCiaMw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQT8micGvdzLibt3XvMpfBgJictSn38j9rEgd1r7UibzTwwkzfC55akibnHtIMyicwgiacMFEMCezRJ1EdWg/0?wx_fmt=jpeg" width="400"/>
 
 ### [原力注入：AI Infra 知识体系（Body of knowledge for AI Infra) v1.1](https://mp.weixin.qq.com/s/nMgHwGYb9vVBx0g9EpNNoQ)
 
-- **发布日期**：2024-11-03 15:31  
-- **所属合集**：#AI Infra #CUDA  
-- **摘要**：经过这半年的学习和整理，笔者也逐步构建了笔者心中的 AI Infra 知识体系（Body of knowledge for AI Infra），供大家参考，今天推出了 1.1 版本！  
+- **发布日期**：2024-11-03 15:31
+- **所属合集**：#AI Infra #CUDA
+- **摘要**：经过这半年的学习和整理，笔者也逐步构建了笔者心中的 AI Infra 知识体系（Body of knowledge for AI Infra），供大家参考，今天推出了 1.1 版本！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTcPcg1WOsxzbkLz1LwXRVfEAZ1ngIngkX5MZ2uEZNunaaW6g8JJvuUPZt5BTbicHrZ7Qkv4fo1jUg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTcPcg1WOsxzbkLz1LwXRVfo36n9rPeQmMYWpVRAjY6yaCGHMs5VL2Nl06dBX58w4LvDUiaptjvfPA/0?wx_fmt=jpeg" width="400"/>
 
 ### [更多关于 Linux 网络报文收发路径图解](https://mp.weixin.qq.com/s/Je3J4Ui9XQkXDigLBtTRWw)
 
-- **发布日期**：2024-11-02 08:27  
-- **所属合集**：nan  
-- **摘要**：大家在仔细阅读《<a href="http://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&amp;mid=2247488059&amp;idx=1&amp;sn=4062df3f2f24d9d9ef1422629cb8e793&amp;chksm=e995d076dee259604b343e944ea0c76ef9f90ff52ce669e629d3168ff2be8f11b7543e6325ff&amp;scene=142#wechat_redirect" target="_blank" data-itemshowtype="0">Linux 网络收发包路径简介</a>》的基础上，现在应该了解了 Linux 网络报文的收发路径。
-
-    几个关键点：
-1. 如图1和图4所示：ring buffer / 队列实际上都位于 RAM（内存）中；
-2. 如图4所示：ring buffer/队列里面存的是指向数据报文的指针；
-3. 图7非常详细展示了Linux物理网络和虚拟网络的路径，PDF 高清版本：https://github.com/ForceInjection/linux-from-beginner-to-master/blob/main/net/broadcom-ethernet-network-adapter-user-guide.pdf。
-
-    有兴趣的童鞋可以阅读飞哥的书，通过代码让大家真正理解背后的原理，值得一读：
-<a class="js_uneditable" data-cardtype="2" data-windowproduct="v2=HH167QV72FLzLBvJ49YoOmTWQ6EoaPXt_myk_t0ek387ra0owxY4PAbNZ34kkwqHbQ" data-title="深入理解Linux网络： 修炼底层内功，掌握高性能原理（配Java、C++实验代码）" tagname="mp-common-product" linktype="product">深入理解Linux网络： 修炼底层内功，掌握高性能原理（配Java、C++实验代码）</a>  
+- **发布日期**：2024-11-02 08:27
+- **所属合集**：#Linux
+- **摘要**：大家在仔细阅读《<a href="http://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247488059&idx=1&sn=4062df3f2f24d9d9ef1422629cb8e793&chksm=e995d076dee259604b343e944ea0c76ef9f90ff52ce669e629d3168ff2be8f11b7543e6325ff&scene=142#wechat_redirect" target="_blank" data-itemshowtype="0">Linux 网络收发包路径简介</a>》的基础上，现在应该了解了 Linux 网络报文的收发路径。 几个关键点： 1. 如图 1 和图 4 所示：ring buffer / 队列实际上都位于 RAM（内存）中； 2. 如图 4 所示：ring buffer/队列里面存的是指向数据报文的指针； 3. 图 7 非常详细展示了 Linux 物理网络和虚拟网络的路径，PDF 高清版本：https://github.com/ForceInjection/linux-from-beginner-to-master/blob/main/net/broadcom-ethernet-network-adapter-user-guide.pdf。 有兴趣的童鞋可以阅读飞哥的书，通过代码让大家真正理解背后的原理，值得一读： <a class="js_uneditable" data-cardtype="2" data-windowproduct="v2=HH167QV72FLzLBvJ49YoOmTWQ6EoaPXt_myk_t0ek387ra0owxY4PAbNZ34kkwqHbQ" data-title="深入理解Linux网络： 修炼底层内功，掌握高性能原理（配Java、C++实验代码）" tagname="mp-common-product" linktype="product">深入理解 Linux 网络： 修炼底层内功，掌握高性能原理（配 Java、C++实验代码）</a>
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSK24UicxbM8cnnwFj00ywGYeNod1daYB98jWPTrIsbu6sAG1vppy2AiaerhAFT3EYzTxnKM0553I8A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSK24UicxbM8cnnwFj00ywGYoZ2TxQaQrQG46dibnT1mctqCqpCQraFqSaudpcLndibq0GT6Ya48CJ5Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [来自《Broadcom 以太网网络适配器用户指南》中提到的「 Linux 命令」](https://mp.weixin.qq.com/s/R3IQZJwjlMH5Qtqlcj1g2Q)
 
-- **发布日期**：2024-11-01 08:31  
-- **所属合集**：#网络基础知识 #Linux  
-- **摘要**：来自《Broadcom 以太网网络适配器用户指南》中提到的「 Linux 命令」  
+- **发布日期**：2024-11-01 08:31
+- **所属合集**：#网络基础知识 #Linux
+- **摘要**：来自《Broadcom 以太网网络适配器用户指南》中提到的「 Linux 命令」
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSg50Q6dn46Sg5iavNblkbK4PBVDMia9NkxIC4nyB6giayOIAORKHlNicreR6mUVIVg3Ye9BQmwB0o7WQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSg50Q6dn46Sg5iavNblkbK4w2dclQ8zxGqGhhWv0AxDIXqy8XbypQwOvYvNL4oWhzPIN2FUIKTYOw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 网络收发包路径简介](https://mp.weixin.qq.com/s/fSYzPfG2tjJ1hD8uWp39Ug)
 
-- **发布日期**：2024-10-31 13:01  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：为了最终写作《网络性能探案惊奇：三步揪出 CPU 软中断一直处于 100%的元凶》，今天先来介绍一下 Linux 网络收发包路径，并重点讲解收包路径。  
+- **发布日期**：2024-10-31 13:01
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：为了最终写作《网络性能探案惊奇：三步揪出 CPU 软中断一直处于 100%的元凶》，今天先来介绍一下 Linux 网络收发包路径，并重点讲解收包路径。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSg50Q6dn46Sg5iavNblkbK4VERgw6urjITeYf5A62kTxkcGeLzCBtUHv542iaMOCO5YQhaL293PDUA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSg50Q6dn46Sg5iavNblkbK4C1aZ5dZf3gWuezF53nppI9SWX7MeP0Jibmv9ClJib8wlQROufMbjDPwQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [了解 Linux 中的中断、软中断和 Softnet 之原理篇](https://mp.weixin.qq.com/s/lBaP4Nd5F28YSt8IEXw_Lw)
 
-- **发布日期**：2024-10-30 08:31  
-- **所属合集**：#Linux  
-- **摘要**：了解 Linux 中的中断、软中断和 Softnet 之原理篇，为后续的案例分析作准备！  
+- **发布日期**：2024-10-30 08:31
+- **所属合集**：#Linux
+- **摘要**：了解 Linux 中的中断、软中断和 Softnet 之原理篇，为后续的案例分析作准备！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRoSVVVbXbyAfkic3un6D1djgB9OxDFMDWrpdcB1WdAxx5rjqkk1rh9j9leIzZnSPzcvUQJgWgloPw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRoSVVVbXbyAfkic3un6D1djSHXJGFNqAZAQHjhjFLkcM7kZqowxGQBpQp1ficj74t94JnddH99cPfw/0?wx_fmt=jpeg" width="400"/>
 
 ### [周末好书推荐《Linux/Unix 系统编程手册（上下册）》](https://mp.weixin.qq.com/s/9H3Cmw0Tp281WGKcbAvtFA)
 
-- **发布日期**：2024-10-27 09:30  
-- **所属合集**：#Linux  
-- **摘要**：推荐一本工具书《Linux/Unix 系统编程手册（上下册）》，大部分系统调用相关的都涵盖的了，非常实用！  
+- **发布日期**：2024-10-27 09:30
+- **所属合集**：#Linux
+- **摘要**：推荐一本工具书《Linux/Unix 系统编程手册（上下册）》，大部分系统调用相关的都涵盖的了，非常实用！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTceBkBicqytricL33GHe6mp06ofmRpRF2Q8KEJLx6FznPeQ1J2ibF7TtDltFPxpPREXkHJbMTf8eIVg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTceBkBicqytricL33GHe6mp0mAnhch6HdwYVKOcKVjntK9NIDZiaUfHRbztWdjic7sFYdbC8GBxiaibDpw/0?wx_fmt=jpeg" width="400"/>
 
 ### [生产环境 Java 程序内存占用过高的问题排查](https://mp.weixin.qq.com/s/WqTDV_xfnYoyA9oAkJXqCg)
 
-- **发布日期**：2024-10-25 08:31  
-- **所属合集**：nan  
-- **摘要**：生产环境服务A部署在K8s上，某天运维告诉我这个服务经常会重启，生产问题不可马虎，于是开启了定位问题之旅。  
+- **发布日期**：2024-10-25 08:31
+- **所属合集**：#SRE
+- **摘要**：生产环境服务 A 部署在 K8s 上，某天运维告诉我这个服务经常会重启，生产问题不可马虎，于是开启了定位问题之旅。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCr8PicBdDkKezKFKDxDkazCcibr756lO9YmaZdvogsRwExWeqPdBSe9EYUeZOhPtm5gWzYgZcN2znlA/0?wx_fmt=jpeg" width="400"/>
-
-### [Linux 删除文件或者目录时，出现“Operation not permitted” ，如何解决？](https://mp.weixin.qq.com/s/i1irz1t1BfUpd1jjc2r78w)
-
-- **发布日期**：2024-10-24 08:31  
-- **所属合集**：#Linux #Linux 小技巧  
-- **摘要**：用户在对文件做删除，移动等操作，会提示 “Operation not permitted“ 错误，无法操作成功，此时我们就需要检查文件属性了！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTia3DfQF1NV6gJF7OBKlxZUgOrUQxY9fdLk8AjwsE8L42NDKtOf1MWVM493seqHMFOr4ymBGoFsvQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCr8PicBdDkKezKFKDxDkazCcjWBjib76okeyo69hl1Pt2jUAxzRo14CPiaZwOdDwvDUX23MZJQ2zBtdg/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐 《Linux 二进制分析》](https://mp.weixin.qq.com/s/iB7oeeXuCR-W9JTeByetDw)
 
-- **发布日期**：2024-10-24 08:31  
-- **所属合集**：#Linux  
-- **摘要**：​大家读完：《Linux 二进制文件格式 ELF 入门​》 是否还意犹未尽？希望了解更多 ELF 分析的使用场景，那笔者就推荐大家阅读​以下书籍《Linux 二进制分析》一书，可以更加深入学习和使用 Linux 二进制分析技术。  
+- **发布日期**：2024-10-24 08:31
+- **所属合集**：#Linux
+- **摘要**：​ 大家读完：《Linux 二进制文件格式 ELF 入门 ​》 是否还意犹未尽？希望了解更多 ELF 分析的使用场景，那笔者就推荐大家阅读 ​ 以下书籍《Linux 二进制分析》一书，可以更加深入学习和使用 Linux 二进制分析技术。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTia3DfQF1NV6gJF7OBKlxZUkfibbIJzRDGMfKDwSuNGyQZBdiadyv4tOtr2Rxp8u1ia14px6zoYaIzyg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTia3DfQF1NV6gJF7OBKlxZUeP8jPflVTR1aZad3XSicEpBmVmQUJznAPahwHc0ywh7j7YibSNVDQtqg/0?wx_fmt=jpeg" width="400"/>
+
+### [Linux 删除文件或者目录时，出现“Operation not permitted” ，如何解决？](https://mp.weixin.qq.com/s/i1irz1t1BfUpd1jjc2r78w)
+
+- **发布日期**：2024-10-24 08:31
+- **所属合集**：#Linux #Linux 小技巧
+- **摘要**：用户在对文件做删除，移动等操作，会提示 “Operation not permitted“ 错误，无法操作成功，此时我们就需要检查文件属性了！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTia3DfQF1NV6gJF7OBKlxZUuR1Nznh3xUUJGIicp2yvzFia87HNAjGPZdH0y7UzeySqwLU3xMZkQuKQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 二进制文件格式 ELF 入门](https://mp.weixin.qq.com/s/8L04s20E-9Qyz0DKhlOrKQ)
 
-- **发布日期**：2024-10-23 08:31  
-- **所属合集**：#Linux  
-- **摘要**：ELF 是 “Executable and Linkable Format”的缩写，它定义了二进制文件、库和核心文件的结构。正式的规范允许操作系统正确解释其底层机器指令。ELF 文件通常是编译器或链接器的输出，并且是一种二进制格式。  
+- **发布日期**：2024-10-23 08:31
+- **所属合集**：#Linux
+- **摘要**：ELF 是 “Executable and Linkable Format”的缩写，它定义了二进制文件、库和核心文件的结构。正式的规范允许操作系统正确解释其底层机器指令。ELF 文件通常是编译器或链接器的输出，并且是一种二进制格式。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR74aRmchmoed5zgCaMibYWhibibiaAmAiad8r6h6rKyTe0wwsRd4iaDyNlLG7ma4FfCRhHSdhGG2xg9YRA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR74aRmchmoed5zgCaMibYWhG3iaNf4jXaJmbjwyEKaxUxVwEuzXld6b5FQMKtcicyOllHd8gyWvibLvw/0?wx_fmt=jpeg" width="400"/>
 
 ### [CUDA Processing Streams](https://mp.weixin.qq.com/s/Hm1PZ4rZe7GbOp2xtFPgdA)
 
-- **发布日期**：2024-10-22 08:31  
-- **所属合集**：#CUDA #AI Infra  
-- **摘要**：结合代码示例来深入学习 CUDA Stream 编程。  
+- **发布日期**：2024-10-22 08:31
+- **所属合集**：#CUDA #AI Infra
+- **摘要**：结合代码示例来深入学习 CUDA Stream 编程。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSLZrYicXceGoR4hAtX2p8HZ4N8nXRTzUetJezLLyNyic22kH8AghauWyY3DLEEVm3sxGhAAdYoCATw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSLZrYicXceGoR4hAtX2p8HZlibBZwzw9M5ib746XUZIfiamicYsNG7WKvqAFLIAwnI3dibp1PCLydeP0jQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [归还一座岛屿导致“ .io ”顶级域名面临消失风险，从而影响海量网站和软件 - 让我们一探这可能的黑天鹅事件](https://mp.weixin.qq.com/s/6NA4tSM8HmazhNLIDpItcQ)
 
-- **发布日期**：2024-10-21 08:31  
-- **所属合集**：#Tech News  
-- **摘要**：英国将归还一座岛屿给毛里求斯，这是好事，但是却可能导致“.io ”顶级域名面临消失，而这又会影响到数以百万计的网站和软件，你们准备好了吗？  
+- **发布日期**：2024-10-21 08:31
+- **所属合集**：#Tech News
+- **摘要**：英国将归还一座岛屿给毛里求斯，这是好事，但是却可能导致“.io ”顶级域名面临消失，而这又会影响到数以百万计的网站和软件，你们准备好了吗？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTj1aibzTQkaFoyXzfRNGM4eJxzkgvCvuDkw1Ly9wRQ9Rspj9nBze4uevQiaYnzxyUscA1vryE5AQDg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTj1aibzTQkaFoyXzfRNGM4eNggBfpRNxoz6KhicticOibRZNpQunx9OC6XcbjncpoFtHibFquQoJWWy7A/0?wx_fmt=jpeg" width="400"/>
 
 ### [大模型安全之“字节一实习生。。。对算力分配不满、发起恶意攻击。。。被开除”大瓜](https://mp.weixin.qq.com/s/0uLClu18EdQ_cDupozhTJQ)
 
-- **发布日期**：2024-10-20 09:50  
-- **所属合集**：#LLM  
-- **摘要**：从吃瓜...延伸到大模型安全！  
+- **发布日期**：2024-10-20 09:50
+- **所属合集**：#LLM
+- **摘要**：从吃瓜...延伸到大模型安全！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTj1aibzTQkaFoyXzfRNGM4efMtYuAVu6qX7PVhdcPNf8zmmd0YjyA4LMHzcM70L9Ca6NMOU3mT6bw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTj1aibzTQkaFoyXzfRNGM4eryGmkFpQjXPVH3mXeRSmQo0Zmhq0NMHLjWDYmBoyzf4YthvOqXc8EQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - CUDA 并发编程之 Stream 简介](https://mp.weixin.qq.com/s/mXvQ1Xo1E4BUzA4q_dPDUw)
 
-- **发布日期**：2024-10-18 22:51  
-- **所属合集**：#AI Infra #CUDA  
-- **摘要**：CUDA streams 是 CUDA 编程中用来管理并发执行的单元，在一个流中，操作是串行的按序执行的，但是在不同的流中操作就可以同时执行，从而完成并发操作。  
+- **发布日期**：2024-10-18 22:51
+- **所属合集**：#AI Infra #CUDA
+- **摘要**：CUDA streams 是 CUDA 编程中用来管理并发执行的单元，在一个流中，操作是串行的按序执行的，但是在不同的流中操作就可以同时执行，从而完成并发操作。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSGR1fcjOAdckfwbmhXXqIJLDYAia64xw0H6ZUfVcZ1BbcNk8zAKSpscVoArzEI5eH5RuTJzMTQveg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSGR1fcjOAdckfwbmhXXqIJL2al4AFOB3SkrYujq1teKUITXblAOkjeUHSj4G5Lz8icK0vLomSzP5w/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - nvtop 快速入门](https://mp.weixin.qq.com/s/0D8UEkSkkpPeCNcHMNhWSA)
 
-- **发布日期**：2024-10-16 19:25  
-- **所属合集**：#AI Infra #CUDA  
-- **摘要**：nvtop 是一款类似于 htop 的命令行工具，可用于监控 NVIDIA、AMD、Intel 等多种 GPU。它提供了一个直观的界面，可以实时查看和管理 GPU 状态、指标数据。  
+- **发布日期**：2024-10-16 19:25
+- **所属合集**：#AI Infra #CUDA
+- **摘要**：nvtop 是一款类似于 htop 的命令行工具，可用于监控 NVIDIA、AMD、Intel 等多种 GPU。它提供了一个直观的界面，可以实时查看和管理 GPU 状态、指标数据。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRXUat3gNwc9dA9tdPqESR8ZcDYLWDvDYXIjkP46mKiaEAbubIFxp5ffxpvjZ5iaOtS1icwU0eSnMdNQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRXUat3gNwc9dA9tdPqESR8bRVWcytOajHYySQHMJXLe0ssWa115cA8U4KcKdbI1XXulQGVpNOohg/0?wx_fmt=jpeg" width="400"/>
 
 ### [推荐两本开源 AI 书籍：《动手学深度学习》和《机器学习系统：设计和实现》](https://mp.weixin.qq.com/s/-JcJbpvUOTFx8wdqTYVn9Q)
 
-- **发布日期**：2024-10-15 08:30  
-- **所属合集**：#AI Infra #CUDA  
-- **摘要**：推荐两本开源 AI 书：《动手学深度学习》和《机器学习系统：设计和实现》  
+- **发布日期**：2024-10-15 08:30
+- **所属合集**：#AI Infra #CUDA
+- **摘要**：推荐两本开源 AI 书：《动手学深度学习》和《机器学习系统：设计和实现》
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSKNUicsLKiaheSyOJo9C9bEdn1poo2CicT1nFFc1ic5A8V1XA9xo8AJrwqX0icNUYmSHzYTWiaItRgbXlw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSKNUicsLKiaheSyOJo9C9bEdeLxj4LGN5Xh4MNHkbWjp8a6VTlFfgyuiaPrtib7yVhZIwgmRPG94AszA/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - 集合通信框架 NCCL 概念介绍](https://mp.weixin.qq.com/s/5zk8Se6kZwMdsWQteDbq8Q)
 
-- **发布日期**：2024-10-14 13:02  
-- **所属合集**：#AI Infra  
-- **摘要**：不同的并行模式下都离不开集合通信技术。集合通信的使用将分布式训练中多个硬件之间的数据通信变得简洁和高效。与此同时，集合通信也成为了分布式机器学习中不可或缺的一部分。  
+- **发布日期**：2024-10-14 13:02
+- **所属合集**：#AI Infra
+- **摘要**：不同的并行模式下都离不开集合通信技术。集合通信的使用将分布式训练中多个硬件之间的数据通信变得简洁和高效。与此同时，集合通信也成为了分布式机器学习中不可或缺的一部分。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSKNUicsLKiaheSyOJo9C9bEdfhKzrQXRibezVRKmfthGd3F8u6UCJXW8icuFSsDB7WGQxmiaT15lbvUVg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSKNUicsLKiaheSyOJo9C9bEdJIC07Dp3NZpRfPNfCzysnR51TQNgkuuHu5YAk3Ds4icCw6CrAo3F9GA/0?wx_fmt=jpeg" width="400"/>
 
 ### [管理 Linux 上的内核驱动程序和模块](https://mp.weixin.qq.com/s/WuA8O7D3ouFqYq8IL2d9cA)
 
-- **发布日期**：2024-10-12 13:00  
-- **所属合集**：#Linux  
-- **摘要**：内核模块是 Linux 操作系统中必不可少的组件，可以扩展内核的功能，而无需重新启动系统。这些模块可以动态加载和卸载，从而可以灵活高效地管理硬件驱动程序、文件系统和其他内核功能。本文将指导用于操作内核模块的各种命令，并用示例来说明它们的用法  
+- **发布日期**：2024-10-12 13:00
+- **所属合集**：#Linux
+- **摘要**：内核模块是 Linux 操作系统中必不可少的组件，可以扩展内核的功能，而无需重新启动系统。这些模块可以动态加载和卸载，从而可以灵活高效地管理硬件驱动程序、文件系统和其他内核功能。本文将指导用于操作内核模块的各种命令，并用示例来说明它们的用法
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRbjTh5azJUbyl4GD5LLCsls3SuQg89yr5MIrxrQDF5NFHicgbr42ibiackXIWm1uGiaYYtORib0FwqphA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRbjTh5azJUbyl4GD5LLCslZ9LS27oOE0YgicH1nH04nM88qibUeIuNBcnuxicEc5AQqr5eW14hKzXZg/0?wx_fmt=jpeg" width="400"/>
 
-### [推荐：原力注入  Linux 从入门到精通](https://mp.weixin.qq.com/s/aKW_mgAzcGls-AaorGsqGA)
+### [推荐：原力注入 Linux 从入门到精通](https://mp.weixin.qq.com/s/aKW_mgAzcGls-AaorGsqGA)
 
-- **发布日期**：2024-10-11 08:30  
-- **所属合集**：#Linux  
-- **摘要**：为了能够让读者更加方便阅读和使用相关文章，笔者之后也会同步整理到「原力注入」的 Github repo 中，含义从入门到精通。  
+- **发布日期**：2024-10-11 08:30
+- **所属合集**：#Linux
+- **摘要**：为了能够让读者更加方便阅读和使用相关文章，笔者之后也会同步整理到「原力注入」的 Github repo 中，含义从入门到精通。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTUrSbfyX2t6zA3RevHa01IbPPsibDYjMdJOicymYehia3S3bL51C6qpTVtcj3U0j1sRrAUuib1n3WPtw/0?wx_fmt=jpeg" width="400"/>
-
-### [安全证书简介](https://mp.weixin.qq.com/s/nH2sfKVfIKvWIgL0Z4FKAA)
-
-- **发布日期**：2024-10-09 08:30  
-- **所属合集**：#Linux  
-- **摘要**：以 pem, der, key, csr, crt 等为后缀的证书文件简介。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTQHqJibMPDozoIJWkajlXKvawQZRA3JavibudlOmWoYBTecQJOHacic4viaJezUibCA2iawSpZlxzDYQhA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTUrSbfyX2t6zA3RevHa01IvH98rUzENPMyicYrA9HlUPGP89wXibTTKrq4wdGw9fovyxIhTeDhBkIA/0?wx_fmt=jpeg" width="400"/>
 
 ### [深入了解 SSL 证书（英文版）](https://mp.weixin.qq.com/s/EBgh8U5qqCNBLfoJGrdcDQ)
 
-- **发布日期**：2024-10-09 08:30  
-- **所属合集**：#Linux  
-- **摘要**：了解 SSL 证书对任何软件开发人员来说都是至关重要的，本文介绍了 SSL 证书的生命周期，以及相关原理和概念，可以帮助大家对于 SSL 证书有个深入的掌握！  
+- **发布日期**：2024-10-09 08:30
+- **所属合集**：#Linux
+- **摘要**：了解 SSL 证书对任何软件开发人员来说都是至关重要的，本文介绍了 SSL 证书的生命周期，以及相关原理和概念，可以帮助大家对于 SSL 证书有个深入的掌握！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTQHqJibMPDozoIJWkajlXKvLnFBho3kc0zAVBZZscibTQgXEIxMol0pqr5huu7zdAZvPXUHCofzib5Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTQHqJibMPDozoIJWkajlXKvu0FEkqokYRQN0Xvcj9b5E464mQjpPjSH60EGmSJq9bs2ZfOO0iarjRw/0?wx_fmt=jpeg" width="400"/>
+
+### [安全证书简介](https://mp.weixin.qq.com/s/nH2sfKVfIKvWIgL0Z4FKAA)
+
+- **发布日期**：2024-10-09 08:30
+- **所属合集**：#Linux
+- **摘要**：以 pem, der, key, csr, crt 等为后缀的证书文件简介。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTQHqJibMPDozoIJWkajlXKvrrY4RHfMS8kEsP0xgbM7YkLTjyyJG1IQ4vOkUPXOFu2uUVfQxfQUVg/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - 理解 GPU 架构之 Tesla V100 及 RTX 5000 简介](https://mp.weixin.qq.com/s/5_a1o6tRDMhC8dF__RTJTw)
 
-- **发布日期**：2024-10-07 09:00  
-- **所属合集**：#AI Infra  
-- **摘要**：理解 GPU 架构之 Tesla V100 及 RTX 5000 简介  
+- **发布日期**：2024-10-07 09:00
+- **所属合集**：#AI Infra
+- **摘要**：理解 GPU 架构之 Tesla V100 及 RTX 5000 简介
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR4yaGJoahY8YcOCQo97A0XiaicxeEGJx4Ur7krsmhTIIk506hFWRDLicotgDHWBU0icVB7AmNC2o5UZA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR4yaGJoahY8YcOCQo97A0X6QEQwYWUkXaz244R12CYBp8NZz7HUf3licV7U7bT5mKOPkYicK0arI3Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - 理解 GPU 架构之理解 GPU 特性「双语」](https://mp.weixin.qq.com/s/Agrtq4WqQj01MTlg-dwVlg)
 
-- **发布日期**：2024-10-06 09:30  
-- **所属合集**：#AI Infra #CUDA  
-- **摘要**：GPU 的硬件设计优化了高度并行处理。因此，GPU 的程序依赖于像 NVIDIA CUDA 这样的编程模型，与传统的基于CPU的串行编程模型有很大不同，本文就试图对 GPU 的特性进行阐述，帮助读者理解 GPU 和 CPU 的相同点和差异！  
+- **发布日期**：2024-10-06 09:30
+- **所属合集**：#AI Infra #CUDA
+- **摘要**：GPU 的硬件设计优化了高度并行处理。因此，GPU 的程序依赖于像 NVIDIA CUDA 这样的编程模型，与传统的基于 CPU 的串行编程模型有很大不同，本文就试图对 GPU 的特性进行阐述，帮助读者理解 GPU 和 CPU 的相同点和差异！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRgGSUgfISIOsd5CWboicKnvWeyeNmrfaHLdDqRMWJzKguxDr5OYiaURgzD4rEcgmI7MxKDLxmmucuw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRgGSUgfISIOsd5CWboicKnvFfdDxh4BSWphTicbia17aEv3Pxia8HJbRxHAp793Y6RJN26qDiczUDmBaw/0?wx_fmt=jpeg" width="400"/>
 
 ### [原力注入：AI Infra 知识体系（Body of knowledge for AI Infra) v1.0](https://mp.weixin.qq.com/s/ptAdsvO5H34IOFSEwzWlsQ)
 
-- **发布日期**：2024-10-05 17:00  
-- **所属合集**：#AI Infra #CUDA  
-- **摘要**：经过这半年的学习和整理，笔者也逐步构建了笔者心中的 AI Infra 知识体系（Body of knowledge for AI Infra），供大家参考，后续会持续完善。  
+- **发布日期**：2024-10-05 17:00
+- **所属合集**：#AI Infra #CUDA
+- **摘要**：经过这半年的学习和整理，笔者也逐步构建了笔者心中的 AI Infra 知识体系（Body of knowledge for AI Infra），供大家参考，后续会持续完善。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTcPcg1WOsxzbkLz1LwXRVfEAZ1ngIngkX5MZ2uEZNunaaW6g8JJvuUPZt5BTbicHrZ7Qkv4fo1jUg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTcPcg1WOsxzbkLz1LwXRVfo36n9rPeQmMYWpVRAjY6yaCGHMs5VL2Nl06dBX58w4LvDUiaptjvfPA/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - 理解 GPU 架构之理解 GPU 内存「双语」](https://mp.weixin.qq.com/s/GEs5ZbStbggtMgwdhOUOWw)
 
-- **发布日期**：2024-10-04 17:15  
-- **所属合集**：#AI Infra  
-- **摘要**：本文介绍了 GPU 内存层次结构，分析了寄存器、缓存、共享内存和全局内存的作用。与 CPU 相比，GPU 的寄存器文件和共享内存更大，适合并行计算，而 CPU 通过更大的 L1、L2 和 L3 缓存减少主存访问。  
+- **发布日期**：2024-10-04 17:15
+- **所属合集**：#AI Infra
+- **摘要**：本文介绍了 GPU 内存层次结构，分析了寄存器、缓存、共享内存和全局内存的作用。与 CPU 相比，GPU 的寄存器文件和共享内存更大，适合并行计算，而 CPU 通过更大的 L1、L2 和 L3 缓存减少主存访问。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSBic8jXJicWOX7IPOPUqRcIkmibIayPPIF1fWVTqmfnA63HszXsibbOKNqjKX0qtUclPdgcfmvSpWrWQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSBic8jXJicWOX7IPOPUqRcIkaPd3WCImfia0ZBIKTlbDyecMKbpKaNNLiaW8nR4ibyUEILTv7nrwMs4Kg/0?wx_fmt=jpeg" width="400"/>
 
 ### [深入了解 Nvidia CUDA 核心](https://mp.weixin.qq.com/s/PE3LmOAft27QCQNaaSFY7g)
 
-- **发布日期**：2024-09-30 08:30  
-- **所属合集**：#CUDA #AI Infra  
-- **摘要**：Nvidia 的 CUDA 核心是 Nvidia 显卡内的专门处理单元，旨在高效处理复杂的并行计算，使其成为高性能计算、游戏和各种图形渲染应用程序中的关键。  
+- **发布日期**：2024-09-30 08:30
+- **所属合集**：#CUDA #AI Infra
+- **摘要**：Nvidia 的 CUDA 核心是 Nvidia 显卡内的专门处理单元，旨在高效处理复杂的并行计算，使其成为高性能计算、游戏和各种图形渲染应用程序中的关键。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSGZwWuPcStaNe7ZXt6erV4PxYLfETHWfFiawca4iaTboSv2EZZOU1ZYp3pvsiclKUB1duVubAjnsNbA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSGZwWuPcStaNe7ZXt6erV44OhN8icJh7fZsibicqyTYvHuRpJNuEv5HKsxFGlpyibyGrCKSbKYcaUJRw/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - 使用 CUDA 代码查询 GPU 卡详细信息](https://mp.weixin.qq.com/s/G6kfoNTdOmyOKQSHt83fHw)
 
-- **发布日期**：2024-09-29 08:30  
-- **所属合集**：#AI Infra #CUDA  
-- **摘要**：今天我们就来使用 CUDA 示例代码库提供的 deviceQueryDrv.cpp 示例代码来查询 GPU 卡的详细信息，用于全面了解 GPU 卡的详细特性。  
+- **发布日期**：2024-09-29 08:30
+- **所属合集**：#AI Infra #CUDA
+- **摘要**：今天我们就来使用 CUDA 示例代码库提供的 deviceQueryDrv.cpp 示例代码来查询 GPU 卡的详细信息，用于全面了解 GPU 卡的详细特性。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQIJl5xw5PubQ0dA2dicSl8rM8Yss5RiaPmDe9LQJh4FFdSia2T1UZXjb3RvEhuGO4ibSlM5JJBcgd6Jw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQIJl5xw5PubQ0dA2dicSl8rMBYdwBZj5uhyY4dFb768xR4jToOvmuiaHsfwv48zQsSHejujFhic5Yicw/0?wx_fmt=jpeg" width="400"/>
 
-### [跟着论文学习数据库03：数据库行业论文清单](https://mp.weixin.qq.com/s/6gf9uNXa5-MUM5tvcXSINw)
+### [跟着论文学习数据库 03：数据库行业论文清单](https://mp.weixin.qq.com/s/6gf9uNXa5-MUM5tvcXSINw)
 
-- **发布日期**：2024-09-28 13:31  
-- **所属合集**：nan  
-- **摘要**：本文一共包含156 篇全球数据库领域优秀论文。​按论文作者分，该列表包括埃德加.科德、杰姆.格林、斯通布雷克等图灵奖大师们的论文、以及开启大数据时代Google，商业数据库霸主Oracle、云计算的领导者Amazon  
+- **发布日期**：2024-09-28 13:31
+- **所属合集**：#大数据
+- **摘要**：本文一共包含 156 篇全球数据库领域优秀论文。​ 按论文作者分，该列表包括埃德加.科德、杰姆.格林、斯通布雷克等图灵奖大师们的论文、以及开启大数据时代 Google，商业数据库霸主 Oracle、云计算的领导者 Amazon
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gu4Pfse1LB0Vo0Rwdk7yIAWeE8Mqg7LrOhYVc9etibkjT93yoghLEXIMHBRLg5kEg6wuFKM9vq7ltItfvWGRPrA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gu4Pfse1LB0Vo0Rwdk7yIAWeE8Mqg7LrAl8SgYWgqCkwjdEGvQJqBpeprDaRAco7nzSK07w4s3ZmyYS34xmRtw/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - nvidia-smi 快速入门](https://mp.weixin.qq.com/s/Yu4UCprk9HfIMZGsrEOeXA)
 
-- **发布日期**：2024-09-27 08:30  
-- **所属合集**：#AI Infra  
-- **摘要**：nvidia-smi 是 NVIDIA 驱动提供的命令行工具，能够帮助用户监控和管理 GPU 的状态与行为。本文整理了一些常用的 nvidia-smi 命令，帮助大家快速上手和高效使用。  
+- **发布日期**：2024-09-27 08:30
+- **所属合集**：#AI Infra
+- **摘要**：nvidia-smi 是 NVIDIA 驱动提供的命令行工具，能够帮助用户监控和管理 GPU 的状态与行为。本文整理了一些常用的 nvidia-smi 命令，帮助大家快速上手和高效使用。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRWyHM8o1Lh7MOicYKsdhuwoB2icvaEDd5U3qMOuYtvb87ztqEN8FAWibDIdmL5pH6pPOxWABguv3dRA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRWyHM8o1Lh7MOicYKsdhuwoLuibVBLgtb4F8QNXxLk7QguA9wARVZ5DrfDIwqBRrbKUeo9iaa0xosxg/0?wx_fmt=jpeg" width="400"/>
 
 ### [浅析 Rook 如何管理 Ceph Cluster](https://mp.weixin.qq.com/s/czi_smcsBW_fgqAkrfn2Xw)
 
-- **发布日期**：2024-09-26 08:30  
-- **所属合集**：nan  
-- **摘要**：这篇文章讲解了 Rook 如何将 Ceph 这么复杂的系统在 Kubernetes 中进行管理和维护。  
+- **发布日期**：2024-09-26 08:30
+- **所属合集**：#Kubernetes
+- **摘要**：这篇文章讲解了 Rook 如何将 Ceph 这么复杂的系统在 Kubernetes 中进行管理和维护。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCocXicytgrxsw2EX4FD3fBcVhZH5mghDYSUibs8SOiaXnicVgmwxyGfpibruTpmFzhpIDO5JAq0jMnfntg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCocXicytgrxsw2EX4FD3fBcVvMW8yykks4NpsFaTf2MJgxIxVHN5y7HsxPpTAwEh0fciaK0AIAETRpQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - Nvidia GPU 卡 之 ECC 功能](https://mp.weixin.qq.com/s/nmZVOQAyfFyesm79HzjUlQ)
 
-- **发布日期**：2024-09-25 08:30  
-- **所属合集**：#AI Infra  
-- **摘要**：nan  
+- **发布日期**：2024-09-25 08:30
+- **所属合集**：#AI Infra
+- **摘要**：nan
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSFEbtn1euRPicE4md42HtdFhnXuITQPLrjMibibe0fPMbzUwBuaqo7bQRib9mWGh6EnHMJYaGxjKBia0Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSFEbtn1euRPicE4md42HtdFyIVUg2lQpGAAJkhNrSozAknrA68MolvcCV4ibuC1rnqhwHXmRBSz3Jw/0?wx_fmt=jpeg" width="400"/>
 
-### [ODCC RAID卡性能测试技术报告 (附批注)](https://mp.weixin.qq.com/s/86cIo29YdNRXpKe4Mg7ZLA)
+### [ODCC RAID 卡性能测试技术报告 (附批注)](https://mp.weixin.qq.com/s/86cIo29YdNRXpKe4Mg7ZLA)
 
-- **发布日期**：2024-09-24 08:30  
-- **所属合集**：nan  
-- **摘要**：上一篇原报告里的随机读/写性能单位应该是 K IOPS，所以我在文中的部分批注撰写有误，向原作者（ODCC编写组）和读者朋友致歉。  
+- **发布日期**：2024-09-24 08:30
+- **所属合集**：#存储
+- **摘要**：上一篇原报告里的随机读/写性能单位应该是 K IOPS，所以我在文中的部分批注撰写有误，向原作者（ODCC 编写组）和读者朋友致歉。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/u3ZiaMm7TCFWAl7cTkUMUu66jtmWO6MLYIl23g8Fj6CUzBU5os7IWsXYoJvSUWQjPicDyfxxoLTUT0GTia9DdEMew/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/u3ZiaMm7TCFWAl7cTkUMUu66jtmWO6MLYhTwkCOzeClicqt97Q6QBTkrcNrcxdKggXqeILFU9MV8OBg7aIxHFmPg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Open Policy Agent（OPA）简介](https://mp.weixin.qq.com/s/saj2BpowJjmeOzofOnCFxg)
 
-- **发布日期**：2024-09-23 09:05  
-- **所属合集**：#Kubernetes  
-- **摘要**：Open Policy Agent（OPA）是一个开源的、通用的策略引擎，它统一了整个栈中的策略执行。OPA 提供了一个高级的声明式语言，让我们能够将策略以代码的形式指定，并通过简单的 API 将策略决策从 K8s 转到我们的代码来执行  
+- **发布日期**：2024-09-23 09:05
+- **所属合集**：#Kubernetes
+- **摘要**：Open Policy Agent（OPA）是一个开源的、通用的策略引擎，它统一了整个栈中的策略执行。OPA 提供了一个高级的声明式语言，让我们能够将策略以代码的形式指定，并通过简单的 API 将策略决策从 K8s 转到我们的代码来执行
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTnd1lFOEf5NSe0icRBe6BrncPicNlHbiawp79wSLLp2RUuWIJ3kmV4Ox5ZzluPwbwqLeeRcnZPiaDw5Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTnd1lFOEf5NSe0icRBe6Brnx4yDMqjUuicePD6jzfpny6uXM1Blfib9neQ8Okdoico8prvnFAYJTtczw/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra - Nvidia GPU XID 故障码解析](https://mp.weixin.qq.com/s/ekCnhr3qrhjuX_-CEyx65g)
 
-- **发布日期**：2024-09-21 09:05  
-- **所属合集**：#AI Infra  
-- **摘要**：XID 信息是 NVIDIA 驱动程序的错误报告，它被打印到操作系统的内核日志或事件日志中。这些信息可能表明 NVIDIA 硬件问题、软件问题或者是用户应用程序的问题。  
+- **发布日期**：2024-09-21 09:05
+- **所属合集**：#AI Infra
+- **摘要**：XID 信息是 NVIDIA 驱动程序的错误报告，它被打印到操作系统的内核日志或事件日志中。这些信息可能表明 NVIDIA 硬件问题、软件问题或者是用户应用程序的问题。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTaT6SdGVCiaibKtJrKrepL7OpjwBQFOFsFA5pECvJ7qpnNL39Lu3TrA2kn34GtrPUNR8Wb7kC0qpibw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTaT6SdGVCiaibKtJrKrepL7OPmnAibbHCmnVCEGIrnhYMCRicPOhcdic9h1xmyoh6X1dRklb0Nvia9sOKQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 生产最佳实践之「合规治理」](https://mp.weixin.qq.com/s/gRu_mEcjgMXzq2FDO2pD3w)
 
-- **发布日期**：2024-09-20 08:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：创建、管理和管理命名空间的最佳实践。  
+- **发布日期**：2024-09-20 08:30
+- **所属合集**：#Kubernetes
+- **摘要**：创建、管理和管理命名空间的最佳实践。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRRdonAg9MHko6JEQ9icADLfStd47snBRT3S2iba0SqxjYYDKFbmkgvgCcqRpPHSpEHNo6aQWdWKOdg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRRdonAg9MHko6JEQ9icADLfzYmUjudzgZHqZjpicFhdEHqzZt8HYLwk0MhjCyow5LukzpxqKA3wT1A/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux set 命令详解](https://mp.weixin.qq.com/s/j1ilyudm6tsn4vDsFP-urg)
 
-- **发布日期**：2024-09-19 08:30  
-- **所属合集**：#Linux  
-- **摘要**：set 命令用于显示和设置 shell 及 Linux 环境中的各种变量、选项。set 提供了强大的控制功能，使用户可以改变 shell 的行为，尤其适合调试、错误处理、环境配置等场景。  
+- **发布日期**：2024-09-19 08:30
+- **所属合集**：#Linux
+- **摘要**：set 命令用于显示和设置 shell 及 Linux 环境中的各种变量、选项。set 提供了强大的控制功能，使用户可以改变 shell 的行为，尤其适合调试、错误处理、环境配置等场景。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTdfxBKyNicQBbd93utIlgByKTGa6RJKiccpWs2CMnImhYJdLMURjNH2WaXibPtvpV3U91aHaQ525oqQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTdfxBKyNicQBbd93utIlgByQv5XVzmDhLVIuFE1rib73gXsRuN7mIFuHDh092ErzpGvjedvTgaibYlw/0?wx_fmt=jpeg" width="400"/>
 
 ### [xx - Dockerfile 交叉编译助手](https://mp.weixin.qq.com/s/YCYhBeJMhoPHkTZ4LPUBkA)
 
-- **发布日期**：2024-09-18 12:45  
-- **所属合集**：#Docker  
-- **摘要**：xx 提供了工具来支持从 Dockerfile 进行交叉编译，这些 Dockerfile 能理解从 docker build 或 docker buildx build 传递进来的 --platform 标志。  
+- **发布日期**：2024-09-18 12:45
+- **所属合集**：#Docker
+- **摘要**：xx 提供了工具来支持从 Dockerfile 进行交叉编译，这些 Dockerfile 能理解从 docker build 或 docker buildx build 传递进来的 --platform 标志。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTdfxBKyNicQBbd93utIlgByJnaDSlHN11ToJZeGdhjgB0X8picImERD1iaL5wnFSe5gmJc0uMUUCaibw/0?wx_fmt=jpeg" width="400"/>
-
-### [Go 语言入门系列：基本语法介绍之变量的声明与初始化](https://mp.weixin.qq.com/s/wYkVBpbv-leZ1OomswB9Vw)
-
-- **发布日期**：2024-09-17 09:35  
-- **所属合集**：nan  
-- **摘要**：各位同学端午安康！前文回顾前面的文章介绍了 Go 相关的特性与入门案例，对于一门编程语言，变量和语法是我们首  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKyejxxlTC8lE5Ib1FHfp3aUa0CBcO5DMVG9qRJoTO0Vjo3J5XNK0F3mFlWjhPxrq48lyZmBdzlCsDw/0?wx_fmt=jpeg" width="400"/>
-
-### [Go 语言入门系列：第一个 Go 程序](https://mp.weixin.qq.com/s/b7-JW2M9GeAk2Q0aUF2x7Q)
-
-- **发布日期**：2024-09-17 09:35  
-- **所属合集**：nan  
-- **摘要**：第一个 Go 程序。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKycE5dAmJw3iab7sqRQGu2nAmCI7zqxy2OoDD1QuIenIfEicJYMN9DJhSicXV2ibXdsWFb4lshpSIX0B9Q/0?wx_fmt=jpeg" width="400"/>
-
-### [Go 语言入门系列：Go 语言：环境安装](https://mp.weixin.qq.com/s/JnbV-THUApuMDi13bvH8sg)
-
-- **发布日期**：2024-09-17 09:35  
-- **所属合集**：nan  
-- **摘要**：最近将会更新 Go 语言入门的系列文章，非常基础。适合小白入门或者零基础的同学，已有相关 Go 基础的同学  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKyfrMEx9YRYJSK1IcS0E9b7bPY6n7sluQ9JLChdwGDFjnSvQvkOtzSXCz91mrI4dVZeRwCd1ezyPYA/0?wx_fmt=jpeg" width="400"/>
-
-### [【CCG快讯】突发：菲海警9701舰已离开我仙宾礁](https://mp.weixin.qq.com/s/kXkxMM0aRVKqHCTYTAHNew)
-
-- **发布日期**：2024-09-15 07:20  
-- **所属合集**：nan  
-- **摘要**：斗争了很久，终于离开了，谈判的结果？  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/XC0GA1Yyf4a3GnIns8409AWTwqpmxuGgY0ibnNM4FvIYpvG1nmKtloUHNvrnQAVqByx1bpibkyYrrqyThLgvOd3g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTdfxBKyNicQBbd93utIlgBybbfEeQSmD0d5a3z0NTNr9ticnBJMW8efOZZX93x3x7lS3LrOgq7qUxw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Docker 史上最快捷「单机多平台」镜像构建](https://mp.weixin.qq.com/s/uCJxwdfa4r3vtbjPU3V5Vg)
 
-- **发布日期**：2024-09-13 19:30  
-- **所属合集**：#Docker  
-- **摘要**：模拟安装+代码交叉编译，可以让我们的单机多平台构建大大加速，再加上 xx 工具（没错，名字就是xx），提供了很多帮助方法，使得这种场景下，
-Dockerfile 的编写大大简化，值得大家学习使用！  
+- **发布日期**：2024-09-13 19:30
+- **所属合集**：#Docker
+- **摘要**：模拟安装+代码交叉编译，可以让我们的单机多平台构建大大加速，再加上 xx 工具（没错，名字就是 xx），提供了很多帮助方法，使得这种场景下， Dockerfile 的编写大大简化，值得大家学习使用！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSO5cmnt3nhB5wVOxAGPIDRmop4t59ibd6AgcmgLv80EwePibro9wEe46PeEfTNdL1NJxYkok1Xc6ag/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSO5cmnt3nhB5wVOxAGPIDRlDlmVchDsRGlSbc7tvXtcKtibIbo1HJUut0JXTmYHVb2cxGekd4u0Aw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾：消失的 Docker 网络命名空间](https://mp.weixin.qq.com/s/mciucLzKH8wAIoxuQyze1A)
 
-- **发布日期**：2024-09-12 08:30  
-- **所属合集**：#Linux #Docker #网络基础知识  
-- **摘要**：从命名空间伪文件列表中，我们可以看到此进程的 net 文件的存在。由于 net 文件对应于 Linux 网络命名空间，因此我们可以预期它会在列出所有网络命名空间时显示出来。但是，我们可以看到事实并非如此。  
+- **发布日期**：2024-09-12 08:30
+- **所属合集**：#Linux #Docker #网络基础知识
+- **摘要**：从命名空间伪文件列表中，我们可以看到此进程的 net 文件的存在。由于 net 文件对应于 Linux 网络命名空间，因此我们可以预期它会在列出所有网络命名空间时显示出来。但是，我们可以看到事实并非如此。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRgOiczg8YUcuMqecVibSINIVCQY2onkIPHThFnL1VUNlLkibfSpsxGbB3VjEOiaPP1dkpSkAzibgPicVOQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRgOiczg8YUcuMqecVibSINIVDOGQawtxvTmF7vp8Gto2Ro4CqF4Uiacb8ibwgxZDYumA6BibPlQibTwblw/0?wx_fmt=jpeg" width="400"/>
 
 ### [喜大普奔 - 国内可以直接下载 Docker 官方镜像了！！！](https://mp.weixin.qq.com/s/w6Jdx2ZvRxEQouu6-FS84w)
 
-- **发布日期**：2024-09-10 12:30  
-- **所属合集**：#Docker #Tech News  
-- **摘要**：实测可以下载镜像了  
+- **发布日期**：2024-09-10 12:30
+- **所属合集**：#Docker #Tech News
+- **摘要**：实测可以下载镜像了
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSHf8xpiaFVxvrCe29QX4ib6j4sdvvAkk22ibnMSibQ14VhzjS9Ct2tYgicwdBiaXHLUWz1BLMb2GiaBVADw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSHf8xpiaFVxvrCe29QX4ib6jU6fIGBRE951D3lPoIbZ98hgO8A3HodHSdgYUBsJkXiaWMGwWgjYbdXQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [在离线混部作业调度与资源管理技术研究综述 - 读后感（一）](https://mp.weixin.qq.com/s/Ur4EdbA32xRwZX6hxyT47w)
 
-- **发布日期**：2024-09-09 08:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：论文分析了在线作业与离线作业的特征，探讨了在离线作业间性能干扰等混部所面临的技术挑战，从性能干扰模型、作业调度、资源隔离与资源动态分配等方面就在离线混部技术进行了综述。本文就先聊一聊“资源隔离”技术！  
+- **发布日期**：2024-09-09 08:30
+- **所属合集**：#Kubernetes
+- **摘要**：论文分析了在线作业与离线作业的特征，探讨了在离线作业间性能干扰等混部所面临的技术挑战，从性能干扰模型、作业调度、资源隔离与资源动态分配等方面就在离线混部技术进行了综述。本文就先聊一聊“资源隔离”技术！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQaoHcSkX9s2KByyFMmZtoyict9Q7LXlPB1QWXhTyT20Wn5yaYxibB9DIMkLqE90EcwlBFhVpSYhcvQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQaoHcSkX9s2KByyFMmZtoyN40AoYgyQRial5WRa4534BZic3oyx1V9bULYnOqv5LmyI3mjkibtKb0Qw/0?wx_fmt=jpeg" width="400"/>
 
 ### [理解 Linux 中的进程状态【翻译】](https://mp.weixin.qq.com/s/Jo_pL6W6lgMGkQz5vQhfmg)
 
-- **发布日期**：2024-09-07 09:30  
-- **所属合集**：#Linux  
-- **摘要**：理解“进程”及其“状态”的概念对于清晰了解 Unix/Linux 的工作方式至关重要。本文使用一个常见的类比(汽车）来解释这些概念。  
+- **发布日期**：2024-09-07 09:30
+- **所属合集**：#Linux
+- **摘要**：理解“进程”及其“状态”的概念对于清晰了解 Unix/Linux 的工作方式至关重要。本文使用一个常见的类比(汽车）来解释这些概念。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRv5WrvxvYiaw3lIT2TV0WotKrUTKXRKw0dOWKeXMZYWgH8jgJv4ZPgXSv188DEpTBsnbtAm7ZQW8Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRv5WrvxvYiaw3lIT2TV0WotpGfMOpLPEfliakabGSghuicRtY6hPUx7XichBkribeHiaE9TCAGx9zicvBRg/0?wx_fmt=jpeg" width="400"/>
 
 ### [关于 Pod 驱逐的二三事及深入思考](https://mp.weixin.qq.com/s/kP8wgZ9_CAJXGOCwG6y_Og)
 
-- **发布日期**：2024-09-06 08:30  
-- **所属合集**：nan  
-- **摘要**：很长一段时间，我都一遍又一遍的向用户解释，他的 Pod 被驱逐，是 K8s 的正常行为，而非某一个平台出现的 Bug。  
+- **发布日期**：2024-09-06 08:30
+- **所属合集**：#Kubernetes
+- **摘要**：很长一段时间，我都一遍又一遍的向用户解释，他的 Pod 被驱逐，是 K8s 的正常行为，而非某一个平台出现的 Bug。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCq3I5niaBJMnwBF4aYhSyuDicSjPdXwDVhPoCwzX46o8QEV1n2PtzJRUF3V3kY5KYU6AToXbhyN9rZA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCq3I5niaBJMnwBF4aYhSyuDicgaS1jHzVYnBRg55NZQDJhpVbgvP2pqv4S6p2F4b2hTsn8yia1Cxlmibw/0?wx_fmt=jpeg" width="400"/>
 
 ### [【南京大学-软件学院】The Missing Course of Your Computer Science Education](https://mp.weixin.qq.com/s/r0BaV0CkZURtRVMB9kPwQg)
 
-- **发布日期**：2024-09-05 08:36  
-- **所属合集**：nan  
-- **摘要**：《南京大学软件学院 - 计算机系统基础实验选修课 (2024 秋季学期)》
-1. 网址：http://www.why.ink:8080/ICS/2024/Main_Page
-2. 课程简介
-大家在数字电路里都实现过“状态机”，例如一个计数器内部存储了数字 x，每次按下开关执行 x←(x+1)mod3。计算机系统基础这门课 (以及实验部分) 最重要的 take-away message，就是告诉大家日常使用的计算机本质上也是这么一个状态机。在实验课中，我们会用代码严谨地带大家理解这样的 “状态机” 的状态定义、状态转换，以及与外界的交互方式。实验课首先承担了大家对 “系统编程” 能力的训练，大家会熟悉 Linux 命令行工具的使用，在将命令行工具变成大家日常生活一部分的同时，完成一系列的编程实验。理解一个系统的最佳实践就是去实现它。因此在本课程的PA 部分，你将会在框架代码的基础上实现一个 RISC-V 全系统模拟器 NEMU，它不仅能运行各类测试程序，甚至还可以运行操作系统和 “仙剑奇侠传”。模拟过硬件的执行，自然就能深 (痛) 入 (苦) 理解计算机系统了。
-
-软件学院：周三 第5-6节 仙1-206 1-17周
-任课老师：王慧妍&lt;why@nju.edu.cn&gt;[授课视频]
-荣誉顾问：蒋炎岩&lt;jyy@nju.edu.cn&gt; 余子濠&lt;yuzihao@ict.ac.cn&gt;(PA作者)
-
-助教组：
-        查重助教：李晗 &lt;hanli@smail.nju.edu.cn&gt; 鲁思成 &lt;502024330035@smail.nju.edu.cn&gt;
-        答疑助教：晁宇豪 &lt;221240013@smail.nju.edu.cn&gt; 周越洋 &lt;1035711820@qq.com&gt;
-
-3. 课程资料
-The Missing Course of Your CS Education [slides]  
+- **发布日期**：2024-09-05 08:36
+- **所属合集**：#CS
+- **摘要**：《南京大学软件学院 - 计算机系统基础实验选修课 (2024 秋季学期)》 1. 网址：http://www.why.ink:8080/ICS/2024/Main_Page 2. 课程简介 大家在数字电路里都实现过“状态机”，例如一个计数器内部存储了数字 x，每次按下开关执行 x←(x+1)mod3。计算机系统基础这门课 (以及实验部分) 最重要的 take-away message，就是告诉大家日常使用的计算机本质上也是这么一个状态机。在实验课中，我们会用代码严谨地带大家理解这样的 “状态机” 的状态定义、状态转换，以及与外界的交互方式。实验课首先承担了大家对 “系统编程” 能力的训练，大家会熟悉 Linux 命令行工具的使用，在将命令行工具变成大家日常生活一部分的同时，完成一系列的编程实验。理解一个系统的最佳实践就是去实现它。因此在本课程的 PA 部分，你将会在框架代码的基础上实现一个 RISC-V 全系统模拟器 NEMU，它不仅能运行各类测试程序，甚至还可以运行操作系统和 “仙剑奇侠传”。模拟过硬件的执行，自然就能深 (痛) 入 (苦) 理解计算机系统了。 软件学院：周三 第 5-6 节 仙 1-206 1-17 周 任课老师：王慧妍<why@nju.edu.cn>[授课视频] 荣誉顾问：蒋炎岩<jyy@nju.edu.cn> 余子濠<yuzihao@ict.ac.cn>(PA 作者) 助教组： 查重助教：李晗 <hanli@smail.nju.edu.cn> 鲁思成 <502024330035@smail.nju.edu.cn> 答疑助教：晁宇豪 <221240013@smail.nju.edu.cn> 周越洋 <1035711820@qq.com> 3. 课程资料 The Missing Course of Your CS Education [slides]
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQttzJhvYMXDC0lcMe9gZU78lqncicaZJ7ZoXHdicjpTDxkic06LKpLLEMcRG3vBQuJlgXpSsaibJw4kQ/0?wx_fmt=jpeg" width="400"/>
-
-### [退群「Hall of shame」](https://mp.weixin.qq.com/s/rs97HaxXXMY5ODkOzM4R5g)
-
-- **发布日期**：2024-09-04 08:30  
-- **所属合集**：nan  
-- **摘要**：在 GO 1.23 版本中，GO Linker 将来会限制 //go:linkname 直接引用标准库中不可  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hcuvqvB6MF5GSS8u0xMuYb0xsrWMNhibEWsicZaN5G19PRvym1ia0paSCm3TnVfe5D8Aaia540iatWFfwia3ibhktcUGQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQttzJhvYMXDC0lcMe9gZU73EjSBJdSmP2qy0icIGzZL6F0vd0UYVADC97IKNRoMG7bLoXdy9hxm1Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [图解 Overlayfs 文件系统的读写操作流程](https://mp.weixin.qq.com/s/xtqPeOWqxFYE2FNeuvKFSw)
 
-- **发布日期**：2024-09-03 08:30  
-- **所属合集**：nan  
-- **摘要**：论文：《Performance Improvement of File Operations on OverlayFS for Containers》
-
-标题（中文）：OverlayFS在容器中文件操作性能的提升
-
-摘要（中文翻译）：服务器整合与虚拟化是解决数据中心内大量计算机互联导致的大量电力消耗问题的一种流行方法。整合的计算机越多，节省的能源就越多。然而，高度整合，即将许多服务器整合到一台物理计算机中，会导致性能显著下降，尤其是I/O性能。在这项工作中，我们关注 Docker，这是一种流行的基于容器的虚拟化系统，以及 OverlayFS。OverlayFS 是Docker存储驱动程序之一，被广泛认为是提高I/O性能的有效方法。首先，我们评估了OverlayFS上文件操作的性能，特别关注涉及copy_up的文件写入性能，并表明性能严重低下。其次，我们调查了copy_up期间文件系统的性能和行为，并证明同步是最重要的问题。第三，我们讨论了通过禁用这种同步来提高性能的方法。第四，我们评估了改进方法，并表明该方法可以显著提高涉及copy_up的写入性能，最多可提高680倍。
-
-关键词（中文）：基于容器的虚拟化，OverlayFS，Docker，服务器整合
-
-1. Copy_up（写操作）: 当写的文件是 lower 层的文件时，就会发生一个文件 copy 操作，将文件从只读层（lower层）拷贝到读写层（upper层）。
-
-2. 当进行写操作的时候，如果要删除只读层文件，就会在读写层生成一个 whiteout。A whiteout is created as a character device with 0/0 device number or as a zero-size regular file with the xattr “trusted.overlay.whiteout”.
-
-When a whiteout is found in the upper level of a merged directory, any matching name in the lower level is ignored, and the whiteout itself is also hidden（隐藏只读层文件）. 
-
-相关文章：<a href="http://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&amp;mid=2247487664&amp;idx=1&amp;sn=f35c7065a882158a660073b3624b0ec8&amp;chksm=e995d2fddee25bebd20b8ad84d5b197cdb004c8e2f8df93ee0a75b67549da679c04b34b6c5e3&amp;scene=142#wechat_redirect" target="_blank" data-itemshowtype="0">容器技术回顾 - OverlayFS 简介</a>  
+- **发布日期**：2024-09-03 08:30
+- **所属合集**：#Linux
+- **摘要**：论文：《Performance Improvement of File Operations on OverlayFS for Containers》 标题（中文）：OverlayFS 在容器中文件操作性能的提升 摘要（中文翻译）：服务器整合与虚拟化是解决数据中心内大量计算机互联导致的大量电力消耗问题的一种流行方法。整合的计算机越多，节省的能源就越多。然而，高度整合，即将许多服务器整合到一台物理计算机中，会导致性能显著下降，尤其是 I/O 性能。在这项工作中，我们关注 Docker，这是一种流行的基于容器的虚拟化系统，以及 OverlayFS。OverlayFS 是 Docker 存储驱动程序之一，被广泛认为是提高 I/O 性能的有效方法。首先，我们评估了 OverlayFS 上文件操作的性能，特别关注涉及 copy_up 的文件写入性能，并表明性能严重低下。其次，我们调查了 copy_up 期间文件系统的性能和行为，并证明同步是最重要的问题。第三，我们讨论了通过禁用这种同步来提高性能的方法。第四，我们评估了改进方法，并表明该方法可以显著提高涉及 copy_up 的写入性能，最多可提高 680 倍。 关键词（中文）：基于容器的虚拟化，OverlayFS，Docker，服务器整合 1. Copy_up（写操作）: 当写的文件是 lower 层的文件时，就会发生一个文件 copy 操作，将文件从只读层（lower 层）拷贝到读写层（upper 层）。 2. 当进行写操作的时候，如果要删除只读层文件，就会在读写层生成一个 whiteout。A whiteout is created as a character device with 0/0 device number or as a zero-size regular file with the xattr “trusted.overlay.whiteout”. When a whiteout is found in the upper level of a merged directory, any matching name in the lower level is ignored, and the whiteout itself is also hidden（隐藏只读层文件）. 相关文章：<a href="http://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247487664&idx=1&sn=f35c7065a882158a660073b3624b0ec8&chksm=e995d2fddee25bebd20b8ad84d5b197cdb004c8e2f8df93ee0a75b67549da679c04b34b6c5e3&scene=142#wechat_redirect" target="_blank" data-itemshowtype="0">容器技术回顾 - OverlayFS 简介</a>
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRJa3RyCReMx6wogibfRdgqqHQ2ytTqJlEhpxIrLwnEI7rTvPOLRyEicSzP9S9HQ3IwfvMHw1fK0ia8w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRJa3RyCReMx6wogibfRdgqqS0h3FaAmlZFCpVjWxhqd4ickTMzTLibWDeicicRicx4Z4HsYHczd97WDyWw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - OverlayFS 简介](https://mp.weixin.qq.com/s/6-6vHjRxZF1MOahSzZm0yg)
 
-- **发布日期**：2024-09-02 08:30  
-- **所属合集**：#Linux #Docker  
-- **摘要**：OverlayFS 伪文件系统首次包含在 Linux 内核 3.18 版本中：它允许我们将两个目录树或文件系统（一个“上层”和一个“下层”）以对用户完全透明的方式结合起来，用户可以像在标准文件系统上一样访问“合并”层上的文件和目录。  
+- **发布日期**：2024-09-02 08:30
+- **所属合集**：#Linux #Docker
+- **摘要**：OverlayFS 伪文件系统首次包含在 Linux 内核 3.18 版本中：它允许我们将两个目录树或文件系统（一个“上层”和一个“下层”）以对用户完全透明的方式结合起来，用户可以像在标准文件系统上一样访问“合并”层上的文件和目录。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQjjToevuGoGrF4nUWZGbGmIVJ04QSDYx9wDywIoyvDvicvPDS64Jx0lYR02RiadyibO3RTsJy4G6hRA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQjjToevuGoGrF4nUWZGbGmB25NC3qgJicP9MH9CW6lsxsYG82Bib6at6FSxTCOQVtRiaJWTwWiaJ9NBg/0?wx_fmt=jpeg" width="400"/>
 
 ### [江湖救急，远程服务器无法 Reboot！！！](https://mp.weixin.qq.com/s/KIArpI_VZ15mjeq4DCge7Q)
 
-- **发布日期**：2024-08-31 09:15  
-- **所属合集**：#Linux  
-- **摘要**：Reboot 不起作用，除了人肉物理 power off/on，还有什么方法吗？  
+- **发布日期**：2024-08-31 09:15
+- **所属合集**：#Linux
+- **摘要**：Reboot 不起作用，除了人肉物理 power off/on，还有什么方法吗？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQYFAwOKrf1e5uSqoFJETcUM8O6qJnnbQnlKtRIP9tib1OXcx1icrPlC3UdZmA5f048Xaff957u1ZXg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQYFAwOKrf1e5uSqoFJETcUkRTZfxFaSDrXgWf5rhuEZS1DEmEhibGpgGXAyBu32MBTZMT0Ej4KFiaw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 存储卷快照「双语」](https://mp.weixin.qq.com/s/YDrneR44E8YtREur6OVn9A)
 
-- **发布日期**：2024-08-30 08:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：在这篇博客文章中，我们将深入探讨 Kubernetes 数据管理的核心。我们将揭示卷快照的细节，并理解它们在保护数据、创建备份计划和设置测试环境中的关键作用。  
+- **发布日期**：2024-08-30 08:30
+- **所属合集**：#Kubernetes
+- **摘要**：在这篇博客文章中，我们将深入探讨 Kubernetes 数据管理的核心。我们将揭示卷快照的细节，并理解它们在保护数据、创建备份计划和设置测试环境中的关键作用。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTVkgoKUSpjZOW3qWNRVyxOT0tEvVZkWK5BrCiacu67EwJFXvibGUVkkVKcCKwJMIM2CHAgItDpdzAg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTVkgoKUSpjZOW3qWNRVyxOtpR2XJ0YQElxtg8s0lyoulJebkUgXjl4yZwPwb5X7qBfudMrTReQ9w/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 上统计进程 inotify 和 inotify watches 【更新】](https://mp.weixin.qq.com/s/5bYUgi4K7G-iTotKwPscBg)
 
-- **发布日期**：2024-08-29 08:30  
-- **所属合集**：#Linux  
-- **摘要**：一个 inotify 实例可以有多个 watches，用户的 inotify 数量受 max_user_instances 限制，用户的 watch 数量受 max_user_watches 限制。此外本体提供了一个更新的脚本！  
+- **发布日期**：2024-08-29 08:30
+- **所属合集**：#Linux
+- **摘要**：一个 inotify 实例可以有多个 watches，用户的 inotify 数量受 max_user_instances 限制，用户的 watch 数量受 max_user_watches 限制。此外本体提供了一个更新的脚本！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRdD90RXGDT44w1eSsID9IcK6LBGtDfqTnPLa6ucQH96mOpW9k1hIXOcye1s8IMiawBICBJpdremhg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRdD90RXGDT44w1eSsID9IcMiaYRz5X3KNTh8Tv8D8lOpIp293icfUA78RR9qicBMf1VplEcwzpTzUgA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux inotify 简介「双语」](https://mp.weixin.qq.com/s/ls8Ia8rajc74hi17tWgWZA)
 
-- **发布日期**：2024-08-29 08:30  
-- **所属合集**：#Linux  
-- **摘要**：inotify 是 Linux 内核的一个子系统，提供了文件和目录监控的能力。它使应用程序能够接收到文件系统中发生的各种事件的通知，包括文件修改、创建、删除和属性变化。  
+- **发布日期**：2024-08-29 08:30
+- **所属合集**：#Linux
+- **摘要**：inotify 是 Linux 内核的一个子系统，提供了文件和目录监控的能力。它使应用程序能够接收到文件系统中发生的各种事件的通知，包括文件修改、创建、删除和属性变化。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRdD90RXGDT44w1eSsID9IcK6LBGtDfqTnPLa6ucQH96mOpW9k1hIXOcye1s8IMiawBICBJpdremhg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRdD90RXGDT44w1eSsID9IcMiaYRz5X3KNTh8Tv8D8lOpIp293icfUA78RR9qicBMf1VplEcwzpTzUgA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Docker 镜像、容器和存储卷清理指南【双语】](https://mp.weixin.qq.com/s/Pcb_yzbYJ4CiFEBOR5yyzQ)
 
-- **发布日期**：2024-08-28 08:30  
-- **所属合集**：#Docker #Linux  
-- **摘要**：在这篇博客中，让我们探索有效清理 Docker 资源的基本命令和方法。此外，我们还将看到定期 Docker 清理在防止资源混乱和降低安全风险方面的重要性。  
+- **发布日期**：2024-08-28 08:30
+- **所属合集**：#Docker #Linux
+- **摘要**：在这篇博客中，让我们探索有效清理 Docker 资源的基本命令和方法。此外，我们还将看到定期 Docker 清理在防止资源混乱和降低安全风险方面的重要性。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTe9tSVfMl0wbOgg0DXhbsy7tV6bV9KuEmbMS1HupoC7NxJt0nbQYwUWTOHexzyLkBicdJzrO1f7yQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTe9tSVfMl0wbOgg0DXhbsyI4FH2HBictJQ07fnzE38aJwW3K4TibK2vmeBic0KRJrA7AG5Gg4pckHicA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubelet 报错：inotify_add_watch ... no space left on device](https://mp.weixin.qq.com/s/CIfciM_f_3m_0vm93GTnbw)
 
-- **发布日期**：2024-08-27 08:30  
-- **所属合集**：#Linux #Kubernetes #Docker  
-- **摘要**：Kubelet 报错：inotify_add_watch ... no space left on device。是磁盘空间不足了吗？原来罪魁祸首是 inotify！  
+- **发布日期**：2024-08-27 08:30
+- **所属合集**：#Linux #Kubernetes #Docker
+- **摘要**：Kubelet 报错：inotify_add_watch ... no space left on device。是磁盘空间不足了吗？原来罪魁祸首是 inotify！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSjR9QbUpP65icvLEcBoBwhWhLic0oD9nxlN4Bm6HOFM1WkE76fAUNwmMCK7ibX7aYib4eXwCBcLD12Lw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSjR9QbUpP65icvLEcBoBwhWic4Mw1XjFYibwpqtBjkibYyasooiciaUfd08eUxMVIEfeXZxCDoiaHibV9ib3w/0?wx_fmt=jpeg" width="400"/>
 
 ### [Docker Registry 的一种高可用方案](https://mp.weixin.qq.com/s/P13Vlj7UGnKtghVsevJIig)
 
-- **发布日期**：2024-08-26 08:30  
-- **所属合集**：#Docker #Linux #Kubernetes  
-- **摘要**：现有版本 registry 只运行在一台 master 节点上，若该 master 节点宕机或是出了其他问题，registry 就会不可用。我们提供了一个基于 inotify + rsync 的高可用方案，供大家参考。  
+- **发布日期**：2024-08-26 08:30
+- **所属合集**：#Docker #Linux #Kubernetes
+- **摘要**：现有版本 registry 只运行在一台 master 节点上，若该 master 节点宕机或是出了其他问题，registry 就会不可用。我们提供了一个基于 inotify + rsync 的高可用方案，供大家参考。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSjR9QbUpP65icvLEcBoBwhWcTewsodJHiaBicCxtmKJyaW5erSm01ZMtvyQCSAM3EEgqia4kH0cx4ibRA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSjR9QbUpP65icvLEcBoBwhWcuibF2JVzAMR6LQnoXIfxk7ZBOZnvqnj5icKgo0DH6x5Tf9uKialUnshA/0?wx_fmt=jpeg" width="400"/>
 
-### [Systemd Cheat Sheet](https://mp.weixin.qq.com/s/TAoiDH8SFk39TuVcdG5kUg)
+### [开箱视频 | 第二本 560 页新书《深入理解 Linux 进程与内存》今天正式发布啦！](https://mp.weixin.qq.com/s/PjT_PNsaizPQkVYXMhSVjQ)
 
-- **发布日期**：2024-08-24 09:01  
-- **所属合集**：nan  
-- **摘要**：Systemd Cheat Sheet  
+- **发布日期**：2024-08-24 09:01
+- **所属合集**：#好书推荐
+- **摘要**：大家好，我是飞哥！很高兴今天我的第二本新书《深入理解 Linux 进程与内存》正式和大家见面了！新书总共编排设计
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTKVNCvgCmRVsuWn28t6zorde0N9tianZGYEerNibIkzib1dGI5zvcIb1we8pYf29icRzWuZzkUrR5yFA/0?wx_fmt=jpeg" width="400"/>
-
-### [开箱视频 | 第二本560页新书《深入理解Linux进程与内存》今天正式发布啦！](https://mp.weixin.qq.com/s/PjT_PNsaizPQkVYXMhSVjQ)
-
-- **发布日期**：2024-08-24 09:01  
-- **所属合集**：nan  
-- **摘要**：大家好，我是飞哥！很高兴今天我的第二本新书《深入理解Linux进程与内存》正式和大家见面了！新书总共编排设计  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BBjAFF4hcwqMeDRmH6FJG1JLpibp8f1Og5cWO2nwG31KqQ09KMDiaibm6wkUPDenD7YeCYeLPjL8hCb9v4vyRYCzw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BBjAFF4hcwqMeDRmH6FJG1JLpibp8f1OgshfQia47kA8vrcnwIhDjW9wHVGV5DOHyddGo5ibjYkzxnXsX9ODZDKcA/0?wx_fmt=jpeg" width="400"/>
 
 ### [如何在 Linux 中创建 Systemd 服务](https://mp.weixin.qq.com/s/7zPysYgKRpGFRU2gyjhsGw)
 
-- **发布日期**：2024-08-24 09:01  
-- **所属合集**：#Linux  
-- **摘要**：本文介绍了在 Linux 系统中创建和管理 Systemd 服务的详细步骤。我们以 shell 脚本为例做一个简单的说明。  
+- **发布日期**：2024-08-24 09:01
+- **所属合集**：#Linux
+- **摘要**：本文介绍了在 Linux 系统中创建和管理 Systemd 服务的详细步骤。我们以 shell 脚本为例做一个简单的说明。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSRax44KSKPv2armoz74h5WIULcM9CFTD6NJ8s3Hv6Z5lvB9amjVIAfT6Oj14AchHicibz3ZTcypZbQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSRax44KSKPv2armoz74h5WUBU8BXTJBWbrcX0KvleLW4a9JAaI3f6tBPTszf4dBicSaUr9OawmAqA/0?wx_fmt=jpeg" width="400"/>
+
+### [Systemd Cheat Sheet](https://mp.weixin.qq.com/s/TAoiDH8SFk39TuVcdG5kUg)
+
+- **发布日期**：2024-08-24 09:01
+- **所属合集**：#Linux
+- **摘要**：Systemd Cheat Sheet
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTKVNCvgCmRVsuWn28t6zor8UyggnB2KmibibFzrZF0Byfvb4XuJDCibsQiafSAXMrfk0H0wTDiakRxFGQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [如何优化 Docker 镜像体积？](https://mp.weixin.qq.com/s/8MBUVgjKKCsle6XN7dBDsQ)
 
-- **发布日期**：2024-08-23 08:35  
-- **所属合集**：#Docker  
-- **摘要**：本文将分析导致 Docker 镜像体积变大的主要原因，并针对不同的场景，提供有效的优化策略。  
+- **发布日期**：2024-08-23 08:35
+- **所属合集**：#Docker
+- **摘要**：本文将分析导致 Docker 镜像体积变大的主要原因，并针对不同的场景，提供有效的优化策略。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTHjlgibuaSYqicyqvuYh0hW5KGSwbvibYYGIM2pG7NG9n5DWQ4LRXtCwpvib3IXkKjHB2r9OAlBO6e2w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTHjlgibuaSYqicyqvuYh0hW5shej6kqibq4Msz9VKOHkCanmiaco4XS1rL2hN0o5vqYzOOLBGPdD5YwA/0?wx_fmt=jpeg" width="400"/>
 
 ### [江湖救急：Docker 构建镜像时报“max depth exceeded”，该如何解决？](https://mp.weixin.qq.com/s/KRV-qYjOgpUBc6AzmC2hHA)
 
-- **发布日期**：2024-08-22 08:00  
-- **所属合集**：#Docker  
-- **摘要**：在建镜像时，我们可能会遇到一个不常见但非常棘手的问题：“max depth exceeded”。这种问题通常出现在使用不当的 Dockerfile 中，构建过程中镜像层数过多，本文提供几种有效的解决方案，供读者参考。  
+- **发布日期**：2024-08-22 08:00
+- **所属合集**：#Docker
+- **摘要**：在建镜像时，我们可能会遇到一个不常见但非常棘手的问题：“max depth exceeded”。这种问题通常出现在使用不当的 Dockerfile 中，构建过程中镜像层数过多，本文提供几种有效的解决方案，供读者参考。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTP2BMcPMZJllibfQt0WLMxvHWOrye6FoN7PCCdaxAI7aKVbeIt2DsgZx06gD2WA3F27745oyd4CxQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTP2BMcPMZJllibfQt0WLMxviaEmkQia18eXB5G95FgVdEs3ibiaGZMlXyB4Cc5icBdaxDwBLxu1NT2ibXzQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 基础知识 - 污点与容忍度、亲和性与节点选择器](https://mp.weixin.qq.com/s/FP7B2bi3IPqMeB2FmHZB6w)
 
-- **发布日期**：2024-08-21 08:35  
-- **所属合集**：#Kubernetes  
-- **摘要**：​在 Kubernetes 中，污点、亲和性与节点选择器是三种主要机制，用于控制 Pod 在集群中的调度。本文将探讨这三种机制之间的区别，并展示如何有效使用它们来优化集群中的 Pod 调度。  
+- **发布日期**：2024-08-21 08:35
+- **所属合集**：#Kubernetes
+- **摘要**：​ 在 Kubernetes 中，污点、亲和性与节点选择器是三种主要机制，用于控制 Pod 在集群中的调度。本文将探讨这三种机制之间的区别，并展示如何有效使用它们来优化集群中的 Pod 调度。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT1ZcvZ3e5gnpTwg57H7icXc0vMdvfh6MqJkC4oWLoBAt4ufG1CiaPrG7ribzwrBwlFXJuw356LIvFgQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT1ZcvZ3e5gnpTwg57H7icXcyCicTcZGcw11oOtTvHcbXjr5azp3n77CUoggFP8lLqNCzwZhlklKa8w/0?wx_fmt=jpeg" width="400"/>
 
 ### [【推荐】系统设计面试：内幕指南](https://mp.weixin.qq.com/s/aRKSJmu8qAOpIWVPQUNFSg)
 
-- **发布日期**：2024-08-20 12:35  
-- **所属合集**：#基础知识  
-- **摘要**：今天推荐一本书《系统设计面试：内幕指南》，目前出版了两卷。精灵王 @Admol 翻译了卷一，大家可以一睹为快！  
+- **发布日期**：2024-08-20 12:35
+- **所属合集**：#基础知识
+- **摘要**：今天推荐一本书《系统设计面试：内幕指南》，目前出版了两卷。精灵王 @Admol 翻译了卷一，大家可以一睹为快！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT1ZcvZ3e5gnpTwg57H7icXcnQj0pTZDiagKibNWxIBngo1hpPeEiaste5COLIf4yNqvcxKGvgW2Leukw/0?wx_fmt=jpeg" width="400"/>
-
-### [应个景：网易云音乐贵州机房迁移总体方案回顾](https://mp.weixin.qq.com/s/YxDI06nECxWAxIav4Ln1yg)
-
-- **发布日期**：2024-08-19 19:10  
-- **所属合集**：nan  
-- **摘要**：网易音乐崩了几个小时了，还没恢复，不会是之前机房迁移有啥后遗症？让我们来看看《云音乐贵州机房迁移总体方案回顾》吧，看看是否有啥隐患  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSCRJA3oCXia5M4Ww0Heom4RYibcZClyJf6qpdtnskEvx96icM2pLwOlvMHc0HlBT9dfn3m2EP6J51Ng/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT1ZcvZ3e5gnpTwg57H7icXcvkVkJkhfFFqkTv4ReuhVE4TGnsvGYcp4ibK0GEQZBWSlHvWFHT90aPA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 及 Docker 文件句柄数限制及配置指南](https://mp.weixin.qq.com/s/G2biIN_zJWKeuUeFM0CrUQ)
 
-- **发布日期**：2024-08-18 09:01  
-- **所属合集**：#Linux  
-- **摘要**：最大文件句柄数即打开文件数的最大限制，Linux系统中包含两个文件句柄限制：一个是系统级的，即所有用户的进程同时打开文件数的上限；一种是用户级的，即单个用户进程打开文件数的上限。但容器中还有另一个文件句柄限制，即容器内部单进程最大文件句柄数  
+- **发布日期**：2024-08-18 09:01
+- **所属合集**：#Linux
+- **摘要**：最大文件句柄数即打开文件数的最大限制，Linux 系统中包含两个文件句柄限制：一个是系统级的，即所有用户的进程同时打开文件数的上限；一种是用户级的，即单个用户进程打开文件数的上限。但容器中还有另一个文件句柄限制，即容器内部单进程最大文件句柄数
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRTUkYn6iacRIbqZ3Ut8cFtOFPg4Mg7p4xqdvtmfmXPkL8blNYK8LSG9NpRwzZM4RQF6e8YoaA0o0A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRTUkYn6iacRIbqZ3Ut8cFtOGYOum0S1e7quzYud7rp9DyfuQOgg0aYh9Emxs2LarCKTOfZuKq3oOA/0?wx_fmt=jpeg" width="400"/>
 
 ### [【转载】独立开发变现（搞钱）周刊](https://mp.weixin.qq.com/s/L76Q5VxocehgnRD35VKTCw)
 
-- **发布日期**：2024-08-17 08:35  
-- **所属合集**：#杂项  
-- **摘要**：搞技术的同时，可以思考一下如何将技术变现。今天正好读到一个周刊，感觉可以了解一下，说不一定可以复制。  
+- **发布日期**：2024-08-17 08:35
+- **所属合集**：#杂项
+- **摘要**：搞技术的同时，可以思考一下如何将技术变现。今天正好读到一个周刊，感觉可以了解一下，说不一定可以复制。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREUftNXezE9syASlIHzx9IZpKqzXxhmObPBlRjyNXe2xPEWon1l0UfrIuqVMLgdkb8ic6RYxg7AVA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREUftNXezE9syASlIHzx9IzPzdFMia4jSX422fSicYGWHM8gm2XBS7En2z3FAaAL1p8xSJhYf0OI7A/0?wx_fmt=jpeg" width="400"/>
 
 ### [你看到的内存占用是真的吗？](https://mp.weixin.qq.com/s/iz8BHnxgFPOKRepZ5YkYAA)
 
-- **发布日期**：2024-08-16 08:30  
-- **所属合集**：nan  
-- **摘要**：内存记账向来是一笔糊涂账。  
+- **发布日期**：2024-08-16 08:30
+- **所属合集**：#Linux 小技巧
+- **摘要**：内存记账向来是一笔糊涂账。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCpXFL7icfKV5X760kj81YBtmGIRur6RmoXBkRLjibfzZtiavpYgQYrKY6QPTX4mUedS6wtHeNVGNwAzw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0o3N73q0BCpXFL7icfKV5X760kj81YBtm6E8ZZbpqHmn7Drg7WK39zDXuFBLicWibtek1aVRek10d45TXvJ55DSsg/0?wx_fmt=jpeg" width="400"/>
 
 ### [可观察性 vs 监控「双语」](https://mp.weixin.qq.com/s/x59QhSycx9pt3t2l1E569g)
 
-- **发布日期**：2024-08-15 08:35  
-- **所属合集**：#系统可观测性  
-- **摘要**：如今，大多数应用软件都采用多个微服务并采用分布式架构，因此获取对系统全面了解的需求不容小觑。这就是“监控”和“可观测性”这两个术语发挥作用的地方。  
+- **发布日期**：2024-08-15 08:35
+- **所属合集**：#系统可观测性
+- **摘要**：如今，大多数应用软件都采用多个微服务并采用分布式架构，因此获取对系统全面了解的需求不容小觑。这就是“监控”和“可观测性”这两个术语发挥作用的地方。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRs4ibGKy2STFe8iavwYMSYlkZVAT9ocxbIJkK1aEkESDBjp2lgAQ9eF4dHvCs6jwB65wyTG551M3Kg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRs4ibGKy2STFe8iavwYMSYlkWjrIWsvmicUp6eemzjjo0FERZZ9u5WvkCibofNCHDOkIfFDLkVtTU69g/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 1.31 圆梦之路: 十年了, OCI 镜像借着 AI 的风终于加入 Volume 的大家庭 ~](https://mp.weixin.qq.com/s/a34rFKmi8k7vvH_F9UpkKw)
 
-- **发布日期**：2024-08-14 08:35  
-- **所属合集**：nan  
-- **摘要**：预计太平洋时间 2024 年 8 ⽉ 13 ⽇，主题为 Elli 的 Kubernetes v1.31 将正式发布。  
+- **发布日期**：2024-08-14 08:35
+- **所属合集**：#Kubernetes
+- **摘要**：预计太平洋时间 2024 年 8 ⽉ 13 ⽇，主题为 Elli 的 Kubernetes v1.31 将正式发布。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/1DjrTiaica04lqF2bpu0c2hIkZTI6BjIEhYSUX2JPDvf6ia1Iae7AYTSVlNryhpcNAQuG5O0gzseG5OTHM4JeicYmA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/1DjrTiaica04lqF2bpu0c2hIkZTI6BjIEhkeKjD7j2eicgEpcyGCvGFwHZkyN4dGicC7ssC5iaxpyarkOjHT5g2dImw/0?wx_fmt=jpeg" width="400"/>
 
 ### [系统调用 sync、fsync 和 fdatasync 的区别](https://mp.weixin.qq.com/s/B1imUDz4oyerIC6u0oe0hg)
 
-- **发布日期**：2024-08-13 08:35  
-- **所属合集**：#Linux  
-- **摘要**：为了保证磁盘上的实际文件和缓冲区中的内容保持一致，UNIX 系统提供了三个系统调用：sync、fsync、fdatasync，那这三者有什么区别呢？今天我们就来探讨一下。  
+- **发布日期**：2024-08-13 08:35
+- **所属合集**：#Linux
+- **摘要**：为了保证磁盘上的实际文件和缓冲区中的内容保持一致，UNIX 系统提供了三个系统调用：sync、fsync、fdatasync，那这三者有什么区别呢？今天我们就来探讨一下。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQvlu2DEbU1Hka3jgDWsAzr6Sbrptdc1dRoIvyIPiaMMVh5ZbLrs9XrxwLReibHCyEVflYWdxTKSFkA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQvlu2DEbU1Hka3jgDWsAzrYI4kNTkwVGTOzR9bT4UF7wpvcnCDaXBpz2QJDFqT7buuHeYK5WrOLA/0?wx_fmt=jpeg" width="400"/>
 
 ### [使用 Stress-ng 对实时系统进行压力测试](https://mp.weixin.qq.com/s/APyXrWvxaAfKkjuc_eSNbQ)
 
-- **发布日期**：2024-08-12 08:25  
-- **所属合集**：#Linux  
-- **摘要**：stress-ng 工具是一个压力工作负载生成器，用于加载和强调所有内核接口。它包括各种压力机制，称为压力源。压力测试使机器努力工作并引发硬件问题，例如系统过度工作时发生的热超限和操作系统错误。  
+- **发布日期**：2024-08-12 08:25
+- **所属合集**：#Linux
+- **摘要**：stress-ng 工具是一个压力工作负载生成器，用于加载和强调所有内核接口。它包括各种压力机制，称为压力源。压力测试使机器努力工作并引发硬件问题，例如系统过度工作时发生的热超限和操作系统错误。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ7PAGuQMekfIurr5mdr9zhhc1VG6uNhPQxkQwOSEJnHucGajheyjwfpLSV2ibnXaCVYXbE770uiaKQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ7PAGuQMekfIurr5mdr9zhuf2AXDhZ8W7Cf2tjibGqy8CofyesQZuMUDwZicWWdLic4E0qQnpWmtLyg/0?wx_fmt=jpeg" width="400"/>
 
-### [老万> 深度吐槽CrowdStrike事故报告](https://mp.weixin.qq.com/s/POvdJDr-KFCGwg2XQXWGaA)
+### [老万> 深度吐槽 CrowdStrike 事故报告](https://mp.weixin.qq.com/s/POvdJDr-KFCGwg2XQXWGaA)
 
-- **发布日期**：2024-08-11 18:20  
-- **所属合集**：#Tech News  
-- **摘要**：我们从 CrowdStrike 史无前例的事故中能学到什么？  
+- **发布日期**：2024-08-11 18:20
+- **所属合集**：#Tech News
+- **摘要**：我们从 CrowdStrike 史无前例的事故中能学到什么？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/ACThr1AhVLiciaxzyTY7yPibCWWJOPOU0iaHOxOvh5qw7MmsEuQub3oxiaFAMiaFLAyeeQdz6rTlice0AHG0Cf1uTXbyA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/ACThr1AhVLiciaxzyTY7yPibCWWJOPOU0iaHlm3tmuSKqvmSGW5uwTWbb68mJynjC7dDqpAXxv1b9ia7DKo3bPLWc6g/0?wx_fmt=jpeg" width="400"/>
 
-### [好书推荐 - 《图解 Linux 内核 基于6.x》](https://mp.weixin.qq.com/s/dkGn-TIzqyf3MIMxx1VFhw)
+### [好书推荐 - 《图解 Linux 内核 基于 6.x》](https://mp.weixin.qq.com/s/dkGn-TIzqyf3MIMxx1VFhw)
 
-- **发布日期**：2024-08-09 08:36  
-- **所属合集**：#Linux  
-- **摘要**：基于新发布的 Linux 6.x，包含前沿的技术（如近几年流行的 CXL）和巨量的代码更新。 以【图解】【看图说话】等巧妙形式增强读者的阅读体验，涉及的复杂机制均配图表且提供下载，帮助读者快速厘清脉络。  
+- **发布日期**：2024-08-09 08:36
+- **所属合集**：#Linux
+- **摘要**：基于新发布的 Linux 6.x，包含前沿的技术（如近几年流行的 CXL）和巨量的代码更新。 以【图解】【看图说话】等巧妙形式增强读者的阅读体验，涉及的复杂机制均配图表且提供下载，帮助读者快速厘清脉络。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSTeSDMrvF1zJTjEGa4mMiaBx8ApGl8BTYHMuJk0WbCRuhM58AlWae1k3LNW6fxgT46YgswowEQM9A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSTeSDMrvF1zJTjEGa4mMiaBFUkHOyJJFWpEktKsTIdLiaU7PvTkTG7toicISiaBiaEbLGJPG1vG8Sq1sA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 生产最佳实践之「集群配置」（双语）](https://mp.weixin.qq.com/s/PLdVdZvBb1FsiFDbm2i_TA)
 
-- **发布日期**：2024-08-08 19:25  
-- **所属合集**：#Kubernetes  
-- **摘要**：Kubernetes 生产最佳实践之「集群配置」  
+- **发布日期**：2024-08-08 19:25
+- **所属合集**：#Kubernetes
+- **摘要**：Kubernetes 生产最佳实践之「集群配置」
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSTeSDMrvF1zJTjEGa4mMiaBlhOKckeJhvTDrIDovhCHrdVCFU68MYIYiaX2AdvNU9C6Q9pwlyc3z5w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSTeSDMrvF1zJTjEGa4mMiaB8cwJMaicx05gezXyxwVsm4stAcN7AnIkJJxB5zjqY7WibTF5PsxgcacA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 生产最佳实践之「应用适配」（双语）](https://mp.weixin.qq.com/s/qZVwpbbY-VqvJL9tI5iM7g)
 
-- **发布日期**：2024-08-07 13:40  
-- **所属合集**：#Kubernetes  
-- **摘要**：Kubernetes 上应用开发的最佳实践（Best practices for application development on Kubernetes）。当然了这里的应用开发更多的是指如何利用好 Kubernetes 的功能。  
+- **发布日期**：2024-08-07 13:40
+- **所属合集**：#Kubernetes
+- **摘要**：Kubernetes 上应用开发的最佳实践（Best practices for application development on Kubernetes）。当然了这里的应用开发更多的是指如何利用好 Kubernetes 的功能。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRVLfpNchKWE6t1HOQ3ohTyuOLWgicicPXfjgYrKNicuUPib1u59ONorOHts3KnCmKqhtp30FZKG08BsQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRVLfpNchKWE6t1HOQ3ohTyicXlzldqMzZIxCyB4AWS8Z9A66TI7ycm7guKLSqF2AHSEHuVVrtLz8Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [在 Docker 中使用 Capabilities 实现权限控制](https://mp.weixin.qq.com/s/shaFiJ0Ih2G_hLkZ6u6daA)
 
-- **发布日期**：2024-08-04 23:45  
-- **所属合集**：#Linux #Docker  
-- **摘要**：为了适应更复杂的权限需求，从 2.2 版本起 Linux 内核能够进一步将超级用户的权限分解为细颗粒度的单元，这些单元称为 capabilities.几乎所有与超级用户相关的特权都被分解成了单独的 capability。  
+- **发布日期**：2024-08-04 23:45
+- **所属合集**：#Linux #Docker
+- **摘要**：为了适应更复杂的权限需求，从 2.2 版本起 Linux 内核能够进一步将超级用户的权限分解为细颗粒度的单元，这些单元称为 capabilities.几乎所有与超级用户相关的特权都被分解成了单独的 capability。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTHjlgibuaSYqicyqvuYh0hW5JINEfIdH1jaiaBpCa7ogIrJWSSicNmEkHYM4HQ4afd8jhb8yAJ6Csq1A/0?wx_fmt=jpeg" width="400"/>
-
-### [学海无涯苦作舟，星环问知解君忧](https://mp.weixin.qq.com/s/7LO49UVqfd0eZ_9HPBR4Cg)
-
-- **发布日期**：2024-08-03 08:55  
-- **所属合集**：nan  
-- **摘要**：今天打个广告！
-
-星环·无涯·问知 星环·无涯·问数 结合自身多年大数据领域的积累，让和数字相关问题的答案，即刻呈现在你的面前！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHREia39FHoUAw9qU51ice3MjbSur8tibKP34eaP4KF5icCBmMzH0iaHAWftfNveicT1YLzbajUa10uQbnHg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTHjlgibuaSYqicyqvuYh0hW5k7AdUHnER2DZkicqmgjzf8F835QSmeZ65O9RBA2wWJ3pZwu8TcD6F4Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [Dockerfile CMD vs Entrypoint](https://mp.weixin.qq.com/s/Xb0q8bnP-l4mOe7FV8g16A)
 
-- **发布日期**：2024-08-02 13:10  
-- **所属合集**：#Docker  
-- **摘要**：在 Docker 中，CMD 和 ENTRYPOINT 是两个常用于编写 Dockerfile 时指定容  
+- **发布日期**：2024-08-02 13:10
+- **所属合集**：#Docker
+- **摘要**：在 Docker 中，CMD 和 ENTRYPOINT 是两个常用于编写 Dockerfile 时指定容
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSkYYOw3RAqGnTuZQpqxnxPGpLFGiaOgFeL9dwpY7ItLtCJXCawPjEY6EJibIPiaia122mtAgDCZWIKrA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSkYYOw3RAqGnTuZQpqxnxPM1B1ObBEbcfzsp469ibL8hqnrj6iaZ54ic2icMfLkoXDqGiaIhllJZLIMPw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux /dev 目录揭秘](https://mp.weixin.qq.com/s/o6-Gzu5g4l3Rz6Sq6jVhbg)
 
-- **发布日期**：2024-08-01 08:35  
-- **所属合集**：#Linux #存储  
-- **摘要**：Linux 是一个类 Unix 操作系统，其中一项重要的特性就是一切皆文件。/dev 目录是 Linux 文件系统的重要组成部分，用于存放设备文件。设备文件代表系统中的硬件设备，通过这些文件，用户可以以文件的方式访问硬件。  
+- **发布日期**：2024-08-01 08:35
+- **所属合集**：#Linux #存储
+- **摘要**：Linux 是一个类 Unix 操作系统，其中一项重要的特性就是一切皆文件。/dev 目录是 Linux 文件系统的重要组成部分，用于存放设备文件。设备文件代表系统中的硬件设备，通过这些文件，用户可以以文件的方式访问硬件。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTn1IfvkmEIdyChLwwttJoUJibX4E5oyxfkaAZBRGfGzPCur4WRWY4edHP837cd30vuJYEibPdv33cA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTn1IfvkmEIdyChLwwttJoUJflVQ5IGa62QVuvAdNsXW5Ip1NfU4aficJBv3JfbsnNsUoS0oJLGL6Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 攻防 - 窃取 Service Account 令牌获取集群权限及对应检测方式](https://mp.weixin.qq.com/s/OWjUoH5RITz4GT2RxKfsPQ)
 
-- **发布日期**：2024-07-30 08:35  
-- **所属合集**：#Kubernetes  
-- **摘要**：k8s 的"service account tokens"包含了“应用程序用于进行身份验证和执行操作”的权限。本文说明了如何在容器中单独使用这些令牌，查看当今许多流行应用程序所请求的具体权限，并展示了如何利用它们进一步攻陷 k8s 环境。  
+- **发布日期**：2024-07-30 08:35
+- **所属合集**：#Kubernetes
+- **摘要**：k8s 的"service account tokens"包含了“应用程序用于进行身份验证和执行操作”的权限。本文说明了如何在容器中单独使用这些令牌，查看当今许多流行应用程序所请求的具体权限，并展示了如何利用它们进一步攻陷 k8s 环境。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR6v5wYceddqHoxQk6AI2k7wRSkcttldwIQhGTTh45ibpqQSssnwk1WUia1dMyxw3H5w63pjAjBAfKg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR6v5wYceddqHoxQk6AI2k7iaK9fDZ7hsNQosQYqiaUAEnb6PcZdghzibVqickkBtmXmkCyeaib9AV6JzA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes：图解 Kubeconfig 文件](https://mp.weixin.qq.com/s/NSkTtmTsBVtCDAzvnngPMA)
 
-- **发布日期**：2024-07-29 08:35  
-- **所属合集**：nan  
-- **摘要**：kubeconfig 文件用于访问 Kubernetes 集群，主要由 kubectl 用于对集群进行身份验证和访问。它包含三个主要部分：「集群」、「用户」和「上下文」，它们定义了特定于集群的详细信息、身份验证详细信息以及与集群交互的环境。kubeconfig 文件的默认路径为 $HOME/.kube/config，但可以使用 --kubeconfig 标志指定。该文件不需要使用 kubectl create -f &lt;kubeconfig_file&gt; 命令创建；一旦创建，kubectl 在访问集群时就会读取它。
-
-运用：<a href="http://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&amp;mid=2247487439&amp;idx=1&amp;sn=9d5af522622a81520a01ba1163374d5f&amp;chksm=e995cd82dee24494b8d70060faff82b3f3ed9be9bedc399b3fe3963ecec5896695e4ecb80f38&amp;scene=142#wechat_redirect" target="_blank" data-itemshowtype="0">Kubernetes：批量创建命名空间，并为每个命名空间指定「用户」以及 「kube config」</a>
-
-参考：https://yuminlee2.medium.com/kubernetes-kubeconfig-file-4aabe3b04ade  
+- **发布日期**：2024-07-29 08:35
+- **所属合集**：#Kubernetes
+- **摘要**：kubeconfig 文件用于访问 Kubernetes 集群，主要由 kubectl 用于对集群进行身份验证和访问。它包含三个主要部分：「集群」、「用户」和「上下文」，它们定义了特定于集群的详细信息、身份验证详细信息以及与集群交互的环境。kubeconfig 文件的默认路径为 $HOME/.kube/config，但可以使用 --kubeconfig 标志指定。该文件不需要使用 kubectl create -f <kubeconfig_file> 命令创建；一旦创建，kubectl 在访问集群时就会读取它。 运用：<a href="http://mp.weixin.qq.com/s?__biz=MzI0OTIzOTMzMA==&mid=2247487439&idx=1&sn=9d5af522622a81520a01ba1163374d5f&chksm=e995cd82dee24494b8d70060faff82b3f3ed9be9bedc399b3fe3963ecec5896695e4ecb80f38&scene=142#wechat_redirect" target="_blank" data-itemshowtype="0">Kubernetes：批量创建命名空间，并为每个命名空间指定「用户」以及 「kube config」</a> 参考：https://yuminlee2.medium.com/kubernetes-kubeconfig-file-4aabe3b04ade
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR6nib085siap1Zqicnia5xCFUVx0eEicBVOAyqsSSNXfruQDofaTvKNfAf3ga90Db7Dzcum3LAovRse3w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR6nib085siap1Zqicnia5xCFUVShiazOqFiaorVRv55iaXvMSFzXHLwml9XcQUaStuRZhpq1eWFVYo3a1qg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes：批量创建命名空间，并为每个命名空间指定「用户」以及 「kube config」](https://mp.weixin.qq.com/s/qNDD-2RyZTls8psQQ7eWYw)
 
-- **发布日期**：2024-07-28 18:05  
-- **所属合集**：#Kubernetes  
-- **摘要**：有 N 组同学要在一个 Kubernetes 集群上做实验，因此需要为每个组创建命名空间，service account 和 kube config，为了偷懒，笔者就写了一个脚本用于自动生成相关配置！  
+- **发布日期**：2024-07-28 18:05
+- **所属合集**：#Kubernetes
+- **摘要**：有 N 组同学要在一个 Kubernetes 集群上做实验，因此需要为每个组创建命名空间，service account 和 kube config，为了偷懒，笔者就写了一个脚本用于自动生成相关配置！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR6nib085siap1Zqicnia5xCFUVHRpHkpWmtWzzlQxGe8Yffvmqlia2Mjg6Jm8RnNfia1s595ambxIwicnMA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR6nib085siap1Zqicnia5xCFUVWAREnUrGxNTg8cYToNlOiaDsrdPoZ8sCxc2IYDjWKRgftxpeiaYB6OOQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [强烈推荐几张容器技术相关的知识图解](https://mp.weixin.qq.com/s/dpG5jLSkwMl5AAfG1zzcYQ)
 
-- **发布日期**：2024-07-27 08:06  
-- **所属合集**：nan  
-- **摘要**：来自：https://labs.iximiuz.com/
-[The] Learning Platform to Master Cloud Native Craft！  
+- **发布日期**：2024-07-27 08:06
+- **所属合集**：#Docker #Kubernetes
+- **摘要**：来自：https://labs.iximiuz.com/ [The] Learning Platform to Master Cloud Native Craft！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9iapfpNEugSn1spPKh5Uia6JvkFaJ7CTOnCVMT8aVia3DYHDsCxSr4Ad3pLtweia7uAs5TCsdGtNBhQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9iapfpNEugSn1spPKh5Uia6icEqdGUezauianpYXbUenWSdPVP2W7NLcWpDlwWKDiaKiczlKjEMTnibtgw/0?wx_fmt=jpeg" width="400"/>
 
-### [新范式：AIGC推动的数据要素产业价值促进创新](https://mp.weixin.qq.com/s/LCJJimv_rQ7eYsHwUNyzzQ)
+### [新范式：AIGC 推动的数据要素产业价值促进创新](https://mp.weixin.qq.com/s/LCJJimv_rQ7eYsHwUNyzzQ)
 
-- **发布日期**：2024-07-26 08:30  
-- **所属合集**：#Tech News  
-- **摘要**：大模型的发展与数据要素的价值创造互为因果，LLM正推动着数据要素以“激发AGI”的全新范式创造价值。  
+- **发布日期**：2024-07-26 08:30
+- **所属合集**：#Tech News
+- **摘要**：大模型的发展与数据要素的价值创造互为因果，LLM 正推动着数据要素以“激发 AGI”的全新范式创造价值。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/F8RQqQE9DzjWSkTN6JQ4oI7ZmXw4xkCAhKia5MxWOFr3ianz8OnZX52w1iaDOdFrZJ6sD4iae3LA06qShofmPpZHYQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/F8RQqQE9DzjWSkTN6JQ4oI7ZmXw4xkCARjdKVFAqYRnprJyvqB4sXYTGAiaEffm6vt7mYc7Tx9zV1yrjXQmNDWA/0?wx_fmt=jpeg" width="400"/>
 
 ### [SearchGPT 来了](https://mp.weixin.qq.com/s/3lHmpHhBDqVcjpdWetNzAA)
 
-- **发布日期**：2024-07-26 08:30  
-- **所属合集**：#模型  
-- **摘要**：OpenAI 发布了一个新产品：SearchGPT，一个新搜索功能的原型，可以利用ChatGPT 大模型的优势，提供更清晰和更相关的答案。
-
-有兴趣的同学可以到 「https://chatgpt.com/search」 加入等待 list，有更多信息的时候，笔者第一时间搬回来告诉大家！  
+- **发布日期**：2024-07-26 08:30
+- **所属合集**：#模型
+- **摘要**：OpenAI 发布了一个新产品：SearchGPT，一个新搜索功能的原型，可以利用 ChatGPT 大模型的优势，提供更清晰和更相关的答案。 有兴趣的同学可以到 「https://chatgpt.com/search」 加入等待 list，有更多信息的时候，笔者第一时间搬回来告诉大家！
 - **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9iapfpNEugSn1spPKh5Uia6bUIFOUXa5OLZpibsV5xgI4iaFHxo10jXliblyNDmwTyRW2oDDFCMicXroQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9iapfpNEugSn1spPKh5Uia62vZrWaBhgRl79PlXIsYNT1eVzO0ZRuA4NFL8j08B40Cc8lqia1t1s1w/0?wx_fmt=jpeg" width="400"/>
 
 ### [Docker attach 与 exec - 有什么区别？](https://mp.weixin.qq.com/s/2J--HnfoM_EZiFPq0AJxOQ)
 
-- **发布日期**：2024-07-25 12:35  
-- **所属合集**：#Docker #Kubernetes  
-- **摘要**：​Docker exec  和  attach​ 这两个命令之间的区别常常让人感到困惑。这两个命令具有相似的参数，乍一看行为也相似。然而，attach 和 exec 不能互换，它们旨在涵盖不同的用例，命令的实现也不同。  
+- **发布日期**：2024-07-25 12:35
+- **所属合集**：#Docker #Kubernetes
+- **摘要**：​Docker exec 和 attach​ 这两个命令之间的区别常常让人感到困惑。这两个命令具有相似的参数，乍一看行为也相似。然而，attach 和 exec 不能互换，它们旨在涵盖不同的用例，命令的实现也不同。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGe7oic3bWyUQRZhV8UuAVBMm9LKJV4C35cia8EIZ28x4EYPBicBUXTCDGUwBibkebN5I3dFuVkevu6g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGe7oic3bWyUQRZhV8UuAVB8nuhDBvmxZ3mPg6GsSteUPFmU6DLWUhRJKQjEoxicMtKAonGpmiaAHtw/0?wx_fmt=jpeg" width="400"/>
 
-### [面向大语言模型的检索增强生成技术：综述 [译]](https://mp.weixin.qq.com/s/-3qoRfoDT5ZEWzqvThummw)
+### [面向大语言模型的检索增强生成技术：综述 \[译\]](https://mp.weixin.qq.com/s/-3qoRfoDT5ZEWzqvThummw)
 
-- **发布日期**：2024-07-24 20:31  
-- **所属合集**：#LLM  
-- **摘要**：本文概述了 RAG 在大语言模型时代的发展模式，总结了三种模式：初级 RAG、高级 RAG 和模块化 RAG。接着，本文梳理了 RAG 的三个主要组成部分：检索器、生成器和增强方法，以及每个部分的关键技术。  
+- **发布日期**：2024-07-24 20:31
+- **所属合集**：#LLM
+- **摘要**：本文概述了 RAG 在大语言模型时代的发展模式，总结了三种模式：初级 RAG、高级 RAG 和模块化 RAG。接着，本文梳理了 RAG 的三个主要组成部分：检索器、生成器和增强方法，以及每个部分的关键技术。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRVDMkfaxtnSNeSMicPAAUiccDPgQ292FkFduQtTIqyNjeAZqdMvb0cJDibVEibA5t639t4EvYpiaUOQAw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRVDMkfaxtnSNeSMicPAAUiccbFgHxN5hnKPfyF42OsNR9JfJqtXRaSibpNDLic6u35oeDtOUuWZG7FLg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Awesome LLM RAG 学习材料](https://mp.weixin.qq.com/s/w6PDRf_AHkEnmTbPtRaIxw)
 
-- **发布日期**：2024-07-24 20:31  
-- **所属合集**：#LLM  
-- **摘要**：Awesome LLM RAG Application 是基于 LLM 和 RAG 模式的应用程序资源精选列表。  
+- **发布日期**：2024-07-24 20:31
+- **所属合集**：#LLM
+- **摘要**：Awesome LLM RAG Application 是基于 LLM 和 RAG 模式的应用程序资源精选列表。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRVDMkfaxtnSNeSMicPAAUicccqbsKYJEoaT7lf1HsjkvuFXanjj1NofRmDjDPvicmseAqhbU4tjiaRyA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRVDMkfaxtnSNeSMicPAAUiccWD83gSbGPt88sCpQQaRN14Lfjqm4AG2dab7sg2jGFyd9nLKsxbAqag/0?wx_fmt=jpeg" width="400"/>
 
 ### [系统虚拟化导论](https://mp.weixin.qq.com/s/HaPeiKMjYB3pRaeHxMCfqw)
 
-- **发布日期**：2024-07-23 08:50  
-- **所属合集**：#虚拟化  
-- **摘要**：什么是虚拟化？狭义地说，大家在日常生活中说到的虚拟化主要指的还是 虚拟机 （Virtual Machine），即通过虚拟化技术将一台计算机虚拟为多台逻辑计算机——这其实是虚拟化技术中的一个抽象粒度为单个计算机的分支：系统虚拟化！  
+- **发布日期**：2024-07-23 08:50
+- **所属合集**：#虚拟化
+- **摘要**：什么是虚拟化？狭义地说，大家在日常生活中说到的虚拟化主要指的还是 虚拟机 （Virtual Machine），即通过虚拟化技术将一台计算机虚拟为多台逻辑计算机——这其实是虚拟化技术中的一个抽象粒度为单个计算机的分支：系统虚拟化！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpia3ibGXBRTFcnsMIEWknJkrJuyM9WpxlVR23JNN5aLDJy3cK6GykcsXfVOvQvj4fKLjBwFHQaTng/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpia3ibGXBRTFcnsMIEWknJkkmibzojggfFPnEricXxFpbJrfFX1DQpiaBHu72rticfhibA94QHCzchY6fg/0?wx_fmt=jpeg" width="400"/>
 
 ### [CPU 虚拟化](https://mp.weixin.qq.com/s/XLay0qoKr-UeXMyw9kVEpg)
 
-- **发布日期**：2024-07-22 08:50  
-- **所属合集**：#虚拟化 #cpu  
-- **摘要**：CPU 虚拟化是系统虚拟化技术中最核心的部分，因为 CPU 是计算机中最核心的组件，直接控制着整个系统的运行，同时内存访问（内存虚拟化）与 I/O 操作（I/O 虚拟化）也都直接依赖于 CPU，因此 CPU 虚拟化是系统虚拟化技术中的核心。  
+- **发布日期**：2024-07-22 08:50
+- **所属合集**：#虚拟化 #cpu
+- **摘要**：CPU 虚拟化是系统虚拟化技术中最核心的部分，因为 CPU 是计算机中最核心的组件，直接控制着整个系统的运行，同时内存访问（内存虚拟化）与 I/O 操作（I/O 虚拟化）也都直接依赖于 CPU，因此 CPU 虚拟化是系统虚拟化技术中的核心。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTLO7rIiaiaXdQPXpCOIPVKESiaTWvKB4RBktBzXmPYjAn02QSmKtpPxiaakD4ps2ibQ1xoNkdE2ZFkTKQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTLO7rIiaiaXdQPXpCOIPVKES7TYiciaKfibYhbRxbKXmJMEth0EymdPTmtmPBNUYictVw6975bichoQkPdA/0?wx_fmt=jpeg" width="400"/>
 
 ### [【深度】操作系统技术实践：解读 CPU 隔离](https://mp.weixin.qq.com/s/ZUjAZt4ZNFBMDmbh-dFVRg)
 
-- **发布日期**：2024-07-21 09:30  
-- **所属合集**：#Linux #cpu  
-- **摘要**：CPU 隔离是一组强大的功能，可以为那些依赖特定且通常对延迟或性能有极端要求的工作负载设置提供支持。  
+- **发布日期**：2024-07-21 09:30
+- **所属合集**：#Linux #cpu
+- **摘要**：CPU 隔离是一组强大的功能，可以为那些依赖特定且通常对延迟或性能有极端要求的工作负载设置提供支持。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTLO7rIiaiaXdQPXpCOIPVKES7vQTTYSQWPdhd0BXCMMfV9A20wOnVCsdTCIKiaibl3LsSSNMFtDyiaWFA/0?wx_fmt=jpeg" width="400"/>
-
-### [Windows 蓝屏大事件 SRE 自述](https://mp.weixin.qq.com/s/tSx9oNUtpwll5lwra3iONg)
-
-- **发布日期**：2024-07-20 00:05  
-- **所属合集**：nan  
-- **摘要**：Windows 蓝屏大事件 SRE 自述！世界就是草台班子，没有敬畏之心，没有验证流程，一行修改直接上生产，这下就搞了一个全球大事件！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTXt1ZiaNf6ib2NtvOicjb25Mo0OJJKS00PQ4JlgfkPNQTblicqKAZ6KbApjMPCZaK2Md3InAq5rsLuIg/0?wx_fmt=jpeg" width="400"/>
-
-### [改了一行代码，导致全球 Windows 蓝屏大事件](https://mp.weixin.qq.com/s/XniGkIlSkoR-siHsZb2cNA)
-
-- **发布日期**：2024-07-20 00:05  
-- **所属合集**：nan  
-- **摘要**：姓名：Vincent Flibustier
-个人描述：Former Crowdstrike employee, fired for an unfair reason, only changed 1 line of code to optimize.
-光辉事迹：一行代码导致2024年7月19日 Windows 蓝屏大事件  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTXt1ZiaNf6ib2NtvOicjb25MoQeFlj6LQuZQyX6L5Gvotic5RJ8kib0t3vEyB4UGWBm3s7mguibSLv0kaA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTLO7rIiaiaXdQPXpCOIPVKES59rBqkk3OThjdtGbwDibNTMia6JC353A5I20iaeJHsWJfX0ewZBxo71gw/0?wx_fmt=jpeg" width="400"/>
 
 ### [NVIDIA 全面转向开源 GPU 内核模块](https://mp.weixin.qq.com/s/WbGSkNhkcxK1HwYa3Fz_1g)
 
-- **发布日期**：2024-07-19 08:50  
-- **所属合集**：#CUDA  
-- **摘要**：NVIDIA 的阳谋，通过开源让更多的人深度参与进来，从而间接阻止潜在竞争对手的发展。  
+- **发布日期**：2024-07-19 08:50
+- **所属合集**：#CUDA
+- **摘要**：NVIDIA 的阳谋，通过开源让更多的人深度参与进来，从而间接阻止潜在竞争对手的发展。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTXt1ZiaNf6ib2NtvOicjb25MoI1UYRvPDaEeU8Rg2UGEN0lQtdKOHUWuTNKLmStHVnX3YmbARECfIPA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTXt1ZiaNf6ib2NtvOicjb25MoGLY5ZvibpCCIqniapmrCia9lXNYRMg6hbYicdNRZFicsV6ibWTSEAcqK2XBg/0?wx_fmt=jpeg" width="400"/>
 
 ### [揭秘静态链接和动态链接](https://mp.weixin.qq.com/s/VptqgINDk1zoh0n-F2empw)
 
-- **发布日期**：2024-07-17 08:50  
-- **所属合集**：#Linux  
-- **摘要**：编程语言中，常常将包含大量函数（类、方法）的文件称为库文件。库文件是最常用的共享代码的方式，根据使用方法的不同，库文件可以分为静态链接库（简称“静态库文件”或者“静态库”）和动态链接库（“动态库文件”或者“动态库”）两种  
+- **发布日期**：2024-07-17 08:50
+- **所属合集**：#Linux
+- **摘要**：编程语言中，常常将包含大量函数（类、方法）的文件称为库文件。库文件是最常用的共享代码的方式，根据使用方法的不同，库文件可以分为静态链接库（简称“静态库文件”或者“静态库”）和动态链接库（“动态库文件”或者“动态库”）两种
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR8pMq4KaPHUicSqmxjCHuHU6ZchAmtN9oxKsGByIVAlDIUicX1OTf2RKhlFT3WSmuN9w7RI7d5wKsg/0?wx_fmt=jpeg" width="400"/>
-
-### [好书推荐 - 《Certified Kubernetes Administrator (CKA) Study Guide》](https://mp.weixin.qq.com/s/_AIw0lQcU-bOufjlUKceLQ)
-
-- **发布日期**：2024-07-16 08:50  
-- **所属合集**：#Kubernetes  
-- **摘要**：大家肯定听说过 CKA 认证考试吧，那除了自学之外，有什么比较有针对性的学习资料呢？今天就给大家推荐一本好书！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRaCDGmHVbOXHAOVfK1hgbbFwuoosn1ic98QpPZNrxpqZLoiaSxtPoQUfuophKP0DHdGR8dqUjP6pYQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR8pMq4KaPHUicSqmxjCHuHUbU0usvruaS0JZgj4oibLpLyow27PyIIOpqdHgHgzKn4qLyAtiaCnYrvg/0?wx_fmt=jpeg" width="400"/>
 
 ### [知乎问题：宿主机是 ubuntu 22，容器是 ubuntu 24，容器是否可正常使用 ubuntu 24 特有的一些新功能？](https://mp.weixin.qq.com/s/C3Faz_g5nyP7WUEAzsJxFA)
 
-- **发布日期**：2024-07-16 08:50  
-- **所属合集**：#Docker #Linux  
-- **摘要**：宿主机是 ubuntu 22，容器是 ubuntu 24，容器是否可正常使用 ubuntu 24 特有的一些新功能？  
+- **发布日期**：2024-07-16 08:50
+- **所属合集**：#Docker #Linux
+- **摘要**：宿主机是 ubuntu 22，容器是 ubuntu 24，容器是否可正常使用 ubuntu 24 特有的一些新功能？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRaCDGmHVbOXHAOVfK1hgbbXicyp4p1v89ofBsIxSjZxFeaJnvCa2240g1BE6ADM64TGvEcGCAdMCg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRaCDGmHVbOXHAOVfK1hgbbkSrVesRbMIIuT1vAE0v6f3qH9PfORLbko76kDMfVFpNxBXVvftekvg/0?wx_fmt=jpeg" width="400"/>
+
+### [好书推荐 - 《Certified Kubernetes Administrator (CKA) Study Guide》](https://mp.weixin.qq.com/s/_AIw0lQcU-bOufjlUKceLQ)
+
+- **发布日期**：2024-07-16 08:50
+- **所属合集**：#Kubernetes
+- **摘要**：大家肯定听说过 CKA 认证考试吧，那除了自学之外，有什么比较有针对性的学习资料呢？今天就给大家推荐一本好书！
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRaCDGmHVbOXHAOVfK1hgbb6fPCriaoTg93757wUU8HofmTgFdMPw9lic5C81VydNnO4ynUVddBMX7w/0?wx_fmt=jpeg" width="400"/>
 
 ### [不要盲目刷 LeetCode，要巧用编码模式](https://mp.weixin.qq.com/s/epBmZJ3mJo41Uw_bbgQlQA)
 
-- **发布日期**：2024-07-14 09:01  
-- **所属合集**：#CS #杂项  
-- **摘要**：无论大家是否喜欢，LeetCode 类型的问题几乎是每次编程面试的一部分，因此每个软件开发人员都应该在面试前练习它们。大家唯一的选择是明智地准备并通过关注底层问题模式来学习解决问题。​  
+- **发布日期**：2024-07-14 09:01
+- **所属合集**：#CS #杂项
+- **摘要**：无论大家是否喜欢，LeetCode 类型的问题几乎是每次编程面试的一部分，因此每个软件开发人员都应该在面试前练习它们。大家唯一的选择是明智地准备并通过关注底层问题模式来学习解决问题。​
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQoXmU2g20Hf1BejIq2iaYzJDdQR1zibibW1hlicRYLhzrtDfJiaFQz9R2Vh0dAIRs8zAeh1AyBpUfSoCg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQoXmU2g20Hf1BejIq2iaYzJg0LQehFMYVSia6gFDKGBMhicrOcn7y8yzPoP64Su2VicTLGkZibNShCqvw/0?wx_fmt=jpeg" width="400"/>
 
 ### [为什么机器人不能勾选“我不是机器人”复选框？](https://mp.weixin.qq.com/s/X6FJ3RJ6sevkXy1_yxx3zw)
 
-- **发布日期**：2024-07-13 17:01  
-- **所属合集**：#CS  
-- **摘要**：机器人当然可以根据命令勾选复选框。但复选框追踪的信息比简单的复选框点击要多得多，以确定你是人类还是机器人。  
+- **发布日期**：2024-07-13 17:01
+- **所属合集**：#CS
+- **摘要**：机器人当然可以根据命令勾选复选框。但复选框追踪的信息比简单的复选框点击要多得多，以确定你是人类还是机器人。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQoXmU2g20Hf1BejIq2iaYzJBS11u594Eu7lz7UEiaTctPqCBq7RicujLdEOwBxEYR1vWYNeXZpbQmlw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQoXmU2g20Hf1BejIq2iaYzJAYKpOEhNCGtKoMDLzqdtrMFtv4edWF2Lz4z1hqctib2kgdvNlh8f3ibw/0?wx_fmt=jpeg" width="400"/>
 
 ### [《Linux 网络编程》第四章进程间通信（4）- System V IPC](https://mp.weixin.qq.com/s/mDzQDCapwQ5fnwqn6sy6BA)
 
-- **发布日期**：2024-07-12 09:05  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：消息队列（Message Queues），信号量（semaphores）和共享内存（shared memory），统称为 System V IPC。在 Linux 系统编程中，它们有着广泛的应用。  
+- **发布日期**：2024-07-12 09:05
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：消息队列（Message Queues），信号量（semaphores）和共享内存（shared memory），统称为 System V IPC。在 Linux 系统编程中，它们有着广泛的应用。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT1XoGb1hBX5A9iccbeLfmLrzTWlpR2m8xvr7tia4sh4ibwd8aBicDrwe73vwjPlpVkfhSSH0MuibibWG6Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT1XoGb1hBX5A9iccbeLfmLrX4g8gE65cmFv5jdcrCKMbFKLkTkDb6zHRrhDVW7QHxM2NROniavVPGg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 1.30：对 Pod 使用用户命名空间的支持进阶至 Beta](https://mp.weixin.qq.com/s/tZwzd0W7U_68x04WtGY2NQ)
 
-- **发布日期**：2024-07-11 09:05  
-- **所属合集**：#Kubernetes #Linux  
-- **摘要**：在 Kubernetes v1.25 中，我们仅为无状态 Pod 引入了对用户命名空间的支持。Kubernetes 1.28 取消了这一限制，目前在 Kubernetes 1.30 中，这个特性进阶到了 Beta！  
+- **发布日期**：2024-07-11 09:05
+- **所属合集**：#Kubernetes #Linux
+- **摘要**：在 Kubernetes v1.25 中，我们仅为无状态 Pod 引入了对用户命名空间的支持。Kubernetes 1.28 取消了这一限制，目前在 Kubernetes 1.30 中，这个特性进阶到了 Beta！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRictlrw6o2GaY6ru0SJbEsGFL8JibFzfMyEwHgEibWRAu0gib7Mn9fMicVsa9Tep5YiaKsQ4z9YiczB4zIA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRictlrw6o2GaY6ru0SJbEsGib5ty99640PYhQB8k1DKu0tSQvbcKCrWAWTeibUeo5st2D2v5a3OYkXQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [深入研究 Linux Namespace - 第一部分](https://mp.weixin.qq.com/s/xOrUChPfHYyP2qQYxB8zDQ)
 
-- **发布日期**：2024-07-10 14:05  
-- **所属合集**：#Linux #Docker  
-- **摘要**：进程隔离是容器的关键能力。用到的底层机制之一是 Linux Namespace。今天我们就深入研究一下。  
+- **发布日期**：2024-07-10 14:05
+- **所属合集**：#Linux #Docker
+- **摘要**：进程隔离是容器的关键能力。用到的底层机制之一是 Linux Namespace。今天我们就深入研究一下。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSM05hZuZXr7lo7np7GF41q5OAXZyf3uBjQmgbpWcYbQhiaJYdXQkft9ZTbE7B28BzpwuGSstwW6yQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSM05hZuZXr7lo7np7GF41qRR84lqHnzibpEdQ1fibQy4Rg31eTPLxgcTbKAlrvxROcSyKMQWxJxVkQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [深入研究 Linux Namespace - User Namespace](https://mp.weixin.qq.com/s/9FVKbKrw688Fhm_1KGXwfg)
 
-- **发布日期**：2024-07-10 14:05  
-- **所属合集**：#Linux  
-- **摘要**：Linux 世界中所有进程都有其所有者。 根据其有效用户 ID (UID) 属性，进程可分为特权进程和非特权进程。根据此 UID，进程对操作系统拥有不同的权限。用户命名空间是一项内核功能，允许每个进程虚拟化此属性。  
+- **发布日期**：2024-07-10 14:05
+- **所属合集**：#Linux
+- **摘要**：Linux 世界中所有进程都有其所有者。 根据其有效用户 ID (UID) 属性，进程可分为特权进程和非特权进程。根据此 UID，进程对操作系统拥有不同的权限。用户命名空间是一项内核功能，允许每个进程虚拟化此属性。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ27SoV8TF6nzZkBDqBibmfOORic9gia7YseLwqiaiazcTOhia5ZRuoAunnNPEc4vXw2D0icN7ibzB7m5XR2w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ27SoV8TF6nzZkBDqBibmfOgcALPZhaTclenniaiaicRedEyvbRQNWwt2zicUWhF4FliaV1tZz7lJA7WrQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [在 Docker 中使用 Linux User Namespace 隔离容器用户](https://mp.weixin.qq.com/s/7e75EVdlFeISqdoZqlbUrw)
 
-- **发布日期**：2024-07-10 14:05  
-- **所属合集**：#Docker #Linux  
-- **摘要**：防止容器内特权升级攻击的最佳方法是将容器的应用程序配置为以非特权用户身份运行。对于其进程必须以root容器内用户身份运行的容器，我们可以将此用户重新映射到 Docker 主机上权限较低的用户。  
+- **发布日期**：2024-07-10 14:05
+- **所属合集**：#Docker #Linux
+- **摘要**：防止容器内特权升级攻击的最佳方法是将容器的应用程序配置为以非特权用户身份运行。对于其进程必须以 root 容器内用户身份运行的容器，我们可以将此用户重新映射到 Docker 主机上权限较低的用户。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ27SoV8TF6nzZkBDqBibmfO2n9Q4QxHIvzZejuVAibdEk0qyVV4uXJiaVdOaOvsZI32ccVVCBcPFshA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ27SoV8TF6nzZkBDqBibmfOONsTQoWDVibSCoazGTFPIrmrYXJLDGLrzkxP54pR92x5q8y8kmIIguA/0?wx_fmt=jpeg" width="400"/>
 
 ### [在 Docker 中使用 Linux User Namespace 隔离容器用户](https://mp.weixin.qq.com/s/bPuo36dhTs5d8VhQJUH4PQ)
 
-- **发布日期**：2024-07-09 16:20  
-- **所属合集**：#Docker #Linux  
-- **摘要**：防止容器内特权升级攻击的最佳方法是将容器的应用程序配置为以非特权用户身份运行。对于其进程必须以root容器内用户身份运行的容器，我们可以将此用户重新映射到 Docker 主机上权限较低的用户。  
+- **发布日期**：2024-07-09 16:20
+- **所属合集**：#Docker #Linux
+- **摘要**：防止容器内特权升级攻击的最佳方法是将容器的应用程序配置为以非特权用户身份运行。对于其进程必须以 root 容器内用户身份运行的容器，我们可以将此用户重新映射到 Docker 主机上权限较低的用户。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ27SoV8TF6nzZkBDqBibmfO2n9Q4QxHIvzZejuVAibdEk0qyVV4uXJiaVdOaOvsZI32ccVVCBcPFshA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ27SoV8TF6nzZkBDqBibmfOONsTQoWDVibSCoazGTFPIrmrYXJLDGLrzkxP54pR92x5q8y8kmIIguA/0?wx_fmt=jpeg" width="400"/>
 
 ### [深入研究 Linux Namespace - User Namespace](https://mp.weixin.qq.com/s/fk5sUzU8Kk9SmNuwLL1UZQ)
 
-- **发布日期**：2024-07-09 13:05  
-- **所属合集**：#Linux  
-- **摘要**：Linux 世界中所有进程都有其所有者。 根据其有效用户 ID (UID) 属性，进程可分为特权进程和非特权进程。根据此 UID，进程对操作系统拥有不同的权限。用户命名空间是一项内核功能，允许每个进程虚拟化此属性。  
+- **发布日期**：2024-07-09 13:05
+- **所属合集**：#Linux
+- **摘要**：Linux 世界中所有进程都有其所有者。 根据其有效用户 ID (UID) 属性，进程可分为特权进程和非特权进程。根据此 UID，进程对操作系统拥有不同的权限。用户命名空间是一项内核功能，允许每个进程虚拟化此属性。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ27SoV8TF6nzZkBDqBibmfOORic9gia7YseLwqiaiazcTOhia5ZRuoAunnNPEc4vXw2D0icN7ibzB7m5XR2w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ27SoV8TF6nzZkBDqBibmfOgcALPZhaTclenniaiaicRedEyvbRQNWwt2zicUWhF4FliaV1tZz7lJA7WrQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 基础知识 - 万字详解升级策略](https://mp.weixin.qq.com/s/SbxsZp3SgCfwCzPwcQHpfA)
 
-- **发布日期**：2024-07-07 09:05  
-- **所属合集**：nan  
-- **摘要**：万字详解 Kubernetes 升级策略！  
+- **发布日期**：2024-07-07 09:05
+- **所属合集**：#Kubernetes
+- **摘要**：万字详解 Kubernetes 升级策略！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRyGY3QUVgCtTof2uYGlSu1CmRGIEQOicmnDYs8ZoN3XPj2fsXKSKC8xQ9D8xRwTtjLKotCVqAq3EQ/0?wx_fmt=jpeg" width="400"/>
-
-### [Kuberentes 小课堂 - 快捷运行 Python 服务](https://mp.weixin.qq.com/s/GkI8b77WKR3laFj6Wr9OAA)
-
-- **发布日期**：2024-07-06 09:00  
-- **所属合集**：#Kubernetes  
-- **摘要**：那我们有没有简单方法，直接一个 YAML 文件就运行呢？答案是有的，那就是使用 Configmap（同时 Python 程序是解释性语言，不需要编译，这个也为我们提供了方便），  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRyGY3QUVgCtTof2uYGlSu1oaECjDoR5Pw8muZGLlmRwMW0iaoRruqRibBCWv1Am9tdd1d7P4JFYefw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRyGY3QUVgCtTof2uYGlSu1IfesRMWyyzu6DZkEXS46glkswe7XET4tvZVZ2faeqjfN8TqufztbPg/0?wx_fmt=jpeg" width="400"/>
 
 ### [深入研究 Linux Namespace - 第一部分](https://mp.weixin.qq.com/s/V-5-xeAGkIwprkSGAfI32Q)
 
-- **发布日期**：2024-07-06 09:00  
-- **所属合集**：#Linux #Docker  
-- **摘要**：进程隔离是容器的关键能力。用到的底层机制之一是 Linux Namespace。今天我们就深入研究一下。  
+- **发布日期**：2024-07-06 09:00
+- **所属合集**：#Linux #Docker
+- **摘要**：进程隔离是容器的关键能力。用到的底层机制之一是 Linux Namespace。今天我们就深入研究一下。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSM05hZuZXr7lo7np7GF41q5OAXZyf3uBjQmgbpWcYbQhiaJYdXQkft9ZTbE7B28BzpwuGSstwW6yQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSM05hZuZXr7lo7np7GF41qRR84lqHnzibpEdQ1fibQy4Rg31eTPLxgcTbKAlrvxROcSyKMQWxJxVkQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Kuberentes 小课堂 - 快捷运行 Python 服务](https://mp.weixin.qq.com/s/GkI8b77WKR3laFj6Wr9OAA)
+
+- **发布日期**：2024-07-06 09:00
+- **所属合集**：#Kubernetes
+- **摘要**：那我们有没有简单方法，直接一个 YAML 文件就运行呢？答案是有的，那就是使用 Configmap（同时 Python 程序是解释性语言，不需要编译，这个也为我们提供了方便），
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRyGY3QUVgCtTof2uYGlSu13NFUReon8GnqpMTk2OwhSdeDnP0epdWe0Yne7knUqc5kRiaV4eJOSbA/0?wx_fmt=jpeg" width="400"/>
 
 ### [《Linux 网络编程》第四章进程间通信（3）- 文件和记录锁定](https://mp.weixin.qq.com/s/1xehQj1mgXXzds3rob4UYA)
 
-- **发布日期**：2024-07-05 09:00  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：《Linux 网络编程》第四章进程间通信（3）- 文件和记录锁定  
+- **发布日期**：2024-07-05 09:00
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：《Linux 网络编程》第四章进程间通信（3）- 文件和记录锁定
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRMLop1rIicRhX1IbtXPMCKq8s42fiaJFfZkJrE953d9U2S7wUOvP95VeiblZIFCm91viceqX8syDibhtg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRMLop1rIicRhX1IbtXPMCKqsNNPOe7kjlxicicA7SekvBib8aIxPgw76MHp77Rha8Wib6ccCTrliaaVJVQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术基础知识 - Cgroup 相关资料汇总](https://mp.weixin.qq.com/s/aXfnrlrWQKZEjnwzQGXsrg)
 
-- **发布日期**：2024-07-04 09:00  
-- **所属合集**：#Kubernetes #Docker  
-- **摘要**：Cgroup是control group的简写，属于Linux内核提供的一个特性，用于限制和隔离一组进程对系统资源的使用，也就是做资源QoS，这些资源主要包括CPU、内存、block I/O和网络带宽。  
+- **发布日期**：2024-07-04 09:00
+- **所属合集**：#Kubernetes #Docker
+- **摘要**：Cgroup 是 control group 的简写，属于 Linux 内核提供的一个特性，用于限制和隔离一组进程对系统资源的使用，也就是做资源 QoS，这些资源主要包括 CPU、内存、block I/O 和网络带宽。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRMLop1rIicRhX1IbtXPMCKqbibzMNF3rahMqefwhG1oaZeKZu1dyE0d0b22yjNoGMGIPiamsga7WibicA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRMLop1rIicRhX1IbtXPMCKqpZqR6icn8TV1ic8ojnCL2j9Eib2BfhMnSKVCEkNTCdkTAG8QH6iaiaMvcmA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 小技巧 - 使用 Downward API 将配置传递给 Pod](https://mp.weixin.qq.com/s/l6jEetEe8quzhK5jgCFvMg)
 
-- **发布日期**：2024-07-03 22:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：容器需要有关自身的信息很有用，但我们又不希望让容器与 Kubernetes 过度耦合。Downward API 允许容器使用有关自身或系统的信息，并按照多种方式将这些信息暴露给到容器，而不必与 Kubernetes 耦合。  
+- **发布日期**：2024-07-03 22:30
+- **所属合集**：#Kubernetes
+- **摘要**：容器需要有关自身的信息很有用，但我们又不希望让容器与 Kubernetes 过度耦合。Downward API 允许容器使用有关自身或系统的信息，并按照多种方式将这些信息暴露给到容器，而不必与 Kubernetes 耦合。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS4Dhib28uicpMvKXBbwXuJ4cDNVL7W46MEGwTqIcbHl25RSZQfXeOQggUp8yiaP0KbJogRTLFWfHIag/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS4Dhib28uicpMvKXBbwXuJ4c8pKhVKOTAU9OBLmaCenBtpO3BRJicRrR3woWQk3G4kEoGpvljFwq55Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [推荐《CUDA Reading Group 相关讲座》](https://mp.weixin.qq.com/s/6sOrNzG0UeVBes8stWSoWA)
 
-- **发布日期**：2024-07-02 09:00  
-- **所属合集**：#CUDA #AI Infra  
-- **摘要**：推荐《CUDA Reading Group 相关讲座》，共包含24个讲座，每个讲座有视频以及配套材料，对于 CUDA 编程感兴趣的同学可以深入参考！  
+- **发布日期**：2024-07-02 09:00
+- **所属合集**：#CUDA #AI Infra
+- **摘要**：推荐《CUDA Reading Group 相关讲座》，共包含 24 个讲座，每个讲座有视频以及配套材料，对于 CUDA 编程感兴趣的同学可以深入参考！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTia3Vc0FemADdPb3ibxW34PKkHPnxMKSFdHlhICibqx9dkzOicpwEtC5IgqBCl9D8v7PZCWvIib6MFj4g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTia3Vc0FemADdPb3ibxW34PKNibqLTvjheaA64b99AhGiaUKEpOuZrIQkcPIPQh5p5akVbvWqUzxHCfA/0?wx_fmt=jpeg" width="400"/>
 
-### [125 张大图诠释 CPU 40年发展简史（至2007年4月）](https://mp.weixin.qq.com/s/WQXevmZ0LjfgQ7JjnkfsjA)
+### [125 张大图诠释 CPU 40 年发展简史（至 2007 年 4 月）](https://mp.weixin.qq.com/s/WQXevmZ0LjfgQ7JjnkfsjA)
 
-- **发布日期**：2024-07-01 19:20  
-- **所属合集**：#cpu  
-- **摘要**：CPU 是现代计算机的核心部件，对于 PC 而言，CPU 的规格与频率常常被用来作为衡量一台电脑性能强弱重要指标。Intel x86 架构已经经历了 28 个年头，而 x86 架构的 CPU 对我们大多数人的工作、生活影响颇为深远。  
+- **发布日期**：2024-07-01 19:20
+- **所属合集**：#cpu
+- **摘要**：CPU 是现代计算机的核心部件，对于 PC 而言，CPU 的规格与频率常常被用来作为衡量一台电脑性能强弱重要指标。Intel x86 架构已经经历了 28 个年头，而 x86 架构的 CPU 对我们大多数人的工作、生活影响颇为深远。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTia3Vc0FemADdPb3ibxW34PK14jibwYibQdPV1AQzTDFu2gWL74DupaFLHicv6TicTDic0I06nrIIoBN72Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTia3Vc0FemADdPb3ibxW34PKQvKMnn4dXVG69tIIy54wqdBSQiaLIKCN5vYw66icoAmj05UAnrerQibnA/0?wx_fmt=jpeg" width="400"/>
 
 ### [深度学习（大模型）中的精度](https://mp.weixin.qq.com/s/b08gFicrKNCfrwSlpsecmQ)
 
-- **发布日期**：2024-06-30 09:00  
-- **所属合集**：#AI Infra #LLM  
-- **摘要**：当谈到大型模型的训练和推理时，我们经常涉及到精度的概念，而这些精度种类繁多。同等精度级别下，还有不同的格式。笔者收集了几篇文章，供大家参考理解相关概念。  
+- **发布日期**：2024-06-30 09:00
+- **所属合集**：#AI Infra #LLM
+- **摘要**：当谈到大型模型的训练和推理时，我们经常涉及到精度的概念，而这些精度种类繁多。同等精度级别下，还有不同的格式。笔者收集了几篇文章，供大家参考理解相关概念。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHThcJiaZGNlttlttFBAiafibWM8RWgAZr1JlEw0gdR9hVvt8NNWgxvdI5PEqtfzWiawgyMQPiacfN2RB9g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHThcJiaZGNlttlttFBAiafibWMrS9xic6UCJVCL5gVCsiciaCtQfeGHrT2qk6nbhMicGqOAibjxbSvk2VZXrA/0?wx_fmt=jpeg" width="400"/>
 
 ### [你现在用的 Kubernetes Secrets 安全吗？](https://mp.weixin.qq.com/s/GtPcMRtii9coU5N8Wh-BBg)
 
-- **发布日期**：2024-06-29 09:02  
-- **所属合集**：#Kubernetes  
-- **摘要**：K8s 提供了 Secret 资源来保存、设置一些敏感信息。 但是 Secret 并不安全，我们可以非常方便的看到 Secret 的原文，只要有相关的权限即可，本文讨论了几个 secret 保护的方案，供大家参考！  
+- **发布日期**：2024-06-29 09:02
+- **所属合集**：#Kubernetes
+- **摘要**：K8s 提供了 Secret 资源来保存、设置一些敏感信息。 但是 Secret 并不安全，我们可以非常方便的看到 Secret 的原文，只要有相关的权限即可，本文讨论了几个 secret 保护的方案，供大家参考！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHThcJiaZGNlttlttFBAiafibWMRiaMgc3yrQ3AowQVk0S7ZQiby2PfwVVMGyR3LCYnCySHe99riboS4svicw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHThcJiaZGNlttlttFBAiafibWMfuVBb0Fib7GuNicUwRvTDkGOGlNoWVSBiaA8FYtavljZxDMcQ12OUkib9A/0?wx_fmt=jpeg" width="400"/>
 
-### [万卡集群背后的系统架构：《NVIDIA DGX SuperPOD：下一代可扩展的AI领导基础设施》](https://mp.weixin.qq.com/s/a64Qb6DuAAZnCTBy8g1p2Q)
+### [万卡集群背后的系统架构：《NVIDIA DGX SuperPOD：下一代可扩展的 AI 领导基础设施》](https://mp.weixin.qq.com/s/a64Qb6DuAAZnCTBy8g1p2Q)
 
-- **发布日期**：2024-06-28 09:00  
-- **所属合集**：#AI Infra  
-- **摘要**：万卡集群背后隐藏的硬件成本有哪些？网络和存储的开销不可被忽略，今天就让我们来读一读《NVIDIA DGX SuperPOD：下一代可扩展的AI领导基础设施》，来深入了解一下万卡集群背后的系统架构！  
+- **发布日期**：2024-06-28 09:00
+- **所属合集**：#AI Infra
+- **摘要**：万卡集群背后隐藏的硬件成本有哪些？网络和存储的开销不可被忽略，今天就让我们来读一读《NVIDIA DGX SuperPOD：下一代可扩展的 AI 领导基础设施》，来深入了解一下万卡集群背后的系统架构！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTygFRIzrR9aXPX0g2UAgofOo6PlvmTBbJYVnQT7xfqfV8zqZV9WAbOen5W3wksMiblOHc8ygHfMxg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTygFRIzrR9aXPX0g2UAgof1b6ROPnyW0OzYLnTEe5lQplM5fTcg6ovicVkZbRD9y5hCMjnxqHHxOQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [在 Linux 容器中可以使用独立于主机的系统时间吗？](https://mp.weixin.qq.com/s/qppow2Wok1zwY5bgQEzJEw)
 
-- **发布日期**：2024-06-27 08:05  
-- **所属合集**：#Kubernetes #Linux  
-- **摘要**：在 Linux 容器中可以使用独立于主机的时间吗？老版本内核不支持，但是随着 Linux Kernel 5.6 引入了 time namespace，以及 runc 开始支持 time namespace，将来的版本就可以支持了！  
+- **发布日期**：2024-06-27 08:05
+- **所属合集**：#Kubernetes #Linux
+- **摘要**：在 Linux 容器中可以使用独立于主机的时间吗？老版本内核不支持，但是随着 Linux Kernel 5.6 引入了 time namespace，以及 runc 开始支持 time namespace，将来的版本就可以支持了！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSMIRHezCpNYMF9PK3nEzu3OwjP7jiaIwxUFkZsCegEqNGyZhLoSb6nE9cT5LML73brEAEBdOe3JFw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSMIRHezCpNYMF9PK3nEzu3hibY8qfw6j6b6mbesVYmwBq4Jwfaj9xznicdWzkok5ChD95eiblbLKMYw/0?wx_fmt=jpeg" width="400"/>
 
 ### [非常科幻 - 超级镜子发电站](https://mp.weixin.qq.com/s/aEVwu-ysK5bsBCREJkvObg)
 
-- **发布日期**：2024-06-25 12:00  
-- **所属合集**：#旅游  
-- **摘要**：敦煌100兆瓦熔盐塔式光热电站就运用了最先进的CSP技术建造而成。发电站装备了1.2万多面定日镜，以同心圆状围绕着260米高的吸热塔，镜场总反射面积达140多万平方米，设计年发电量达3.9亿千瓦时。  
+- **发布日期**：2024-06-25 12:00
+- **所属合集**：#旅游
+- **摘要**：敦煌 100 兆瓦熔盐塔式光热电站就运用了最先进的 CSP 技术建造而成。发电站装备了 1.2 万多面定日镜，以同心圆状围绕着 260 米高的吸热塔，镜场总反射面积达 140 多万平方米，设计年发电量达 3.9 亿千瓦时。
 - **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSXlH26aXCRBWkbAJUiaR40VC0PWYfFV2nxeH93gAUPHFIEb2exd1Qe33d1Xuj3xvdsAUKgSeYXnWw/0?wx_fmt=jpeg" width="400"/>
+  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSXlH26aXCRBWkbAJUiaR40VBl6DKYu6yvNyjSKANaEthRE1CUoNFKGnDv9yXCkiaKBHVZ1aJCHiax3g/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 网络和 Cilium：网络工程师手册](https://mp.weixin.qq.com/s/EU32HV8h6qZ57OUWUVhPPg)
 
-- **发布日期**：2024-06-22 10:00  
-- **所属合集**：#Kubernetes #网络基础知识  
-- **摘要**：Cilium 是业界较早采用 BPF 技术的 Kubernetes CNI，今天推荐由它发布的一本网络小册子，让我们来看看它们视角的 Kunernetes 网络。  
+- **发布日期**：2024-06-22 10:00
+- **所属合集**：#Kubernetes #网络基础知识
+- **摘要**：Cilium 是业界较早采用 BPF 技术的 Kubernetes CNI，今天推荐由它发布的一本网络小册子，让我们来看看它们视角的 Kunernetes 网络。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTFY25loupKEtiazibJ6fWkUIugvibU4bz8n1OVUVYgTPuyIbibM2q0989g6dLQX52hUibY8zjH2b41IOw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTFY25loupKEtiazibJ6fWkUIPjc9YrYDTc9d6k5wqYtRUViahX2ibbVE6K8GyTh17wyrN15YticO3puMw/0?wx_fmt=jpeg" width="400"/>
 
 ### [使用 Nsight 工具定量分析 CUDA 矩阵乘法几种实现](https://mp.weixin.qq.com/s/JK_bsvG-Y3wLJknZ4YKCYQ)
 
-- **发布日期**：2024-06-20 12:15  
-- **所属合集**：#CUDA #AI Infra  
-- **摘要**：矩阵乘法是大模型训练和推理的重要基础，因此我们需要通过工具定量来分析矩阵乘法，尤其是多级内存的使用效率，本文使用 Nsight 工具定量分析了几种矩阵乘法的实现，基于 Nsight 提供的 Kernel Profiling 能力。  
+- **发布日期**：2024-06-20 12:15
+- **所属合集**：#CUDA #AI Infra
+- **摘要**：矩阵乘法是大模型训练和推理的重要基础，因此我们需要通过工具定量来分析矩阵乘法，尤其是多级内存的使用效率，本文使用 Nsight 工具定量分析了几种矩阵乘法的实现，基于 Nsight 提供的 Kernel Profiling 能力。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQarEH1gicmz1hVxGKwy6F5YoFqcRg6ibBica0SHib6XEibnsGRu8eooJwTzFfwq1ibLw4nrpzCOk7WLJlA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQarEH1gicmz1hVxGKwy6F5YxZlrUJ77T9f9rSuIyUtQwJeODDkNqGInlxbEy96BAAfQc4wBcPGF6Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐 - 《CUDA C 编程权威指南》](https://mp.weixin.qq.com/s/xJY5Znv3cuQi_UCd_XjJ4A)
 
-- **发布日期**：2024-06-18 13:30  
-- **所属合集**：#CUDA  
-- **摘要**：一直想找一本深入介绍 CUDA 编程的书或者资料，一直缺一本能从并行编程的基本概念，CUDA 编程模型以及最佳实践，由浅入深讲解的书，而《CUDA C 编程权威指南》则正是我想要的书，今天推荐给大家！  
+- **发布日期**：2024-06-18 13:30
+- **所属合集**：#CUDA
+- **摘要**：一直想找一本深入介绍 CUDA 编程的书或者资料，一直缺一本能从并行编程的基本概念，CUDA 编程模型以及最佳实践，由浅入深讲解的书，而《CUDA C 编程权威指南》则正是我想要的书，今天推荐给大家！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRJyoAX3JVwdvuWKicgz2b0XpQoI7icOx0NsuibxyUXmstS5LUUV4jktibDWic72cZTicP2LU2TgdbxO01Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRJyoAX3JVwdvuWKicgz2b0Xga8Hfjsbut3HpIIropQ1uzT4FnFanv28wicRHubOzc1Z1kibmicmfNd9Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 基础知识：持久卷、持久卷声明和 StorageClass](https://mp.weixin.qq.com/s/2cDj2Yr_GExoCHeLASl0uA)
 
-- **发布日期**：2024-06-17 19:01  
-- **所属合集**：#Kubernetes  
-- **摘要**：在这篇文章中，我们将深入研究持久卷 (PV) 并探索其特性和功能，并且也介绍了 Storage Class（用于动态供应）。  
+- **发布日期**：2024-06-17 19:01
+- **所属合集**：#Kubernetes
+- **摘要**：在这篇文章中，我们将深入研究持久卷 (PV) 并探索其特性和功能，并且也介绍了 Storage Class（用于动态供应）。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTOxVpNjciatny6JySDdibc4cOnmtpHPqbeLadbiaMsUBhe9WnQV8KyOicRo4yDQZAZOmmGGcT4ykqbZg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTOxVpNjciatny6JySDdibc4cZd2jkzmFjqG61j4loI1IXsgPRiaQXZd6nqFAuM3bXjRP0FJCad9iajpg/0?wx_fmt=jpeg" width="400"/>
 
 ### [CUDA 编程模型入门](https://mp.weixin.qq.com/s/IUYzzgt6DUYhfaDnbxoZuQ)
 
-- **发布日期**：2024-06-16 14:30  
-- **所属合集**：#CUDA  
-- **摘要**：结合 GPU 硬件架构和一维向量加问题来讲解 CUDA 编程模型，让读者可以掌握 CUDA 最基本的并行编程概念。  
+- **发布日期**：2024-06-16 14:30
+- **所属合集**：#CUDA
+- **摘要**：结合 GPU 硬件架构和一维向量加问题来讲解 CUDA 编程模型，让读者可以掌握 CUDA 最基本的并行编程概念。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSknzLHSbseS0PPxvpAEOs3dXzZRAfGfibmwvFRiamdvMFIMu45ujI8JGUmicGvbNjY2q0NSEeqcl3ew/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSknzLHSbseS0PPxvpAEOs3UkzjDg8YVJOnKXT6DJmRPbH0824rOx6RrqpxAmO8zBds1NK8Ndbc3A/0?wx_fmt=jpeg" width="400"/>
 
 ### [BPF 入门学习资料汇总](https://mp.weixin.qq.com/s/Oey5nSht88CR5zxUjYjDCQ)
 
-- **发布日期**：2024-06-14 09:01  
-- **所属合集**：#系统可观测性  
-- **摘要**：今天有读者想学习 BPF，因此作者将一些常用的资料做了一个汇总，供大家参考！  
+- **发布日期**：2024-06-14 09:01
+- **所属合集**：#系统可观测性
+- **摘要**：今天有读者想学习 BPF，因此作者将一些常用的资料做了一个汇总，供大家参考！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQG2sLJoPM8y3JEaFvxz7Tdgw50icHeUCp9EDb86pAJP3QpIbiaYylEMA8OkOYLz4r2dWt1vpnmic7mA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQG2sLJoPM8y3JEaFvxz7TdWiaw2e9ueE6rWS6u1oCU2FyVCQJugrIZSia8mHPAr8y9epHrRn3h8n7Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [【Kubernetes 网络】好书推荐](https://mp.weixin.qq.com/s/4YQXZgqMYCaJGS4ZRZJwig)
 
-- **发布日期**：2024-06-13 12:40  
-- **所属合集**：#Kubernetes #网络基础知识  
-- **摘要**：看了昨天“强烈推荐：《Container Networking: From Docker to Kubernetes》中文翻译”还意犹未尽，想再深入了解的同学，可以读一下文中推荐的两本书！  
+- **发布日期**：2024-06-13 12:40
+- **所属合集**：#Kubernetes #网络基础知识
+- **摘要**：看了昨天“强烈推荐：《Container Networking: From Docker to Kubernetes》中文翻译”还意犹未尽，想再深入了解的同学，可以读一下文中推荐的两本书！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQG2sLJoPM8y3JEaFvxz7Td66pncRndAZjiaBOicp8KGXicbTfsiaxNJicdrRqibPmkCFOx9EeUEvowcsIA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQG2sLJoPM8y3JEaFvxz7TdKiaBpbKYM1ibLMnXz1SFTK8PUGXkRkzAic6x0Huw7vUuJOvp11YwMaxkg/0?wx_fmt=jpeg" width="400"/>
 
 ### [强烈推荐：《Container Networking: From Docker to Kubernetes》中文翻译](https://mp.weixin.qq.com/s/h1NH52AyMgrcp336ajsdOQ)
 
-- **发布日期**：2024-06-12 09:10  
-- **所属合集**：#Kubernetes  
-- **摘要**：一文入门容器网络！虽然内容有些过时，但是不妨碍我们建立起整个容器网络的知识体系，同时也算是见证了过去十年容器技术的发展！  
+- **发布日期**：2024-06-12 09:10
+- **所属合集**：#Kubernetes
+- **摘要**：一文入门容器网络！虽然内容有些过时，但是不妨碍我们建立起整个容器网络的知识体系，同时也算是见证了过去十年容器技术的发展！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSPGUr5YJZH8Zia6AthlElw1nfJeaKEr6SquBIpTwEd3FibuVrOk6g6GTvoSTDUZiaib796wPFaqJGwrw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSPGUr5YJZH8Zia6AthlElw1peFrkXorkiccVjLBjIS5cxnN5eP6QU65IFP748RGTXpL3rRkmRjQ3YA/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra 基础知识 - 一文介绍并行计算、费林分类法和 CUDA 基本概念](https://mp.weixin.qq.com/s/NL_Bz8JB-LdAtrQake7EdA)
 
-- **发布日期**：2024-06-11 13:30  
-- **所属合集**：#AI Infra #CUDA  
-- **摘要**：一文了解并行计算、费林分类法和 CUDA 基本概念，入门基于 CUDA 的 GPGPU 编程！  
+- **发布日期**：2024-06-11 13:30
+- **所属合集**：#AI Infra #CUDA
+- **摘要**：一文了解并行计算、费林分类法和 CUDA 基本概念，入门基于 CUDA 的 GPGPU 编程！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSPGUr5YJZH8Zia6AthlElw1ickS9K9voIUhNpdtyOd0DyG1AG1BNyHIdrPlawIVDTklPayJSxLibTnA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSPGUr5YJZH8Zia6AthlElw1IdWwFsr2TXI9YDKHbkTziaZiasLedMCViczRLW7SeLIUCcL3ALOngDv3w/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra 基础知识 - PCIe 知识大全](https://mp.weixin.qq.com/s/dHvKYcZoa4rcF90LLyo_0A)
 
-- **发布日期**：2024-06-09 10:30  
-- **所属合集**：#AI Infra  
-- **摘要**：当进入到 AI Infra 的视角之后，我们越来越关注底层的硬件细节，今天就让我们来了解一下 PCI Express 吧！  
+- **发布日期**：2024-06-09 10:30
+- **所属合集**：#AI Infra
+- **摘要**：当进入到 AI Infra 的视角之后，我们越来越关注底层的硬件细节，今天就让我们来了解一下 PCI Express 吧！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRFT7E4WsnxhWYtuYLfhpYCxicV73SSoCPtbrdbdiaqmYPdGLdBuOMrXDdVnXrn0jPIiblvWgW2SRhlw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRFT7E4WsnxhWYtuYLfhpYCJpzfsFS8CN9jGBYA9iaQrNMRpJ1s5gBek7o1dhV4qXxZYUh7aUZqqDQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra 基础知识 - NVLink 入门](https://mp.weixin.qq.com/s/fP69UEgusOa_X4ZKLo30ig)
 
-- **发布日期**：2024-06-08 11:00  
-- **所属合集**：#AI Infra  
-- **摘要**：AI Infra 背后是一系列硬件技术，今天我们来了解一下 NVLink。 NVLink 是一种专有系统互连硬件，可促进多个 Nvidia GPU 和支持CPU之间的一致数据和控制传输。  
+- **发布日期**：2024-06-08 11:00
+- **所属合集**：#AI Infra
+- **摘要**：AI Infra 背后是一系列硬件技术，今天我们来了解一下 NVLink。 NVLink 是一种专有系统互连硬件，可促进多个 Nvidia GPU 和支持 CPU 之间的一致数据和控制传输。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTu5ex4KwlfBte1VETgLo9Zpb7QOvPibsML46k34jJjI4xgh5emXiafVsnjiaaLyhDRvw1Ve0oORr93g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTu5ex4KwlfBte1VETgLo9Z4ic3rbg7nwBc4WIyYK9MxZxlFwZzD4XkUaUrqoDVrcotibbJZ4JA7omg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 小技巧 - 使用 Helmify 将 K8s YAML 文件转换成 Helm Chart](https://mp.weixin.qq.com/s/Wl3rCofbb5UVB8Vil1RSxA)
 
-- **发布日期**：2024-06-07 08:45  
-- **所属合集**：#Kubernetes  
-- **摘要**：前文：Kuberneters 小技巧 - 将 K8s YAML 文件转换为 Helm Chart，有读者说可以使用 helmify 来将 K8s YAML 文件转换成 Helm Chart，笔者今天就来实验一下。  
+- **发布日期**：2024-06-07 08:45
+- **所属合集**：#Kubernetes
+- **摘要**：前文：Kuberneters 小技巧 - 将 K8s YAML 文件转换为 Helm Chart，有读者说可以使用 helmify 来将 K8s YAML 文件转换成 Helm Chart，笔者今天就来实验一下。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQClOISZls8InspvXkLJQ9RxeO7whaPsa7VrIDhNu1Pdj1WWIAbdq8w28OMgNKf52gRnRwXwCt1NQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQClOISZls8InspvXkLJQ9Rj64ehv4VcNGXS2LywMlSByNtLcWPpaHAjNppHhDUcKfmKeeyIcOicrQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [《Linux 网络编程》第四章进程间通信（2）- 管道](https://mp.weixin.qq.com/s/TkqSFtHF92pesXr8SrTv3A)
 
-- **发布日期**：2024-06-06 08:45  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：管道就是将一个程序的输出和另外一个程序的输入连接起来的单向通道。它是UNIX/Linux 系统的各种进程通信方法中，最古老而应用最为广泛的一种（特别是在 shell 中）.  
+- **发布日期**：2024-06-06 08:45
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：管道就是将一个程序的输出和另外一个程序的输入连接起来的单向通道。它是 UNIX/Linux 系统的各种进程通信方法中，最古老而应用最为广泛的一种（特别是在 shell 中）.
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRpL6a2keMkqicSf6OnUFV1lCZ6or1LrrTKSibsiaVTibCibUicQ9abSS4Wico1gDgiaper2cickA5kj9mglNw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRpL6a2keMkqicSf6OnUFV1l1CzZC8ic3FMgeEBoVe298TznA7bvMAj70hBIQibw8QnOf2ngZMHrk0ZA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kuberneters 小技巧 - 将 K8s YAML 文件转换为 Helm Chart](https://mp.weixin.qq.com/s/tnSRJPbP9Rc3d8XkdbEj9g)
 
-- **发布日期**：2024-06-05 09:04  
-- **所属合集**：#Kubernetes  
-- **摘要**：Helm 允许用户将 Kubernetes 应用程序定义、安装和管理为称为 Charts 的包。在本文中，我们将探讨如何将 Kubernetes  YAML 文件转换为 Helm Charts。  
+- **发布日期**：2024-06-05 09:04
+- **所属合集**：#Kubernetes
+- **摘要**：Helm 允许用户将 Kubernetes 应用程序定义、安装和管理为称为 Charts 的包。在本文中，我们将探讨如何将 Kubernetes YAML 文件转换为 Helm Charts。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ4TJvnZCeSic2evJNXK6V0mNASVZ1UXq5XeBAkUgibk5zia8FgPWeGyRoyyMz1qGoicd5LLvfGRlhG1g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ4TJvnZCeSic2evJNXK6V0myruyJjhnQuqmmVLT1Cp6htaiad8OycSotZROkMzWZIumMXDsw8ySoWQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [【得物技术】一次 K8s 故障诊断：从 CPU 高负载到存储挂载泄露根源揭示](https://mp.weixin.qq.com/s/i43sKQlB7UMnK2gsicLzhg)
 
-- **发布日期**：2024-06-04 12:44  
-- **所属合集**：nan  
-- **摘要**：目录一、背景二、问题现象三、问题分析    1. 单机整体分析    2. 单机分析初步结论    3. K  
+- **发布日期**：2024-06-04 12:44
+- **所属合集**：#SRE
+- **摘要**：目录一、背景二、问题现象三、问题分析 1. 单机整体分析 2. 单机分析初步结论 3. K
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/AAQtmjCc74AhEibWutSXYCco7jSjUYnHzyDUIuWD5q1C3uCicL9A7BbOhIuNhZlZToQslg2KkLOf8TlbWBBOexJg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/AAQtmjCc74AhEibWutSXYCco7jSjUYnHzOmuPkztiaqurr6F4fr9CXUkVLatr8nKuk2qBYR5pal8JRMvbZXWoESw/0?wx_fmt=jpeg" width="400"/>
 
 ### [《Linux 网络编程》第四章进程间通信（1）- 信号](https://mp.weixin.qq.com/s/LbXABLAHu6fXTYxce71wEg)
 
-- **发布日期**：2024-06-03 12:05  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：今天介绍一下 Linux 进程间通信的方法一信号。  
+- **发布日期**：2024-06-03 12:05
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：今天介绍一下 Linux 进程间通信的方法一信号。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0eic86Jt3jYo9Dbw3ibwhRCibaQRHmiaPH4Rxl7Nc3AiaRktfKttcMtFDpFyQ36peicanPtLrxt9UMX2g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0eic86Jt3jYo9Dbw3ibwhRCKKMfnsHE2UDqqaRRJn7Fnmg6iaWO1Zo269hMfGeTBlOIWPfEsj9vHpA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - 进程间通信与同步](https://mp.weixin.qq.com/s/JSs6IB1sKTpMlsLlThb_ow)
 
-- **发布日期**：2024-06-02 18:05  
-- **所属合集**：#Linux  
-- **摘要**：Linux 系统上可用的 IPC 机制种类繁多，这反映了不同应用程序的不同需求。常见的方式包括信号、管道和 FIFO、套接字、文件锁、消息队列、信号量和共享内存，接下来我们会依次对这些方法做一个讲解。  
+- **发布日期**：2024-06-02 18:05
+- **所属合集**：#Linux
+- **摘要**：Linux 系统上可用的 IPC 机制种类繁多，这反映了不同应用程序的不同需求。常见的方式包括信号、管道和 FIFO、套接字、文件锁、消息队列、信号量和共享内存，接下来我们会依次对这些方法做一个讲解。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0eic86Jt3jYo9Dbw3ibwhRCibAjibWleVU04vFQ8pfbXc5lTD0XRrfF3NxsG5VgGYerd8ZOaMGPrJJw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0eic86Jt3jYo9Dbw3ibwhRCb740tZQtRbwiaj5PHHQ35GjAT2cG948CeGiaUkM7SWtDibw0toxc9VINA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linxu 小技巧 - 使用 nsenter 在主机上调试容器](https://mp.weixin.qq.com/s/Y-9vkIPawFjSfYaNKF1fiQ)
 
-- **发布日期**：2024-06-01 10:01  
-- **所属合集**：#Linux  
-- **摘要**：nsenter 是一个可以用来进入到目标程序所在 Namespace 中运行命令的工具，一般常用于在宿主机上调试容器中运行的程序。  
+- **发布日期**：2024-06-01 10:01
+- **所属合集**：#Linux
+- **摘要**：nsenter 是一个可以用来进入到目标程序所在 Namespace 中运行命令的工具，一般常用于在宿主机上调试容器中运行的程序。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTzTicuCzplp9CNflxXGC39BQyPPpzzFicVvzCKONRoG0wa6hywariaQcngDh0Mm2VbP3Z1G195NricBA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTzTicuCzplp9CNflxXGC39BnP4PzlmFxP1Ju8yiakibwa9zSiaxpW0pavhEM3sRRiaHkjygY7FuzqkIiaQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [AI Infra 论文：使用 AI 做 vAttention 论文翻译尝鲜](https://mp.weixin.qq.com/s/xBukJV9_l_5PnSIofze4cw)
 
-- **发布日期**：2024-06-01 10:01  
-- **所属合集**：#LLM  
-- **摘要**：nan  
+- **发布日期**：2024-06-01 10:01
+- **所属合集**：#LLM
+- **摘要**：nan
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQBibfr6JhnE5z11XOWV8iaN5AvXiaOBuZViaGQDShreBkyko9SeVcuda4hXFHkxNqKmAriceMu0ZKvzJw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQBibfr6JhnE5z11XOWV8iaN5dBNaB3IicOl1yNLU6D0nHmOYmbR54kpXPibDwLia1Zvbu95M4qlUodTOg/0?wx_fmt=jpeg" width="400"/>
 
 ### [LLM 小技巧 - 在 Mac 上运行大语言模型](https://mp.weixin.qq.com/s/ii2I-yRQfeyiqvbkDoIG-g)
 
-- **发布日期**：2024-05-31 13:02  
-- **所属合集**：#大模型 #LLM  
-- **摘要**：今天我们来介绍一款工具 - GPT4All，可以让我们在本地运行大语言模型，从而可以​体验大语言模型带来的快乐！​  
+- **发布日期**：2024-05-31 13:02
+- **所属合集**：#大模型 #LLM
+- **摘要**：今天我们来介绍一款工具 - GPT4All，可以让我们在本地运行大语言模型，从而可以 ​ 体验大语言模型带来的快乐！​
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQBibfr6JhnE5z11XOWV8iaN5ZSCemHClTnf8pmUJ8xkbncVicoUSSYymiacrbc11klNG3SbgSZlJ37rA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQBibfr6JhnE5z11XOWV8iaN5lQ54vSks0VDs3UJdtoD1yZXjYib8AR1SB9KsNskWxTfp02K9Ggbxdwg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 网络基础知识 - 网络命名空间动手实践（一）](https://mp.weixin.qq.com/s/gGoNphKCxU3ZZvzQzT0PTA)
 
-- **发布日期**：2024-05-30 12:40  
-- **所属合集**：#网络基础知识  
-- **摘要**：网络命名空间是 Linux Kernel 提供的用于实现网络虚拟化的核心，它能创建多个隔离的网络空间，该网络空间内的防火墙、网卡、路由表、邻居表、协议栈与外部独立，不管是虚拟机还是容器，当运行在独立的命名空间时，就像是一台单独的物理主机  
+- **发布日期**：2024-05-30 12:40
+- **所属合集**：#网络基础知识
+- **摘要**：网络命名空间是 Linux Kernel 提供的用于实现网络虚拟化的核心，它能创建多个隔离的网络空间，该网络空间内的防火墙、网卡、路由表、邻居表、协议栈与外部独立，不管是虚拟机还是容器，当运行在独立的命名空间时，就像是一台单独的物理主机
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQb4tusBBcM8lMib2lib2QialciaMHEfPJvMLdAD8dB76nLTdvktUWfnLMTZEbztOW3hQdZO15N5SPAzA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQb4tusBBcM8lMib2lib2QialcPA3MA9oXB7yxw7q3SGgmaGP96wd474sCSpMDQmeRCWPLpeRcXYGHiaw/0?wx_fmt=jpeg" width="400"/>
 
 ### [补几张 VXLAN 的图](https://mp.weixin.qq.com/s/DjRHn6DVJIG20HtLRQFBdA)
 
-- **发布日期**：2024-05-29 12:31  
-- **所属合集**：#Linux #网络基础知识 #虚拟化  
-- **摘要**：补几张 VXLAN 的图，细化一下相关概念。  
+- **发布日期**：2024-05-29 12:31
+- **所属合集**：#Linux #网络基础知识 #虚拟化
+- **摘要**：补几张 VXLAN 的图，细化一下相关概念。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJM0kGxoPjY5STu7f85G8sbHJCeFMfWIVyn7jicULIgku8xkzlm3BVliaIztyoeSBmohq4CrXRKmZg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJM0kGxoPjY5STu7f85G8skYQWyWPQq76enAIeLFZ6okNgbuZh5S913ib5oTEhTRupciaXc1X8gskg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 网络基础知识 - VXLAN 原理介绍](https://mp.weixin.qq.com/s/WJ6d0eie0yKZvECvLygcDw)
 
-- **发布日期**：2024-05-28 12:30  
-- **所属合集**：#Linux #网络基础知识 #虚拟化  
-- **摘要**：VXLAN（Virtual eXtensible Local Area Network ）就是一种基于虚拟交换机实现的 overlay 网络。本文介绍了为什么需要 VXLAN 、 VXLAN 的基本原理以及基于 Linux 内核的实现。  
+- **发布日期**：2024-05-28 12:30
+- **所属合集**：#Linux #网络基础知识 #虚拟化
+- **摘要**：VXLAN（Virtual eXtensible Local Area Network ）就是一种基于虚拟交换机实现的 overlay 网络。本文介绍了为什么需要 VXLAN 、 VXLAN 的基本原理以及基于 Linux 内核的实现。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSmlS9gebWk4oWKQsSsSDlqVwMY4BpZTH1jM2Zr8HSsTuiagqN6hBbWTrA6Zy9ybK2TW80ZJwtXe0g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSmlS9gebWk4oWKQsSsSDlqmRN3zZ0AA42QWbibVK9Dcwf2pQgACepDhZypGqF1dm5I805ouYjP5mw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - 一文学会网络虚拟化](https://mp.weixin.qq.com/s/Sn1ql5Pa5rBc7_C7QPqZbg)
 
-- **发布日期**：2024-05-26 10:00  
-- **所属合集**：#Linux #网络基础知识  
-- **摘要**：Linux 网络虚拟化技术包含了网络命名空间以及各类虚拟设备，如 veth、Bridge、tap/tun 等。这些虚拟设备模拟现实世界中的物理设备彼此协作，将各个独立的网络命名空间连接起来，构建出不受物理环境约束的各类动态网络拓扑架构。  
+- **发布日期**：2024-05-26 10:00
+- **所属合集**：#Linux #网络基础知识
+- **摘要**：Linux 网络虚拟化技术包含了网络命名空间以及各类虚拟设备，如 veth、Bridge、tap/tun 等。这些虚拟设备模拟现实世界中的物理设备彼此协作，将各个独立的网络命名空间连接起来，构建出不受物理环境约束的各类动态网络拓扑架构。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpppbuIMxRHtibzYBjqSfA3h7qT2URicahkB0C4JNkcPy6E4Q3Ejmv85jgdvsCicGhKNXYz0mGGuK0w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpppbuIMxRHtibzYBjqSfA3KCXeq6f55ibdpynrvnjEoZEYKyGIT9CvmoI8fle52XIJfKFoiczaDtog/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识：连接跟踪 conntrack 入门](https://mp.weixin.qq.com/s/zaS3F5LVwj4ASIZN5gMaNg)
 
-- **发布日期**：2024-05-25 10:00  
-- **所属合集**：#Linux  
-- **摘要**：连接跟踪是许多网络功能及应用的基础，例如：Kubernetes Service、ServiceMesh sidecar、 软件四层负载均衡器 LVS/IPVS、Docker network、OVS、iptables 主机防火墙等等。  
+- **发布日期**：2024-05-25 10:00
+- **所属合集**：#Linux
+- **摘要**：连接跟踪是许多网络功能及应用的基础，例如：Kubernetes Service、ServiceMesh sidecar、 软件四层负载均衡器 LVS/IPVS、Docker network、OVS、iptables 主机防火墙等等。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT9dO051nXXkdvtibOcROTmAbGaOl1kQg0W7DpPaIia9ARXAhUOaYEUWrUGk74F4CF0Qpeib8GQX6f9g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT9dO051nXXkdvtibOcROTmA68lhvR5KxmTu1wX15H1LcpicMTPPhpIIvgrdoF8H9iaLg0zV4vYyrRBw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 小技巧：kube-state-metrics 入门](https://mp.weixin.qq.com/s/WLHXdrtjOG_9hYGENRcBWw)
 
-- **发布日期**：2024-05-24 12:40  
-- **所属合集**：#Kubernetes  
-- **摘要**：kube-state-metrics 通过监听 Kubernetes API 服务器来生成不同资源的状态的指标数据，配合 Grafana Dashboard，是 Kubernetes 集群监控的利器！  
+- **发布日期**：2024-05-24 12:40
+- **所属合集**：#Kubernetes
+- **摘要**：kube-state-metrics 通过监听 Kubernetes API 服务器来生成不同资源的状态的指标数据，配合 Grafana Dashboard，是 Kubernetes 集群监控的利器！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT9dO051nXXkdvtibOcROTmAdgwdEuOibuQoIf4pedYZAXPcRgUlZp9rSLj1xfBmJPemnD6Vx6T86Ag/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT9dO051nXXkdvtibOcROTmAPLiaP3ibhpHCROwOm8BAl5ZiaUicicvH7GVgvnH5s17S6FN581ibXmHgRspw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 网络和安全简介（一）](https://mp.weixin.qq.com/s/lVG1pYqsc2WdZiE57xJDqg)
 
-- **发布日期**：2024-05-23 23:00  
-- **所属合集**：#Kubernetes #网络基础知识  
-- **摘要**：Calico 背后的公司 TIGERA 出了一本书《Introduction to Kubernetes Networking and Security》，此书难度中等，可以让大家对相关概念或者原理有个初步了解。  
+- **发布日期**：2024-05-23 23:00
+- **所属合集**：#Kubernetes #网络基础知识
+- **摘要**：Calico 背后的公司 TIGERA 出了一本书《Introduction to Kubernetes Networking and Security》，此书难度中等，可以让大家对相关概念或者原理有个初步了解。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSCIr1GgQaPd2SOrNls9DtLoPdu2Gus9ysibkye8ictQ5tZfXTBbhPUIjExagHEb2dvYA1icTKBUaDGw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSCIr1GgQaPd2SOrNls9DtLK8DLvERrmqHtpE5zfpaWaUHDYEkbM1xe6YZNIBs0YEEoOt6IUdkNZQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小技巧 - 使用 iftop 监控实时端口流量](https://mp.weixin.qq.com/s/4TTBeinb2_xrAZ-f9w3pUA)
 
-- **发布日期**：2024-05-20 23:00  
-- **所属合集**：#Linux #Linux 小技巧  
-- **摘要**：iftop 是一个用于实时监控网络流量的命令行工具，有可交互图形界面，可以指定网络接口统计实时流量。  
+- **发布日期**：2024-05-20 23:00
+- **所属合集**：#Linux #Linux 小技巧
+- **摘要**：iftop 是一个用于实时监控网络流量的命令行工具，有可交互图形界面，可以指定网络接口统计实时流量。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSoLTWpjybQ5o0fTddPDxfbzNa4oeKe82exoL5JzxY2x53BsRZFic4FyCTia6w0057caj79tIrO5lLA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSoLTWpjybQ5o0fTddPDxfbkJZjAYnlBEdSmcl2H8eF4iclOxIPu46vhOgh1mJu8WBRF2hwnGM1q7Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术发展简史](https://mp.weixin.qq.com/s/Lnlpn5mGJ4X-rg5mF-vdFA)
 
-- **发布日期**：2024-05-19 19:01  
-- **所属合集**：#Docker  
-- **摘要**：容器的使用越来越广泛，最近几年，越来越多的企业开始采用容器作为新的 IT 基础设施。为了更好理解容器技术的发展，我们需要回顾一下容器技术的发展历史。容器早在 20 世纪 70 年代末就已出现雏形，Docker 就是在这些技术上发扬光大了！  
+- **发布日期**：2024-05-19 19:01
+- **所属合集**：#Docker
+- **摘要**：容器的使用越来越广泛，最近几年，越来越多的企业开始采用容器作为新的 IT 基础设施。为了更好理解容器技术的发展，我们需要回顾一下容器技术的发展历史。容器早在 20 世纪 70 年代末就已出现雏形，Docker 就是在这些技术上发扬光大了！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS1jlwyvyyEib9DKcaPg58KcjLZiaeVDHbDpbbgzBPQgBS3HG7U98TqM5EXqmKCthVrY0SqdacIDCDQ/0?wx_fmt=jpeg" width="400"/>
-
-### [DBOS：面向数据库的操作系统](https://mp.weixin.qq.com/s/Schvgx1EgMPoaKAk6zw7Qw)
-
-- **发布日期**：2024-05-18 10:03  
-- **所属合集**：nan  
-- **摘要**：DBOS：一种原生支持云中大规模分布式应用程序的新操作系统，从 OS 层开始颠覆！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRztW1Sf498icfC2IbnK40YVjUrmyZ6AKKh0Yic1YWsj0Hj6kSU4Z0W8QTJO8lhfvV0MnlSEqelNewg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS1jlwyvyyEib9DKcaPg58KcibFyatTdLeTbthRq4kofhlB1qjC1x9fOicZRCwadEMhEibib9wwbKfrAAA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Docker 小技巧：处理无名称的镜像（悬空镜像）](https://mp.weixin.qq.com/s/6RBjf83SXQA2iFob2XfvEg)
 
-- **发布日期**：2024-05-17 19:31  
-- **所属合集**：#Docker  
-- **摘要**：这些没有名称和标签的镜像通常被称为“悬空镜像”（dangling images）。这些镜像在系统中可能占用大量的磁盘空间，但没有被引用，通常可以删除它们来释放空间。  
+- **发布日期**：2024-05-17 19:31
+- **所属合集**：#Docker
+- **摘要**：这些没有名称和标签的镜像通常被称为“悬空镜像”（dangling images）。这些镜像在系统中可能占用大量的磁盘空间，但没有被引用，通常可以删除它们来释放空间。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQEUdBpF3qyibOqbRY7hYMFhXiaIFJziaWrcVIv7T6ZTt4QqIfIsuypgrxCSZW5jjJic92VoC4qYp3OvQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQEUdBpF3qyibOqbRY7hYMFh1RqibCNYJYVojIZ0tCAKEZV6lSQOXCs6B5fmwJQv5MdzyX3fcqREv0A/0?wx_fmt=jpeg" width="400"/>
 
 ### [Containerd 客户端命令行工具入门](https://mp.weixin.qq.com/s/-dErBiG6Wd89SblN5ZFBTA)
 
-- **发布日期**：2024-05-16 19:10  
-- **所属合集**：#Containerd  
-- **摘要**：当我们的容器进行时从 Docker 切换为 Containerd 后，需要从 docker 命令行切换到 Containerd 的命令行。常见的 Containerd 客户端命令行有 ctr 和 crictl。  
+- **发布日期**：2024-05-16 19:10
+- **所属合集**：#Containerd
+- **摘要**：当我们的容器进行时从 Docker 切换为 Containerd 后，需要从 docker 命令行切换到 Containerd 的命令行。常见的 Containerd 客户端命令行有 ctr 和 crictl。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLsjrV8JrmzaWeOJN0xLwsMP2sUiahUoMScrGtPUPcibSCgGtGvhsN406ypux8GuWaR7Og0AiahBByA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLsjrV8JrmzaWeOJN0xLwsWAVevnTsrWmrzKVUXg3yNnMEKia5dq3YhYRjyIdmraGePDXJyXd9bbg/0?wx_fmt=jpeg" width="400"/>
 
 ### [一图说清楚《如何构建知识体系》](https://mp.weixin.qq.com/s/45PZVxk_l_Drw_Haizuj0A)
 
-- **发布日期**：2024-05-14 19:40  
-- **所属合集**：nan  
-- **摘要**：一图了解如何构建知识体系！  
+- **发布日期**：2024-05-14 19:40
+- **所属合集**：#CS
+- **摘要**：一图了解如何构建知识体系！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQyYXV7b6eGMx0oE3scJY7PtGX2v5LE2HJWYGXibTYfmSHp9ibHy9kq8a13kA9X14JpawlYtibFPK1RA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQyYXV7b6eGMx0oE3scJY7PHfMZibBrTcdUemVapc14YGTIDs1sHeH2r0tGHfRElWkSPHndzPstEdg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Docker、Containerd 和 runc 之间的关系](https://mp.weixin.qq.com/s/J809gD9SuTBv2tZZkUSSOw)
 
-- **发布日期**：2024-05-12 11:00  
-- **所属合集**：#Kubernetes #Docker #Containerd  
-- **摘要**：Docker 提供了一组面向开发者的工具链；Containerd 实现了 CRI 规范，实现了容器的生命周期管理；runc 实现了 OCI Runtime spec，它是一个 CLI 工具，用于根据 OCI 规范生成和运行容器。  
+- **发布日期**：2024-05-12 11:00
+- **所属合集**：#Kubernetes #Docker #Containerd
+- **摘要**：Docker 提供了一组面向开发者的工具链；Containerd 实现了 CRI 规范，实现了容器的生命周期管理；runc 实现了 OCI Runtime spec，它是一个 CLI 工具，用于根据 OCI 规范生成和运行容器。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR2kNonctqrlgndyrY2ZLoLzXN5Wjd07EWia8l5jTmloZEJJ29HcFX9CiaOE8jV6g4KVJxuN12gvojA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR2kNonctqrlgndyrY2ZLoLaBBsib0UcAkbYXSn6x7Vs1e83Nj0LDf8EiaicbYCJEvyqicd6sktoUT7DA/0?wx_fmt=jpeg" width="400"/>
 
 ### [新书推荐 - 《Containerd 原理剖析与实战》](https://mp.weixin.qq.com/s/_YBPeJJ0BVaR_d2pa5CDwA)
 
-- **发布日期**：2024-05-09 22:00  
-- **所属合集**：#Kubernetes #Containerd  
-- **摘要**：Containerd 已经变成一个业界标准的容器运行时了，连口号都有了：超简单！超健壮！可移植性超强！因此我们也要卷起来，搞懂 Containerd 的原理。  
+- **发布日期**：2024-05-09 22:00
+- **所属合集**：#Kubernetes #Containerd
+- **摘要**：Containerd 已经变成一个业界标准的容器运行时了，连口号都有了：超简单！超健壮！可移植性超强！因此我们也要卷起来，搞懂 Containerd 的原理。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ7nN75LBibtbBFiboSXhQpsW4XWePIvyUNPtSoZpN5F0Q4NdR3Bs8Z9gJoNib2o48xGNQnesXGKlY3w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ7nN75LBibtbBFiboSXhQpsWUsykh5Tx6CxZ8H1SlRr54wZQtbX59zg1V4e86I6qIYxSwRm6cdJibVA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小技巧 - 使用 ab 命令做性能压测](https://mp.weixin.qq.com/s/qHgusLmiVmuocYdb5OxFlg)
 
-- **发布日期**：2024-05-07 12:28  
-- **所属合集**：#Linux 小技巧 #Linux  
-- **摘要**：ab 是 Apache 自带的压力测试工具，可以对 Web 服务器进行访问压力测试。ab 命令会创建多个并发线程，模拟多个访问者同时对某一个url地址进行访问，实现压力测试。  
+- **发布日期**：2024-05-07 12:28
+- **所属合集**：#Linux 小技巧 #Linux
+- **摘要**：ab 是 Apache 自带的压力测试工具，可以对 Web 服务器进行访问压力测试。ab 命令会创建多个并发线程，模拟多个访问者同时对某一个 url 地址进行访问，实现压力测试。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT46ia4GLb8tmPhkGyoD4rOzRyYmDM4qia2L9pzSCDamrIamiavrVoFMaHl4G7uxicWtqF0BWw5vX2wNw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT46ia4GLb8tmPhkGyoD4rOzbayHOcib7bZhRY0QiaB5ia1J4G0WqFxgicDWbrDD0yK7HZzldg8icgagOUg/0?wx_fmt=jpeg" width="400"/>
 
 ### [一文搞清楚操作系统中的锁](https://mp.weixin.qq.com/s/2H1-7Iiuxyp3uWNEItqJ8g)
 
-- **发布日期**：2024-05-06 12:35  
-- **所属合集**：#Linux #南京大学  
-- **摘要**：本文介绍了操作系统中锁的原理以及实现，包括一些硬件支持（更加强大的指令）和
-一些操作系统支持（例如 Solaris 的 park() 和 unpark() 原语，Linux 的 futex ）。  
+- **发布日期**：2024-05-06 12:35
+- **所属合集**：#Linux #南京大学
+- **摘要**：本文介绍了操作系统中锁的原理以及实现，包括一些硬件支持（更加强大的指令）和 一些操作系统支持（例如 Solaris 的 park() 和 unpark() 原语，Linux 的 futex ）。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSeibnzLC9sZpTESZZZshibWiaib99JTvib5nH4PcvapDEhAEd9mu7bekibCIS7Mvnt1b96qEmYjArTTwIQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSeibnzLC9sZpTESZZZshibWiaOEQib2W0BQthXM4icsdQqAohiaaRVdLqLVVTEcEfiaGjVD4bADQUzicmkicA/0?wx_fmt=jpeg" width="400"/>
 
 ### [使用 lstopo 查看服务器逻辑拓扑结构](https://mp.weixin.qq.com/s/0H-Oa3SEI6IPDFn7L9uAyw)
 
-- **发布日期**：2024-04-28 22:33  
-- **所属合集**：#系统可观测性 #Linux  
-- **摘要**：本文介绍了使用 hwloc 工具查看服务器的逻辑拓扑，帮助我们深入了解服务器的硬件结构，以便更好地进行性能调优。  
+- **发布日期**：2024-04-28 22:33
+- **所属合集**：#系统可观测性 #Linux
+- **摘要**：本文介绍了使用 hwloc 工具查看服务器的逻辑拓扑，帮助我们深入了解服务器的硬件结构，以便更好地进行性能调优。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQyFWQC03FaIFgegicibYNf2bebaA62YACO0OCnuHlfiaic2Cu6UJ8ev4icXau7aRqrMeicAeynkZyz5ibVA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQyFWQC03FaIFgegicibYNf2bgDDTrHoFlKP6iaKPhoibDu8EIBibkzRPcY4Jmb7IgrZXrHFLHwELgPveg/0?wx_fmt=jpeg" width="400"/>
 
 ### [通用 CPU 性能基准测试研究综述](https://mp.weixin.qq.com/s/rauCUcbDtwHCepeB6BpmYg)
 
-- **发布日期**：2024-04-24 19:31  
-- **所属合集**：#Linux #系统可观测性 #cpu  
-- **摘要**：今天我们就来看一篇论文《通用 CPU 性能基准测试研究综述》，讨论一下 CPU 性能测试应该如何做。  
+- **发布日期**：2024-04-24 19:31
+- **所属合集**：#Linux #系统可观测性 #cpu
+- **摘要**：今天我们就来看一篇论文《通用 CPU 性能基准测试研究综述》，讨论一下 CPU 性能测试应该如何做。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSEVicP5VmTKOI3nUkUuo9jOpkMHlBnYbhdkcIkc4QouCqdj2yRdnBCgADUoZRAjiaRTo30ouAJfssw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSEVicP5VmTKOI3nUkUuo9jO0nOVaS0Q21Awu0o8MGqH7tuDnejdd0rUUH7kCWkVox2gDhfd7YczDg/0?wx_fmt=jpeg" width="400"/>
 
 ### [重磅！《大语言模型》新书出炉，人大出版](https://mp.weixin.qq.com/s/T_g40LBQLCHaF6wX8NagOw)
 
-- **发布日期**：2024-04-21 10:00  
-- **所属合集**：nan  
-- **摘要**：人大出版 -《大语言模型》新书出炉大语言模型作者：赵鑫，李军毅，周昆，唐天一，文继荣。本书为大模型技术的入门读者提供讲解，为此我们在内容上进行了大幅度的更新与重组，力图展现一个整体的大模型技术框架和路线图。  
+- **发布日期**：2024-04-21 10:00
+- **所属合集**：#好书推荐
+- **摘要**：人大出版 -《大语言模型》新书出炉大语言模型作者：赵鑫，李军毅，周昆，唐天一，文继荣。本书为大模型技术的入门读者提供讲解，为此我们在内容上进行了大幅度的更新与重组，力图展现一个整体的大模型技术框架和路线图。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQZeWgZ4Iz1ibdgNSfO7mKqwd9Vey0uP7xVcZAoMRXVWicO6JuJibtxl2ee6ECQicDgDicBk5HLXqazDDQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQZeWgZ4Iz1ibdgNSfO7mKqwjd6dbGqHTlTtoicaKJzu4SzugbZGCaFSEf4vTXZlr2Abp8EqAhxnslw/0?wx_fmt=jpeg" width="400"/>
 
-### [【转载】主流CPU性能比较（Hygon7280、Intel、AMD、鲲鹏920、飞腾2500）](https://mp.weixin.qq.com/s/x_TqZlvgyDiwU8rdphgizA)
+### [【转载】主流 CPU 性能比较（Hygon7280、Intel、AMD、鲲鹏 920、飞腾 2500）](https://mp.weixin.qq.com/s/x_TqZlvgyDiwU8rdphgizA)
 
-- **发布日期**：2024-04-20 22:01  
-- **所属合集**：#cpu #Linux  
-- **摘要**：本文在Sysbench、TPCC等实践场景下对多款CPU的性能进行对比，同时分析各款CPU的硬件指标，最后分析不同场景下的实际性能和核心参数的关系。  
+- **发布日期**：2024-04-20 22:01
+- **所属合集**：#cpu #Linux
+- **摘要**：本文在 Sysbench、TPCC 等实践场景下对多款 CPU 的性能进行对比，同时分析各款 CPU 的硬件指标，最后分析不同场景下的实际性能和核心参数的关系。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTWCyXQgd89nwMD0aJgjSJjz19zJC1Da3tvtLLIh2WZRJWKSJd9999Pjh4Wb5CILN92qGNibVWBZfw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTWCyXQgd89nwMD0aJgjSJjJyiboYh29OIiacNUaJaEojlYJJQ2GsPFEfOnagExu741cJp4u56KtfZQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [【转载】美国玩大模型那帮人：好几万卡集群 + 超级节点](https://mp.weixin.qq.com/s/j1v17dvlqsb1YPDV0dLqHw)
 
-- **发布日期**：2024-04-19 19:30  
-- **所属合集**：nan  
-- **摘要**：今天 Meta的 Llama3 发布了，笔者在惊叹之余，也发现了一个博文，里面有几张漫画，很好诠释了老美是怎么用万卡玩大模型的，特意分享给读者！
-
-原文：https://mp.weixin.qq.com/s/2KgJgbXDmD9uIYuR4dmtwg  
+- **发布日期**：2024-04-19 19:30
+- **所属合集**：#AI Infra
+- **摘要**：今天 Meta 的 Llama3 发布了，笔者在惊叹之余，也发现了一个博文，里面有几张漫画，很好诠释了老美是怎么用万卡玩大模型的，特意分享给读者！ 原文：https://mp.weixin.qq.com/s/2KgJgbXDmD9uIYuR4dmtwg
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTYhIxvsTlxIk0qXJkB8fL0rJibHIKQwDsJG4d56ibOCWg6IgzxicrjDCtglQc8Ej3ibUQAZdZqJCfrOw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTYhIxvsTlxIk0qXJkB8fL0L3x3FV5hYib7pUnvJRT2VaUckVCNeaCRdQX381cCoUavsW3cvcmreLg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 环境为什么文件迁移完成后，源端与目的端文件大小不一致？ - “文件空洞”解析](https://mp.weixin.qq.com/s/EJ90wdU-wd7FgZwowLT-Cg)
 
-- **发布日期**：2024-04-17 21:05  
-- **所属合集**：#Linux  
-- **摘要**：什么是空洞文件？在 Linux （Unix）中，lseek的系统调用是可以改变在文件上面的偏移量的，而且还允许其超出文件的长度。空洞文件的一个常见用途是在数据库等应用中预分配磁盘空间，以便将来可以向其中写入数据而无需频繁扩展文件大小。  
+- **发布日期**：2024-04-17 21:05
+- **所属合集**：#Linux
+- **摘要**：什么是空洞文件？在 Linux （Unix）中，lseek 的系统调用是可以改变在文件上面的偏移量的，而且还允许其超出文件的长度。空洞文件的一个常见用途是在数据库等应用中预分配磁盘空间，以便将来可以向其中写入数据而无需频繁扩展文件大小。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSm3PraOxmlcPMjbRKp8dibdhHeEJsC3oBkxznwxqZicsG4RSPiaIHprbmQUwQmxkuV5xMjLO9rv4ZyQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSm3PraOxmlcPMjbRKp8dibdA1YNAxB6zF8rR0ice5icCM8cH4wgDzhwrZ2nXn31nJsGicZkytzYiaN4Zw/0?wx_fmt=jpeg" width="400"/>
 
-### [用 Transformers 处理自然语言：创建基于Hugging Face的文本内容处理程序](https://mp.weixin.qq.com/s/PzkEyLnfRiJrOT8lJd-0IA)
+### [用 Transformers 处理自然语言：创建基于 Hugging Face 的文本内容处理程序](https://mp.weixin.qq.com/s/PzkEyLnfRiJrOT8lJd-0IA)
 
-- **发布日期**：2024-04-15 08:30  
-- **所属合集**：#LLM #大模型  
-- **摘要**：今天在寻找 Transformer 学习材料的时候，找到了《Natural Language Processing with Transformers》的开源翻译，如果没有买书的同学可以看一下。  
+- **发布日期**：2024-04-15 08:30
+- **所属合集**：#LLM #大模型
+- **摘要**：今天在寻找 Transformer 学习材料的时候，找到了《Natural Language Processing with Transformers》的开源翻译，如果没有买书的同学可以看一下。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGpYgSdGbFgTR6CiadBS9SatGhJWmJGdPl8JEibmrVPZMs8BodL1uTxuGw902ib0CxPqibtFFWGT1mVA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGpYgSdGbFgTR6CiadBS9Sa0oiaUgXNBD5wiaAPTNYVCaFQCaHu1cyPaVu13LYiby0iciamda2AaSqgkXg/0?wx_fmt=jpeg" width="400"/>
 
 ### [推荐 - 《大模型技术栈》让我们快速建立起大模型知识体系](https://mp.weixin.qq.com/s/cAN8-BqOUiE3TkBEuEENXA)
 
-- **发布日期**：2024-04-14 09:30  
-- **所属合集**：#大模型 #LLM  
-- **摘要**：LLM 领域算法、技术和工具浩如烟海，而且每天都会涌现新的内容。笔者在互联网搜索的过程中，发现黄志国整理的《大模型技术栈》，可以让我们快速建立起知识体系。  
+- **发布日期**：2024-04-14 09:30
+- **所属合集**：#大模型 #LLM
+- **摘要**：LLM 领域算法、技术和工具浩如烟海，而且每天都会涌现新的内容。笔者在互联网搜索的过程中，发现黄志国整理的《大模型技术栈》，可以让我们快速建立起知识体系。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGpYgSdGbFgTR6CiadBS9Sa1jL4lJYoI1HCTflWu5vcvecvF8f2VZic7eM0NKcaUBIibwWTY2NTE8ug/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGpYgSdGbFgTR6CiadBS9SaeTtLGWmXL4KXlVzWgbQW3xvgibceciay9yROX7UYdO8tZD1SWfKvhxicA/0?wx_fmt=jpeg" width="400"/>
 
 ### [强烈推荐几篇 vLLM 原理及源码解析文章](https://mp.weixin.qq.com/s/JqubXK1VbMaShrJY20aKMg)
 
-- **发布日期**：2024-04-12 23:00  
-- **所属合集**：#LLM  
-- **摘要**：笔者最近在学习 LLM Model Serving，打算入门一下 vLLM​，今天正好读到几篇原理和源码讲解的文章，​写得非常好，推荐给大家！  
+- **发布日期**：2024-04-12 23:00
+- **所属合集**：#LLM
+- **摘要**：笔者最近在学习 LLM Model Serving，打算入门一下 vLLM​，今天正好读到几篇原理和源码讲解的文章，​ 写得非常好，推荐给大家！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRAqfDjBib5LHcKS5srTZfMyOts3NqXYTSKcicC6oia1dLdxrx3UBM9wBnPqVzMbmWvDlEZ1W6oH4dsw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRAqfDjBib5LHcKS5srTZfMyibHOTq8g6xKeiaibyqVMc5iacFxkoOCPiawxCEcBonAojmyxseKVCexHvlQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [BPF 性能之巅 - 使用 bcc 工具做 Linux 内存回收性能分析](https://mp.weixin.qq.com/s/JNolqi9ENWEfygLtGnoHsQ)
 
-- **发布日期**：2024-04-11 20:18  
-- **所属合集**：#BPF之巅  
-- **摘要**：当出现内存不足的时候，应用申请内存可能会遇到性能问题。我们如何来回答以下问题：系统是否出现了直接内存回收？直接内存回收对于相关进程的定量影响？正好 BPF 性能之巅提供了两个相关工具。  
+- **发布日期**：2024-04-11 20:18
+- **所属合集**：#BPF 之巅
+- **摘要**：当出现内存不足的时候，应用申请内存可能会遇到性能问题。我们如何来回答以下问题：系统是否出现了直接内存回收？直接内存回收对于相关进程的定量影响？正好 BPF 性能之巅提供了两个相关工具。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTCtcE3AgRm4kKa89bCW4XWeA8Z6FRDUazR5uqslQ1bBCLqlwKzT4WCjicYSHFv9FGXrb5l6j82e2w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTCtcE3AgRm4kKa89bCW4XW73sgu1uo4Wibut51stLamBg876FxK83HjzY1FV1WiczyFVicWP0WAMwvA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小知识：ls -l 命令的输出中目录的大小是什么含义？](https://mp.weixin.qq.com/s/0Q1FLPoUwU-7-XcIQydiwA)
 
-- **发布日期**：2024-04-09 08:00  
-- **所属合集**：#Linux  
-- **摘要**：在 Linux 中，文件目录的大小是什么含义呢？我们该如何查看？我们以 xfs 为例进行了说明。  
+- **发布日期**：2024-04-09 08:00
+- **所属合集**：#Linux
+- **摘要**：在 Linux 中，文件目录的大小是什么含义呢？我们该如何查看？我们以 xfs 为例进行了说明。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR8ibiaGqZAIkaJ3OOGJSX7L4Nukm6XWNbNxwicv1XsakRD0tNW4OIia5yoofGzjmRGdjlLuxC1MM9eYQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR8ibiaGqZAIkaJ3OOGJSX7L4Dp8ibdrDoVh2L2Y36sdp4tgDXoely2arX5HhwQ6BSt6NnJOhl6icYRMw/0?wx_fmt=jpeg" width="400"/>
 
 ### [【重磅福利】《深入理解文件系统原理和实践》新书开源下载](https://mp.weixin.qq.com/s/Ia2JBvGEG4bDQre3vsg6Nw)
 
-- **发布日期**：2024-04-06 10:30  
-- **所属合集**：nan  
-- **摘要**：作者开放了电子书，读者可自行下载。该书详细介绍了 ZFS，对于想了解 Linux 文件系统的读者来说，书中内容还是很有帮助的。  
+- **发布日期**：2024-04-06 10:30
+- **所属合集**：#好书推荐
+- **摘要**：作者开放了电子书，读者可自行下载。该书详细介绍了 ZFS，对于想了解 Linux 文件系统的读者来说，书中内容还是很有帮助的。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/u3ZiaMm7TCFX9y37tm9w5S3KuUPPVhtAE1CKvsKhT2s6d6V7LibwYzhc0DvuN8RHrto7Ou4pE4slVOGBC6UiaUEFw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/u3ZiaMm7TCFX9y37tm9w5S3KuUPPVhtAEjfJ4fQlbRs3iar6wNdWOjTE2NopNKc1HoPxWH86V2yM8ktrZ8bpn8tg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 基础知识：Finalizers 是什么？有什么作用？](https://mp.weixin.qq.com/s/Wtg0dpxMxIreOJYL9Y2xRQ)
 
-- **发布日期**：2024-04-05 17:00  
-- **所属合集**：#Kubernetes  
-- **摘要**：Kubernetes 对象删除并不像表面上看起来那么简单。删除对象是一个复杂的过程，其中包括条件检查以确定是否可以安全删除。这是通过称为 Finalizers 的 API 对象来实现的。  
+- **发布日期**：2024-04-05 17:00
+- **所属合集**：#Kubernetes
+- **摘要**：Kubernetes 对象删除并不像表面上看起来那么简单。删除对象是一个复杂的过程，其中包括条件检查以确定是否可以安全删除。这是通过称为 Finalizers 的 API 对象来实现的。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTcQykiaiaxqlEYCTbBXPoZSexN42KuoVWaiaqEDNmOGfEbEnr2VnGYDqibgC1usfSePYKe5djNriajBZA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTcQykiaiaxqlEYCTbBXPoZSeICiacn3Ggt4VvE7YHRPcZ2bAica5L5CL8FUTNwL0TIN4ic6ticUQpicyo5w/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐 - 《深入理解 Linux 网络》](https://mp.weixin.qq.com/s/crZ29epWXF6_HP0GKtXDUQ)
 
-- **发布日期**：2024-03-30 10:46  
-- **所属合集**：#好书推荐 #Linux #网络基础知识  
-- **摘要**：本书对 Linux 网络建立连接，收发包流程等相关知识的一个概览与总结，贴近实战，适合帮助大家快速入门。  
+- **发布日期**：2024-03-30 10:46
+- **所属合集**：#好书推荐 #Linux #网络基础知识
+- **摘要**：本书对 Linux 网络建立连接，收发包流程等相关知识的一个概览与总结，贴近实战，适合帮助大家快速入门。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQTnfw0S9Ke9aBOI0XGtibI68sXfqt083zHm2FsCfYFoyFGX9PVbPKlTC1RoPn7FoNowibZGR23TibOA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQTnfw0S9Ke9aBOI0XGtibI6Wq1nzjdBpWVOTiavwab9eyk8D5qY9V5bJCt1SWFWsBFRbib31dnrQagg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识：CPU Usage 和 System Load 的关系](https://mp.weixin.qq.com/s/gkLNZLcEW8tyanbcT8y0Zw)
 
-- **发布日期**：2024-03-25 12:15  
-- **所属合集**：#Linux #cpu  
-- **摘要**：CPU 密集型应用，大量进程在等待或使用 CPU，此时 CPU 使用率与平均负载呈正相关状态。
-I/O 密集型应用，大量进程在等待 I/O，此时平均负载会升高，但 CPU 使用率不一定很高。  
+- **发布日期**：2024-03-25 12:15
+- **所属合集**：#Linux #cpu
+- **摘要**：CPU 密集型应用，大量进程在等待或使用 CPU，此时 CPU 使用率与平均负载呈正相关状态。 I/O 密集型应用，大量进程在等待 I/O，此时平均负载会升高，但 CPU 使用率不一定很高。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQGLdpO6Sk6N8jd2P1GfQP6kGa96HfBJILeibQoBl6GwNl29Gl2OXxcco5XoyVEFrvn0O436gTerlA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQGLdpO6Sk6N8jd2P1GfQP6P8AnlB86fEShwZlAc5B0c2DE7aqgJbcf1s9JUT4YicuqCUXxIQKclQA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小技巧 - SIGTERM 与 SIGKILL：有什么区别？](https://mp.weixin.qq.com/s/RpRHa0nE-aRC_rS8VVdO3g)
 
-- **发布日期**：2024-03-21 19:30  
-- **所属合集**：#Linux 小技巧  
-- **摘要**：SIGTERM 和 SIGKILL 都用于终止 Linux 中的进程，我们应该有哪个呢？  
+- **发布日期**：2024-03-21 19:30
+- **所属合集**：#Linux 小技巧
+- **摘要**：SIGTERM 和 SIGKILL 都用于终止 Linux 中的进程，我们应该有哪个呢？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQKVPWsGC5B3utrp857hTNgxtFnoFgFVxHfIibQpCfmlKfdFQF0dGVnwMtUiaK5LrqnSPWZPXNMZvjg/0?wx_fmt=jpeg" width="400"/>
-
-### [《BPF 性能之巅》- 使用 perf tools 定位磁盘 IO util 高问题](https://mp.weixin.qq.com/s/6SZlT2WVmytOAgz_RbsqEw)
-
-- **发布日期**：2024-03-19 19:30  
-- **所属合集**：#BPF之巅 #系统可观测性  
-- **摘要**：本文的目标是通过现有工具来回答一个我们经常会遇到的一个问题：sd* 设备上哪些进程的 IO 操作比较多？这些进程在做什么样的文件操作？  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSqLTk1xfkmGFCwpZIGiarlgwnqDz8rTcI9ibr8fN96cqbuNsCFVRDKx7PoibWqje9hMbgCSrMk9EcCA/0?wx_fmt=jpeg" width="400"/>
-
-### [【原理篇】《BPF性能之巅》如何快速分析系统的 I/O 瓶颈？](https://mp.weixin.qq.com/s/QtYQ-vLjCXUVF4pbbGtwgQ)
-
-- **发布日期**：2024-03-19 19:30  
-- **所属合集**：#BPF之巅 #Linux #存储  
-- **摘要**：我们应该使用什么样的方法和工具，来“快准狠”地定位系统的 I/O 瓶颈呢？本文是原理篇，后续还会陆续推出实战篇。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTFQNGwvNUBKFITY3zIHzYbP4B5SapgOdZ0ibdf5kdl69IzBSvyhrG7VcOCwaaiayEAeicmS7Eh4q76w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQKVPWsGC5B3utrp857hTNgRIia9nIaffyO24ybom8Ps5ovTRWWn1FhicqyoM36A2jMH4jD0Z6qQDXw/0?wx_fmt=jpeg" width="400"/>
 
 ### [使用 iodump 一步定位磁盘 IO Util 高的元凶](https://mp.weixin.qq.com/s/NPaWbokAulLMOnx63Gb1Sg)
 
-- **发布日期**：2024-03-19 19:30  
-- **所属合集**：#系统可观测性  
-- **摘要**：odump 是利用内核 tracepoint 静态探针点技术实现的一个 IO 问题排查工具，可以一步到位帮我定位磁盘 IO util 高背后的元凶！  
+- **发布日期**：2024-03-19 19:30
+- **所属合集**：#系统可观测性
+- **摘要**：odump 是利用内核 tracepoint 静态探针点技术实现的一个 IO 问题排查工具，可以一步到位帮我定位磁盘 IO util 高背后的元凶！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSDFQPtTNx3lO4ibibW5KTInuktOpY5mXlPHPUiaIYn7G9hWoU9aibpGc8fcv3HCibyqB4LoTbLDLWQ9GQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSDFQPtTNx3lO4ibibW5KTInuBhSpuFqZiaicsjYe5EKulgdKybFemsA4NsZlzqvSY0JM5g3QqmKcoW3Q/0?wx_fmt=jpeg" width="400"/>
+
+### [【原理篇】《BPF 性能之巅》如何快速分析系统的 I/O 瓶颈？](https://mp.weixin.qq.com/s/QtYQ-vLjCXUVF4pbbGtwgQ)
+
+- **发布日期**：2024-03-19 19:30
+- **所属合集**：#BPF 之巅 #Linux #存储
+- **摘要**：我们应该使用什么样的方法和工具，来“快准狠”地定位系统的 I/O 瓶颈呢？本文是原理篇，后续还会陆续推出实战篇。
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTFQNGwvNUBKFITY3zIHzYbZZZ9Q36PJgcBuY2ewgydDiaUGKjbaLgHbMUJMVambbxfldpWCuZzKdQ/0?wx_fmt=jpeg" width="400"/>
+
+### [《BPF 性能之巅》- 使用 perf tools 定位磁盘 IO util 高问题](https://mp.weixin.qq.com/s/6SZlT2WVmytOAgz_RbsqEw)
+
+- **发布日期**：2024-03-19 19:30
+- **所属合集**：#BPF 之巅 #系统可观测性
+- **摘要**：本文的目标是通过现有工具来回答一个我们经常会遇到的一个问题：sd\* 设备上哪些进程的 IO 操作比较多？这些进程在做什么样的文件操作？
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSqLTk1xfkmGFCwpZIGiarlgic5SJBMBBJvj3sWCSv1ItrQw5ZwW3SoCPSOfOJOglVrhiaStugSf5SdA/0?wx_fmt=jpeg" width="400"/>
 
 ### [《性能之巅》系统可观测性综述](https://mp.weixin.qq.com/s/4oMVi37EnZg2RXfhsl5teA)
 
-- **发布日期**：2024-03-18 19:30  
-- **所属合集**：#系统可观测性 #BPF之巅  
-- **摘要**：本文是对系统可观测性做了概述，介绍了相关概念和方法。  
+- **发布日期**：2024-03-18 19:30
+- **所属合集**：#系统可观测性 #BPF 之巅
+- **摘要**：本文是对系统可观测性做了概述，介绍了相关概念和方法。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQx8SsHX4QDNyiaBicNu7phuPYA1onVzd3huSqoib0zrDvWuVtWvGCibz5zbcktuPuFt4yaBtT2qFFr3g/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQx8SsHX4QDNyiaBicNu7phuPia4CRwsRGBTzlQZoaaKpUBLGjaIH6KUaCpJp5HxV81zLapTnljRhsNw/0?wx_fmt=jpeg" width="400"/>
 
-### [【原理篇】《BPF性能之巅》如何快速分析系统的 I/O 瓶颈？](https://mp.weixin.qq.com/s/R7AbMDuIWe5jJpDWQHVp2A)
+### [【原理篇】《BPF 性能之巅》如何快速分析系统的 I/O 瓶颈？](https://mp.weixin.qq.com/s/R7AbMDuIWe5jJpDWQHVp2A)
 
-- **发布日期**：2024-03-17 09:00  
-- **所属合集**：#BPF之巅 #Linux  
-- **摘要**：我们应该使用什么样的方法和工具，来“快准狠”地定位系统的 I/O 瓶颈呢？本文是原理篇，后续还会陆续推出实战篇。  
+- **发布日期**：2024-03-17 09:00
+- **所属合集**：#BPF 之巅 #Linux
+- **摘要**：我们应该使用什么样的方法和工具，来“快准狠”地定位系统的 I/O 瓶颈呢？本文是原理篇，后续还会陆续推出实战篇。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTFQNGwvNUBKFITY3zIHzYbP4B5SapgOdZ0ibdf5kdl69IzBSvyhrG7VcOCwaaiayEAeicmS7Eh4q76w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTFQNGwvNUBKFITY3zIHzYbZZZ9Q36PJgcBuY2ewgydDiaUGKjbaLgHbMUJMVambbxfldpWCuZzKdQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [《BPF 性能之巅》- 使用 perf tools 做性能分析（1）](https://mp.weixin.qq.com/s/dXw_6-zi19XuvJEnbZuz4w)
 
-- **发布日期**：2024-03-17 09:00  
-- **所属合集**：#BPF之巅 #系统可观测性  
-- **摘要**：本文的目标是通过现有工具来回答一个我们经常会遇到的一个问题：sd* 设备上哪些进程的 IO 操作比较多？这些进程在做什么样的文件操作？  
+- **发布日期**：2024-03-17 09:00
+- **所属合集**：#BPF 之巅 #系统可观测性
+- **摘要**：本文的目标是通过现有工具来回答一个我们经常会遇到的一个问题：sd\* 设备上哪些进程的 IO 操作比较多？这些进程在做什么样的文件操作？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSqLTk1xfkmGFCwpZIGiarlgwnqDz8rTcI9ibr8fN96cqbuNsCFVRDKx7PoibWqje9hMbgCSrMk9EcCA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSqLTk1xfkmGFCwpZIGiarlgic5SJBMBBJvj3sWCSv1ItrQw5ZwW3SoCPSOfOJOglVrhiaStugSf5SdA/0?wx_fmt=jpeg" width="400"/>
 
 ### [新书推荐 - 《边缘云部署与运营：系统性实现方法》（博主翻译）](https://mp.weixin.qq.com/s/F0c8IKLlCbLJ3OlDVpCoDw)
 
-- **发布日期**：2024-03-16 10:30  
-- **所属合集**：#Kubernetes #好书推荐  
-- **摘要**：本书以 Aether 平台为例，从边缘云整个平台的架构设计到每个子系统的构建与运维做了细致的阐述，使得读者可以比较全面地了解边缘云的建设与运维，浅显易懂。  
+- **发布日期**：2024-03-16 10:30
+- **所属合集**：#Kubernetes #好书推荐
+- **摘要**：本书以 Aether 平台为例，从边缘云整个平台的架构设计到每个子系统的构建与运维做了细致的阐述，使得读者可以比较全面地了解边缘云的建设与运维，浅显易懂。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQbfDJVYtdwt1V0uTXKYaYCzrRah4Y1WDtdH6nG34oFPdhex8XZXhhGQ2rrs3oYsEIVmlhSyxPDrQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQbfDJVYtdwt1V0uTXKYaYC9YeNzjhCtt45SYoyicLib6WFAHiat1TgxkcEnv3V8MYRbWYOYfy4Lyffg/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐 - 《自己动手写 docker》](https://mp.weixin.qq.com/s/cpL3Y-UUzeqdYdrOOLH2NA)
 
-- **发布日期**：2024-03-15 12:04  
-- **所属合集**：#Docker #好书推荐  
-- **摘要**：本书在详细分析Docker所依赖的技术栈的基础上，一步一步地通过代码实例，让读者可以自己循序渐进地用Go语言构建出一个容器的引擎。  
+- **发布日期**：2024-03-15 12:04
+- **所属合集**：#Docker #好书推荐
+- **摘要**：本书在详细分析 Docker 所依赖的技术栈的基础上，一步一步地通过代码实例，让读者可以自己循序渐进地用 Go 语言构建出一个容器的引擎。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTIZsXn28jodz6VVS3zZJZlF09KBYhPSjBES5LhlamG19vBFIZvOVKAKRicCRggKyvkVicufiamOXpxw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTIZsXn28jodz6VVS3zZJZlWq4WbLoOTee9xMjbz9t0aXibXtO77mjgZoFaEiaHqfygOAFz6cQjnm5g/0?wx_fmt=jpeg" width="400"/>
 
 ### [好书推荐 -《Hello 算法》](https://mp.weixin.qq.com/s/fKbmE1BoLb9Iw__HHIVv3Q)
 
-- **发布日期**：2024-03-12 09:45  
-- **所属合集**：#好书推荐  
-- **摘要**：本项目旨在打造一本开源免费、新手友好的数据结构与算法入门教程。全书采用动画图解，内容清晰易懂、学习曲线平滑，引导初学者探索数据结构与算法的知识地图。源代码可一键运行，帮助读者在练习中提升编程技能，了解算法工作原理和数据结构底层实现。  
+- **发布日期**：2024-03-12 09:45
+- **所属合集**：#好书推荐
+- **摘要**：本项目旨在打造一本开源免费、新手友好的数据结构与算法入门教程。全书采用动画图解，内容清晰易懂、学习曲线平滑，引导初学者探索数据结构与算法的知识地图。源代码可一键运行，帮助读者在练习中提升编程技能，了解算法工作原理和数据结构底层实现。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQibBasjYtM8GKVfofciaztibvKhfzymFtGJZicYfClrUAw8cOtDlLYLkCicfJ7DXDowN8DvRdAYpQ7lNQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQibBasjYtM8GKVfofciaztibvm5xZdNzMXRoDU7ocBxNVaBCdsXXQ0V1ZJl2xpcJHFnwyIKJbxYxFkA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 缩容工作负载时，如何指定要被删除的 Pod？](https://mp.weixin.qq.com/s/GzOOdbf7eUO1x7KFrSqIOg)
 
-- **发布日期**：2024-03-08 12:15  
-- **所属合集**：#Kubernetes  
-- **摘要**：大家是否好奇，手工修改 Deployment 中 Pod 的数量或者是通过 HPA 更改 Pod 数量，Kubernetes 是随机选择要删除的 Pod 吗？  
+- **发布日期**：2024-03-08 12:15
+- **所属合集**：#Kubernetes
+- **摘要**：大家是否好奇，手工修改 Deployment 中 Pod 的数量或者是通过 HPA 更改 Pod 数量，Kubernetes 是随机选择要删除的 Pod 吗？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQwgd1D4Y27nunqCgGKrg24EL5iaPVhsyUfqQVbia0ZQZWR8diax6oiczbKlD2bITTnOyw7iaDP5xwXnqQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQwgd1D4Y27nunqCgGKrg243f77ACOmiaf2PnXVicemqceibicvmlXvbXL0l3nBWbxxTZRAjNZrlpEryg/0?wx_fmt=jpeg" width="400"/>
 
 ### [【大规模语言模型-从理论到实践】出纸质书了！](https://mp.weixin.qq.com/s/5hDqWut4lPKWMFwRHon0xQ)
 
-- **发布日期**：2024-03-07 07:57  
-- **所属合集**：nan  
-- **摘要**：比之前电子版，有一些校正，大家可以买纸质书来读一读！  
+- **发布日期**：2024-03-07 07:57
+- **所属合集**：#好书推荐
+- **摘要**：比之前电子版，有一些校正，大家可以买纸质书来读一读！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRkAHb1v5WRbJ42wAZ3UpE0UMVtARkFC9GHibNmf7mXgBYtqUaHn6Y0eqTYIJ6hiaf4z2fxqkM8EDZQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRkAHb1v5WRbJ42wAZ3UpE0aibc7ic8iaoT2nGqT958hYS88ZUJ0DLJFE1CEzHta50K3EJFzLfxzxu1w/0?wx_fmt=jpeg" width="400"/>
 
 ### [好文推荐 - Java 技术栈中间件优雅停机方案设计与实现全景图](https://mp.weixin.qq.com/s/h_DPqpJR7HQgwGPlMzVj2A)
 
-- **发布日期**：2024-03-06 08:24  
-- **所属合集**：nan  
-- **摘要**：从日常开发工作中常见的版本发布，服务上下线的场景聊起，引出服务优雅启停的需求，并从这个需求出发，一步一步带大家探究各个中间件里的优雅停机的相关设计。而且 bin 把整个技术体系的前世今生都给大家讲清楚了，万字长文，值得一看。  
+- **发布日期**：2024-03-06 08:24
+- **所属合集**：#Kubernetes
+- **摘要**：从日常开发工作中常见的版本发布，服务上下线的场景聊起，引出服务优雅启停的需求，并从这个需求出发，一步一步带大家探究各个中间件里的优雅停机的相关设计。而且 bin 把整个技术体系的前世今生都给大家讲清楚了，万字长文，值得一看。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGmcpQSUS8G0ibMCzfG0PS139XUsOACaUGfxECw5cC5bZCF2UbQWficPpM7VynYFhkasGkBibiafxPMA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGmcpQSUS8G0ibMCzfG0PS1jsNyFt56DL5DZzD1JsVUqPx82EexZcne4fBastZdC8uPZazprVXkEg/0?wx_fmt=jpeg" width="400"/>
 
 ### [【BPF 性能之巅】 系统性能分析的 USE 方法和 TSA 方法](https://mp.weixin.qq.com/s/CeIwZUmmQ7SjS8EvBSkiwQ)
 
-- **发布日期**：2024-03-06 08:24  
-- **所属合集**：#BPF之巅  
-- **摘要**：nan  
+- **发布日期**：2024-03-06 08:24
+- **所属合集**：#BPF 之巅
+- **摘要**：nan
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGmcpQSUS8G0ibMCzfG0PS1iaeqRlFuozsDEWCPBjX5NRABcoWA3UUIK38aaeYAN7rZQqqGSf8gAIg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRGmcpQSUS8G0ibMCzfG0PS1DpuWtZiceXI5d1c4eaTAJdgjRlbCmFYiaibWyXic0akmvzu9icsdbuo0KbA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - 内存水位线](https://mp.weixin.qq.com/s/v5SEd53k7SGDAL74c6pv4g)
 
-- **发布日期**：2024-03-05 08:30  
-- **所属合集**：nan  
-- **摘要**：1. 开始的时候内存处于非常充足的位置（内核 kswapd 进程会被定期唤醒来回收内存）；
-2. 内存不断被分配，剩余内存降到 high 以下；
-3. 内存继续不断被分配，剩余内存降到 low 以下，这时系统感知内存不足，会启动内核 kswapd 进程来异步回收内存；
-4. 如果内存降到 min 之下，只有一些特殊的内存分配可以成功（例如内核对象），其他内存申请都会走【直接内存回收】 - 内核 kswapd 进程会同步回收内存，它会阻塞内存申请函数；
-5. 随着内存不断被回收，剩余内存水位又会回到 high，此时 kswapd 工作完成，进入休眠；如果内存回收满足不了系统内存需求，则会触发 Linux OOM，来释放内存；  
+- **发布日期**：2024-03-05 08:30
+- **所属合集**：#Linux
+- **摘要**：1. 开始的时候内存处于非常充足的位置（内核 kswapd 进程会被定期唤醒来回收内存）； 2. 内存不断被分配，剩余内存降到 high 以下； 3. 内存继续不断被分配，剩余内存降到 low 以下，这时系统感知内存不足，会启动内核 kswapd 进程来异步回收内存； 4. 如果内存降到 min 之下，只有一些特殊的内存分配可以成功（例如内核对象），其他内存申请都会走【直接内存回收】 - 内核 kswapd 进程会同步回收内存，它会阻塞内存申请函数； 5. 随着内存不断被回收，剩余内存水位又会回到 high，此时 kswapd 工作完成，进入休眠；如果内存回收满足不了系统内存需求，则会触发 Linux OOM，来释放内存；
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQnwj1Hb0EYibFzR7JTqGYEI05MiaATSbNbk7VTIBUDAtz8UBaITdHBGqxmY0DLJFqficIKXaGssxIXA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQnwj1Hb0EYibFzR7JTqGYEIwVfjGFYwY2n2W4h3E0ygzYoZibGBHMKCYGEeC1rIqwXmDOickv2nU64Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [【重磅推荐】大模型基础 - Deep Learning System & AI System](https://mp.weixin.qq.com/s/9t3A7Ygt9yHh3WwbtesRKw)
 
-- **发布日期**：2024-03-04 08:30  
-- **所属合集**：#大模型  
-- **摘要**：本开源项目主要是跟大家一起探讨和学习人工智能、深度学习的系统设计，而整个系统是围绕着 ZOMI 在工作当中所积累、梳理、构建 AI 系统全栈的内容。  
+- **发布日期**：2024-03-04 08:30
+- **所属合集**：#大模型
+- **摘要**：本开源项目主要是跟大家一起探讨和学习人工智能、深度学习的系统设计，而整个系统是围绕着 ZOMI 在工作当中所积累、梳理、构建 AI 系统全栈的内容。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjPiaHUH1RHcNjNoF2l43PTZkAcHeiccRTaibCBhFbP0p1TNiaAIelczuhC2R2IrNrQQia7UibvIPjL8Hg/0?wx_fmt=jpeg" width="400"/>
-
-### [周六晚8点直播预告 - eBPF基础之kprobe探究与分析](https://mp.weixin.qq.com/s/ITTC0rIEIWu3Qv6Qnrzymg)
-
-- **发布日期**：2024-03-03 09:28  
-- **所属合集**：nan  
-- **摘要**：当讨论eBPF时为什么需要深入探讨kprobe，为什么eBPF会使用kprobe，kprobe的核心原理是什么，了解了这些问题后是否对我们灵活使用eBPF和kprobe有帮助。此次分享也会和大家一起探讨这些问题。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjPiaHUH1RHcNjNoF2l43PTjydDIbRMOtzPHzpseAoNwb7uQAV7fHsyqvtia1wYTibJOF9tZYPj6zYw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjPiaHUH1RHcNjNoF2l43PT5LmmlQYUZlpREFbU03jyLdZG3kl4icLgxficaPom58Svk4axh8XmMsJw/0?wx_fmt=jpeg" width="400"/>
 
 ### [好文推荐 - RAID 技术介绍](https://mp.weixin.qq.com/s/9635XVMA6-kbr2sSGjKH5w)
 
-- **发布日期**：2024-03-03 09:28  
-- **所属合集**：#存储  
-- **摘要**：RAID 的基本思想是将多个容量较小、相对廉价的磁盘进行有机组合，从而以较低的成本获得与昂贵大容量磁盘相当的容量、性能、可靠性。  
+- **发布日期**：2024-03-03 09:28
+- **所属合集**：#存储
+- **摘要**：RAID 的基本思想是将多个容量较小、相对廉价的磁盘进行有机组合，从而以较低的成本获得与昂贵大容量磁盘相当的容量、性能、可靠性。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjPiaHUH1RHcNjNoF2l43PTpKjyzvIU8AjqZLG1lpKjJXGo0DRZicvs4LC0DaeuDf3wticKic15eSL1A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjPiaHUH1RHcNjNoF2l43PTrcd2sUswGvMxprSYLJI2zw2vKIwzPXdCqqrMhDoOFZpicQe4icYusWLw/0?wx_fmt=jpeg" width="400"/>
 
 ### [好文推荐 - 掌握 Linux 内存故障追踪：技术指南](https://mp.weixin.qq.com/s/upeMRdmGLQYmXgizmz06Ng)
 
-- **发布日期**：2024-03-01 22:30  
-- **所属合集**：#系统可观测性 #Linux  
-- **摘要**：掌握 Linux 内存故障追踪：技术指南  
+- **发布日期**：2024-03-01 22:30
+- **所属合集**：#系统可观测性 #Linux
+- **摘要**：掌握 Linux 内存故障追踪：技术指南
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRY3Z9bfPNZYo1fewuK7elEjJaEISXv5h2f6DKqqWowBw8MyxqyQVEEXAjCKvcm6OpDtjygfahvkg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRY3Z9bfPNZYo1fewuK7elEBlnd6TyXyAZArgRjY1c2upWTh40APDJE4vqlCVLCEbf9IcV5ibmOmibw/0?wx_fmt=jpeg" width="400"/>
 
 ### [云原生混合部署（在线离线混合部署）资料整理](https://mp.weixin.qq.com/s/m9bC_-wm6u6bzgOKAjVRiA)
 
-- **发布日期**：2024-03-01 22:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：服务器资源利用率低一直是业界公认的难题，随着云原生技术的发展，将在线（高优先级）、离线（低优先级）业务混合部署成为了当下提高资源利用率的有效手段。  
+- **发布日期**：2024-03-01 22:30
+- **所属合集**：#Kubernetes
+- **摘要**：服务器资源利用率低一直是业界公认的难题，随着云原生技术的发展，将在线（高优先级）、离线（低优先级）业务混合部署成为了当下提高资源利用率的有效手段。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRY3Z9bfPNZYo1fewuK7elEEs1mb3CGfibOUDrtmUNJ7xenkE4Rn18KjgOvz3XFwETvyHx3q8FzfkQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRY3Z9bfPNZYo1fewuK7elE3yWppjGB1rwG57c9GCcuEubpcQB0HDT8D4VMy2FQyjDan5Xk6bIx6Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 基础知识 - Kubernetes 准入控制器](https://mp.weixin.qq.com/s/MrfokaFC5mduundzYdDYJg)
 
-- **发布日期**：2024-02-28 12:20  
-- **所属合集**：nan  
-- **摘要**：准入控制器是一项强大的 Kubernetes 原生功能，可帮助我们自定义允许在集群上运行的内容。  
+- **发布日期**：2024-02-28 12:20
+- **所属合集**：#Kubernetes
+- **摘要**：准入控制器是一项强大的 Kubernetes 原生功能，可帮助我们自定义允许在集群上运行的内容。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQWZD2WEE5v1TcFwRtpaz2dVqsOpDzHS52Q4NwR8Bs01zgcGdmbSNya0SBuDbdibY8uoMulm1nlqRg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQWZD2WEE5v1TcFwRtpaz2dgRyY4tAk5gmogjicFT8mr8Oo5ic747zwF69Ricrz5Ure0ia5ZxKgicmyfvw/0?wx_fmt=jpeg" width="400"/>
 
 ### [性能分析实战篇 - Linux 网络性能优化指南](https://mp.weixin.qq.com/s/ou8DW6nst1bhPy-dtwNzXQ)
 
-- **发布日期**：2024-02-27 08:31  
-- **所属合集**：#系统可观测性 #网络基础知识  
-- **摘要**：我们先来了解一下网络基础，然后了解一下 Linux 网络栈以及网络性能分析方法，最后再来看几个常见的网络优化实操。  
+- **发布日期**：2024-02-27 08:31
+- **所属合集**：#系统可观测性 #网络基础知识
+- **摘要**：我们先来了解一下网络基础，然后了解一下 Linux 网络栈以及网络性能分析方法，最后再来看几个常见的网络优化实操。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSAeD8YON4hk14ws34kJ6y2mCOIvpMaFKG9xMfOfdTvKUWjAoU1svJyt2fQciaZWIIquwibDTwAmAgQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSAeD8YON4hk14ws34kJ6y2d116Q5iareLtwmYic7mcicleOSUdDXNPmGKDXHHCAcPVY63GFD1XxERBw/0?wx_fmt=jpeg" width="400"/>
 
 ### [应用上云 - Azure 官方 Java 容器化策略文档](https://mp.weixin.qq.com/s/U5KEB7mRMF7aXeAkmage-g)
 
-- **发布日期**：2024-02-26 12:01  
-- **所属合集**：#Kubernetes #应用上云 #Java  
-- **摘要**：本文介绍了用于容器化 Java 应用程序以部署到 Kubernetes 上的建议策略。  
+- **发布日期**：2024-02-26 12:01
+- **所属合集**：#Kubernetes #应用上云 #Java
+- **摘要**：本文介绍了用于容器化 Java 应用程序以部署到 Kubernetes 上的建议策略。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSAeD8YON4hk14ws34kJ6y26SGACL3LGFDVlzBSVUicfNrTOSIUIaNf34zyTZB3eicUA72gpoSuianNQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSAeD8YON4hk14ws34kJ6y2icG6LA5AbgasfzibMrZ9fkojV5uhcBKayLtlicj1XianDTwxjia6UCvMuTw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 内存和 CPU 排错 - CPU 节流和 OOM](https://mp.weixin.qq.com/s/WEC9G3inhzle_aeeXkNDtA)
 
-- **发布日期**：2024-02-25 11:02  
-- **所属合集**：#Kubernetes #cpu  
-- **摘要**：使用 Kubernetes 时，内存不足 (OOM) 错误和 CPU 限制是资源处理的主要难题。我们可以做到事先的监控，事后的分析，并最终通过历史数据合理调整容器的 request 和 limit  
+- **发布日期**：2024-02-25 11:02
+- **所属合集**：#Kubernetes #cpu
+- **摘要**：使用 Kubernetes 时，内存不足 (OOM) 错误和 CPU 限制是资源处理的主要难题。我们可以做到事先的监控，事后的分析，并最终通过历史数据合理调整容器的 request 和 limit
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQZicgerP2nc08cxg4AIw8VWcVyCibNiaEq8gbibzxpJBqM055E7KcwLP2XGDUpmzsVlFvxrR36EgwDgg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQZicgerP2nc08cxg4AIw8VWgBSGVDV5jUEZEYYhh4mlmX7yDnw1SUUcQ3DQPyyOcyYN1fdamvS0Xw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 容量规划：如何合理设置 limit 大小](https://mp.weixin.qq.com/s/FAIC5IWaWjvw0oPujI1zOg)
 
-- **发布日期**：2024-02-24 17:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：资源限制始终是一个难以调整的设置，因为我们必须在限制太紧或太松之间找到最佳平衡点。本文将探讨如何设置正确的 Kubernetes 资源限制：从检测没有任何限制的容器，到找到应在集群中设置的正确 Kubernetes 资源限制。  
+- **发布日期**：2024-02-24 17:30
+- **所属合集**：#Kubernetes
+- **摘要**：资源限制始终是一个难以调整的设置，因为我们必须在限制太紧或太松之间找到最佳平衡点。本文将探讨如何设置正确的 Kubernetes 资源限制：从检测没有任何限制的容器，到找到应在集群中设置的正确 Kubernetes 资源限制。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRJF7Xnbybvmt6wKDWFXRAQXkJmviaGpsEHPwyrI1j1L1ABxvxCz25DlENlk71PP1cpiaJDHsYITkmg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRJF7Xnbybvmt6wKDWFXRAQ7dOeQSic6y2ba6SWqzWicxu5pUNia6Foznqouoos8HibicDjicMUIMB2FEWg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 容量规划：如何合理设置 request 大小](https://mp.weixin.qq.com/s/1hd9B6ZP5_VOf4hm9Z3hJg)
 
-- **发布日期**：2024-02-23 22:55  
-- **所属合集**：#Kubernetes  
-- **摘要**：容量规划是用好 Kubernetes 必须面对的主要挑战之一，因为了解 Kubernetes 的限制和请求并不是一件容易的事情。Kubernetes 容量规划始终就是集群的稳定性和可靠性与资源的有效使用之间的平衡。  
+- **发布日期**：2024-02-23 22:55
+- **所属合集**：#Kubernetes
+- **摘要**：容量规划是用好 Kubernetes 必须面对的主要挑战之一，因为了解 Kubernetes 的限制和请求并不是一件容易的事情。Kubernetes 容量规划始终就是集群的稳定性和可靠性与资源的有效使用之间的平衡。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSYxcP9ThWVTd9tVcicjXnJXHTiaF8MEo7DZCeKiaib2Ap6nRxMJkt8Yx6M3Gew9NCxOh3E104VCudxKw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSYxcP9ThWVTd9tVcicjXnJXx3KHQUGTGV5o3QFJD9z8NBfRxqOyfqvrPVH01DfgQfYYG94aaxqZPg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 小技巧 - Pod Pending 问题解析](https://mp.weixin.qq.com/s/_Ongqth_ZhhJLJaTSUU3iA)
 
-- **发布日期**：2024-02-22 08:31  
-- **所属合集**：#Kubernetes  
-- **摘要**：有多种原因可能会导致 Pod 无法运行，以下是三种主要原因：
-
-调度问题： pod 无法被调度到任何节点上（不满足要求）；
-
-镜像问题：下载容器镜像时出现问题；
-
-依赖性问题： pod 需要卷、密钥或配置映射才能运行。  
+- **发布日期**：2024-02-22 08:31
+- **所属合集**：#Kubernetes
+- **摘要**：有多种原因可能会导致 Pod 无法运行，以下是三种主要原因： 调度问题： pod 无法被调度到任何节点上（不满足要求）； 镜像问题：下载容器镜像时出现问题； 依赖性问题： pod 需要卷、密钥或配置映射才能运行。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHStRBAXmH7DMBpXicJ9mUE8VKb58ibajx804GOrsSmJDH2yI44DMiaqHx5YicwxvkG20X77sF3iccdCntw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHStRBAXmH7DMBpXicJ9mUE8VicVRQzmXmRrFSkbPUHPhIialWSTW0Sf1hickdQNx6AEdCyboywx2hGcGA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - CPU 上下文切换](https://mp.weixin.qq.com/s/Tls0gCGn12qRGh2m3fBdEQ)
 
-- **发布日期**：2024-02-20 08:15  
-- **所属合集**：#Linux #cpu  
-- **摘要**：CPU 上下文切换 ，就是先把前一个任务的 CPU 上下文（也就是 CPU 寄存器和程序计数器）保存起来，然后加载新任务的上下文到这些寄存器和程序计数器，最后再跳转到程序计数器所指的新位置，运行新任务。  
+- **发布日期**：2024-02-20 08:15
+- **所属合集**：#Linux #cpu
+- **摘要**：CPU 上下文切换 ，就是先把前一个任务的 CPU 上下文（也就是 CPU 寄存器和程序计数器）保存起来，然后加载新任务的上下文到这些寄存器和程序计数器，最后再跳转到程序计数器所指的新位置，运行新任务。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJDhtqw4JAs6SESIqtrIcHLZNS9yocX7hXIfCwyiaUPKvz1a3nb1p7wbw68qZb1ASWFEZyKIBxy0w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJDhtqw4JAs6SESIqtrIcHX03rz0PJJMfMpZy3gQ3kiblEarq0micpZadKH8oUgJJiaKs9QXq8XvxTg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小技巧 - 在 fstab 文件中配置 UUID 方式自动挂载（防止盘符漂移导致挂载失败）](https://mp.weixin.qq.com/s/KoblhHY-zqgyZJImzwciqQ)
 
-- **发布日期**：2024-02-19 10:30  
-- **所属合集**：#Linux  
-- **摘要**：在 Linux 系统中，我们可以通过配置 fstab 文件让主机启动时会自动挂载数据盘的文件系统，同时为了解决盘符变化无法自动挂载，我们应该使用 UUID 方式。  
+- **发布日期**：2024-02-19 10:30
+- **所属合集**：#Linux
+- **摘要**：在 Linux 系统中，我们可以通过配置 fstab 文件让主机启动时会自动挂载数据盘的文件系统，同时为了解决盘符变化无法自动挂载，我们应该使用 UUID 方式。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJDhtqw4JAs6SESIqtrIcHTwzUh7mhXbZtxPblx73F6NQJRLHoiboWeNFKrdYB24Pl34L46dkFT2A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTJDhtqw4JAs6SESIqtrIcH6IqwN5TLmaUPwczRbsYUHolOfuf2SxEjKd5LgtEAD1paAQmbBKHByQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - The LinuxProcess Journey](https://mp.weixin.qq.com/s/I3dDxgjqi4fMI-79btGXYQ)
 
-- **发布日期**：2024-02-18 10:01  
-- **所属合集**：#Linux  
-- **摘要**：对 Linux 的默认进程以及进程的管理有一个更加全面的认识。  
+- **发布日期**：2024-02-18 10:01
+- **所属合集**：#Linux
+- **摘要**：对 Linux 的默认进程以及进程的管理有一个更加全面的认识。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHThhXIh10sPef4giaP90h75iaBGDphrLIuBkQ4v2Igrm9kxUDJvMVVjZvVkgkVTnFGPJOfY0g9ynYvA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHThhXIh10sPef4giaP90h75ia2PxB4WibQiab7XZ5V4erBcksKe1ScVQ0Pa21cZVMA6DRzKDiceVwpeUEg/0?wx_fmt=jpeg" width="400"/>
 
 ### [nmi_watchdog：Softlockup 与 hardlockup 检测机制](https://mp.weixin.qq.com/s/j7moQV7dpnjGX4vL_t7IIg)
 
-- **发布日期**：2024-02-11 11:01  
-- **所属合集**：#Linux  
-- **摘要**：nmi_watchdog 是 Linux 的内核实现了一种用以检测系统发生 softlockup 和 hardlockup 的看门狗机制。  
+- **发布日期**：2024-02-11 11:01
+- **所属合集**：#Linux
+- **摘要**：nmi_watchdog 是 Linux 的内核实现了一种用以检测系统发生 softlockup 和 hardlockup 的看门狗机制。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHReSpKMGOdcRvJ5gxM6L1gX3g9FdAqfwalMPZWNOmY471OCU4TAWPJwdOBV9gM9JicPhsAeiaDq7Wcg/0?wx_fmt=jpeg" width="400"/>
-
-### [Linux 小技巧 - 如何杀死僵尸进程](https://mp.weixin.qq.com/s/8IVee9wiYJe09VNFaJL2uw)
-
-- **发布日期**：2024-02-10 11:01  
-- **所属合集**：#Linux  
-- **摘要**：僵尸进程也称为“已失效”或“死亡”进程 - 简而言之，僵尸进程是已死亡但存在于系统进程表中的进程。今天我们就讨论一下来如何杀死它们。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQZDvIypP7nxGV5FtyWNZbEJy5Tyy2JtDBTudOZsqGVib2SH9tstumIuPFia1at785G20LfMfIseVjQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHReSpKMGOdcRvJ5gxM6L1gXAC6JcWXVnLFDM8dx0KHWqDdMdz2iaXQguicY9CKpm2NqO3PldibduemSg/0?wx_fmt=jpeg" width="400"/>
 
 ### [禁用/启用 SMT 引发的 CGroup 绑定 CPU 的问题](https://mp.weixin.qq.com/s/wQ-5d9TmOW8zZQxXgnkcsQ)
 
-- **发布日期**：2024-02-10 11:01  
-- **所属合集**：#Kubernetes #Linux  
-- **摘要**：背景知识同步多线程 (SMT) 允许在单个物理 CPU 内核上执行多个执行线程。在容器环境中，我们开关 SMT 引发了一个 cgroup 绑定 CPU 的问题 。  
+- **发布日期**：2024-02-10 11:01
+- **所属合集**：#Kubernetes #Linux
+- **摘要**：背景知识同步多线程 (SMT) 允许在单个物理 CPU 内核上执行多个执行线程。在容器环境中，我们开关 SMT 引发了一个 cgroup 绑定 CPU 的问题 。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQZDvIypP7nxGV5FtyWNZbEXPBJpjX3ltyyVCZI0PqAwL9WReU7IKsJan3AVNjmojhxUrEFs5p1qg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQZDvIypP7nxGV5FtyWNZbEDdvqd3e7vHh6Wx0bzDM6xbxGV73cGllJibSiattBoj0C2K9VLXNJheZw/0?wx_fmt=jpeg" width="400"/>
 
-### [恭祝大家新春快乐，龙年大吉！](https://mp.weixin.qq.com/s/k3-sTESCOEjAEBNKSrSMlA)
+### [Linux 小技巧 - 如何杀死僵尸进程](https://mp.weixin.qq.com/s/8IVee9wiYJe09VNFaJL2uw)
 
-- **发布日期**：2024-02-09 12:59  
-- **所属合集**：nan  
-- **摘要**：祝大家新的一年：龙行龘龘，前程朤朤 ！  
+- **发布日期**：2024-02-10 11:01
+- **所属合集**：#Linux
+- **摘要**：僵尸进程也称为“已失效”或“死亡”进程 - 简而言之，僵尸进程是已死亡但存在于系统进程表中的进程。今天我们就讨论一下来如何杀死它们。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSlWiaOxfib8aWfO3nJcL5CibqiaibUzYBXibqXibBZ5l1hqzVAxicxicY65DJngEZNI3uMUic7LW0d4VytgMZg/0?wx_fmt=jpeg" width="400"/>
-
-### [过年必备 - 三分钟学会掼蛋](https://mp.weixin.qq.com/s/PVBPm7wrBmckePQCf1HI5A)
-
-- **发布日期**：2024-02-08 10:29  
-- **所属合集**：nan  
-- **摘要**：回家过年，一局掼蛋，来解百忧！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ9T8AcLib8Rk8VF5HuH1PYQDExJTKY7unXa3OJIVtZl8iaGe7K7mOHA74ib8w5aMpvavMRrybLStZ3w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQZDvIypP7nxGV5FtyWNZbEGQnD4s3ehZZQSoCB7vgibpn6oZ8eRmRXeCljicbEt8FwmmNjCfHxN3rA/0?wx_fmt=jpeg" width="400"/>
 
 ### [K8s 的核心是 API 而非容器（二）：从开源项目看 k8s 的几种 API 扩展机制](https://mp.weixin.qq.com/s/3q6ronOby5oN_3NNjkNYrg)
 
-- **发布日期**：2024-02-07 09:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：接上一篇：Kubernetes 的核心是 API 而非容器从理论到 CRD 实践，通过具体开源项目来了解 k8s API 的几种扩展机制。  
+- **发布日期**：2024-02-07 09:30
+- **所属合集**：#Kubernetes
+- **摘要**：接上一篇：Kubernetes 的核心是 API 而非容器从理论到 CRD 实践，通过具体开源项目来了解 k8s API 的几种扩展机制。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRAGvsHj9y8rv733HFgPTUSRF9SoxhicXVXeTrfpbUCN7ZErTEZ693PUXmy61IDdhwaQ94Eofdz9KQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRAGvsHj9y8rv733HFgPTUS91xzbXUNC66xCyuVJXuaRjicZlOZSYX5dRiblXvosDEAyoUeSWz3SzrQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 小技巧 - kubectl 指北](https://mp.weixin.qq.com/s/vX7Wz8nvD4_AdAueW58FLA)
 
-- **发布日期**：2024-02-07 08:25  
-- **所属合集**：#Kubernetes  
-- **摘要**：用好 kubectl，让你更好管理 Kubernetes 集群  
+- **发布日期**：2024-02-07 08:25
+- **所属合集**：#Kubernetes
+- **摘要**：用好 kubectl，让你更好管理 Kubernetes 集群
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQfMFzoX4ISsw1ODW6c5qeYg6iasf6JrNc6z8jA2zaLfTcTGibACnPceKFJ8qjeic3ibqDS31sJlNDfDQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQfMFzoX4ISsw1ODW6c5qeYXdictLHPuuWPweiaDQrYjdUIuEkuphUUDH3cYEoQZ6ryOsX4KvB6a5yQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 的核心是 API 而非容器（一）：从理论到 CRD 实践](https://mp.weixin.qq.com/s/nDv6ZCNqsfalKjNLX8aKuQ)
 
-- **发布日期**：2024-02-06 08:55  
-- **所属合集**：#Kubernetes  
-- **摘要**：K8s 的核心价值是其通用、跨厂商和平台、可灵活扩展的声明式 API 框架， 而不是容器（虽然容器是它成功的基础）  
+- **发布日期**：2024-02-06 08:55
+- **所属合集**：#Kubernetes
+- **摘要**：K8s 的核心价值是其通用、跨厂商和平台、可灵活扩展的声明式 API 框架， 而不是容器（虽然容器是它成功的基础）
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR2OGUWnqa0aSpTfeaibSC68lfCdFA2lkuEc82y8gAVbZst3trtDb6QqcbxJ2x0yJKoyn8qff8yTBQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR2OGUWnqa0aSpTfeaibSC68DicrI948mlIkpibK919sIms1ZtbYHZJiaib5kibBBogJE798PvCdFGiaE1wQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术国产化 - 从 500 行 C 代码到生产级容器运行时](https://mp.weixin.qq.com/s/i7SqPGTDzy-3Qd8kRKUVUA)
 
-- **发布日期**：2024-02-05 08:55  
-- **所属合集**：#Kubernetes #Linux  
-- **摘要**：本文试图通过一段简单但又尽量全面的代码来串联起这些底层核心技术，看看一个容器是如何创建出来的。有了对这个过程的理解，容器就不再是一个无从下手的黑盒，排查一些线上疑难杂症时也会更有方向。  
+- **发布日期**：2024-02-05 08:55
+- **所属合集**：#Kubernetes #Linux
+- **摘要**：本文试图通过一段简单但又尽量全面的代码来串联起这些底层核心技术，看看一个容器是如何创建出来的。有了对这个过程的理解，容器就不再是一个无从下手的黑盒，排查一些线上疑难杂症时也会更有方向。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR2OGUWnqa0aSpTfeaibSC68WzjX3ul6NRia5FneHCIOFzwzCVD3EBMsuYl11GnES95WkUtchLhbN1Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR2OGUWnqa0aSpTfeaibSC68Ec9qGppFrk14s4rQMvJLmKKaicezxHNCCiciaO9oc2NnvZ0aia4pqia9dmA/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - LVM 逻辑卷管理器介绍](https://mp.weixin.qq.com/s/Wu6zo4OCGt93lZVPwavALQ)
 
-- **发布日期**：2024-02-04 19:20  
-- **所属合集**：#Linux #存储  
-- **摘要**：LVM 是逻辑卷管理（Logical Volume Manager）的简称，它是 Linux 环境下对磁盘分区进行管理的一种机制。LVM通过在硬盘和文件系统之间添加一个逻辑层，来为文件系统屏蔽下层硬盘分区布局，提高硬盘分区管理的灵活性。  
+- **发布日期**：2024-02-04 19:20
+- **所属合集**：#Linux #存储
+- **摘要**：LVM 是逻辑卷管理（Logical Volume Manager）的简称，它是 Linux 环境下对磁盘分区进行管理的一种机制。LVM 通过在硬盘和文件系统之间添加一个逻辑层，来为文件系统屏蔽下层硬盘分区布局，提高硬盘分区管理的灵活性。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRg5ec6XmNFVdxSwMh34ZpuvNx8wBGxqwwymRWukxN2Jt8t6NTJljxDwWlv8XIRMaeCIPLcFfrKibA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRg5ec6XmNFVdxSwMh34ZpujGkibnO7UmoR4NeODvn4gn71q8a4otqjLgWtPHfnAoF1BmhWIdR5qicw/0?wx_fmt=jpeg" width="400"/>
 
-### [【实战篇】使用火焰图定位 jbd2进程导致系统负载高问题](https://mp.weixin.qq.com/s/8DgCgJvhMETtzIq2570-uA)
+### [【实战篇】使用火焰图定位 jbd2 进程导致系统负载高问题](https://mp.weixin.qq.com/s/8DgCgJvhMETtzIq2570-uA)
 
-- **发布日期**：2024-02-02 09:15  
-- **所属合集**：#BPF之巅 #系统可观测性  
-- **摘要**：我们可以使用火焰图定位 jbd2进程导致系统负载高问题  
+- **发布日期**：2024-02-02 09:15
+- **所属合集**：#BPF 之巅 #系统可观测性
+- **摘要**：我们可以使用火焰图定位 jbd2 进程导致系统负载高问题
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRE9gOlf2ZCgmic4f5sneibRSanYPCxC3AbSw9kNJiacbcYYdA1ce5qAsB56D1ID7L4ypFGYkLgAACfw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRE9gOlf2ZCgmic4f5sneibRSFRA8n1KDTUXQcicAozduhYhhWIxKduvc0AUCpz87woPOHicTRIbSc8yg/0?wx_fmt=jpeg" width="400"/>
 
 ### [The State of eBPF - 2024](https://mp.weixin.qq.com/s/TifVOJ_OyGbWNEwe3ImTsg)
 
-- **发布日期**：2024-02-01 12:15  
-- **所属合集**：#Kubernetes #BPF之巅 #Linux  
-- **摘要**：（eBPF的拥护者认为）毫无疑问，eBPF 将成为新的云原生基础设施堆栈中的新的一层，影响所有应用的可观测性、性能、可靠性、网络和安全性。  
+- **发布日期**：2024-02-01 12:15
+- **所属合集**：#Kubernetes #BPF 之巅 #Linux
+- **摘要**：（eBPF 的拥护者认为）毫无疑问，eBPF 将成为新的云原生基础设施堆栈中的新的一层，影响所有应用的可观测性、性能、可靠性、网络和安全性。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRE9gOlf2ZCgmic4f5sneibRS74YhemETIBs4dzHHe6knu9ibIr7fT3oHRn8qdQqgpeYJ1KOL16QOZtg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRE9gOlf2ZCgmic4f5sneibRSENxopGtoick9QR4hJ3DqorV3icJ2fCUKCF0RFQM9Voc8N72ZPTYhXzSA/0?wx_fmt=jpeg" width="400"/>
 
 ### [不敢把数据库运行在 K8s 上？容器化对数据库性能有影响吗？](https://mp.weixin.qq.com/s/e6D6K9_6ZuhrijH0cd0erg)
 
-- **发布日期**：2024-01-31 09:01  
-- **所属合集**：#Kubernetes  
-- **摘要**：数据库容器化的趋势已经非常明显，数据库 + 分析类的 workload 已经占据了半壁江山，但是依然有很多人在做技术选型时面临一个难题：容器化是否对数据库性能有影响？如果有，影响的因素是什么？如何面对容器化带来的性能甚至是稳定性的问题？  
+- **发布日期**：2024-01-31 09:01
+- **所属合集**：#Kubernetes
+- **摘要**：数据库容器化的趋势已经非常明显，数据库 + 分析类的 workload 已经占据了半壁江山，但是依然有很多人在做技术选型时面临一个难题：容器化是否对数据库性能有影响？如果有，影响的因素是什么？如何面对容器化带来的性能甚至是稳定性的问题？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSUQ0ib9Yzy0xt1fzW29gdAxJ2RHQwUsqIaWiciarMwtQnOuDA7D6Ft3uuF4aMEu2ScM2Bv5yGiaAm55w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSUQ0ib9Yzy0xt1fzW29gdAxfTk67iaJZtsRTFnt6icpiaA8nhqLIzStx5V58s0BaluP2cf2PCjb8EEog/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 小技巧 - 通过 API 获取任意节点 kubelet 的配置](https://mp.weixin.qq.com/s/mbnHv3C4IDJY3W14jcx0aw)
 
-- **发布日期**：2024-01-30 12:37  
-- **所属合集**：#Kubernetes  
-- **摘要**：本文介绍了使用 kubectl proxy 快速访问 API Server 来获取 kubelet 的配置  
+- **发布日期**：2024-01-30 12:37
+- **所属合集**：#Kubernetes
+- **摘要**：本文介绍了使用 kubectl proxy 快速访问 API Server 来获取 kubelet 的配置
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSUQ0ib9Yzy0xt1fzW29gdAxReZibh0exQxtJA0WgtU1dmhFcFGn3LZnourdXbbsvjA7jOk11BEsWaA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSUQ0ib9Yzy0xt1fzW29gdAxiawMRfMFI8YWKY0vMQM5wEDeosB4Ycb7g4r8eVXgREqnVAV5jceOugA/0?wx_fmt=jpeg" width="400"/>
 
-### [【原理篇】《BPF性能之巅》如何快速分析系统的 I/O 瓶颈？](https://mp.weixin.qq.com/s/X1WVRWSgUUyYbVyelnf_Nw)
+### [【原理篇】《BPF 性能之巅》如何快速分析系统的 I/O 瓶颈？](https://mp.weixin.qq.com/s/X1WVRWSgUUyYbVyelnf_Nw)
 
-- **发布日期**：2024-01-29 12:36  
-- **所属合集**：#BPF之巅 #Linux  
-- **摘要**：我们应该使用什么样的方法和工具，来“快准狠”地定位系统的 I/O 瓶颈呢？本文是原理篇，后续还会陆续推出实战篇。  
+- **发布日期**：2024-01-29 12:36
+- **所属合集**：#BPF 之巅 #Linux
+- **摘要**：我们应该使用什么样的方法和工具，来“快准狠”地定位系统的 I/O 瓶颈呢？本文是原理篇，后续还会陆续推出实战篇。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTFQNGwvNUBKFITY3zIHzYbP4B5SapgOdZ0ibdf5kdl69IzBSvyhrG7VcOCwaaiayEAeicmS7Eh4q76w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTFQNGwvNUBKFITY3zIHzYbZZZ9Q36PJgcBuY2ewgydDiaUGKjbaLgHbMUJMVambbxfldpWCuZzKdQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小技巧 - 模拟 Docker hang 住](https://mp.weixin.qq.com/s/emha2o0B55UTyJ_bBitMjw)
 
-- **发布日期**：2024-01-27 10:20  
-- **所属合集**：#Linux #Docker  
-- **摘要**：我们是否可以模拟 Docke 命令 hang 住的情况呢？答案是 Yes，可以使用 freezer Cgroup 来制造包含 D 状态进程的容器！  
+- **发布日期**：2024-01-27 10:20
+- **所属合集**：#Linux #Docker
+- **摘要**：我们是否可以模拟 Docke 命令 hang 住的情况呢？答案是 Yes，可以使用 freezer Cgroup 来制造包含 D 状态进程的容器！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRIibXpQeojAfT3bPqCBuaSlVp5T1D8QJq5Lr3uzw54sGm7oXopaCMwicoib6iaA1t2IlANHJeELhkf1A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRIibXpQeojAfT3bPqCBuaSlSWkrDZ8xwiaYKJbmV7c6j2ptQUBKiaGGZMyzRWmDSicsFLqNAIOCpeyqg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 小技巧 - 通过 Events 发现问题](https://mp.weixin.qq.com/s/UwHK8f9HeBq7mzA1ddSABg)
 
-- **发布日期**：2024-01-26 12:28  
-- **所属合集**：#Kubernetes  
-- **摘要**：在本文中，我们将回顾 Kubernetes 中的事件，以及使用 kubectl get events 命令来获取相关事件并进行分析。  
+- **发布日期**：2024-01-26 12:28
+- **所属合集**：#Kubernetes
+- **摘要**：在本文中，我们将回顾 Kubernetes 中的事件，以及使用 kubectl get events 命令来获取相关事件并进行分析。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSKX5rcQpqvfL5Cl3AibSgiaiatdq8nibN7Gv3arx2RkaeCv2axicazJlLpQGiaDMHsmRibVTX6DDn4kZw6Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSKX5rcQpqvfL5Cl3AibSgiaiaNfIXXU1wEp8ic6cAwd097BiatlibFJnf1RibukSutkysYibFbGRqNlDKLOg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小技巧 - 查看所有的内核进程](https://mp.weixin.qq.com/s/0Vg6hpof-sqyBWLPRudvTQ)
 
-- **发布日期**：2024-01-25 12:27  
-- **所属合集**：#Linux  
-- **摘要**：Linux 小技巧 - 查看所有的内核进程  
+- **发布日期**：2024-01-25 12:27
+- **所属合集**：#Linux
+- **摘要**：Linux 小技巧 - 查看所有的内核进程
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTgHhEmKg8W1VLn6sMZevKAYe1oOGAwhzuWbuYdmziaWRl5DDR2QBiaxqpgoA29FlTiadZMhYmvf9A6w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTgHhEmKg8W1VLn6sMZevKAlDiaIibUMsgBZhs8fRnKM19z27iaQTGW24HvwibnyINWups9mNBUiclO1Kw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux IO Scheduler: noop/deadline/cfq/bfq 到 blk-mq](https://mp.weixin.qq.com/s/XF5GEsOiBXj__VdqMLlcQQ)
 
-- **发布日期**：2024-01-24 12:26  
-- **所属合集**：#Linux  
-- **摘要**：Linux I/O Scheduler 相关资料  
+- **发布日期**：2024-01-24 12:26
+- **所属合集**：#Linux
+- **摘要**：Linux I/O Scheduler 相关资料
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTgHhEmKg8W1VLn6sMZevKAJYqPQE1eXYuWsCqEudecJUqxQFbNw8QZrzHgiaw3BecyMmqgxCzZSpg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTgHhEmKg8W1VLn6sMZevKAkoRiaakqUqcPFdpRybcg634kgqmgxKVPZhiaFmNhA6kWD2YJmlPria62w/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 基础知识 - 进程组、作业和会话](https://mp.weixin.qq.com/s/7MmARq3raF2X4c2Dp_jSag)
 
-- **发布日期**：2024-01-23 12:25  
-- **所属合集**：#Linux  
-- **摘要**：进程组是进程的集合。在 shell 内，进程组通常称为作业。每个进程组又属于一个会话（Session），因此会话是相关进程组的集合。Linux 内核为所有正在运行的进程提供两级层次结构。  
+- **发布日期**：2024-01-23 12:25
+- **所属合集**：#Linux
+- **摘要**：进程组是进程的集合。在 shell 内，进程组通常称为作业。每个进程组又属于一个会话（Session），因此会话是相关进程组的集合。Linux 内核为所有正在运行的进程提供两级层次结构。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTibTl6cyoANHwWxrhKtHmY4hKvQmN3C3jQWj2pKd9Uibj0C0WYeXLaMQIktj0rgrbaBzWOoXUQ1Nyw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTibTl6cyoANHwWxrhKtHmY4uTT981MWpHIuZGd8VGh1ZqRUtu8ltia17ibOGQHlt7BJSic7vkMEdESQw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - 节点资源预留让节点更加稳定](https://mp.weixin.qq.com/s/j9zEvz4xfxpzVRMPMypYCQ)
 
-- **发布日期**：2024-01-22 08:45  
-- **所属合集**：#Kubernetes #Linux  
-- **摘要**：如何让节点的可用资源更加确定呢？如何不要让节点的其它进程占用过多的资源，尤其是内存？
-如何预留一些资源给到系统关键进程呢（例如sshd，以确保在关键时候我们可以远程登录）？  
+- **发布日期**：2024-01-22 08:45
+- **所属合集**：#Kubernetes #Linux
+- **摘要**：如何让节点的可用资源更加确定呢？如何不要让节点的其它进程占用过多的资源，尤其是内存？ 如何预留一些资源给到系统关键进程呢（例如 sshd，以确保在关键时候我们可以远程登录）？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS5bU3b8zE9VrUD3Whncu0hmmv6TgxF4h4iag5vIp7xmW2Ld7TiaCrcAWibVic60BuSUoyhoffD3T5bcQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS5bU3b8zE9VrUD3Whncu0hCC1x9PosEiaSWDKBfW4gnAiaic4RO8Lw4eP1gbDaxgg4I0Qnf8uRoDPicQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 性能分析课程推荐](https://mp.weixin.qq.com/s/KlJKkWwa3DLXsurTb8tRmQ)
 
-- **发布日期**：2024-01-21 00:06  
-- **所属合集**：#系统可观测性  
-- **摘要**：Linux 性能分析课程推荐  
+- **发布日期**：2024-01-21 00:06
+- **所属合集**：#系统可观测性
+- **摘要**：Linux 性能分析课程推荐
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNsfpkvZaFktjKuAqaDenjuXmB7uX3jgnMWDDuv2SLqgKdQicahXZnUcQ/0?wx_fmt=jpeg" width="400"/>
-
-### [Docker & Kubernetes 原理入门课程推荐](https://mp.weixin.qq.com/s/gZBv6rm8cweBvYZ3v35t8Q)
-
-- **发布日期**：2024-01-21 00:06  
-- **所属合集**：#Docker  
-- **摘要**：Docker 和 Kubernetes 原理课程推荐  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNzBra0ssCClSVhsf4KmDrp8l44Gz58MtElFcGHicic6ArsLicNJriaGE93Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNrgmLL4IIr3PP0Gxafbo6GrImljAwKjw1TZBApg2gB34dryG3eVzfwQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 可观测性 - 你真的了解 Linux Load Average 吗？](https://mp.weixin.qq.com/s/MKOj8xdsG6mihuDT7Gd25A)
 
-- **发布日期**：2024-01-21 00:06  
-- **所属合集**：#Linux #系统可观测性  
-- **摘要**：Linux Load Average：算法、实现与实用指南  
+- **发布日期**：2024-01-21 00:06
+- **所属合集**：#Linux #系统可观测性
+- **摘要**：Linux Load Average：算法、实现与实用指南
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSMFnjHX01iaUGBVET2kNjH4Rq69LAv43WVTQiaTL0icMOBhN7jkIn30cQEEVUUaLE6gPT4x09cahgeQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSMFnjHX01iaUGBVET2kNjH4MI1yibOEMxMeKkVvicoP090nOME6z0HVCkqYqWZibcAbzUP3JeeBLcJqg/0?wx_fmt=jpeg" width="400"/>
+
+### [Docker & Kubernetes 原理入门课程推荐](https://mp.weixin.qq.com/s/gZBv6rm8cweBvYZ3v35t8Q)
+
+- **发布日期**：2024-01-21 00:06
+- **所属合集**：#Docker
+- **摘要**：Docker 和 Kubernetes 原理课程推荐
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNeRExN8RCMVBZ5zrL6zfbMweSqdgKmjsO1KrtYK5bHosyLEZQ1JTeoQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 性能分析课程推荐](https://mp.weixin.qq.com/s/7nX5mhfnDnYt4FBe-mHXZA)
 
-- **发布日期**：2024-01-20 09:15  
-- **所属合集**：#系统可观测性  
-- **摘要**：Linux 性能分析课程推荐  
+- **发布日期**：2024-01-20 09:15
+- **所属合集**：#系统可观测性
+- **摘要**：Linux 性能分析课程推荐
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNsfpkvZaFktjKuAqaDenjuXmB7uX3jgnMWDDuv2SLqgKdQicahXZnUcQ/0?wx_fmt=jpeg" width="400"/>
-
-### [Docker & Kubernetes 原理入门课程推荐](https://mp.weixin.qq.com/s/zOGdMEX-xrdRIMddohgUQg)
-
-- **发布日期**：2024-01-20 09:15  
-- **所属合集**：#Docker  
-- **摘要**：Docker 和 Kubernetes 原理课程推荐  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNzBra0ssCClSVhsf4KmDrp8l44Gz58MtElFcGHicic6ArsLicNJriaGE93Q/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNrgmLL4IIr3PP0Gxafbo6GrImljAwKjw1TZBApg2gB34dryG3eVzfwQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Java Spring 应用如何更好地在 Kubernetes 上运行？](https://mp.weixin.qq.com/s/3KWOFsA89AV9G20yzT2nDA)
 
-- **发布日期**：2024-01-20 09:15  
-- **所属合集**：#应用上云 #Kubernetes #Java  
-- **摘要**：nan  
+- **发布日期**：2024-01-20 09:15
+- **所属合集**：#应用上云 #Kubernetes #Java
+- **摘要**：nan
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNQ1Y7icqDJ0Nb2znLBJb6pIicJ4k5VfT1dUsex9E24x9deofib1en7kAHw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNK3ibv7QmoGF2jpbEZliat8oXo96tzcTpL8B2UvWCzDibaOicrCYMcibqXgQ/0?wx_fmt=jpeg" width="400"/>
+
+### [Docker & Kubernetes 原理入门课程推荐](https://mp.weixin.qq.com/s/zOGdMEX-xrdRIMddohgUQg)
+
+- **发布日期**：2024-01-20 09:15
+- **所属合集**：#Docker
+- **摘要**：Docker 和 Kubernetes 原理课程推荐
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTfEictsUfIxPFokComXrmJNeRExN8RCMVBZ5zrL6zfbMweSqdgKmjsO1KrtYK5bHosyLEZQ1JTeoQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - 如何修改容器的内核参数](https://mp.weixin.qq.com/s/04O2Y66_JyXhBR9bd4Uzuw)
 
-- **发布日期**：2024-01-19 08:01  
-- **所属合集**：#Linux #Kubernetes #Docker  
-- **摘要**：在某些场景中，我们需要调整内核参数，来调整操作系统行为。那在容器化场景中，我们是否可以调整？哪些可以调整？如何调整？  
+- **发布日期**：2024-01-19 08:01
+- **所属合集**：#Linux #Kubernetes #Docker
+- **摘要**：在某些场景中，我们需要调整内核参数，来调整操作系统行为。那在容器化场景中，我们是否可以调整？哪些可以调整？如何调整？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSXVmnIB5LtiatvTu9QYIEicMa6xg6GsxDaBIBde87vSmoPJ4Bibvm1aNia7R9K9fxWA9f8Rz6uXg2WibA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSXVmnIB5LtiatvTu9QYIEicMOLZickzNiaIXx7AjqrfY0zULZqOwKV6Cu6zXArCK7OqXJuS2kt9w8iaZg/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - 使用 UDS 实现 Pod 间通信](https://mp.weixin.qq.com/s/vqR-2hqJwXGBgmAsWL6uAQ)
 
-- **发布日期**：2024-01-18 12:18  
-- **所属合集**：#Kubernetes #Linux  
-- **摘要**：简介传统 Socket 包含 Stream Socket 和 Datagram Socket，这两种 Sock  
+- **发布日期**：2024-01-18 12:18
+- **所属合集**：#Kubernetes #Linux
+- **摘要**：简介传统 Socket 包含 Stream Socket 和 Datagram Socket，这两种 Sock
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQS4w2vfPR81v5dFwTOnvRYpriczGHibaVoIt2aLvmqfvK44NWdwhy8fqEnkTF8iaWIj8ydIIgzk6oiaQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQS4w2vfPR81v5dFwTOnvRYnfQ5eLIwjq8J0UhIXERoLY2dVvicuVJKruVWzNnjWz1qsZgL0hqOxcw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - Linux 内存文件系统](https://mp.weixin.qq.com/s/5oDwatGU8kCDY_62P3piSg)
 
-- **发布日期**：2024-01-16 21:56  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：大家是否有注意过 Linux 主机上的 /dev/shm 设备？它是什么  
+- **发布日期**：2024-01-16 21:56
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：大家是否有注意过 Linux 主机上的 /dev/shm 设备？它是什么
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRhcRZRf5zkodmhG83RDvrkq1YgqpQd6x9olrr2nJd7lwia9q5bs0kdnDZR5JViclSga3oNslrkp8sA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRhcRZRf5zkodmhG83RDvrkWkz3ib9cU1jF943qgpnwd6KhD7gj6CjGsKEDBDUTTnflM9Zq1CVUThw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - 多 Pod 间共享内存通信](https://mp.weixin.qq.com/s/JOzzrgrxgyca1EpQfn9NaQ)
 
-- **发布日期**：2024-01-14 20:00  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：本文介绍了一种在单节点上使用 tmpfs 模拟共享内存的方式，实现多个 Pod 之间可以实现共享内存通信。  
+- **发布日期**：2024-01-14 20:00
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：本文介绍了一种在单节点上使用 tmpfs 模拟共享内存的方式，实现多个 Pod 之间可以实现共享内存通信。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRZDg0HDDow6U8fwzZTaN39QQncTfNb1LibCkeCSibHAXrIAicjciclfpGx0tpkDCsaC3JcqOnYVdLzew/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRZDg0HDDow6U8fwzZTaN391Qdfu6FiciaSWqqgA2YqUlLuVxv1icgn6IjM41h7UNhTuWaA4YXPSnbKA/0?wx_fmt=jpeg" width="400"/>
 
 ### [为啥 Pod 被驱逐了？浅谈 Kubernetes 驱逐机制](https://mp.weixin.qq.com/s/QsMRT5FgId-JTCVp9R4wbw)
 
-- **发布日期**：2024-01-12 08:30  
-- **所属合集**：#Kubernetes  
-- **摘要**：在 Kubernetes 集群运行过程中，偶尔会发现我们的业务 Pod 状态从 running 变成了 Evicted，这个状态是什么含义？又发送了什么呢？  
+- **发布日期**：2024-01-12 08:30
+- **所属合集**：#Kubernetes
+- **摘要**：在 Kubernetes 集群运行过程中，偶尔会发现我们的业务 Pod 状态从 running 变成了 Evicted，这个状态是什么含义？又发送了什么呢？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTUHLKXHsxBSYTCTIXMpVEo1uzJWce8ibxJibbHO95zqq8icAykyFkKDsuFPDbbszaNK5qFOUIh45Wow/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTUHLKXHsxBSYTCTIXMpVEo3vhic4HcI114hSB0ASOicibJeVQzAx88RrOeUAoIibh7iaU7ZaqUvWd3dnQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - 从一个“D”状态容器进程回顾 cgroup freezer 子系统](https://mp.weixin.qq.com/s/SRnya2Y5kwJu3PYHug8jeQ)
 
-- **发布日期**：2024-01-10 22:17  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：从一个 “D” 状态的容器进程，来回顾 cgroup freezer 子系统，同时提供相关脚本来帮助"解冻"进程！  
+- **发布日期**：2024-01-10 22:17
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：从一个 “D” 状态的容器进程，来回顾 cgroup freezer 子系统，同时提供相关脚本来帮助"解冻"进程！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTIFOxCvRnekBrbtXSaaCsjRJSd5HZkchOGjt8XwFMPqqPuo0HFrdNe7OhaJiavclZ8R0KRDoia2ZaQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTIFOxCvRnekBrbtXSaaCsjNZ1bInqAxEqgox2ymSfG7sUrO7aiaGDVvvBXg9FCup2tcfeOicVdZrIw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - 如何让我的容器/进程不要被 OOM Kill？](https://mp.weixin.qq.com/s/AoyWzaXQcgCPGTTBHjQzRQ)
 
-- **发布日期**：2024-01-09 23:55  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：在 Kubernetes 环境中，我们会遇到 Java OOM -> Linux cgroup OOM -> Linux OOM 三种不同类型的 OOM，它们是什么？我们如何让我们的容器避免被 OOM Kill 呢？  
+- **发布日期**：2024-01-09 23:55
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：在 Kubernetes 环境中，我们会遇到 Java OOM -> Linux cgroup OOM -> Linux OOM 三种不同类型的 OOM，它们是什么？我们如何让我们的容器避免被 OOM Kill 呢？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ2icHLbRc1NYz27rAottRABwnIF8TBnrUZibWog6FRRohFDCsPzuaJtCAJM1o4nLbqZfI2UsdLsQyA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQ2icHLbRc1NYz27rAottRAB1exxXT4Pic6hLs2MhPqIWAGe5a42RdlFQp1NJAgicYPjXP6QE8oM05RQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes：如何实现应用零宕机？](https://mp.weixin.qq.com/s/wmxXuCSfDAFpA5o04XlXbA)
 
-- **发布日期**：2024-01-08 12:14  
-- **所属合集**：#Kubernetes #应用上云  
-- **摘要**：只要注意这几点，我们就能利用 Kubernetes 来实现应用的零宕机。  
+- **发布日期**：2024-01-08 12:14
+- **所属合集**：#Kubernetes #应用上云
+- **摘要**：只要注意这几点，我们就能利用 Kubernetes 来实现应用的零宕机。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRj0sNTnayMzdmEAgibWicTBwITnwphFxoUck56M2pPGHn1Qib5ZGibzFErFtppbytiagarsULWmmQPyvQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRj0sNTnayMzdmEAgibWicTBweib6vdQ36hynXIic9iaQQ0PgtIsiclCynPiarmVFicD9kxlicQosBagibxeVqQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [从 Kubernetes Pod 的故障诊断需求评价 K8sGPT 的 Pod analyzer 的实现](https://mp.weixin.qq.com/s/-1dMiOhYQZ-RuzVl73ZeAw)
 
-- **发布日期**：2024-01-07 09:09  
-- **所属合集**：#Kubernetes #大模型  
-- **摘要**：故障诊断的流程：异常识别 -> 相关数据采集 -> 检查项评估 -> 根因分析  
+- **发布日期**：2024-01-07 09:09
+- **所属合集**：#Kubernetes #大模型
+- **摘要**：故障诊断的流程：异常识别 -> 相关数据采集 -> 检查项评估 -> 根因分析
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSlWLmGEFDUYJoasnVSvnPSBnTCnu1gGAiaC77RTibjU8cNJTxU5uXyGABq0d1d4wlicsK0tGmn0yOtg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSlWLmGEFDUYJoasnVSvnPSKUWN9OVn52GIlKNjLj0YqfPvEnUacgzbnDkAvDhycXK86iccKcGzofA/0?wx_fmt=jpeg" width="400"/>
 
-### [为什么同样使用2个vCPU的App在VM中比在容器中运行的快？](https://mp.weixin.qq.com/s/t3DjEmHxatWmYDonJKjjyA)
+### [插上 AIGC 翅膀的 Kubernetes AIOps 工具 - K8sGPT](https://mp.weixin.qq.com/s/Tes-6S63AsBl6rdbbB2ddQ)
 
-- **发布日期**：2024-01-06 10:32  
-- **所属合集**：#Linux #Docker  
-- **摘要**：容器技术回顾 - Kubernetes CPU request 和 limit 的作用与原理 一文中  
+- **发布日期**：2024-01-06 10:32
+- **所属合集**：#Kubernetes #大模型
+- **摘要**：本文我们以 K8sGPT 为例为读者介绍了 AIGC + Kubernetes 领域中目前热度比较高的一个工具 - K8sGPT，并通过一个例子做了一个完整的演示。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTk5IRRqgsQwg7AWGKzW3c74TzZvWevjYic0fADlibziaYSsWnXrCgTG3SUEj2yRJ89LcwC79R8icsXOw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTllSbiaiaL2m4FNy29IlEnc6BL6lic7tcjn2icpViagSy1ZAibziazZ8DdBzSXmSAyW17jSTT22tGjybDnQ/0?wx_fmt=jpeg" width="400"/>
+
+### [为什么同样使用 2 个 vCPU 的 App 在 VM 中比在容器中运行的快？](https://mp.weixin.qq.com/s/t3DjEmHxatWmYDonJKjjyA)
+
+- **发布日期**：2024-01-06 10:32
+- **所属合集**：#Linux #Docker
+- **摘要**：容器技术回顾 - Kubernetes CPU request 和 limit 的作用与原理 一文中
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTk5IRRqgsQwg7AWGKzW3c7RPXd3EgcMrSK4CvzsYLrMEH94amFw2YPmc4X8XTj5MQuDN1fSVyvRw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes Pod 异常诊断](https://mp.weixin.qq.com/s/-yf3wB9yLY-Mu_zit9Hahg)
 
-- **发布日期**：2024-01-06 10:32  
-- **所属合集**：#Kubernetes  
-- **摘要**：我们学习了一文学会 Kubernetes Pod 的生命周期管理之后，那有什么方式来诊断 Pod 异常呢？文中作者提供了一个脚本，可以辅助做 K8s Pod 故障诊断。  
+- **发布日期**：2024-01-06 10:32
+- **所属合集**：#Kubernetes
+- **摘要**：我们学习了一文学会 Kubernetes Pod 的生命周期管理之后，那有什么方式来诊断 Pod 异常呢？文中作者提供了一个脚本，可以辅助做 K8s Pod 故障诊断。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQiamiaLpfs12BzXxlAGpPAPDzUscdUiaqnqb1X5T83YpVIib4uE7Jp75UEsmGoZN3ibh0iadBwxQdNtHAQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQiamiaLpfs12BzXxlAGpPAPDRY69OdOG5WL6O4XduIzEZQeiaicV6JgnrgfQia6NAWFoSuKmicTuomdQRQ/0?wx_fmt=jpeg" width="400"/>
 
-### [插上 AIGC 翅膀的 Kubernetes AIOps工具 - K8sGPT](https://mp.weixin.qq.com/s/Tes-6S63AsBl6rdbbB2ddQ)
+### [复旦大学奇书《大规模语言模型：从理论到实践》- 第 1 章 绪论](https://mp.weixin.qq.com/s/82EXJu3-nFCQ9QLyiDIE_Q)
 
-- **发布日期**：2024-01-06 10:32  
-- **所属合集**：#Kubernetes #大模型  
-- **摘要**：本文我们以 K8sGPT 为例为读者介绍了AIGC + Kubernetes 领域中目前热度比较高的一个工具 - K8sGPT，并通过一个例子做了一个完整的演示。  
+- **发布日期**：2024-01-05 12:13
+- **所属合集**：#大模型
+- **摘要**：开启来自复旦大学的《大规模语言模型 : 从理论到实践》学习篇，今天带来第一章的内容，介绍大语言模型的前世今生！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTllSbiaiaL2m4FNy29IlEnc6G3gBSTRcpk32AvU3mIQ9621Ubemibs15icdEiaMmpUOQ6ia7OHMeBzOgxA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQqI6amI3mVhYkwNBvAGjWwkgzzqC2xL7YfkI6E4psAic7oL5kqsbTprvQU2kkODBcQLURffVGG13g/0?wx_fmt=jpeg" width="400"/>
 
-### [复旦大学奇书《大规模语言模型：从理论到实践》- 第1章  绪论](https://mp.weixin.qq.com/s/82EXJu3-nFCQ9QLyiDIE_Q)
+### [为什么同样使用 2 个 vCPU 的 App 在 VM 中比在容器中运行的快？](https://mp.weixin.qq.com/s/hqjx-PgHEkUEoOnRbdiXTA)
 
-- **发布日期**：2024-01-05 12:13  
-- **所属合集**：#大模型  
-- **摘要**：开启来自复旦大学的《大规模语言模型 : 从理论到实践》学习篇，今天带来第一章的内容，介绍大语言模型的前世今生！  
+- **发布日期**：2024-01-04 12:12
+- **所属合集**：#Linux #Docker
+- **摘要**：容器技术回顾 - Kubernetes CPU request 和 limit 的作用与原理 一文中
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQqI6amI3mVhYkwNBvAGjWwfGrF448OT6pCko8TFpxgAbNZYVytiaHZXiaUeLHE581h6lGycmibibArWQ/0?wx_fmt=jpeg" width="400"/>
-
-### [为什么同样使用2个vCPU的App在VM中比在容器中运行的快？](https://mp.weixin.qq.com/s/hqjx-PgHEkUEoOnRbdiXTA)
-
-- **发布日期**：2024-01-04 12:12  
-- **所属合集**：#Linux #Docker  
-- **摘要**：容器技术回顾 - Kubernetes CPU request 和 limit 的作用与原理 一文中  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTk5IRRqgsQwg7AWGKzW3c74TzZvWevjYic0fADlibziaYSsWnXrCgTG3SUEj2yRJ89LcwC79R8icsXOw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTk5IRRqgsQwg7AWGKzW3c7RPXd3EgcMrSK4CvzsYLrMEH94amFw2YPmc4X8XTj5MQuDN1fSVyvRw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾（六） - 容器与主机共享内核是什么含义？](https://mp.weixin.qq.com/s/oA-tuw2vDB3TWO27mhGZiA)
 
-- **发布日期**：2024-01-03 12:30  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：容器和主机共享内核，这得益于Linux有一个统一的内核体系。不同的 Linux 发行版使用了相同的内核体系，这使得基于不同 Linux 发行版构建的容器可以在一个 Linux 发行版上运行。那容器和主机共享内核有什么影响吗？​  
+- **发布日期**：2024-01-03 12:30
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：容器和主机共享内核，这得益于 Linux 有一个统一的内核体系。不同的 Linux 发行版使用了相同的内核体系，这使得基于不同 Linux 发行版构建的容器可以在一个 Linux 发行版上运行。那容器和主机共享内核有什么影响吗？​
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgK88XasC1ujWQXzwvNJJrwsChKricZqndjMTRiazxLNicabPDZnmbpcKFibpoToPnbzRCib5tibb897Xw/0?wx_fmt=jpeg" width="400"/>
-
-### [2023年十大「大模型领域综述」论文](https://mp.weixin.qq.com/s/apjHJ2dNq4NAdiBVisig8A)
-
-- **发布日期**：2024-01-02 12:15  
-- **所属合集**：nan  
-- **摘要**：十大综述文章帮大家入门 LLM，此外再推荐一篇论文和一本书：
-1. 《A Survey of Large Language Models》- arxiv.org/abs/2303.18223
-2. 《大规模语言模型 - 从理论到实践》- i  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2hrPg32tRBnwIQ0QjPFkWgYWjQIbsV1TiaCUT7poSXwnx3XaTicVEsEHoKNeOZ1e9DymQRrK1cvdMw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSgK88XasC1ujWQXzwvNJJrgPoQr0Z99RYUvvMwOUtO7c0zOh6D2PlyIXD44BicuhibLYSQ7tMmnBKg/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes 上运行 Spring 生产应用的注意事项](https://mp.weixin.qq.com/s/yADIyAlpVxYUC3XaZogLKA)
 
-- **发布日期**：2024-01-01 10:00  
-- **所属合集**：#应用上云 #Kubernetes  
-- **摘要**：​我们学习容器技术，最终目的还是为了使用​容器技术。而 Spring 应用，是目前被广泛使用的业务开发框架，作者将新开一个系列来介绍应用​在 Kubernetes 生产化运行的注意事项和最佳实践。  
+- **发布日期**：2024-01-01 10:00
+- **所属合集**：#应用上云 #Kubernetes
+- **摘要**：​ 我们学习容器技术，最终目的还是为了使用 ​ 容器技术。而 Spring 应用，是目前被广泛使用的业务开发框架，作者将新开一个系列来介绍应用 ​ 在 Kubernetes 生产化运行的注意事项和最佳实践。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRNolWS692NNTtqibz722YlSHXr2InbTZ7g6ria0N8xsUoMFR6uFLyMBDa3e7SWxCTVNCej8oU0e1cQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRNolWS692NNTtqibz722YlSanpNylvRmpZfJbtXJ97H7fI4snibGic1MQHWUicMLCCmSDP4wWPicfyYjg/0?wx_fmt=jpeg" width="400"/>
 
 ### [《可观测性成熟度模型白皮书》解读](https://mp.weixin.qq.com/s/Sogg_KgPpSpU1HLGJ0mqZw)
 
-- **发布日期**：2023-12-31 10:00  
-- **所属合集**：#系统可观测性  
-- **摘要**：什么是可观测性呢？可观测性解决了什么问题？《可观测性成熟度模型白皮书》为可观测性建设提供了一个指导路径，当然了笔者认为螺旋上升（围绕业务目标五个等级同步建设）是实现业务连续性的最佳做法  
+- **发布日期**：2023-12-31 10:00
+- **所属合集**：#系统可观测性
+- **摘要**：什么是可观测性呢？可观测性解决了什么问题？《可观测性成熟度模型白皮书》为可观测性建设提供了一个指导路径，当然了笔者认为螺旋上升（围绕业务目标五个等级同步建设）是实现业务连续性的最佳做法
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQmribF60X5MXAibKDHianzdceaqDzUNPt7kjjMfZN89n71Hzf2EicQRR1ffBDVEsoKWI5yicWyjPlGic9A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQmribF60X5MXAibKDHianzdceAzQ1iaDzY3Ysx47zXoL6QZrow1dUFiblKd8P9H4AacORp6nSBxhNmtibw/0?wx_fmt=jpeg" width="400"/>
 
-### [原力注入 - 2023年文章合集](https://mp.weixin.qq.com/s/AYvZXojGjEvdmgJRywAvbQ)
+### [原力注入 - 2023 年文章合集](https://mp.weixin.qq.com/s/AYvZXojGjEvdmgJRywAvbQ)
 
-- **发布日期**：2023-12-30 10:00  
-- **所属合集**：#南京大学  
-- **摘要**：学而时习之，不亦说乎，感觉以前看得多，但是总结的少，从2023年11月底开始，坚持学习，笔耕不辍，与大家共同进步！  
+- **发布日期**：2023-12-30 10:00
+- **所属合集**：#南京大学
+- **摘要**：学而时习之，不亦说乎，感觉以前看得多，但是总结的少，从 2023 年 11 月底开始，坚持学习，笔耕不辍，与大家共同进步！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSu2Ribq3VmicicAY4Q1naghibGnRxNWZoWsQdOsyeB2sFg5AxicibPNQCkfGqtqWASMv2rD9yHQsssb7Lw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSu2Ribq3VmicicAY4Q1naghibGCMTT1qBTJCQibhPrIOJQZE1OqNeJlSSGJcgq161PibiclOT4Rq0E0Fmjw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - Kubernetes memory limit 产生的 OOM](https://mp.weixin.qq.com/s/s-OKhQ1qa7w1muUQAUuyTQ)
 
-- **发布日期**：2023-12-29 12:30  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：一次奇怪的 cgroup oom 问题分析，由此我们回顾了一下相关知识点。  
+- **发布日期**：2023-12-29 12:30
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：一次奇怪的 cgroup oom 问题分析，由此我们回顾了一下相关知识点。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSu2Ribq3VmicicAY4Q1naghibGCm5VPt3NaucnHoVica0wL0xiayBYydTIcN89anpLxhzKPQrnKThnatlw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSu2Ribq3VmicicAY4Q1naghibGUkq2V5oeuaiaKicicjxrWdZR3PpyzwvrXIPQlWyG48G8HZHvficibErjrKA/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - Kubernetes CPU request 和 limit 的作用与原理](https://mp.weixin.qq.com/s/OinmIMOr5W0BWOUrC-LVTA)
 
-- **发布日期**：2023-12-27 20:01  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：本文我们会回顾一下 Kubernetes 中 CPU request 和 limit 的含义，以及背后实现的原理。  
+- **发布日期**：2023-12-27 20:01
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：本文我们会回顾一下 Kubernetes 中 CPU request 和 limit 的含义，以及背后实现的原理。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQfkdC32sibXpHIibQ2kwoy4c4yVrhXnwfvLbD48FLoAdpf3fMNjEicnibHpPde0kGVjIdQeG8QZViaALw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQfkdC32sibXpHIibQ2kwoy4c8qwho6kFEHiaYkYeGYSweXIBXslgcZ9QibZzRwz3DbvgvKgUB13AHUicw/0?wx_fmt=jpeg" width="400"/>
 
 ### [Kubernetes Pod 异常诊断](https://mp.weixin.qq.com/s/rUNDLGl7ZKaynbMVi0vNHw)
 
-- **发布日期**：2023-12-26 13:00  
-- **所属合集**：#Kubernetes  
-- **摘要**：我们学习了一文学会 Kubernetes Pod 的生命周期管理之后，那有什么方式来诊断 Pod 异常呢？文中作者提供了一个脚本，可以辅助做 K8s Pod 故障诊断。  
+- **发布日期**：2023-12-26 13:00
+- **所属合集**：#Kubernetes
+- **摘要**：我们学习了一文学会 Kubernetes Pod 的生命周期管理之后，那有什么方式来诊断 Pod 异常呢？文中作者提供了一个脚本，可以辅助做 K8s Pod 故障诊断。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQiamiaLpfs12BzXxlAGpPAPDzUscdUiaqnqb1X5T83YpVIib4uE7Jp75UEsmGoZN3ibh0iadBwxQdNtHAQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQiamiaLpfs12BzXxlAGpPAPDRY69OdOG5WL6O4XduIzEZQeiaicV6JgnrgfQia6NAWFoSuKmicTuomdQRQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [一文学会 Kubernetes Pod 的生命周期管理](https://mp.weixin.qq.com/s/MG5V8Pqa-Ua_Je9OXxdt1A)
 
-- **发布日期**：2023-12-25 12:59  
-- **所属合集**：#Kubernetes  
-- **摘要**：Kubernetes 中最核心的抽象是 Pod，让我们通过本来来掌握 Pod 的生命周期。  
+- **发布日期**：2023-12-25 12:59
+- **所属合集**：#Kubernetes
+- **摘要**：Kubernetes 中最核心的抽象是 Pod，让我们通过本来来掌握 Pod 的生命周期。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQiamiaLpfs12BzXxlAGpPAPDpCZPP6SRQhib4rfcLFncAlCBAqIxnsSavicOTCR7ImAXlXajbXV7SichQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQiamiaLpfs12BzXxlAGpPAPD5mtHLjrBwEEovDQmlK7yJQbicugHTibHFghGbcYYwnkEEqoN0eDmCFCA/0?wx_fmt=jpeg" width="400"/>
 
 ### [【南京大学】推荐 2 位在 B 站上发布课程的计算机系老师](https://mp.weixin.qq.com/s/11yRmNw695kBTFGSUwE6ww)
 
-- **发布日期**：2023-12-24 11:23  
-- **所属合集**：nan  
-- **摘要**：王慧妍
-主页：http://www.why.ink:8080/
-B站：why_hy_y
-课程：
-CPL：《C 程序设计基础》
-W：《The Missing Course of Your Computer Science Education》
-
-蒋炎岩
-主页：https://ics.nju.edu.cn/~jyy/
-B站：绿导师原谅你了
-知乎：https://www.zhihu.com/people/jiang-yan-yan-75
-课程：
-《操作系统》  
+- **发布日期**：2023-12-24 11:23
+- **所属合集**：#CS
+- **摘要**：王慧妍 主页：http://www.why.ink:8080/ B 站：why_hy_y 课程： CPL：《C 程序设计基础》 W：《The Missing Course of Your Computer Science Education》 蒋炎岩 主页：https://ics.nju.edu.cn/~jyy/ B 站：绿导师原谅你了 知乎：https://www.zhihu.com/people/jiang-yan-yan-75 课程： 《操作系统》
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSF2s83FMxQRY79CoQqTL70ExibopLlkzzS39egol2wUEO0jR4jl8HYMCUXkJNBwH21HLtILVbPJVA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSF2s83FMxQRY79CoQqTL707gicjIynmCY7A5GLHc4b9nbaJcQw93wlREgO70FY8UOuHIX2kTkcFgg/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾（三） - 被误解的 Docker 存储驱动](https://mp.weixin.qq.com/s/R1p97qI3fE_7BF2wW0jc1w)
 
-- **发布日期**：2023-12-23 10:00  
-- **所属合集**：#Kubernetes #Docker  
-- **摘要**：很多时候我们把 Docker 存储驱动（Storage Driver）和 Docker 存储卷（Volume）混为一谈，这里我们先回顾一下他们的概念，并明确一下两者的使用场景。  
+- **发布日期**：2023-12-23 10:00
+- **所属合集**：#Kubernetes #Docker
+- **摘要**：很多时候我们把 Docker 存储驱动（Storage Driver）和 Docker 存储卷（Volume）混为一谈，这里我们先回顾一下他们的概念，并明确一下两者的使用场景。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSUU1wbcj1MibcCU9ZySRLdmPXXib1SzLhaUicnSg1l8icFAgz3e5QSGcchUSsZSPlJAye3VGANCdLgHw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSUU1wbcj1MibcCU9ZySRLdmicsVW6ECABQH37dXFIRicrezACYZ4wjMfbdt0I4iaqG9F4BELLXWRnhAQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [三张图了解 Pod 的生命周期（初始化、运行与终止）](https://mp.weixin.qq.com/s/unVwBprr0UeuWNpXVdgdxg)
 
-- **发布日期**：2023-12-22 09:00  
-- **所属合集**：#Kubernetes  
-- **摘要**：图解 Pod 生命周期的三个阶段：
-1. 初始化阶段，Pod 的 init 容器运行。
-2. 运行阶段，Pod 的常规容器在该阶段运行。
-3. 终止阶段，Pod 的容器被终止。  
+- **发布日期**：2023-12-22 09:00
+- **所属合集**：#Kubernetes
+- **摘要**：图解 Pod 生命周期的三个阶段： 1. 初始化阶段，Pod 的 init 容器运行。 2. 运行阶段，Pod 的常规容器在该阶段运行。 3. 终止阶段，Pod 的容器被终止。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSIRyNwh8EF8ESccUH2iaTkmOKVbyhpYQ7VDeV4LjuP2yzoqIxPuPeL9TCUNAZiarxLVnNicib7DfD2jg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSIRyNwh8EF8ESccUH2iaTkmClJa9ktm9raMVTfpol67hoDKoBXGQkaWedT9icuh0ERU13WAbJwEYIw/0?wx_fmt=jpeg" width="400"/>
 
 ### [容器技术回顾 - 什么是优雅关闭以及如何实现](https://mp.weixin.qq.com/s/IxnkW5App4xJJPOeUD-uIQ)
 
-- **发布日期**：2023-12-21 09:00  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：要实现容器的优雅关闭，我们需要做哪些事情呢？今天就让我们从 Linux 进程的优雅退出开始，来回顾一下容器的优雅关闭原理以及实现方式。  
+- **发布日期**：2023-12-21 09:00
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：要实现容器的优雅关闭，我们需要做哪些事情呢？今天就让我们从 Linux 进程的优雅退出开始，来回顾一下容器的优雅关闭原理以及实现方式。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR9KfjZpUickepzUAFORK6rChy65icb8SNfT8QYcj0eW2BjPia8Uias7fRu5kj9jPgibicPyQdhQTOxjSQA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR9KfjZpUickepzUAFORK6rCc5rRZslmREKq34xW76icDaCsLjXn0fJsaevWAFahCKs4oYgB1KWt7aA/0?wx_fmt=jpeg" width="400"/>
 
 ### [【转载】Kubernetes 基于 cgroup 的资源限额：模型设计与代码实现](https://mp.weixin.qq.com/s/LmJnIrh438iOWq1uSxCJdA)
 
-- **发布日期**：2023-12-20 09:00  
-- **所属合集**：#Kubernetes  
-- **摘要**：Docker 的 cgroup 结构相对比较简单，但是 Kubernetes 引入了 Pod 以及 Quality of Service 这些资源，因此它的 cgroup 结构相对来讲就变得很复杂，希望通过本文给大家深入讲解原理和实现！  
+- **发布日期**：2023-12-20 09:00
+- **所属合集**：#Kubernetes
+- **摘要**：Docker 的 cgroup 结构相对比较简单，但是 Kubernetes 引入了 Pod 以及 Quality of Service 这些资源，因此它的 cgroup 结构相对来讲就变得很复杂，希望通过本文给大家深入讲解原理和实现！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTtmpKiciczQ2nsjfgIqTD3ibhOogL1c8Fl90xSkz9EFkcxFhIkUcwUs8TJU9zHjoUfjjicanfvhjC5jg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTtmpKiciczQ2nsjfgIqTD3ibhjSVicEsia6Ko3iakbUB6kVk1mvIBTOibIOGf3h9LaccZJPK981lvtia4MPw/0?wx_fmt=jpeg" width="400"/>
 
-### [容器技术回顾  - 容器中的 0 号进程和 1 号进程](https://mp.weixin.qq.com/s/PIwVV7xfw3umSL-n2Hsw_g)
+### [容器技术回顾 - 容器中的 0 号进程和 1 号进程](https://mp.weixin.qq.com/s/PIwVV7xfw3umSL-n2Hsw_g)
 
-- **发布日期**：2023-12-19 08:30  
-- **所属合集**：#Kubernetes #Linux #Docker  
-- **摘要**：对 Linux 系统来说 1 号进程为 init 进程，是由 0 号进程通过调用系统 init 函数创建的第一个用户进程 1 进程，主要做用户态进程的管理，垃圾回收等动作。那容器中是否存在 0 号进程和 1 号进程呢？它们有什么用？  
+- **发布日期**：2023-12-19 08:30
+- **所属合集**：#Kubernetes #Linux #Docker
+- **摘要**：对 Linux 系统来说 1 号进程为 init 进程，是由 0 号进程通过调用系统 init 函数创建的第一个用户进程 1 进程，主要做用户态进程的管理，垃圾回收等动作。那容器中是否存在 0 号进程和 1 号进程呢？它们有什么用？
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRZicKulQgGqbCJBYrbOOpIQ2X9EwVeVNE4IibOBl3Lh8YJtGzBTgp2dfKEudbibjRdzMFCjfoibmfFcA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRZicKulQgGqbCJBYrbOOpIQ71hJzmAKcrVXYdJcVD4qpNtbalBds7HrHebNJ4gfdG4pRUB4icSnRlw/0?wx_fmt=jpeg" width="400"/>
 
-### [Linux系统 - 进程管理入门](https://mp.weixin.qq.com/s/amoHgnjzgCIFBpgNkeoYXw)
+### [Linux 系统 - 进程管理入门](https://mp.weixin.qq.com/s/amoHgnjzgCIFBpgNkeoYXw)
 
-- **发布日期**：2023-12-18 08:00  
-- **所属合集**：#Linux  
-- **摘要**：通过 fork() 和 execve() 函数来了解一下 Linux 进程创建及删除功能  
+- **发布日期**：2023-12-18 08:00
+- **所属合集**：#Linux
+- **摘要**：通过 fork() 和 execve() 函数来了解一下 Linux 进程创建及删除功能
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTEF2Db4OSCyD2PxAcz3Sia7Ll6WdiczLNy2QHn8TyV3Rjw7icEO73JzOZFwRK8xfGxicGTD5KHMxdXEg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTEF2Db4OSCyD2PxAcz3Sia71ZU0xfxQzpV6XbIq9ic0ic21y9tbu9DNAHTVeaZZBicw1LJRwD1GOrssA/0?wx_fmt=jpeg" width="400"/>
 
-### [《BPF之巅》读书笔记 - Linux 内核锁](https://mp.weixin.qq.com/s/r6WadnmdiiWrFWntcApHbw)
+### [《BPF 之巅》读书笔记 - Linux 内核锁](https://mp.weixin.qq.com/s/r6WadnmdiiWrFWntcApHbw)
 
-- **发布日期**：2023-12-17 10:00  
-- **所属合集**：#Linux #BPF之巅  
-- **摘要**：Linux内核中有许多不同类型的锁，这些锁的类型包括：互斥锁（mutex）、读写锁（rwlock）、自旋锁（spinlock）和信号量（semaphore），今天我们就来介绍一下这些锁以及使用的场景  
+- **发布日期**：2023-12-17 10:00
+- **所属合集**：#Linux #BPF 之巅
+- **摘要**：Linux 内核中有许多不同类型的锁，这些锁的类型包括：互斥锁（mutex）、读写锁（rwlock）、自旋锁（spinlock）和信号量（semaphore），今天我们就来介绍一下这些锁以及使用的场景
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQePYwBMick7icGWRaSM0iabdTBcwZT8sBicj6MZzJJQ5yiaJkfe8ibYq0cHS9UzY239jPsrZqgQo2esFAQ/0?wx_fmt=jpeg" width="400"/>
-
-### [【转载】中国AI领军人物、商汤科技创始人汤晓鸥睡梦中离世，享年55岁](https://mp.weixin.qq.com/s/tO3GN6dh6rZLOkGVbWcpXA)
-
-- **发布日期**：2023-12-16 16:29  
-- **所属合集**：nan  
-- **摘要**：中国 AI 四小龙之商汤科技创始人汤晓鸥睡梦中离世，享年55岁，真是英年早逝🙏！
-
-12月16日，腾讯新闻《一线》从多方信源处了解到，商汤科技创始人、人工智能科学家汤晓鸥于12月15日在睡梦中不幸离世，享年55岁。
-
-https://new.qq.com/rain/a/20231216A051VT00  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQePYwBMick7icGWRaSM0iabdTN6m78Bz1USg9QHmtZvcIGrIXibR10YSPe0DXeU6dVTwiaAzfmLdMkdibg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQePYwBMick7icGWRaSM0iabdTxsibO3urtsXKWQvj0ILTF9rBNH6AQbzV3LWjSaAC2I7seCVKA6QrcbQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [《BPF 性能之巅》读书笔记 - bpftrace 入门](https://mp.weixin.qq.com/s/wkJMrljIpPSAART3NX-hTA)
 
-- **发布日期**：2023-12-15 08:00  
-- **所属合集**：#BPF之巅  
-- **摘要**：bpftrace 是 BPF 跟踪的高级前端，我们可以很方便的用它来做动态的追踪，从而可以快速进行系统的观测。  
+- **发布日期**：2023-12-15 08:00
+- **所属合集**：#BPF 之巅
+- **摘要**：bpftrace 是 BPF 跟踪的高级前端，我们可以很方便的用它来做动态的追踪，从而可以快速进行系统的观测。
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLv193eYTJibibIOIMgibJozSNEzq6PACH9Oia2Okiav81uwZgwDamfHMRtZT9AJ19aUibcicVwSm0IYrXg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQLv193eYTJibibIOIMgibJozSdmHauXRB03iaVAuGQrIKMGTRejjQrd6qkRqiavyVKict8a8l0VMgdYpFA/0?wx_fmt=jpeg" width="400"/>
 
 ### [《分布式系统模式》在线中文翻译版](https://mp.weixin.qq.com/s/xg6gq8Rrk4vqnAeb7Yj3pw)
 
-- **发布日期**：2023-12-14 08:00  
-- **所属合集**：#基础知识  
-- **摘要**：推荐《分布式系统模式》在线中文翻译版  
+- **发布日期**：2023-12-14 08:00
+- **所属合集**：#基础知识
+- **摘要**：推荐《分布式系统模式》在线中文翻译版
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRj7L5XBJ4Y9SQYZYvIWvDHEGicIUclLUwPGgFEPnQc53VGsO90VCGDysIF0RUNhbqNvUzysmbQf7A/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRj7L5XBJ4Y9SQYZYvIWvDHoa8BVO3HXpmYExxUQFPpeopybLQEvwf33ANWrzWNlYobhv3FMWWrGg/0?wx_fmt=jpeg" width="400"/>
 
-### [《BPF之巅》读书笔记 - 使用 perf + perf-agent-map 制作容器化 Java 火焰图](https://mp.weixin.qq.com/s/aIhQkg8YB2vHNzBoYghN0w)
+### [《BPF 之巅》读书笔记 - 使用 perf + perf-agent-map 制作容器化 Java 火焰图](https://mp.weixin.qq.com/s/aIhQkg8YB2vHNzBoYghN0w)
 
-- **发布日期**：2023-12-13 08:10  
-- **所属合集**：#BPF之巅 #Linux  
-- **摘要**：容器化 Java 程序火焰图制作秘籍  
+- **发布日期**：2023-12-13 08:10
+- **所属合集**：#BPF 之巅 #Linux
+- **摘要**：容器化 Java 程序火焰图制作秘籍
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRT7WgbmAHFzhDy6ib1Nog4ojRAUVrKnGX3J7sr9kNpsxB5frLfVGE5wr7hxOFzTNdDavS1tEHkqXQ/0?wx_fmt=jpeg" width="400"/>
-
-### [开发者宝典 - 程序性能排查利器之【火焰图】详解](https://mp.weixin.qq.com/s/yVGIpLC9uSFopzMTT1gk4A)
-
-- **发布日期**：2023-12-12 08:00  
-- **所属合集**：nan  
-- **摘要**：Visualizing&nbsp;Performance&nbsp;The&nbsp;Developer’s&nbsp;Guide&nbsp;to&nbsp;Flame&nbsp;Graphs&nbsp;by&nbsp;Brendan&nbsp;Gregg - 一文让你全面掌握火焰图！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS75ZicUD9Ewk45A9ZN0ddQvjhvibDJ5CSOPOhFUQOxAd2GZQcoicn9fmqQNAMkzXT1APIVPlichia3WPA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRT7WgbmAHFzhDy6ib1Nog4ouSqEn3KCOa0D6zRbupLibOJ5b6PGnOauGzbJbHGqNxOib8UWzsr9vgRw/0?wx_fmt=jpeg" width="400"/>
 
 ### [《Design Data-Intensive Applications》相关资料分享](https://mp.weixin.qq.com/s/pNIpb6h8LVFvv0uw8C_3ow)
 
-- **发布日期**：2023-12-10 21:45  
-- **所属合集**：nan  
-- **摘要**：最近准备读 DDIA，收集了一些资料，分享给大家  
+- **发布日期**：2023-12-10 21:45
+- **所属合集**：#好书推荐
+- **摘要**：最近准备读 DDIA，收集了一些资料，分享给大家
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQWDk0yypNffJPuJxgAZZYHicUfZibdHm6aYSAoVTVDG0nC5ib0yyicibaspO99SskDnZraorvG1VibCIAw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQWDk0yypNffJPuJxgAZZYHzB4ibuGOpWzElwmNSFLcglrZ0o2Aj0WKXPbbhLYZ8zyrqJjcVTYiascA/0?wx_fmt=jpeg" width="400"/>
 
-### [周末学习 -《BPF 之巅：洞悉Linux系统和应用性能》汇总](https://mp.weixin.qq.com/s/RwxE7p4XzrIy5n8bSUSNoA)
+### [周末学习 -《BPF 之巅：洞悉 Linux 系统和应用性能》汇总](https://mp.weixin.qq.com/s/RwxE7p4XzrIy5n8bSUSNoA)
 
-- **发布日期**：2023-12-09 17:00  
-- **所属合集**：#BPF之巅 #Linux  
-- **摘要**：周末学习《BPF 之巅：洞悉Linux系统和应用性能》  
+- **发布日期**：2023-12-09 17:00
+- **所属合集**：#BPF 之巅 #Linux
+- **摘要**：周末学习《BPF 之巅：洞悉 Linux 系统和应用性能》
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS3KC3k2caaxF6RWTvCWBylKgFDTdjOyvalsM8Xl9e0GJ1LiambDvzthnkK2wJBf1SLjG6Ns3o2nYw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS3KC3k2caaxF6RWTvCWBylD0vWIBcTMo2ZCoNg3SibCt4O5KCxOwMNmsCcINsKZumX63KcbD7rRew/0?wx_fmt=jpeg" width="400"/>
 
-### [《BPF 之巅：洞悉Linux系统和应用性能》读书笔记（四）火焰图](https://mp.weixin.qq.com/s/mQmEckPLyz_HyH2N3PVlyQ)
+### [《BPF 之巅：洞悉 Linux 系统和应用性能》读书笔记（四）火焰图](https://mp.weixin.qq.com/s/mQmEckPLyz_HyH2N3PVlyQ)
 
-- **发布日期**：2023-12-08 12:30  
-- **所属合集**：#BPF之巅 #Linux  
-- **摘要**：什么是火焰图？确定 CPU 繁忙的原因是性能分析的一项重要工作，通常涉及分析堆栈跟踪。通过以固定速率采样进行  
+- **发布日期**：2023-12-08 12:30
+- **所属合集**：#BPF 之巅 #Linux
+- **摘要**：什么是火焰图？确定 CPU 繁忙的原因是性能分析的一项重要工作，通常涉及分析堆栈跟踪。通过以固定速率采样进行
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9D8A3EstzIz1h030B6ulrB0XmSkOkBV7VATmiccewjZD0rAqvaqxqe0nXSBawibSOjtZ9D6xlsNqQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9D8A3EstzIz1h030B6ulraDJtGw55pkekkPwERfUVLyd3VJ6cU8ucRXnB7QJ8AtS5ZnrIv16KYQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [理性看待数据库/大数据 on K8s](https://mp.weixin.qq.com/s/tx3rHn1z8ihte1cWb1sZDg)
 
-- **发布日期**：2023-12-06 13:49  
-- **所属合集**：#Kubernetes #大数据  
-- **摘要**：技术要深入了解，场景要深入理解，尺有所短，寸有所长  
+- **发布日期**：2023-12-06 13:49
+- **所属合集**：#Kubernetes #大数据
+- **摘要**：技术要深入了解，场景要深入理解，尺有所短，寸有所长
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHShQ4U688riaWOM0iblxes6Kmv7HwJkibSAxqm8jWHhxzdHjpribYuaVNslibxEo1016jCibjfHsrA5mlbw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHShQ4U688riaWOM0iblxes6KmpEGhlLribsltWuRFe4icgwW5eKTUkKa8q2a1Xhn4emMpa6tevo9XP5ew/0?wx_fmt=jpeg" width="400"/>
 
 ### [致敬 Turbo Pascal，致敬 Borland，致敬逝去的青春](https://mp.weixin.qq.com/s/LaZVP-8cg0Xq8qR6zXSUwQ)
 
-- **发布日期**：2023-12-05 20:11  
-- **所属合集**：#南京大学  
-- **摘要**：致敬 Turbo Pascal，致敬 Borland！  
+- **发布日期**：2023-12-05 20:11
+- **所属合集**：#南京大学
+- **摘要**：致敬 Turbo Pascal，致敬 Borland！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSGwwz43icNxNOPpOby290cbqiaZr7TUNwBJEJzEuCYFr2u2rdqHN0mn339ocwUBk7j9VwH3sAzP3WQ/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSGwwz43icNxNOPpOby290cb5oAUywXzPK3fNC3s0jZ5OsAZg44iaIMs9hjPUquGjKib2yjb6YV1WfCA/0?wx_fmt=jpeg" width="400"/>
 
-### [驳斥《把数据库放入Docker是一个好主意吗？》](https://mp.weixin.qq.com/s/dgeVOGNxuG7rBMQdjKoFgw)
+### [驳斥《把数据库放入 Docker 是一个好主意吗？》](https://mp.weixin.qq.com/s/dgeVOGNxuG7rBMQdjKoFgw)
 
-- **发布日期**：2023-12-04 19:32  
-- **所属合集**：#Docker #Kubernetes  
-- **摘要**：容器（化带来了标准化、隔离、控制和高利用率的好处，数据库场景到底是否合适，笔者认为只要能够转变运维习惯，在没有引入太多 overhead 和性能损失的情况下，容器化实际上提供了更多运维自动化的可能性，结合 K8s，就可以实现 DBaaS  
+- **发布日期**：2023-12-04 19:32
+- **所属合集**：#Docker #Kubernetes
+- **摘要**：容器（化带来了标准化、隔离、控制和高利用率的好处，数据库场景到底是否合适，笔者认为只要能够转变运维习惯，在没有引入太多 overhead 和性能损失的情况下，容器化实际上提供了更多运维自动化的可能性，结合 K8s，就可以实现 DBaaS
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRnvrSyuURlFXq3iapCLFJt6UX3cPP4aiajHSIibbPtYvTIIErjevovvXYtPTs0cfCoUu8enTO57fbXw/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRnvrSyuURlFXq3iapCLFJt6v71BrZG0z62vf4X9oEP03icfWfKsWz7oLO3dolxicZWX74S79ZhCDVaQ/0?wx_fmt=jpeg" width="400"/>
 
-### [《BPF 之巅：洞悉Linux系统和应用性能》读书笔记（三）Linux Kernel 相关知识](https://mp.weixin.qq.com/s/pYHCdSgfVo0N2dpvLq2gtA)
+### [《BPF 之巅：洞悉 Linux 系统和应用性能》读书笔记（三）Linux Kernel 相关知识](https://mp.weixin.qq.com/s/pYHCdSgfVo0N2dpvLq2gtA)
 
-- **发布日期**：2023-12-02 19:56  
-- **所属合集**：#BPF之巅 #Linux  
-- **摘要**：今天我们来快速复习一下 Linux Kernel 相关的知识点  
+- **发布日期**：2023-12-02 19:56
+- **所属合集**：#BPF 之巅 #Linux
+- **摘要**：今天我们来快速复习一下 Linux Kernel 相关的知识点
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSXhdIsQtibc6a3buOa0AUuYgxUrDKn1fofpWMbe67nQFCN9Z2KcYWSgMviaWSLOTNibyGb3via3UdpGA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSXhdIsQtibc6a3buOa0AUuYrIkhqMyibn4S4AWQQuEGEgeeD2n2VucWZiasd6uvNuDUtnh8O9xOEqlQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [《BPF 之巅》读书笔记（二）番外篇 - Linux 存储软件栈](https://mp.weixin.qq.com/s/FOrlcaOZ6PqBvRZbHWHoPg)
 
-- **发布日期**：2023-12-01 21:48  
-- **所属合集**：#BPF之巅 #Linux  
-- **摘要**：Linux 存储栈入门  
+- **发布日期**：2023-12-01 21:48
+- **所属合集**：#BPF 之巅 #Linux
+- **摘要**：Linux 存储栈入门
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHStp8N5wqd49v5AemcpORo2kzkneNF4wAJDk26uMluwMdsWezvvk2Jos4MWxxppm8AA1Nb7JejF8w/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHStp8N5wqd49v5AemcpORo2Shicwzz22REzMHUagsFNDicAuRia4FdhATVKicf6ELEEAibJD6t6icOhibLOQ/0?wx_fmt=jpeg" width="400"/>
 
-### [《BPF之巅》读书笔记（一）Linux Tracing System](https://mp.weixin.qq.com/s/dujbESzKzoZyAoYbaPf_Dg)
+### [《BPF 之巅》读书笔记（一）Linux Tracing System](https://mp.weixin.qq.com/s/dujbESzKzoZyAoYbaPf_Dg)
 
-- **发布日期**：2023-11-30 09:48  
-- **所属合集**：#BPF之巅 #Linux  
-- **摘要**：Linux Tracing System 的数据源（ kprobe，tracepoint）入门  
+- **发布日期**：2023-11-30 09:48
+- **所属合集**：#BPF 之巅 #Linux
+- **摘要**：Linux Tracing System 的数据源（ kprobe，tracepoint）入门
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS0cEiaSD5ib5ib8OHglKFvujaGq6bQeuHUCoHVO9rkcfBh6n4cFsn4DiaHCg4ReqpbHVZibJx9C4GyibNA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS0cEiaSD5ib5ib8OHglKFvujaf13TFKDrmIe0g1l4R8gN72BwCeib5FF0WBNNy8hw6BiczErawalgBHpA/0?wx_fmt=jpeg" width="400"/>
 
-### [《BPF 之巅：洞悉Linux系统和应用性能》读书笔记开篇](https://mp.weixin.qq.com/s/PxJN2jXb4CvMD6yckmwJNQ)
+### [《BPF 之巅：洞悉 Linux 系统和应用性能》读书笔记开篇](https://mp.weixin.qq.com/s/PxJN2jXb4CvMD6yckmwJNQ)
 
-- **发布日期**：2023-11-28 07:38  
-- **所属合集**：#BPF之巅 #Linux #好书推荐  
-- **摘要**：《BPF之巅》一书为我们打开了 Linux 内核大门，可以一窥内核原理和工作机制，为大家的以后的内核开发之旅铺平道路！  
+- **发布日期**：2023-11-28 07:38
+- **所属合集**：#BPF 之巅 #Linux #好书推荐
+- **摘要**：《BPF 之巅》一书为我们打开了 Linux 内核大门，可以一窥内核原理和工作机制，为大家的以后的内核开发之旅铺平道路！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRmCrPoHRsDoV0KCKicOkK6rtfYPiaR5erubdGgvFeMvKjcl2gjLibOWoPkAnU8iaK9OWJ944WXWxhgPA/0?wx_fmt=jpeg" width="400"/>
-
-### [普渡大学课程 - 《云原生数据库系统》](https://mp.weixin.qq.com/s/3AmnYqxvoKqjfMgykddiJg)
-
-- **发布日期**：2023-11-24 09:58  
-- **所属合集**：nan  
-- **摘要**：推荐一门普渡大学的云原生数据库课程  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT7YUQ7eL6bSVU0NnzniaHiazsH0qXUlfsSF8bDou3dJPTkdKFNBczbTxwv5hcyBZqM2yxMxpNVsulw/0?wx_fmt=jpeg" width="400"/>
-
-### [奥特曼王者归来](https://mp.weixin.qq.com/s/Qj6MV9fl55aekyVvWhEmww)
-
-- **发布日期**：2023-11-22 14:47  
-- **所属合集**：nan  
-- **摘要**：狼人杀结束了吗？  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTIcePlKicEBhetwJMyIhUCGrjuvU7dzEDYAt4ROhLSBibMGmsUbs3G3VDUx8QJD0KXTrBX2ynAgGOg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRmCrPoHRsDoV0KCKicOkK6riaoezCz6NuUctGmv1u4wjD0Sa6AFxSfUib8icPw30YInwxYqibsWVveuFg/0?wx_fmt=jpeg" width="400"/>
 
 ### [系统性的学习 Linux Systems Performance](https://mp.weixin.qq.com/s/aqco2RFUoIcLO1d54Moc9Q)
 
-- **发布日期**：2023-11-18 23:47  
-- **所属合集**：#Linux #BPF之巅  
-- **摘要**：Linux 系统性能的六个重要领域：可观测性工具、方法、基准测试、分析、跟踪和调优。Brendan Gregg 的演讲为我们打开了 Linux 系统性能的大门！  
+- **发布日期**：2023-11-18 23:47
+- **所属合集**：#Linux #BPF 之巅
+- **摘要**：Linux 系统性能的六个重要领域：可观测性工具、方法、基准测试、分析、跟踪和调优。Brendan Gregg 的演讲为我们打开了 Linux 系统性能的大门！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTZUnGFYH811OTBqmiatevuUYhyKpQdiboccw8THibgm3At9iaEcqrxyBBe9tRgOIuia0xeXXgBbVFgGkA/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTZUnGFYH811OTBqmiatevuUjHpX58dQbibBkhibxMhE9UbAt51jGLXzX822Z5BgmrTjC48frWo17y0Q/0?wx_fmt=jpeg" width="400"/>
 
 ### [阿里云 11.12 事故报告：【AK 异常】](https://mp.weixin.qq.com/s/O1gUArqUlCFBe__S1OpPFw)
 
-- **发布日期**：2023-11-16 08:17  
-- **所属合集**：#杂项 #Tech News  
-- **摘要**：事情暂时告一段落，期望阿里云能够持续改进，认真对待好员工、技术、客户，这样才能成为一家伟大的公司！  
+- **发布日期**：2023-11-16 08:17
+- **所属合集**：#杂项 #Tech News
+- **摘要**：事情暂时告一段落，期望阿里云能够持续改进，认真对待好员工、技术、客户，这样才能成为一家伟大的公司！
 - **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT12WGqicVQa3RIKoI4nE6YprAnmibKVb9Wc3QQBMo5nhSpn7dYdMbDqtJYmlb2hK3tmEf3PEVbReWg/0?wx_fmt=jpeg" width="400"/>
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT12WGqicVQa3RIKoI4nE6YpK3pevM3WMFjBMhJZuWWUJAQfW3Wv0aDveNvJ95f0UbDxJouOThZ7GQ/0?wx_fmt=jpeg" width="400"/>
 
 ### [Linux 小技巧 - 删除大量文件](https://mp.weixin.qq.com/s/g2nIl_P4sS89Rjp4JWf0Pw)
 
-- **发布日期**：2023-11-15 09:33  
-- **所属合集**：#Linux 小技巧 #Linux  
-- **摘要**：Linux 系统下删除大量文件  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9ibO7ck5UH83TabFrCHnwX8mAXpf9cZuk0JHD3seAC8Bzqkjm4HT4IicwVEFwo6g1OhjIuxibDKfAw/0?wx_fmt=jpeg" width="400"/>
-
-### [阿里云史诗级故障](https://mp.weixin.qq.com/s/JdC67W17aVRsRKxkXutGIA)
-
-- **发布日期**：2023-11-13 09:06  
-- **所属合集**：nan  
-- **摘要**：阿里云出现史诗级故障，各位吃瓜群众纷纷八卦，各位总监/CIO纷纷思考公有云战略  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTVc8XickFrTQ5eMdh2ibs8IE6s5Krl0WSIL0dHZ1g8SiaGBzK2QYvia8wzEXxwS5VHWyGnRLLmFsfUoQ/0?wx_fmt=jpeg" width="400"/>
-
-### [一文让你应对Linux 进程“D”状态](https://mp.weixin.qq.com/s/aZgMvNR5_-qoQztMLXxSJw)
-
-- **发布日期**：2023-10-29 22:07  
-- **所属合集**：#Linux 小技巧 #Linux  
-- **摘要**：进程长时间处于“D”状态，会导致进程无法响应，系统负载升高，最终导致整个系统响应慢甚至无法响应。那我们就来看看 Red hat 官方是如何来处理的吧！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQtKuVGmMYP15hHu9rwTmQpSBcezN5J2IKuKCXewnoQY3OFsYslY28u0WYswyb02RvVwyPHzA4EMA/0?wx_fmt=jpeg" width="400"/>
-
-### [语雀 23 日故障带给我们的启示](https://mp.weixin.qq.com/s/26cm0QUfoea7PVtxi8Lqng)
-
-- **发布日期**：2023-10-24 21:42  
-- **所属合集**：#杂项 #Tech News  
-- **摘要**：1024祝大家：代码零 bug，IT 基础设施无故障，国家国泰民安！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTXMiaTs9ibNM0UllWauuON0uBhKXhWx1BNppco5t10Wr6h3pibqqibTicfqFAibVp6kRVQEvExDuNLicvOA/0?wx_fmt=jpeg" width="400"/>
-
-### [从 GPU 池化到 云原生 AI Infra - 附上第四届CID大会明日开启 | 线下+线上参会指南](https://mp.weixin.qq.com/s/9Xkw4xiBSYQtLkop2pj6MA)
-
-- **发布日期**：2023-10-20 20:28  
-- **所属合集**：#大模型  
-- **摘要**：作为云原生大数据 + AI 领域的深度参与者，星环科技在 2023 年5月份发布了金融大模型“无涯”和大数据  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQFaYhVXNpgtNB5XLH6S9jIc93gLpcgpI2bUUG5m2OARX1Xic3slf6iaIr7DT3KG7TMglrlbow6FASA/0?wx_fmt=jpeg" width="400"/>
-
-### [【转载】Linux CFS 调度器：原理、设计与内核实现](https://mp.weixin.qq.com/s/ngSFPqFe_4xI1AAR30d5Vw)
-
-- **发布日期**：2023-10-15 19:16  
-- **所属合集**：#Linux  
-- **摘要**：Linux 内核总是那么神秘，可谓是软件的掌上明珠！今天就让我们来深入学习一下 Linux 的 Completely Fair Scheduler，逐步揭开它的神秘面纱！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQSJxt29Pa8bAnEkLic4iapb3HlpCLB1I4q8Ku79sZWQzTgbGnXyTfXBpxJ3eA6xkacSYp4Ng2bBicWA/0?wx_fmt=jpeg" width="400"/>
-
-### [网络协议知识温故知新](https://mp.weixin.qq.com/s/CXet-aOrBhRZbwr4N0HrRA)
-
-- **发布日期**：2023-09-23 09:13  
-- **所属合集**：#网络基础知识  
-- **摘要**：云计算的核心技术中，网络无疑是最复杂的。正所谓学而时习之，不亦乐乎！很多时候我们要停下来，温习一下基础知识，  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRdLU1VovX3wUic2NyAiab4k2WibP58ppeUxibULR0h2Xxn9kmaO5AulvFic8psp8dX4RFSPOicKYFrkn5g/0?wx_fmt=jpeg" width="400"/>
-
-### [Homebrew 飞起 - 清华镜像站使用步骤](https://mp.weixin.qq.com/s/dIDnBVPky1lXfjQbghx-8g)
-
-- **发布日期**：2023-05-10 08:01  
-- **所属合集**：#杂项  
-- **摘要**：用清华镜像站的宝库，让你的 mac 用起 homebrew 飞起～！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSQXVEduCTxXJSjGorSo1ATUZibLWTDToRr5TdlHZkz7xKPKFMEwraupY4bHUA50jsMkm8DYKbibBDA/0?wx_fmt=jpeg" width="400"/>
-
-### [机器学习平台中 GPU 资源管理方式概述](https://mp.weixin.qq.com/s/FvaZomsp4wThgzvp_c1aaA)
-
-- **发布日期**：2023-04-17 19:43  
-- **所属合集**：nan  
-- **摘要**：1. 引言GPU 是机器学习任务中用来加速计算的重要资源，尤其是在深度学习的训练任务中。深度学习基于人工神经  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/gBm9Wo3l4jrzDj3lYniaqtSTQyhkDTehqEwpqxw0IkwyRCMZsgsU8grWDBws3ibrUQTjE3vAYFXgicXuvpvpO4Bhw/0?wx_fmt=jpeg" width="400"/>
-
-### [机器学习应用 IT 基础架构平台概览](https://mp.weixin.qq.com/s/uER4ke4wPJSxgA0vRVEUrA)
-
-- **发布日期**：2023-04-16 22:28  
-- **所属合集**：nan  
-- **摘要**：1. 引言7 年前 AlphaGo 战胜围棋世界冠军李世石，近期 ChatGPT 再次点燃业界对于人工智能的  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/gBm9Wo3l4jrzDj3lYniaqtSTQyhkDTehqjiawVpe6tFGtuIbl1PkfYdHibFVygqP2DWdNibwXI7u4IQbgavCXDcvbQ/0?wx_fmt=jpeg" width="400"/>
-
-### [OpenAI 背后的 Kubernetes 发展历程（翻译）](https://mp.weixin.qq.com/s/VXHZkgjni-ve_eBJ0pK-FA)
-
-- **发布日期**：2023-04-09 14:57  
-- **所属合集**：#Kubernetes  
-- **摘要**：大家应该知道 Kubernetes 为 ChatGPT 提供支持吧？ 当今天每个人都在谈论这个突破性的 AI技术的时候，让我们来回顾一下 Kubernetes powered 基础设施的发展历程吧！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRH9iadFvhyeATjp1v92ALN0hpKia9FRhQF6WCNTElbCdic4gaTUsJodYGbhIsiblOgkhgwN41ok0f9hw/0?wx_fmt=jpeg" width="400"/>
-
-### [领导者和追随者（Leader and Followers）](https://mp.weixin.qq.com/s/0fhT6ILnbJJndfvOOSHIPg)
-
-- **发布日期**：2023-04-08 23:27  
-- **所属合集**：#分布式系统  
-- **摘要**：分布式系统最经典的角色 - 领导者和追随者概述  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRQ8piaGk9SGPQYAiat9qXz16Lut2OdicgNh5HicygmylGSIiaxEKibw8tutecyVlNKl4rDhXyfRFKHso8g/0?wx_fmt=jpeg" width="400"/>
-
-### [分布式模式 - 固定分区](https://mp.weixin.qq.com/s/5PgS5zfOfuV3wIMim7T2GQ)
-
-- **发布日期**：2022-10-29 10:58  
-- **所属合集**：#分布式系统 #基础知识  
-- **摘要**：保持分区数量固定，以便在集群大小发生变化时保持数据到分区的映射不变。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTs6iaprEj2QZNMwC9Ic1JNl9Ens81NhTP3bQEiaqicUYdGntJxGswHzdYpONiazwBSazx1ejrNtrtwxQ/0?wx_fmt=jpeg" width="400"/>
-
-### [一致性核心（Consistent Core）](https://mp.weixin.qq.com/s/MxUzYlq6OXl2Qnbbg8bs-A)
-
-- **发布日期**：2022-10-23 09:43  
-- **所属合集**：#分布式系统  
-- **摘要**：分布式系统模式 - 一致性核心：维护一个较小的核心系统，为大规模数据集群提供更强的一致性，这样，可以在无需实现基于 Quorum 算法的前提下协调各服务的行为。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRptksJmiamkOaib1fCbFBMgjCKmJIcLtt720vYia8ZaEbSiayagEguYBUf3PrBzo3dFCnBKyLeZvVkiaQ/0?wx_fmt=jpeg" width="400"/>
-
-### [分布式系统的模式（译）](https://mp.weixin.qq.com/s/0wq85NMk5qh5vVqJGfmetw)
-
-- **发布日期**：2022-10-16 09:00  
-- **所属合集**：#分布式系统 #基础知识  
-- **摘要**：《分布式系统模式》是 Unmesh Joshi 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了分布式系统在设计与实现的过程中采用的通用模式，是学习分布式系统实现的基础。  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTQ1LS2Wicpjh9UFqWPzwQD9FrgBogHIHzU4CDGMiaKsYfKaguypWlyg1NHEClNIOARazO6pRpB7flQ/0?wx_fmt=jpeg" width="400"/>
-
-### [技术分享预告](https://mp.weixin.qq.com/s/qSJfz6TC7SfQVBGd4POxNw)
-
-- **发布日期**：2022-10-15 20:08  
-- **所属合集**：#云原生 #Kubernetes  
-- **摘要**：《Edge Cloud Operations_A System Approach》，《Kubernetes in Action 2nd Edition》，《Patterns of Distributed Systems》，总有一款你喜欢！  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTQ1LS2Wicpjh9UFqWPzwQD9yIPEl669GqVtMaW5CicXZS6vVBbQia4ZibYrw3w7cmVUsabRHVjlEK1Mw/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubernetes 中 Pod 的优雅退出机制](https://mp.weixin.qq.com/s/d3VgWO0uXssRToFSx9EvGA)
-
-- **发布日期**：2022-08-27 14:29  
-- **所属合集**：nan  
-- **摘要**：本文基于对 Kubernetes v1.23.1 的源码阅读Kubernetes 提供了一种 Pod 优雅退  
-- **封面图**：  
-  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCruX0hjwWAhgFj1Qicv3j3CNdb1jgtBMicnOjqsfotRdFLHEJVf9QB0Lz7Xxg6mN8lRJiaZt4NaNgfKw/0?wx_fmt=jpeg" width="400"/>
-
-### [浅析 Kubernetes Pod 驱逐机制](https://mp.weixin.qq.com/s/glVyewQhVBCl4549FGdIMg)
-
-- **发布日期**：2021-08-30 14:26  
-- **所属合集**：nan  
-- **摘要**：本文基于对 Kubernetes v1.22.1 的源码阅读Kubelet 出于对节点的保护，允许在节点资源  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCrFUpRYKb4E3bgxnmAcqTpSicUVaomWjd6v5ZoNnCtnHeYn4uHRdmMYm46hjzqIYSRAtGzictGm6BeQ/0?wx_fmt=jpeg" width="400"/>
-
-### [浅析 CSI 工作原理](https://mp.weixin.qq.com/s/iqZ3m4PI3M6jNZ-fN2wg7A)
-
-- **发布日期**：2021-07-13 16:32  
-- **所属合集**：nan  
-- **摘要**：近期一直在做 CSI 相关的工作，随着开发的深入，愈加认为 CSI 的细节相当繁琐。通过整理 CSI 的工作  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCqgS9mOVZKp1BCvcoJb3zSnaNvRmgIgFIdsq1icDvWicDBjUuytpLpxgbo46teDQbGxQib45G86oarbw/0?wx_fmt=jpeg" width="400"/>
-
-### [【转载】kubernetes 弹性伸缩指南](https://mp.weixin.qq.com/s/Qh1wwyVKkZPQfFcBAM2IAA)
-
-- **发布日期**：2021-06-13 15:30  
-- **所属合集**：#云原生 #Kubernetes  
-- **摘要**：一文成为 Kubernetes 弹性伸缩的专家，知其然，知其所以然！  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQ9iaDw9sU61YfKGJdnicgVM3fQeU8eKMribsYRJGcvBqNDbibVT6pic8pSkic0dCRYmazaX8sP2nl2tOxg/0?wx_fmt=jpeg" width="400"/>
-
-### [原力注入：数字化转型知其然知其所以然，让我们系统学习一下](https://mp.weixin.qq.com/s/5xqYmQU7ZR83xQDH0tp6SA)
-
-- **发布日期**：2021-04-17 21:46  
-- **所属合集**：nan  
-- **摘要**：原力注入：数字化转型知其然知其所以然，让我们系统学习一下  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTLYRmY0NYC2I32nRX9krp6HIibIRwmsibN9PZxnIDzecQG5WS3B0kbObaIWyzSiau38kAHGO8qXQk5Q/0?wx_fmt=jpeg" width="400"/>
-
-### [高性能消息中间件 nsq 解析-介绍](https://mp.weixin.qq.com/s/b2qKzbBbHfZkAVyZLT7IrQ)
-
-- **发布日期**：2021-04-06 12:01  
-- **所属合集**：nan  
-- **摘要**：随着互联网技术在各行各业的应用高速普及与发展，各层应用之间调用关系越来越复杂，架构、开发、运维成本越来越高，  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKycA8Fpa8At02JCzsaNnibuB2P1Nicpia5g5Vmnpkuf8ywf8pFkN1JAdKPjN37rGibN82ibt1KG5zqDO4Mw/0?wx_fmt=jpeg" width="400"/>
-
-### [如何使用 Go 更好地开发并发程序！](https://mp.weixin.qq.com/s/xTweuH76DsZ-J5B4Ja1mNA)
-
-- **发布日期**：2021-03-02 12:14  
-- **所属合集**：nan  
-- **摘要**：Go 语言的并发特性是其一大亮点，今天我们来带着大家一起看看如何使用 Go 更好地开发并发程序？我们都知道计  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKydeKguueyWJ1nZBWaRJyNF3ibR9Edd81MbchaWzBAB0tXWoV1wKjBtweGY1UiaGcR0ibV9yyBgY7pB1A/0?wx_fmt=jpeg" width="400"/>
-
-### [​如何实现一个 Kubernetes 网络插件](https://mp.weixin.qq.com/s/nrZWcftRjrT9um47Y2yQ_g)
-
-- **发布日期**：2021-02-18 08:32  
-- **所属合集**：#网络基础知识  
-- **摘要**：目前容器的网络解决方案越来越多，每出现一种新的解决方案，都要为网络方案和不同的容器运行时进行适配，这显然是不  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCqVLCceZ3yNuYf2f9se8LibPOSuHrQEWQTPpxFzlXE7ayg1DZ3ic3VibtX1hvUkK9Ja5wQVfStLkHE6w/0?wx_fmt=jpeg" width="400"/>
-
-### [Isito 1.8 新功能: DNS Agent](https://mp.weixin.qq.com/s/lmEborRmVuRSCC10j1IBFA)
-
-- **发布日期**：2021-02-08 18:41  
-- **所属合集**：nan  
-- **摘要**：在 1.8 的版本中，istio 悄悄的上了一个预览版的功能—— DNS Proxy  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTqjRlGsI1q7RJkjrjua4IZqYHOVwMghUaCS02Q0LSZgibSPAGGEhkF9kd0dbhDVtZV3cqDVsmQsTA/0?wx_fmt=jpeg" width="400"/>
-
-### [几款符合 OpenTracing 规范的分布式链路追踪组件介绍与选型](https://mp.weixin.qq.com/s/t9U_5plJEYrUxqJK9yf6lA)
-
-- **发布日期**：2021-01-27 12:05  
-- **所属合集**：nan  
-- **摘要**：分布式链路追踪组件是在分布式架构中很重要的组件，用于排查分布式系统所遇到的问题。市面上有多款流行的分布式链路  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKyftlMjibwMJ0yW7qtuAhf2XCdSsia4xBiabd6FiawDafw8q1wYcOsv2tqRGoq5Wkb8iaUVFLdqRxDOWvNA/0?wx_fmt=jpeg" width="400"/>
-
-### [缺陷流管理技能连招详解](https://mp.weixin.qq.com/s/cN3DsJiwUxsMmmfjHdF3ew)
-
-- **发布日期**：2020-12-10 22:18  
-- **所属合集**：nan  
-- **摘要**：按照格式上报一下缺陷就叫缺陷管理吗？没有连招怎么行？问题痛点软件研发测试过程中的缺陷，是一个特殊的产物，它不  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7iblzics9dY3aUSkSePOET2HpAFITz5eh60IpacKqicmvvdg4xJZrZXaGA1rPmvW5eTyaoxt1Hd8S0XdBKFJrxI3w/0?wx_fmt=jpeg" width="400"/>
-
-### [ETCD 从入门到精通！](https://mp.weixin.qq.com/s/mLTmhLdPP54WRouA7FYw2w)
-
-- **发布日期**：2020-12-02 17:15  
-- **所属合集**：nan  
-- **摘要**：2018年12月 etcd 作为孵化项目 CNCF（云原生计算基金会），几天前 CNCF 宣布 etcd 正  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKydx40t8fXvNTX1kRLrVv0ywwU4LVvX45vDC5TNtE2PC1iaQnpxpMex8SKHlVUjhy3XIibOG1pp4TvAQ/0?wx_fmt=jpeg" width="400"/>
-
-### [测试没有管理，产品质量凭心情说了算？](https://mp.weixin.qq.com/s/_yPXtO74WBenbiKdW7BWTA)
-
-- **发布日期**：2020-11-26 19:48  
-- **所属合集**：nan  
-- **摘要**：初级测试跟着干，中级测试带着干，高级测试养着干。老板问我说：测试管理怎么办？我说：这个基本上很难。问题如今互  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7iblzics9dY3bPyBRRJXYsHaORJBoEBQUyNa7rJQX7Y5QuURUP5egCIjs5X5ME6RMIW92Z6yppyDOT7CuWwBiaiaKw/0?wx_fmt=jpeg" width="400"/>
-
-### [开始了！2020年CNCF中国云原生调查](https://mp.weixin.qq.com/s/CclHfL2t3RCQ4JNQknm-fg)
-
-- **发布日期**：2020-11-25 08:59  
-- **所属合集**：nan  
-- **摘要**：云原生今年大家用得如何？  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHR0UYia3r6MAY4ktw1Bm8aUmYrf5Do4S2ELTrGEUzulo3cAibJP4Amc5GJuDiaevHwpl1sMdS65AjGeA/0?wx_fmt=jpeg" width="400"/>
-
-### [微服务中集成分布式配置中心 Apollo](https://mp.weixin.qq.com/s/vk_eIzBf__MOfzz6UpwoWA)
-
-- **发布日期**：2020-11-13 15:01  
-- **所属合集**：nan  
-- **摘要**：背景随着业务的发展、微服务架构的升级，服务的数量、程序的配置日益增多（各种微服务、各种服务器地址、各种参数）  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKycC82iaBCSdDkQInS9xLcmHBpqrEvoia4c1uibwvluYhkt6NVtzcAw1SI0GJU8S1pEYAwLuLjpqP9zyQ/0?wx_fmt=jpeg" width="400"/>
-
-### [微服务架构中进行日志采集以及统一处理](https://mp.weixin.qq.com/s/AErskcsssj3t-3LIaiqHUw)
-
-- **发布日期**：2020-11-12 11:45  
-- **所属合集**：nan  
-- **摘要**：微服务各个组件的相关实践会涉及到工具，本文将会介绍微服务日常开发的一些利器，这些工具帮助我们构建更加健壮的微  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKycibB8dTjewn0iby0EL18g6Tny9PlARGosQEjGKejnxe1e4BycIsict2g1c2ckiaFrFVNZaQyh7ogeXVQ/0?wx_fmt=jpeg" width="400"/>
-
-### [用 Rust 实现一个 CHIP-8 模拟器](https://mp.weixin.qq.com/s/HotvKHczANA8bDxM2KVQaw)
-
-- **发布日期**：2020-11-09 10:57  
-- **所属合集**：nan  
-- **摘要**：CHIP-8是一个解释型语言，我们今天用 Rust 来模拟实现这个 CHIP-8  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHRRyYsLb7H2s93jWFM8DLHG7PVMce0kSaSjEicYD0iasS5ChGtUhxBQrpJbQ6Cmv9Bia3nsGAVLOLLtQ/0?wx_fmt=jpeg" width="400"/>
-
-### [一文全掌握 Kubernetes Operator 精髓](https://mp.weixin.qq.com/s/_wGNSJw4pp35z0liq1vNag)
-
-- **发布日期**：2020-11-06 10:32  
-- **所属合集**：#云原生  
-- **摘要**：Operators 是一种打包，部署和管理 kubernetes 应用的一种方法，一文带你全掌握 Kubernetes Operator 精髓  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSJciaDfaeCKc1ZP5oA0nSU4kYBQLZY35wyUJOVFicyyJb7nx7xb89ViaWxImcEt5FYiaB86VbDWuplHw/0?wx_fmt=jpeg" width="400"/>
-
-### [云原生架构下复杂工作负载混合调度的思考与实践](https://mp.weixin.qq.com/s/HzeR2N1ucX5tHp6MYPxtYA)
-
-- **发布日期**：2020-11-05 11:06  
-- **所属合集**：nan  
-- **摘要**：10月25日，第一届中国云计算基础架构开发者大会在长沙召开，星环科技与众多国内外厂商共同就“云原生”、“安全  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/S0GvtHOgkWeyYFeEQoia28lpjhexhFtMp1EmPC2kVN1Wp3ySN8VhO1olzXEvUxtqBUhJhOVtJ7mJia4ZNTiaNYW7g/0?wx_fmt=jpeg" width="400"/>
-
-### [MacOS 系统使用 Minikube 安装 Kubernetes](https://mp.weixin.qq.com/s/rl034Q658bpNodQi1Ddi0w)
-
-- **发布日期**：2020-11-04 12:14  
-- **所属合集**：nan  
-- **摘要**：想学习和体验 Kubernetes，一定需要一套集群吗？这是一篇在 MacOS 上体验的指导手册。安装 Mi  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7iblzics9dY3YJclA9GZ3fZaWFg34kP6QITkYYYE4PbA9oaJ074vAY3ceZzkh5714HUvSAicbMzAVVTljLAypJGIQ/0?wx_fmt=jpeg" width="400"/>
-
-### [Selenium 结合 Docker 构建分布式测试环境](https://mp.weixin.qq.com/s/tZa4EnONceTOvWfpQGPcRA)
-
-- **发布日期**：2020-10-29 14:43  
-- **所属合集**：nan  
-- **摘要**：从初学者视角步步为营。本文节选自资深测试工程师徐旻在 2017 年发表在 TesterHome 的一篇《Se  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7iblzics9dY3ZdFgEpI5LC7nGftEpk7RqycwfhobCmSMSJPV9icmDR9WAWExZJkjFl8EUd6afxfBBFJdezYsM1LTw/0?wx_fmt=jpeg" width="400"/>
-
-### [Go 与异步 IO - io_uring 的思考](https://mp.weixin.qq.com/s/deK097eePgbnv8o0ZHI6lg)
-
-- **发布日期**：2020-10-22 17:32  
-- **所属合集**：nan  
-- **摘要**：文章内有大量链接，可以通过原文获取更好的阅读体验http://icebergu.com/archives/g  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/dSjKGjibJFII5pzCxu7gR9a0Hd221UicqS0TsMicxmxdyblH2Ognl6eI33nnWJ4gRqOOyA94EOsIVibMkZguZ4LNVw/0?wx_fmt=jpeg" width="400"/>
-
-### [Log-structured File System](https://mp.weixin.qq.com/s/hiQ0D2CK6b-t1qmtIPD_6A)
-
-- **发布日期**：2020-10-16 10:22  
-- **所属合集**：nan  
-- **摘要**：随着越来越大的内存，大部分的读操作都能被 cache，因此 LFS 主要要解决的是减少对硬盘的随机写操作。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTGRVdymFW7ZicfRcaqPryxnTraticZcqQKaVyk1qia7wRogMn6AwQ9yOZvKaTL8G4WrUgbxAR7G5foQ/0?wx_fmt=jpeg" width="400"/>
-
-### [Linux 网络大全（四）——用户态](https://mp.weixin.qq.com/s/ec0Kkw1vGlBJj_E_UsmVQA)
-
-- **发布日期**：2020-10-14 13:59  
-- **所属合集**：#网络基础知识  
-- **摘要**：在前面的章节中，我们已经走完了所有内核部分的网络代码，最后一章就是用户态的部分了  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQC3hU3ttIfcxAnzAETC9V1WQ8HeH8yJ4OVLScnuDI1Uwn2CRCcGXb7DWBiac0gibuQ9RX5sbbaqAow/0?wx_fmt=jpeg" width="400"/>
-
-### [Linux 网络大全（三）——IP+TCP](https://mp.weixin.qq.com/s/a5y8wXri-FGSCG8xViF0tA)
-
-- **发布日期**：2020-10-11 10:00  
-- **所属合集**：#网络基础知识  
-- **摘要**：从软中断归来，数据开始进入了我们熟悉的协议处理部分  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQx8DicuicKl12XjicuXOe5ibtkap0EvGnEpnEEsSic30WLPicca1tyhJTH3XrKaDos9FsYjcoL18iat4yew/0?wx_fmt=jpeg" width="400"/>
-
-### [Linux 网络大全（二）——网卡驱动](https://mp.weixin.qq.com/s/NJSdpJw1ncvrSkvZwkRxQg)
-
-- **发布日期**：2020-10-10 10:00  
-- **所属合集**：#网络基础知识  
-- **摘要**：本文试图从软件的角度解释一个网络请求的今生前世  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQx8DicuicKl12XjicuXOe5ibtkap0EvGnEpnEEsSic30WLPicca1tyhJTH3XrKaDos9FsYjcoL18iat4yew/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubernetes 网络插件工作原理](https://mp.weixin.qq.com/s/cl5ZbQvSreCi-3KVf5JwPw)
-
-- **发布日期**：2020-10-09 10:00  
-- **所属合集**：#网络基础知识  
-- **摘要**：容器的网络解决方案有很多种，每支持一种网络实现就进行一次适配显然是不现实的，而 CNI 就是为了兼容多种网络  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCqaiaGwqCeyaYTeEZvrSKXs3fiahJxvUyKy8pn2iaD08H0CCialicrIOL92VfBxm7ib1Sc7WTCT3gnHX4pw/0?wx_fmt=jpeg" width="400"/>
-
-### [Linux 网络大全（一）—— 基础知识](https://mp.weixin.qq.com/s/XrAXdIZx0OC3DjrHFACFrQ)
-
-- **发布日期**：2020-09-29 10:53  
-- **所属合集**：#网络基础知识  
-- **摘要**：这次带大家一起从软件工程师的角度看一看 Linux Network 的全貌  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQx8DicuicKl12XjicuXOe5ibtkap0EvGnEpnEEsSic30WLPicca1tyhJTH3XrKaDos9FsYjcoL18iat4yew/0?wx_fmt=jpeg" width="400"/>
-
-### [DevOps 平台就需要一个专业的门户提升逼格！](https://mp.weixin.qq.com/s/Fp9KSNaD-M27km3MNgIAQw)
-
-- **发布日期**：2020-09-28 19:47  
-- **所属合集**：nan  
-- **摘要**：人人都说要体验 DevOps，确信自己走在正确的道路上？兵家必争的 DevOps 平台 DevOps 的概念  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7iblzics9dY3bO16jtMntURAw7AABaVKeVFE2jC5h1gbiaNSIJBxauBMibvVniaU7icRoM3IYy7hgtYGN01R7yvib5V7A/0?wx_fmt=jpeg" width="400"/>
-
-### [真实世界中的 Rust 异步编程](https://mp.weixin.qq.com/s/iEFZhbMi3_nhNrIwm_jOWA)
-
-- **发布日期**：2020-09-14 10:41  
-- **所属合集**：nan  
-- **摘要**：在上一篇 解密 Rust 异步编程 中我们已经知道了 Funture 工作的原理，接下来让我们看看真实世界里面是如何工作的。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTsYVlxickjRtC9wm9UzVgKicdmeHES7EyqOEOovrRia0gXmwcTM2jfyS7vU0ibMwxCFg1dCvLqvRDvmg/0?wx_fmt=jpeg" width="400"/>
-
-### [Mosn源码速读（下）](https://mp.weixin.qq.com/s/Xlm6dDnroN1gtRDluRrMYA)
-
-- **发布日期**：2020-09-11 08:30  
-- **所属合集**：nan  
-- **摘要**：MOSN系列最后一篇，看看重要的功能吧  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSDNxCr1OVYib3UF4cktgauQbbzmoicfrGf3FNzC1dsXke4CcOULMcKeN4jchbrH7d7hoicUNhb4wSHw/0?wx_fmt=jpeg" width="400"/>
-
-### [Mosn源码速读（中）](https://mp.weixin.qq.com/s/7NllcexYxoJjNrSqn-KgnA)
-
-- **发布日期**：2020-09-09 08:30  
-- **所属合集**：nan  
-- **摘要**：本文基于 0.15.0 版本，干货多多  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSDNxCr1OVYib3UF4cktgauQbbzmoicfrGf3FNzC1dsXke4CcOULMcKeN4jchbrH7d7hoicUNhb4wSHw/0?wx_fmt=jpeg" width="400"/>
-
-### [Mosn源码速读（上）](https://mp.weixin.qq.com/s/rRDV41S39qdeiP39nj6yGA)
-
-- **发布日期**：2020-09-07 08:30  
-- **所属合集**：nan  
-- **摘要**：本文基于 0.15.0 版本，干货多多  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSDNxCr1OVYib3UF4cktgauQtLYWfkQNry1oQiaic5EyYesa3erMaVj3SRReSpYdPbI4joJv500n97Gg/0?wx_fmt=jpeg" width="400"/>
-
-### [解密 Rust 异步编程](https://mp.weixin.qq.com/s/RVzNbP9JhZvqYmrhRrUHRA)
-
-- **发布日期**：2020-09-05 10:30  
-- **所属合集**：nan  
-- **摘要**：一起来了解 Funture 的抽象机制是如何运行的  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSDNxCr1OVYib3UF4cktgauQv56AsR0Lgp1HicibZicJPR7nNGkI7vvBL1cKau4CeVUqgTicmSVQBtuwQQ/0?wx_fmt=jpeg" width="400"/>
-
-### [聊一聊 API 接口测试](https://mp.weixin.qq.com/s/RwZ6kvG84Ij9dxU59ZnN8A)
-
-- **发布日期**：2020-09-04 14:57  
-- **所属合集**：nan  
-- **摘要**：知其然亦知其所以然，接口测试没有那么复杂，但也没有那么简单。本文作者：张敏，软件测试工程师，就职于一家容器平  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7iblzics9dY3YmOITVwuXLGczW2aHXtJRwVcF3n03omqTjfoPKsAhdK1SlEj0E6xtEugibT66vjLyxdZ73GDe5gDw/0?wx_fmt=jpeg" width="400"/>
-
-### [十分钟漫谈容器网络方案01—Flannel](https://mp.weixin.qq.com/s/LiAor_36owbsfIH6Q57FhA)
-
-- **发布日期**：2020-08-25 08:30  
-- **所属合集**：#网络基础知识  
-- **摘要**：在《Docker和Kubernetes的前世今生（下）》中我们介绍了作为目前主流的容器编排系统，Kubern  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/S0GvtHOgkWcF55iclwWaBpXX64X08Z5pnZIM4pcXPaF3rkHL33iaJK8HALqJhHujiba9S7uNQwbZkK8GNbs3V82xA/0?wx_fmt=jpeg" width="400"/>
-
-### [ElasticSearch Operator 工作原理浅析](https://mp.weixin.qq.com/s/YLjachV_5-ZvynZ0QlKWJA)
-
-- **发布日期**：2020-08-24 09:54  
-- **所属合集**：nan  
-- **摘要**：前一段时间在死磕 ElasticSearch，本着偷师学艺的目的来读一下 ElasticSearch Ope  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCqxjicMicLzJicheQBmiaMn8d7l6FQZ7DLhqhEfkmNZLlQMUTkU5r73wqhPggTW2VAwgxnZnYFNyWLRFg/0?wx_fmt=jpeg" width="400"/>
-
-### [用个工具就叫压测了？](https://mp.weixin.qq.com/s/mGCVJXVQQohV2WRgsJ-KzA)
-
-- **发布日期**：2020-08-13 00:24  
-- **所属合集**：nan  
-- **摘要**：压测还是得先从概念和理论开始，工具反而是其次的。本文作者：于静，高级软件测试工程师。曾负责某全球智能药房设备  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7iblzics9dY3ZgIOfQqTXt1ZasquFNiaeNz4MkV14mwTLlwh5F7cAwRpy1uT0BerQwYsFxRluhu2MRFv6sFyqLYug/s640" width="400"/>
-
-### [Kubelet 对 Pod 的服务质量管理](https://mp.weixin.qq.com/s/Op7surOIZmjNsWbWc2MGCg)
-
-- **发布日期**：2020-08-12 09:47  
-- **所属合集**：nan  
-- **摘要**：上篇文章 《Kubelet 创建 pod 工作流程》 讲解了 kubelet 如何创建 pod，各组件之间如  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCrTE3eUOo0xrb1uss289Y2gYOaNqnVsOcG5SmKGGCKbOeeXe4D7bLIzlVYlYqJViaPbtaHBqpMRdvg/0?wx_fmt=jpeg" width="400"/>
-
-### [手把手教你用 Jenkins + K8S 打造流水线环境](https://mp.weixin.qq.com/s/isN44SaRnvTPSwN0RqYW1g)
-
-- **发布日期**：2020-08-11 22:40  
-- **所属合集**：nan  
-- **摘要**：朋友的真实操作流程，使用 Jenkins 和 Kubernetes 完成持续集成和持续部署，有搭建，有入门，  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7iblzics9dY3b2zWHb0FJbBHLZp3QASWAXt8Y1jF8R1ffxNXRtdm9FafRibBXIqLE1pZKUU6j4ZKQPgBPwGSRrHPA/0?wx_fmt=jpeg" width="400"/>
-
-### [万万没想到，测试工程师竟然可以这么管理自己的小工具](https://mp.weixin.qq.com/s/2HYP3wXLAPHM20rRyqvJjQ)
-
-- **发布日期**：2020-08-06 12:38  
-- **所属合集**：nan  
-- **摘要**：作者：Will，软件质量保障专家，DevOps 落地专家，认证项目管理师，认证 ScrumMaster，曾担  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7iblzics9dY3YsS6ic6mYicSRPhLemr6CMXm5brU3YLlJWic2L8vkK3dVbZmFb9NduCaNj32HH6q3py2IzommPNI50w/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubelet 创建 pod 工作流程](https://mp.weixin.qq.com/s/iHVhVZUnc5UTtFwlihEalg)
-
-- **发布日期**：2020-08-04 23:07  
-- **所属合集**：nan  
-- **摘要**：本文基于对 Kubernetes v1.19.0-rc.3 的源码阅读Kubelet 作为 Kubernet  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCpIdvFfb7GFaPYDrLc2xvVNGic6RcehAiaSIUddUTukE5RCOuFjiaTqibEU6zybzaWficSBLiboCB3QAyRw/0?wx_fmt=jpeg" width="400"/>
-
-### [微服务框架 - 2020](https://mp.weixin.qq.com/s/snOfSHhNlw1KmAzyC0DdsQ)
-
-- **发布日期**：2020-07-22 12:10  
-- **所属合集**：nan  
-- **摘要**：一起来看看 Java 社区有哪些新框架  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHT4XlibaaFgBtcoD9Yl9Ttoablib49YcdgG7QM8VAzfsN0Lc7bv2A9kjLzItneknUnEImk0iaxMZmLyQ/0?wx_fmt=jpeg" width="400"/>
-
-### [架构亦非玄学](https://mp.weixin.qq.com/s/W5bNBnEjSvEIgXmTjWMEpQ)
-
-- **发布日期**：2020-07-21 10:14  
-- **所属合集**：nan  
-- **摘要**：架构本天成，妙手偶得之  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHT4XlibaaFgBtcoD9Yl9Ttoalvf7icVsqWwLqT6gTmmU79UWicnQqVIcwMF96LIF2CgaHKRicOicdLapJA/0?wx_fmt=jpeg" width="400"/>
-
-### [聊聊服务端热更新](https://mp.weixin.qq.com/s/VI8cAZXvMkUbkq6euYjewQ)
-
-- **发布日期**：2020-06-15 17:27  
-- **所属合集**：nan  
-- **摘要**：随着Devops以及微服务的普及，应用上线周期变短，对于以前那种需要停机升级的忍受度也在不断的降低。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTmawuNX9ibsTTzFYic8t3NcXk2lvbky6Ix0iaegk7JSNWtG1oHoZNBw0vU84JSCqIGGhWNCSWRIicmzQ/0?wx_fmt=jpeg" width="400"/>
-
-### [破解 Java Agent 探针黑科技!](https://mp.weixin.qq.com/s/POb1WfaLNmq_Ay1_FXDSOw)
-
-- **发布日期**：2020-05-28 14:48  
-- **所属合集**：nan  
-- **摘要**：Java Agent 背后的黑科技！  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/jeVbC4FDhDK7JJtqOzUoAW788tvIr55bGToe8zMUE6YtLSXFcsiaheJY4px81RowoDZ3RF9nMFQthnibKPnNw6Rg/0?wx_fmt=jpeg" width="400"/>
-
-### [万字破解云原生可观测性](https://mp.weixin.qq.com/s/zzr4sJqE1eieUJrrIyDEew)
-
-- **发布日期**：2020-05-01 17:22  
-- **所属合集**：nan  
-- **摘要**：分享「Apache Skywalking PMC」谭建的一篇文章，系统总结了云原生可观测性，值得细细品味。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/jeVbC4FDhDKsBoX5kc6QtuK4j1C9teBYFkOjzFmDU2Y7o4CVuAibUy1nz1Tj0pskEF4sbBib9bam2woogvyfPzxA/0?wx_fmt=jpeg" width="400"/>
-
-### [结合 Apache ShardingSphere 的数据脱敏方案](https://mp.weixin.qq.com/s/2T6Smbu7LGiEwK5hcXmq-A)
-
-- **发布日期**：2020-04-17 16:39  
-- **所属合集**：nan  
-- **摘要**：安全控制一直是数据库治理的重要环节，数据脱敏属于安全控制的范畴。本篇文章介绍了如何使用 Apache ShardingSphere 产品之一的 Encrypt-JDBC 进行数据脱敏，根据实际场景说明了应用改造方案。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQGk9knz3723mNFcgV8GMDVq8TxpeJqB9RW99aqKUNyB0Hud1wJaZARSknOqFuNJETnCUsYIIbJJA/0?wx_fmt=jpeg" width="400"/>
-
-### [祝各位鼠年“家兴百合，福临康安”！](https://mp.weixin.qq.com/s/RP-MFR15Vnl5iDUTpRgLVg)
-
-- **发布日期**：2020-01-25 00:05  
-- **所属合集**：nan  
-- **摘要**：祝各位鼠年“家兴百合，福临康安”！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTP6jk2KK8FKF75Z8NVRQzGszoWz9jy7KAVQB2ZNxJmPbiaWv0aHbfNP2HmcytOibvhsjXNibjdTCiaqg/0" width="400"/>
-
-### [技术人员的成长之路！](https://mp.weixin.qq.com/s/oZs9o7zrk8m2f43uXqc1hg)
-
-- **发布日期**：2020-01-02 23:31  
-- **所属合集**：nan  
-- **摘要**：技术人员的成长之路！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRR7hibp5HX9UjpWpxeAagneFb1zaGxHCAO5dIaPBWaGyIDj3lMzMekfianicemKgsjEmia5Eb8ibMMgZw/0" width="400"/>
-
-### [我们是怎样打造一款分布式数据库的](https://mp.weixin.qq.com/s/Kgl6QB1UTZA3A3N-2pFY-Q)
-
-- **发布日期**：2019-12-18 15:35  
-- **所属合集**：nan  
-- **摘要**：随着的互联网高速发展，构架于单机系统的数据库已无法满足越来越高的并发请求和越来越大的数据存储需求，因此，分布式数据库被愈加广泛的采用。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQrwNscWO9qks39tmVEOCQicVmaC83cbTtqvyAUfIZpZWllLtM3MMdzBiaHE6ZSMb0dVeWrib6bJ81Tw/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubernetes Controller Manager 工作原理](https://mp.weixin.qq.com/s/MRjcrnZiDdSJuZWXXhAkdA)
-
-- **发布日期**：2019-12-16 11:30  
-- **所属合集**：nan  
-- **摘要**：Kubernetes Master 节点中，有三个重要组件：ApiServer、ControllerManager、Scheduler，它们一起承担了整个集群的管理工作。本文尝试梳理出 ControllerManager 的工作流程和原理。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSic7Xva4IeyBw7TDicjZN3AzEPcZhSfEDzcPBWOEPN1vb4wgfSmB1nvmUWZWYXtR635trVffwoA1sA/0?wx_fmt=jpeg" width="400"/>
-
-### [使用 Kubebuilder 创建自定义 K8s AdmissionWebhooks](https://mp.weixin.qq.com/s/6_mmKUU0av8moytKiXJsSg)
-
-- **发布日期**：2019-10-13 15:30  
-- **所属合集**：nan  
-- **摘要**：Kubebuilder 除了可以构建 CRD API 及其 Controller 之外，还能构建 AdmissionWebhooks。这篇文章就来详细分析 Kubebuilder 如何构建 AdmissionWebhooks。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQVIm3rQw8AL2dpmcpgpSRVW8VFYLric4lI16Cf7lebn5lE44eXQbZiapuD2nQ3ibOmOT0xlFD2eILjQ/0?wx_fmt=jpeg" width="400"/>
-
-### [使用 Prometheus 监控 Kubernetes 集群](https://mp.weixin.qq.com/s/NFAvPsKNW1I4akid-F9r2g)
-
-- **发布日期**：2019-08-17 11:31  
-- **所属合集**：nan  
-- **摘要**：无论选择什么架构，底层基于什么运行时，可观测性始终拥有极高的优先级。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQOK7O6eCENm7juCaA3JVSwQtBG4LqQU3opVXjKWulwE5ltm8xEWjowOtLHsj6icgcXibm5rsBM3MAw/0?wx_fmt=jpeg" width="400"/>
-
-### [使用 Kubebuilder 构建 Kubernetes CRD Controller](https://mp.weixin.qq.com/s/kg7I6PWcYzd4HZbEfuW0Vg)
-
-- **发布日期**：2019-08-11 22:14  
-- **所属合集**：nan  
-- **摘要**：如何快速构建一个 CRD Controller  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQ3yYTbHMiaf9VdRM6U8pWUM32Uz7mtaNTu4gJ6LqHBo10hER1ZiaQAAtET0EdbmoNrCe8ib0qRUwsPw/0?wx_fmt=jpeg" width="400"/>
-
-### [使用 KeyCloak 对 Kubernetes 进行统一用户管理](https://mp.weixin.qq.com/s/vRLGZg6W9VGq-vJx-cVIyg)
-
-- **发布日期**：2019-08-05 09:33  
-- **所属合集**：nan  
-- **摘要**：本文通过 KeyCloak 和 kubectl 向大家介绍了 K8s 中如何进行用户管理  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHT6h5s9YNHD4RjwvI8iaCFEFGsaiadubo3eQz75xACYLRib2jbGc0mt2jCCibNlx82NiaQcnZrkGNCRG5g/0?wx_fmt=jpeg" width="400"/>
-
-### [OIDC 协议及其在 Kubernetes 中的运用](https://mp.weixin.qq.com/s/xhEcYNdWbTlulrhtWClX8w)
-
-- **发布日期**：2019-07-31 17:48  
-- **所属合集**：nan  
-- **摘要**：K8s 对于用户管理提供了一种方式，即对接 OIDC 协议。本篇文章我们就来了解一下什么是 OIDC 协议，及其在 K8s 中的运用。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHRM8ZWibiaM5yRvyPfM88McGk0trkxj2upOygics3rUEbdZKdJMnOC8mbL8bCVWRe4EOscqge93cF1Fg/0?wx_fmt=jpeg" width="400"/>
-
-### [如何使用 CRD 拓展 Kubernetes 集群](https://mp.weixin.qq.com/s/FURoBarit1M11Esr7z0F0g)
-
-- **发布日期**：2019-07-27 18:59  
-- **所属合集**：nan  
-- **摘要**：让 Kube 已有的资源为我们的概念服务，这可以使产品更专注与解决的场景，而不是如何思考如何将场景应用到 Kubernetes。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTfGAmKa0yyOZke2vFEHNoDD5qNGetISHuTtFQLC5SZ9ia8iaHygHPXIvVhAZ6kS581CpSqXoz1aQBw/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubernetes 服务发现之 coreDNS](https://mp.weixin.qq.com/s/xLqxUAt2IAomi4jjPzK66A)
-
-- **发布日期**：2019-07-14 20:22  
-- **所属合集**：nan  
-- **摘要**：服务发现是 K8s 的一项很重要的功能。K8s 的服务发现有两种方式，来聊一聊其中之一的 coreDNS。  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQKposDwNc8CEMONgQDh7mohyYn2JHaLelnTE62gvtEtzINAprVVtmnt1PuWEstx8YojFqia9QfUNA/0?wx_fmt=jpeg" width="400"/>
-
-### [云原生之下的Java](https://mp.weixin.qq.com/s/SChVmqMzD25LJn6bpWSmrg)
-
-- **发布日期**：2019-05-31 18:30  
-- **所属合集**：#Java  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTWNDOxMaoeRSQ1vvGnEpYuE6IKk27BxzaDvM9MKo7Cic846MEFnkNQl8clTHQV2RoAtEpia4ZF9org/0?wx_fmt=jpeg" width="400"/>
-
-### [RocketBot：A modern and awesome UI for Apache SkyWalking](https://mp.weixin.qq.com/s/Nm_4BQ7V-2HDKorxAtrbTQ)
-
-- **发布日期**：2019-05-06 18:30  
-- **所属合集**：nan  
-- **摘要**：技术的道路上，他们克服了重重障碍，才得以收获鲜花与掌声  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSYEbnwKhDF3USAVW154oqXf5JwrjTrgZ3uUPJQMDVB9UCicTNoiabS6QztsxWvVKBvE9AIZVKdo8Ug/0?wx_fmt=jpeg" width="400"/>
-
-### [RabbitMQ 模型和死信队列](https://mp.weixin.qq.com/s/YV0lHgiOsN-5MbYbyAshwA)
-
-- **发布日期**：2019-04-01 18:20  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTcdIjhIfj0AwKDtzO6L2pNRKvBP34icSpA4FEP1FW8RLfCQWn8XWueIricZyDvNDECw2scZhuiaZBQg/0?wx_fmt=jpeg" width="400"/>
-
-### [关于micrometer统计最长gc耗时为0的问题排查](https://mp.weixin.qq.com/s/6VZUSdbO7KCmYYlH1vMn_A)
-
-- **发布日期**：2019-02-26 19:19  
-- **所属合集**：nan  
-- **摘要**：新手向的问题排查记录  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTvFbww8QnKxdwmibqSbia23UhRPfIqCRicib3Nmqu1Zpe3v1Ny5UTNqBdibC9DpONRVpQ8sxicSuRNJJvw/0?wx_fmt=jpeg" width="400"/>
-
-### [APM巅峰对决：Skywalking P.K. Pinpoint](https://mp.weixin.qq.com/s/AjU4EMAlxnwdf65pWiuZ_A)
-
-- **发布日期**：2019-02-24 12:27  
-- **所属合集**：nan  
-- **摘要**：APM巅峰对决：Skywalking P.K. Pinpoint，究竟谁才是当今最强大的APM开源软件，让我们一起见证！！！  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSjPzRMFqux8sJg2k8dLsqXNia3I3XBK5veP0pUib5Yq3uCbtoqBQ8rWsJyTgUUIuG3hsLtibwE68WPQ/0?wx_fmt=jpeg" width="400"/>
-
-### [让 Spring Boot 的应用日志记录应用名和Instance ID](https://mp.weixin.qq.com/s/cm5PQjKwcF_oaYXWQpTt1A)
-
-- **发布日期**：2019-01-03 20:00  
-- **所属合集**：nan  
-- **摘要**：如何在不使用过滤器和拦截器的情况下，让 Spring Boot 的应用日志记录应用名和 Instance ID 呢~  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSqolh6Kp1YXwic0wEZI4xGEqpBjj5Y03STzY96gTicT8MVz6yn5DIvb8QDvcAGhxe3LPsCqw42icMVA/0?wx_fmt=jpeg" width="400"/>
-
-### [「要不然」抽奖活动，中奖名单公布啦~](https://mp.weixin.qq.com/s/G4ckDpKUg4O_7AuTQifgwg)
-
-- **发布日期**：2019-01-02 14:31  
-- **所属合集**：nan  
-- **摘要**：元旦活动中奖名单公布~  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSqolh6Kp1YXwic0wEZI4xGENl5S5lMxVVtTwg2MQYu6fz4bW9FVn44Z3C1xjYraJF3tYR5C3r6IHA/0?wx_fmt=jpeg" width="400"/>
-
-### [「原力注入」新年礼派送，「要不然」抽个奖吧！](https://mp.weixin.qq.com/s/7NW6RVC6XvNZgYmpokJGpQ)
-
-- **发布日期**：2018-12-27 22:05  
-- **所属合集**：nan  
-- **摘要**：叮，这里有一份新年小礼物等待您的领取！  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQNHjZH96oSJ1hmGa4WGaAImG1OThvKAqs2VsahUnfskpJmqODib7D2qWicClau56LIOSa8ers7Jw3A/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubernetes Job 与 CronJob](https://mp.weixin.qq.com/s/y8zx9wD96RmoEwU3Dj5PJQ)
-
-- **发布日期**：2018-12-23 18:12  
-- **所属合集**：nan  
-- **摘要**：提前祝大家圣诞快乐咯~  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTg6KlHq5tcquiaPPQUaLYVzkiaLZQEmrichpjf4ITwdNicot60ibD8BH5hBwLxt3YW8YQzibErLPghRdEA/0?wx_fmt=jpeg" width="400"/>
-
-### [入门向：Istio 与服务网格](https://mp.weixin.qq.com/s/5XwP7HOoyfvBvy0p9HEEhA)
-
-- **发布日期**：2018-12-14 19:07  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTcFXyrPRBU2sj3p9dwshia4qPmiamVSxWibFdkdOw0MfnCWPuxna1icicPqW1bzCkdpHZ18Z3VTibh5E8Q/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubernetes 安全机制解读](https://mp.weixin.qq.com/s/Te6B_9I4T5f_SQhaz2IkUQ)
-
-- **发布日期**：2018-11-27 18:38  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSGNicKsmlHLOXHjibmiaXIlneIB6AkR7qg5DAGeODdyLcOB2LesMqCZsathZKVxCTQCZhy2WCJgLu3Q/0?wx_fmt=jpeg" width="400"/>
-
-### [深入学习Java8 Stream](https://mp.weixin.qq.com/s/2VIOotoYDdXKKF8BtaHZ-w)
-
-- **发布日期**：2018-11-20 10:18  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHQPpN8Pticg16xqWibImb9FoYqpoJ9ia4b2WDZVMbYGncq0eWkWRV1l9bA6x6wIbfdSjdevBjLI9kfyQ/0?wx_fmt=jpeg" width="400"/>
-
-### [走过路过，投个票吧~](https://mp.weixin.qq.com/s/kzikRMnldHHjLTRZiY6PlQ)
-
-- **发布日期**：2018-11-15 11:24  
-- **所属合集**：nan  
-- **摘要**：2018年度最受欢迎中国开源软件，请为 Apache  Skywalking 投票哦 ~~ >_<  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHRQAZFhJL8xqnReMOlW17KtFFrmLYsiaTicbXl8y55wz11jKSZyG7723eogTEo2dQj0dIJAVopX5FTQ/0?wx_fmt=jpeg" width="400"/>
-
-### [企业规模化微服务分布式追踪落地实践](https://mp.weixin.qq.com/s/ZatVE7XB0ZpvZArRMMhsvQ)
-
-- **发布日期**：2018-11-12 10:54  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHT19dnyG9UX3Rtx8VUdGZmrwzTscSWBOolynjHBTx0MFdgkA2gXxkKhOpBnQJICIhYNib9GxbibN12w/0?wx_fmt=jpeg" width="400"/>
-
-### [Python 协程](https://mp.weixin.qq.com/s/7UmxSiwecAuZq-fIudIXgw)
-
-- **发布日期**：2018-10-23 20:06  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHRoVvT3ibHYkic5YJYtBmLcoQV3IFvf4ht1SnNmfWJ8nicj73RhnNiblR8bbAlxqseiaBwaFLoicOhZztnQ/0?wx_fmt=jpeg" width="400"/>
-
-### [记一次线上问题排查](https://mp.weixin.qq.com/s/usmX03X764Ka97S7XEakEQ)
-
-- **发布日期**：2018-10-18 19:19  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHTTmFohV4GXvFhAI76Ap5ThO1ibqzQ4SicUicHboFB2WTiaxQGusJVh8wIhrZ8FJtic3OCiau5ibAwALoH2A/0?wx_fmt=jpeg" width="400"/>
-
-### [kotlin合集](https://mp.weixin.qq.com/s/A6P3-QZOXm86aH7c6SUtpQ)
-
-- **发布日期**：2018-10-17 19:00  
-- **所属合集**：nan  
-- **摘要**：kotlin系列已经完结啦~总结了一下合集给读者们，方便大家阅读。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQC9uhjczp4fptmtcoeHuzrLROx0xkHyUMvBlMthsibziaBk8pBkvZqdEdv1RQHZObvmAADpJPND9Kw/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (13) - 最佳实践](https://mp.weixin.qq.com/s/y2lRXW1zcuoLvWsTGqNtvw)
-
-- **发布日期**：2018-10-16 19:00  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQC9uhjczp4fptmtcoeHuzrLlaGsIKxpQUBkYCfAAItibIvLVfWRqfjZBJzNlQu1GrF5EsSr4SQXVw/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (12) - 拾遗](https://mp.weixin.qq.com/s/-DZX3SKRnynT4Avo5dIR2g)
-
-- **发布日期**：2018-10-08 20:00  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQC9uhjczp4fptmtcoeHuzrSBB24C76G3Mrib14L4pXDMmA4FxichDucicsyCCY8mkDNBATH3UYtib7dQ/0?wx_fmt=jpeg" width="400"/>
-
-### [极客时间课程推荐](https://mp.weixin.qq.com/s/KoNhslVqi2JGiHSW9HLgow)
-
-- **发布日期**：2018-10-07 19:10  
-- **所属合集**：nan  
-- **摘要**：笔者每天开车上下班，因此听极客时间的课程是一种很好利用时间的方法。最近笔者听了几个课程，觉得  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHR9sxaCpnGsa77jMCcnLLjib5GhcnMTe6DQQuu3ibMjtutv1qURH2lFGUntXZ4X4f4Rz37PBVIVEBMg/0?wx_fmt=jpeg" width="400"/>
-
-### [Spring Cloud 微服务架构进阶](https://mp.weixin.qq.com/s/vW9zy-VDPpmDOICT-Pm-lg)
-
-- **发布日期**：2018-10-01 16:18  
-- **所属合集**：nan  
-- **摘要**：#0p.p1%20%7Bmargin%3A%200.0px%200.0px%200.0px%200.0px%  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/Pd1oo3TBKyeXouPicFrNFER0hu2aDqXOSHgt01wl0B74nv8ibsIzsYF1via6h7v4fRstW0zOugVjtKZNJN0IqNUzQ/0?wx_fmt=jpeg" width="400"/>
-
-### [浅谈 WSGI](https://mp.weixin.qq.com/s/vB7zjJRlbHQgXvFyvuM4Fg)
-
-- **发布日期**：2018-09-27 19:02  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="https://mmbiz.qlogo.cn/mmbiz_jpg/7xEgl6ic8qHSM29tJNRwUSyDLC2QhNUsVnlSPnXtxMlwQBUibZsm6ibAd5g3MHWm5cstib5JoH0XQCTmX3fjYUQEWg/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubernetes 入门之网络详解](https://mp.weixin.qq.com/s/HH-hsaM6VxNoj4ZaotgPaA)
-
-- **发布日期**：2018-09-24 20:38  
-- **所属合集**：#网络基础知识  
-- **摘要**：祝大家中秋快乐~好好学习，天天向上！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQC9uhjczp4fptmtcoeHuzrddKUE3XyWZhIgEYosficV2Gib15zDUficquleEvtI8yAbwpS7NwQiazIkg/0?wx_fmt=jpeg" width="400"/>
-
-### [分享图片](https://mp.weixin.qq.com/s/eSQcSBL5UqL4tjhxKcja_Q)
-
-- **发布日期**：2018-09-18 09:51  
-- **所属合集**：nan  
-- **摘要**：活到老，学到老！
-学好数据结构和算法，打遍天下都不怕！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQDkTNFk8nqPkIicBP5fUhzEP4ib7s0jREQ6I4RrZDiaVgibu03eh9j1SToBjzvSiaIo7fhiaZU9NCw5ChA/0" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (11) - object 关键字](https://mp.weixin.qq.com/s/xuWUi3xPbxW5sJ_iwNziSw)
-
-- **发布日期**：2018-09-11 18:51  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTL9TTiboJRicJAg3d8McP6yyfhNVRib6N0lviatdnACuE5IBJpt7Cs3ibU3Ty9AgQe2RFaYobsYYJs0icQ/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (10) - 面向对象 - 继承与多态](https://mp.weixin.qq.com/s/HxvGdXBIg-hjjZenz4mdfQ)
-
-- **发布日期**：2018-09-06 19:37  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHT4nZJBia5GWBfw2WGCjXgd7ngNqpnyZ6PUOXH9zviakKn7A4H52n3v4Hj4d3CpCLvFVGHvGssuspcA/0?wx_fmt=jpeg" width="400"/>
-
-### [Kubernetes 入门之 Pod 详解](https://mp.weixin.qq.com/s/sT1RcH-2lA1m3_moQt8Vyg)
-
-- **发布日期**：2018-09-03 20:00  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRclqzXjoSYTcMWxSWDD4WFz4M4uuicyE7zPyK4T3zfnABHbpMwEgOIwKzpXZgz8SpnzrFSAaSRu4w/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (9) - 面向对象 - 属性](https://mp.weixin.qq.com/s/k30P0Coy1_tEYJgO31nxLw)
-
-- **发布日期**：2018-09-02 20:00  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQIdiajxanQ1fvIRxaQYyYFQzicgAmCYibdQ4Qb7tD8pQvDr3OFwHgic5fYHgcHhOpRPxD7ea7RvbOWPg/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (8) - 面向对象 - 基础](https://mp.weixin.qq.com/s/JokRMXgs68PDCTmG4FpbMw)
-
-- **发布日期**：2018-08-28 20:06  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTwDUp8JoOUGF5cmn5puQyzKPEFicF33RLnfL3Tuks999ISX1A8faicKU3BNjXtLpRELAncKnia9vu5A/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (7) - 函数高阶](https://mp.weixin.qq.com/s/0raYaBpu1l-cU_nKE2e-9w)
-
-- **发布日期**：2018-08-25 20:15  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTwDUp8JoOUGF5cmn5puQyzl5JHLDTpNFmLWxkbORzqxlOgIK7V5FpsCjYK9icq8yiacBj9ZKr4vq2Q/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (6) - 函数基础](https://mp.weixin.qq.com/s/YNXOTUUd8-si2fRWYyRVAQ)
-
-- **发布日期**：2018-08-22 20:31  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRjJNxjDB5laGYIm1cbWias9uJnIiaAHvV8eLw6X7OaxWZZxkQ0aDv9mhkzz8lIbDvoEAHuULbGvThg/0?wx_fmt=jpeg" width="400"/>
-
-### [OpenAPI（Swagger）快速入门](https://mp.weixin.qq.com/s/QyW9QJBs9rngNQy5Te9FLA)
-
-- **发布日期**：2018-08-18 20:00  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSuTkMn5RBsFwlRW1xaLB9cuAd7AFClTsS6qP1WRHIN1L60LIP2Wr0U59YRicQV2kCgLNVkRzZhvTA/0?wx_fmt=jpeg" width="400"/>
-
-### [Django 的信号机制](https://mp.weixin.qq.com/s/Vp-pZtscExoRCB75Ka08vA)
-
-- **发布日期**：2018-08-15 20:00  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTRPblyYG1VRvIlhZoENzfG48SAOGibF0iaOfiaNA3yNK69V60S3vjPNM1pic5Q2L0TiaIsLUslyaGV0Tw/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (5) - Null对象与类型安全](https://mp.weixin.qq.com/s/PdLHTaS2WFUJYEkWLs6skw)
-
-- **发布日期**：2018-08-10 20:00  
-- **所属合集**：nan  
-- **摘要**：nan  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRiaNH4PhQgy0MeNc1xk7AskqnCMhjVRlxGSavaWicLEmohM5JuF25qDzbxFwia6d6PzdbKwplh67pOg/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (4) - 控制流表达式](https://mp.weixin.qq.com/s/H-Jcc2yVGvJdXCHsNg-hvQ)
-
-- **发布日期**：2018-08-06 20:10  
-- **所属合集**：nan  
-- **摘要**：控制语句是编程语言中至关重要的部分，今天我们一起探索一下kotlin的控制流吧~  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQDU3gia8Mt8KtZfaelFpLGlanbcgrCKZX7l0kjULtslYJZfLibcw2mIIuw0SuCQiaqtTEHBTicqsCRNg/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (3) - 数据类型](https://mp.weixin.qq.com/s/PculxCpspVlSrYEiYr2ehw)
-
-- **发布日期**：2018-07-28 20:01  
-- **所属合集**：nan  
-- **摘要**：今天我们来学一学kotlin的数据类型吧~  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTt38EABVl0icsPzSYEAsVkKYEOZKIf1trZj4bb0K84UIKMvBjdHgEjM4aeAMlA6sHOE0G7melVhCg/0?wx_fmt=jpeg" width="400"/>
-
-### [JIRA配置手册 （3）—— 字段和界面](https://mp.weixin.qq.com/s/gzmmKHbFDDY-53pOnoozVg)
-
-- **发布日期**：2018-07-21 21:34  
-- **所属合集**：nan  
-- **摘要**：前几天介绍的问题类型和工作流的配置方法大家掌握了吗~今天来聊一聊字段和界面吧。趁着周末努力学习 >_<  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQhFGq4IR4Yrib9OLskrBrv1T1wcqLAaZh7y7jic1kMiaIFypsIvQgzRdst07gDuXTl9yuX5Zv6xnh0Q/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (2) - 基础语法](https://mp.weixin.qq.com/s/XnQzAV2Ln5xTM-uqvOKLmw)
-
-- **发布日期**：2018-07-20 21:48  
-- **所属合集**：nan  
-- **摘要**：Kotlin 基础语法，了解一下和 Java 有什么不同~  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTggdOp8LgwrDJ0UEdb324FP75bxycIn5kbjtGKuOIf96N8cdbJ1Bxl46wVQO9Ml4VspEx4cgCM3A/0?wx_fmt=jpeg" width="400"/>
-
-### [JIRA配置手册 （2）—— 工作流](https://mp.weixin.qq.com/s/RwIibc0zNrzIS8c7k_hU9g)
-
-- **发布日期**：2018-07-19 21:15  
-- **所属合集**：nan  
-- **摘要**：JIRA第二弹——强大的工作流，一起学一学自定义工作流内容吧~  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQlxcUIWn7v2RcDXOEy7dVnPNnYLWTGbOUB06MzLrpzToWk0K0Gx7qEMVMg3NsHz8TSmRcjNriar2w/0?wx_fmt=jpeg" width="400"/>
-
-### [写给 Java 开发者的 Kotlin 教程 (1) - 概述](https://mp.weixin.qq.com/s/jS_w8Przkjko0fDZZbjETw)
-
-- **发布日期**：2018-07-18 21:58  
-- **所属合集**：nan  
-- **摘要**：想学kotlin吗？老司机手把手带你入门，快跟上~  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRmlpibL0bXfcXVMelR2icpiaQvgL3cu43HrLo0ajhPwyHRkvJU0U9AoAvJImyRAH9svYF8dEEGMonuQ/0?wx_fmt=jpeg" width="400"/>
-
-### [JIRA配置手册 （1）—— 问题类型管理](https://mp.weixin.qq.com/s/h-7OS_yUkU6txhmqTYHTXA)
-
-- **发布日期**：2018-07-17 21:56  
-- **所属合集**：nan  
-- **摘要**：JIRA 是集项目计划、任务分配、需求管理、错误跟踪于一体的商业软件。今天Misha小姐姐带我们一起了解一下 JIRA 的问题类型管理~  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQJ4SibBQD56uvESRv8LYJ3iaTpaEQALmibhw8CveYmmnwXF1b9fwTm9HNtnGwIMicuGInXnWIibBkVTFg/0?wx_fmt=jpeg" width="400"/>
-
-### [Gradle 简易入门教程](https://mp.weixin.qq.com/s/CZYpUfKIIlQkegXyKqBNMA)
-
-- **发布日期**：2018-07-16 23:15  
-- **所属合集**：nan  
-- **摘要**：不懂Gradle？没关系，老司机带你轻松入门！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQL4wAuic5K5KoZZGoOj4DdyXl9rqCVl8icKtXDKqxhHygicSE0eexTB5Pcb2q5jXSbL8dd1rbC4ZKTQ/0?wx_fmt=jpeg" width="400"/>
-
-### [几种分布式调用链监控组件的实践与比较（二）比较](https://mp.weixin.qq.com/s/kUy5gbrVN1WwEIJXNjAQ0g)
-
-- **发布日期**：2018-07-14 08:11  
-- **所属合集**：nan  
-- **摘要**：续《几种分布式调用链监控组件的实践与比较（一）实践》。本文将会讲下几种APM选型的比较与性能测试。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSbpUP9ICV8wMyBu3Pb1Jmk12HyCgtLjtPDPXBY30RHQGyEHSjImmgS4LDn6542jlW6a1hxVBtMWg/0?wx_fmt=jpeg" width="400"/>
-
-### [符合 Python 风格的对象](https://mp.weixin.qq.com/s/CZOyebYGkoZh7C1UXlBq5g)
-
-- **发布日期**：2018-07-13 11:41  
-- **所属合集**：nan  
-- **摘要**：本文介绍了如何让 Python 自定义类的行为与真正的 Python 对象一致。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRiaUd3OicwyP9uvD8j7rpfRcUGnTKqAdoaMYiaCm6BbhqgkZvrJKeF2iaoS1NN5Q1JjaShLsELkOickqg/0?wx_fmt=jpeg" width="400"/>
-
-### [使用 Flask-RESTPlus 构建生产级应用](https://mp.weixin.qq.com/s/UKB9UmBSDX-ytnTsldrbAg)
-
-- **发布日期**：2018-07-09 23:19  
-- **所属合集**：nan  
-- **摘要**：Flask-RESTPlus 看起来非常方便，但在实际编写代码时总有种结构冲突感，本文分享并探讨最佳实践。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRmwPgia3dawr65piccQvMPut9N3OS3GbbvILpytHwh07LiazNSaLLZB1TJ5TwgFcGk0Eoauiafxiauuxw/0?wx_fmt=jpeg" width="400"/>
-
-### [由表及里学 ProjectReactor 之上卷](https://mp.weixin.qq.com/s/mERffoC58is4fKJOE5_I8w)
-
-- **发布日期**：2018-06-29 20:11  
-- **所属合集**：nan  
-- **摘要**：响应式编程让您能够专注于业务逻辑事件的依存关系，无需摆弄大量的线程实现细节，今天我们聊聊 ProjectReactor。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSbpUP9ICV8wMyBu3Pb1JmkQwetASGaTico9B0fSjDoQ1dmP5iaJM6MIsun0u1z0FAS99Tjk8kJKdlQ/0?wx_fmt=jpeg" width="400"/>
-
-### [分布式调用链监控组件的实践与比较（一）](https://mp.weixin.qq.com/s/ix2XvQUtpx_HFpQ3NqIOQQ)
-
-- **发布日期**：2018-06-27 18:50  
-- **所属合集**：nan  
-- **摘要**：本文主要介绍了链路追踪的基本概念和几种热门APM组件实践。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSzlsC5G4lrl1dQjjlfULeKWtFhy7b0RkwkMR2XRAvH6eHfGwIqibiboUma0qVELKQZyt3slA03AzibQ/0?wx_fmt=jpeg" width="400"/>
-
-### [TCP/IP-(1)-ARP & Internet协议](https://mp.weixin.qq.com/s/T-Epo3MZqN4C0sp5bOl-7Q)
-
-- **发布日期**：2018-06-26 19:56  
-- **所属合集**：nan  
-- **摘要**：今天是 TCP/IP 第一篇，ARP & Internet 内容了解一下~  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTbTUlHYYYUnibbYmqrDOLHUKyEtuiaCtpjS0MkrCU79C5JBaAXhEs2dm7fH8U8wSiaqGlsUGLic42lrg/0?wx_fmt=jpeg" width="400"/>
-
-### [Zuul2源码分析](https://mp.weixin.qq.com/s/FkKIQJwbrKqOqU6sScMGjg)
-
-- **发布日期**：2018-06-25 22:05  
-- **所属合集**：nan  
-- **摘要**：Zuul正式加入Netty全家桶的怀抱，今夜老司机为我们带来了 Zuul2的源码分析。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSibfzCNOh7cIEwtUJj9AawV1wBqpJ85EPFHAia67SwJxnQ2wrQbmiccJuiaCTk8QgzNnuDPRBGRjmO2g/0?wx_fmt=jpeg" width="400"/>
-
-### [Netty源码分析-(5)-其他](https://mp.weixin.qq.com/s/yB7A74H4PI9HOvXqT4IwLQ)
-
-- **发布日期**：2018-06-24 21:53  
-- **所属合集**：nan  
-- **摘要**：周日夜读老司机和大家一起探讨Netty中epoll空转bug。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQzGVdVU98KeJLibcxR39JcfiaQteHvu7hqvjjgcRCyDUAEyXicES5OjQWNVpJpBjYFYBTmnA5DDzPvQ/0?wx_fmt=jpeg" width="400"/>
-
-### [Netty源码分析-(伪)-(4)-ByteBuf](https://mp.weixin.qq.com/s/Xmek52GF8PW5dMlyL_4AhA)
-
-- **发布日期**：2018-06-22 20:17  
-- **所属合集**：nan  
-- **摘要**：ByteBuf 是 Netty 底层支撑，今天的夜读老司机带你一起来品品缓冲区。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQnmbAOzbRbVPvyTUczuEnrwP1dcbzd0sKNyKc3MLfTSBlFcqvEAb8Dt0vzq9oHoc5LH25ic3epscw/0?wx_fmt=jpeg" width="400"/>
-
-### [Netty源码分析-(3)-ChannelPipeline](https://mp.weixin.qq.com/s/_P9cC6OUwkMp-UNfm8ZgSw)
-
-- **发布日期**：2018-06-21 23:16  
-- **所属合集**：nan  
-- **摘要**：作为Netty的流程处理中心，今天我们来聊聊ChannelPipeline的知识点。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTyIBS3yZhQEDMBS2ibwMRXD5kKRSrXiaxRCCW7f7CFqsv1pZCH47F8TMuC8icnR7lwBXy7Ticj6gs6fA/0?wx_fmt=jpeg" width="400"/>
-
-### [Netty源码分析-(2)-Acceptor与线程模型](https://mp.weixin.qq.com/s/Qb4Jc6n4fyrWKqASIoHpdw)
-
-- **发布日期**：2018-06-20 20:10  
-- **所属合集**：nan  
-- **摘要**：上篇分析了Netty的 NioServerChannel，本篇来分析下 Netty究竟是怎么去接受请求并且维护链接的。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpEIsSgCBh1t0RwyNEofu2jiaQyibSjuDZA6PicNDSUs2StCJ5eDia1h7PiaZV6WQNe8UHsvgStiapvicWg/0?wx_fmt=jpeg" width="400"/>
-
-### [Netty网络编程-(1)-Bootstrap](https://mp.weixin.qq.com/s/Wyg_spYtPOM0VGd3DKMp0g)
-
-- **发布日期**：2018-06-18 20:41  
-- **所属合集**：nan  
-- **摘要**：Bootstrap 是 Netty 提供的便利工厂类, 本文以 Netty 源码例子中的 Discard 服务器为例, 从客户端和服务器端分别分析了Netty 是如何启动的。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSst6Be6ibmbfQIVI74mexulZHYClgBFPV2iaUwshwuDXGN9o7sqFymMYTR2SjHWmjcykcVyA2aQ54w/0?wx_fmt=jpeg" width="400"/>
-
-### [GitHub 乘上一架飞往中国的班机……](https://mp.weixin.qq.com/s/CCqjZo-5Wrdt8_Ot2VVhNw)
-
-- **发布日期**：2018-06-06 12:11  
-- **所属合集**：nan  
-- **摘要**：在官方公布收购讯息的第一时间，一架承载 GitHub 团队的飞机即将于近期抵达中国上海 DaoCloud 总部……  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/icGWTH9VkFq3GcS7MKwPviaPpMJ7wJXAvbHLWZWw56eqS24A8iaazUib5TIgYCDOjxPtLTQKrrG2PkPn7Sv4rdPQmQ/0?wx_fmt=jpeg" width="400"/>
-
-### [Cloud Native Essential 小测验](https://mp.weixin.qq.com/s/Z6xqZNfek9gkOwwLxf4-wA)
-
-- **发布日期**：2018-06-04 10:28  
-- **所属合集**：nan  
-- **摘要**：业务转型推动着技术转型，而云原生是技术转型必选的技术栈。那大家是否了解云原生的基本概念了呢？不妨来做个小测验考察一下！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSpNvGpzUsnsUR6hxZv0oTPH5JrcggdZa0iaMhCnq6aibjdBqvf1wF5ZUAibpH5DDOOZCOkoZ9EwX6vg/0?wx_fmt=jpeg" width="400"/>
-
-### [Python 装饰器和闭包](https://mp.weixin.qq.com/s/avZTnFoscvrJECrElN9edg)
-
-- **发布日期**：2018-06-03 17:27  
-- **所属合集**：nan  
-- **摘要**：Python进阶系列之装饰器和闭包，powered by DaoCloud 美女 Python 工程师！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCqRmibDZHTZibN90fFIwTYq4dnDMqicOKiaRaujYFGCBpH2gfKlXwnNPfIkG2o9LGRawp68koePHlEm7Q/0?wx_fmt=jpeg" width="400"/>
-
-### [你需要了解的 Linux 进程管理](https://mp.weixin.qq.com/s/w2KddJYRmyZsfoXBKRfrmw)
-
-- **发布日期**：2018-05-30 21:15  
-- **所属合集**：nan  
-- **摘要**：本文由 DaoCloud Python 小王子 Hypo撰写，操作系统基础知识再温故知新一下！​  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCrmxlk4licE0GYqPjnmdvSQHflVrOg8QMbiaqPdYss8yFfbNiaUtnRP77h8YicJ3UfjWvsFNZrbOUgCOw/0?wx_fmt=jpeg" width="400"/>
-
-### [Python 对象引用与可变性](https://mp.weixin.qq.com/s/21R3Qd9StEDYRPgOClNHuw)
-
-- **发布日期**：2018-05-26 00:16  
-- **所属合集**：nan  
-- **摘要**：本文由  DaoCloud me  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/0o3N73q0BCrr8V7FYXGlt7nRWGgjp5OiaTOsZurHlKasbSib6Hdic1qDhBwRoyCJ1FNjbvlYFboJrW3W4gMdd3xQA/0?wx_fmt=jpeg" width="400"/>
-
-### [Flask API 文档管理与 Swagger 上手](https://mp.weixin.qq.com/s/I4X2HE3GVe_8xM6iQ6K8zA)
-
-- **发布日期**：2018-05-07 08:04  
-- **所属合集**：nan  
-- **摘要**：Flask 是一个以自由度高、灵活性强著称的 Python Web 框架。但高灵活性也意味着无尽的代码维护成，本文介绍了 Flask-RESTPlus 的使用，这些额外代码辅助生成了与代码一致的文档，在组件对接和维护上，降低了成本。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRDDqIBtgIk5pku04yAAVty4fLnibPXDKRzXSWdfDAlswzJCS7tQqlTEouFuakNeZbaYdT8v5tqZZw/0?wx_fmt=jpeg" width="400"/>
-
-### [Python 漫谈—— 集成 Consul 配置中心](https://mp.weixin.qq.com/s/oiHYwep4j_mchczJo02PGw)
-
-- **发布日期**：2018-01-02 15:23  
-- **所属合集**：nan  
-- **摘要**：漫谈Python集成Consul配置中心。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSyrOLfc2Q8694pMcqr3WWY75R7tia5O1XTCCUTNlf1HMb9F4aF3y0LKSMQGO4YpEDDHmPnmI9rn6A/0?wx_fmt=jpeg" width="400"/>
-
-### [Python unittest mock  黑魔法](https://mp.weixin.qq.com/s/nm-6ZnRTM7F6atZv8wqO7g)
-
-- **发布日期**：2017-12-19 23:49  
-- **所属合集**：nan  
-- **摘要**：Python unittest mock 基础用法大揭秘！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSvFZEmrTdyNRGMGwDx5J1OGO6iaYhiaNfkboVlOjwWfXWiavofHNU1DH5upHppqhvr7NeM1p7mPpwyQ/0?wx_fmt=jpeg" width="400"/>
-
-### [全球产品经理大会之腾讯产品创新之道](https://mp.weixin.qq.com/s/7jruC6lIvzaG7dFyxiUAdQ)
-
-- **发布日期**：2017-12-09 00:24  
-- **所属合集**：nan  
-- **摘要**：腾讯一线产品背后的操盘手告诉你如何走好产品创新这条路。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRczfW0K91aWQDI5NFic3tFn2qQEcibI75dSia0Yyh0jQJTMcBl2Hb9oNoVeJVqZmtH7udIVpCGJQ9ibQ/0?wx_fmt=jpeg" width="400"/>
-
-### [全球产品经理大会之《启示录》作者想告诉你的那些事](https://mp.weixin.qq.com/s/r0D3gLBmIoDowwGPuLBTRw)
-
-- **发布日期**：2017-12-08 00:08  
-- **所属合集**：nan  
-- **摘要**：今日上海「2017全球产品经理大会」拉开帷幕，一起来看看 《启示录》作者 Marty Cagan 想要传达给我们哪些经验。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQHMGNBAyeHQJDicSnPTicg66lwdZN1ZXC9vYTT3pQmeSGAv3BqELdOdaB8R76HeNQ2jo3ewicezQOQw/0?wx_fmt=jpeg" width="400"/>
-
-### [从平台到中台 by 右军](https://mp.weixin.qq.com/s/uEevMFqgPLVPE6ZHJgU40w)
-
-- **发布日期**：2017-10-20 08:10  
-- **所属合集**：nan  
-- **摘要**：企业如何建设IT能力？其实可以参考军队的组织：尖兵（触点） + 火力平台（按需支援前线，规模化），这也是我读《企业IT架构转型之道：阿里巴巴中台战略思想与架构实战》之后的最大感悟。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS2IM8d3zkOGzzY6PtYBwCojBcGZ1Rrw5hEQ13nCyHHf0APKGbicwHuCjHqAfmYNCxhqRWglrgDArQ/0?wx_fmt=jpeg" width="400"/>
-
-### [微服务应用容器化场景中常见问题总结](https://mp.weixin.qq.com/s/w2w-AqmrVvQeqAVn4y818g)
-
-- **发布日期**：2017-10-19 23:43  
-- **所属合集**：nan  
-- **摘要**：云原生技术栈是下一代应用转型的必然选择，它包含了微服务架构，DevOps和容器技术。本文探讨的主题是来自于企业级Java应用在容器化过程中遇到的基础问题（与计算和网络相关），希望以小见大探讨微服务转型过程中遇到的挑战。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSkQ8Xl3VpM0QpfaIwqiaiaqn9OlH6Z0icujNNKl8F14sfuicLz9CNURucB7jZib6qjeGgxISUjX0KHDAw/0?wx_fmt=jpeg" width="400"/>
-
-### [小而美的Play Framework入门](https://mp.weixin.qq.com/s/tfI56bCj49TYNVZA_pJQXg)
-
-- **发布日期**：2017-09-28 10:01  
-- **所属合集**：nan  
-- **摘要**：Play Framework: A Web Framework for Java and Scala.  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHTzkRWepsQAay82IGCPCjJp659Ach4tl9Ap2UdtC304E6A1jW6kHgMyKtyf2ABibmlHGuo5m2B5xLQ/0?wx_fmt=jpeg" width="400"/>
-
-### [「干货合集」构建用户管理微服务全集大放送](https://mp.weixin.qq.com/s/ZOvnDgCSq6y2n2YlplbduQ)
-
-- **发布日期**：2017-08-23 14:57  
-- **所属合集**：nan  
-- **摘要**：不可错过,构建用户管理微服务六部曲全集大放送！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/1DjrTiaica04n59MKibIJN4ATz4b1LYiaYNDWPQ4UfTKqkXBPFTzMjPsdKDb4rxMuVMGQ50IRRxxto6kCuM7tdmW6g/0?wx_fmt=jpeg" width="400"/>
-
-### [DDD知识点划重点了](https://mp.weixin.qq.com/s/Q5q4cF8ZemNjXdeoKPt36w)
-
-- **发布日期**：2017-08-13 23:07  
-- **所属合集**：nan  
-- **摘要**：总听到别人谈 DDD，什么是领域驱动设计?读完这篇文章你就了解了。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHQ0CxuuRWcOribA19vOT94Nm9Y6UwW2YY5mXhibPcmB2iaKIbI7KIbicBUcKguySZnCKk08ClXr8b58Aw/0?wx_fmt=png" width="400"/>
-
-### [Re：从零开始的领域驱动设计](https://mp.weixin.qq.com/s/qBfPIykFLVpGWkK65KFawQ)
-
-- **发布日期**：2017-07-29 11:19  
-- **所属合集**：nan  
-- **摘要**：领域驱动的火爆程度无需累述，本文是作者在学习 DDD 的过程中总结的精要内容和重点笔记，能够助你更好的理解领域驱动。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHSyYofiaAzaPLxdmmljPoeqcj8ibNst3mm6RcyxBOmv6UJox1ntsXKhOZaFTPcwFz3GCaqp0pq3r8qg/0?wx_fmt=png" width="400"/>
-
-### [REST参考手册](https://mp.weixin.qq.com/s/ZePaucUdhStBQvSkS3K9EQ)
-
-- **发布日期**：2017-07-16 00:01  
-- **所属合集**：nan  
-- **摘要**：总说接口定义要遵守 RESTful，那么什么是REST呢，今天跟小编一起来了解一下这个规范吧~！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHTuwibeicWyUzHYtL0saZyORGxiaTIGAyVemXxmTUDX8DUs0uXoMN5R70kfJcjxv70LicEbctTkcO1LvQ/0?wx_fmt=png" width="400"/>
-
-### [AI越来越火，装逼的同学赶紧把这28个AI术语收了](https://mp.weixin.qq.com/s/WR8n2B9eEeUvBTtpaXQVSw)
-
-- **发布日期**：2017-07-08 20:49  
-- **所属合集**：nan  
-- **摘要**：DZone最新AI Zone，为大家提供最新的AI资讯！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHTxvAu0m07xwnXtWjPcCwIhQ6E84qDRQkYL0okbpaPhHqwbf03OsXAIsQFIcdBoQxyC36cDnQdJJA/0?wx_fmt=png" width="400"/>
-
-### [响应式Spring 5对应用设计的影响](https://mp.weixin.qq.com/s/bekAbKgPb1toTrtdGnRW2A)
-
-- **发布日期**：2017-07-07 18:13  
-- **所属合集**：nan  
-- **摘要**：响应式编程最近有点火，就连马上要推出的Spring 5 也集合了很多相应式的特性，今天我们来谈谈响应式 Spring 5 对应用设计会产生哪些影响。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRsZF2jbTmKJG5BeVIDE7yDODAE3EYIAy1DzdY3XhqnuGG6Syjm4Uxu3B84aRpfrpb2xJu2Pb9HfQ/0?wx_fmt=jpeg" width="400"/>
-
-### [单元测试实战手册](https://mp.weixin.qq.com/s/9t3NMey-LlFj_dNrnX71XA)
-
-- **发布日期**：2017-07-01 20:35  
-- **所属合集**：nan  
-- **摘要**：软件测试对软件质量好坏的预测非常重要，其是软件质量保证的关健环节，今天，让我们一起来看看如何快速的实现单元测试。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRFzCTia2jY4rGKheeTmtsPFfnv6gJGaicFUL3gkHzVTGRqf9x0aCibeqtNH0ic4kpHD3MA2kdMGGJQvQ/0?wx_fmt=jpeg" width="400"/>
-
-### [CNCF眼中的云原生生态全景图](https://mp.weixin.qq.com/s/0Rk_LQAqQKbgtwKfl0o1bQ)
-
-- **发布日期**：2017-06-30 13:32  
-- **所属合集**：nan  
-- **摘要**：CNCF 云原生生态项目的目标是将目前许多炙手可热的项目和创业公司吸收到云原生的大旗下，其由CNCF, Redpoint 和 Amplify共同维护。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRFzCTia2jY4rGKheeTmtsPFEkl2LJVYZbMkwAl8UIWlsQkHiawgtiaoAjf9ac0YPfGJDaepNafaMicAg/0?wx_fmt=jpeg" width="400"/>
-
-### [Joshua Long谈Java与微服务](https://mp.weixin.qq.com/s/7Mu8VfeWr9GeZ8AZaXiMYg)
-
-- **发布日期**：2017-06-26 13:36  
-- **所属合集**：nan  
-- **摘要**：如何使用Java编写微服务应用？我们应该遵循哪些原则？且看龙之春（Joshua Long）对此作出的解答。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHSl8sicib2txcibNFaQLANg3y6U2cn9fYGPmm0vrTWCxKFpFfL0l98lZCML8w7PIqR3dia4C5rumkhlNQ/0?wx_fmt=png" width="400"/>
-
-### [初识Service Mesh](https://mp.weixin.qq.com/s/jGuRx4EaZj1GYPs-MM_2wg)
-
-- **发布日期**：2017-06-23 18:54  
-- **所属合集**：nan  
-- **摘要**：也许你听说过云原生应用“服务网格”项目 Linkerd，今天我们要探讨的主题就是“Service Mesh”，以及它将为我们带来些什么。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHSEmgZSh1Rnn9qBf7j5nGHNUpxMvvibtibwS2IpH8QcDUWAhj0yEgsJmnveA3boE3xRxsO4mpaHU04g/0?wx_fmt=jpeg" width="400"/>
-
-### [《微服务入门指南》](https://mp.weixin.qq.com/s/gtNd3fsBktbweqtF0xS1yg)
-
-- **发布日期**：2017-06-20 17:32  
-- **所属合集**：nan  
-- **摘要**：本文介绍了微服务的基本概念以及单体应用改造为微服务应用需要关注的要点。
-微服务不是银弹，因此建议大家动手之前对微服务架构以及微服务架构带来的挑战需要有一个清晰，全面的认识。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRI4MibjQVHvznqPXM8iaIreibo2yicUjROk7MOeruuRKhXxjUKebFiaE6bOt8Cl90E2X5fkn8b0xxGJEQ/0?wx_fmt=jpeg" width="400"/>
-
-### [【漫画】程序猿的欢乐日常](https://mp.weixin.qq.com/s/UR5xP8yw02TbDmpJEl_Vyg)
-
-- **发布日期**：2017-06-13 18:23  
-- **所属合集**：nan  
-- **摘要**：关于程序猿的那些事~  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHRczdJUwXicGrEjvRc5qSoZVRj91TaJXjA2QMfIn17FKAmk0picb1rsY5kaxuLuWkqX0dLFZhV3Wicdw/0?wx_fmt=png" width="400"/>
-
-### [Spring Cloud Config新手教程及源码分析](https://mp.weixin.qq.com/s/p_fRaVAfAKPsYe2FtaNbJg)
-
-- **发布日期**：2017-06-11 21:53  
-- **所属合集**：nan  
-- **摘要**：今天为大家带来小火同学投稿的《Spring Cloud Config 新手教程及源码分析》，本文用示例细致的讲解了Spring Cloud Config的使用步骤和方法，并且给出了部分源码分析。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHTiaKic100BKKicXQY3ibkFX5FaRw5e4N65V8pTIrgyAW14hxPJwRjpr4DJjBVtrrbmszSgN5oAmicM9aA/0?wx_fmt=png" width="400"/>
-
-### [『Dao 课堂』王天青：微服务眼中持续交付的最佳姿势](https://mp.weixin.qq.com/s/OK7xuVvSKUDC6Xl2sgjKCg)
-
-- **发布日期**：2017-06-09 23:01  
-- **所属合集**：nan  
-- **摘要**：微服务应用，代码库，流水线，持续集成，持续部署，持续交付，你所需要知道的DevOps  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/1DjrTiaica04lyZS4uHorsSm84BGPkbX9J0Ufl8RnviadCOButO0yGg5GaqvdvPzPYbdZvICUAe9ib7TEzicRfZtV3A/0?wx_fmt=jpeg" width="400"/>
-
-### [Lombok:让JAVA代码更优雅](https://mp.weixin.qq.com/s/VocSuDiMk5_NxTn7D3yaTQ)
-
-- **发布日期**：2017-06-06 17:24  
-- **所属合集**：nan  
-- **摘要**：简化代码大杀器 Lombok入门篇！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHQ7rMBWXu2XicFEC9ic7vokhhj19y48lQlKqf6lG8Ql2OnialTkK1cqdPA4micjg4NNLIURC4ENetPLQg/0?wx_fmt=png" width="400"/>
-
-### [《软件架构模式》初探（附赠下载链接）](https://mp.weixin.qq.com/s/QFPmKUHqkbH7tq3DZLoXgg)
-
-- **发布日期**：2017-05-30 21:33  
-- **所属合集**：nan  
-- **摘要**：人人都在说微服务架构，我们来看看O'Reilly 出版的《Software Architecture Patterns》吧。它介绍了五种最常见的软件架构，是架构师以及软件开发者非常好的入门读物。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHRCkjmYvLjicicABaHDIvpM5PuialwpoA5K2U2GEtu4WXhpVTkTuj0MFicZUg7jgT0bo5j4xCv9ZZOmiaQ/0?wx_fmt=png" width="400"/>
-
-### [聊一聊REST API Design](https://mp.weixin.qq.com/s/0dolatRDcullx2PLfyi9Iw)
-
-- **发布日期**：2017-05-18 15:40  
-- **所属合集**：nan  
-- **摘要**：大家对RESTful API已经不在陌生，那如何优雅设计RESTful API？且看Google推出API Design Guide，是否能够帮助到你！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHRNz5BErOxb8P0iadDKpS7iaaII3NjKCtPYrBly7qeHBCyM83eMd1FQw9BcciaxZkekFKjw5OtJtYyoA/0?wx_fmt=png" width="400"/>
-
-### [2017中国云计算技术大会 - 微服务架构转型三大挑战及应对之策](https://mp.weixin.qq.com/s/GjiO2xB2FP6bq80fhGmbcQ)
-
-- **发布日期**：2017-05-12 10:28  
-- **所属合集**：nan  
-- **摘要**：来自DaoCloud的老司机王天青在即将到来的CCTC上等你来讨论《微服务架构转型的三大挑战及应对之策》，精彩不容错过！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRQrXibmEvGoOR20BZ0gkShekmc2ZBtREADslZMj9pFTsElicZndchEicQqqA5ESqWiaMQWlk0WQjgHHg/0?wx_fmt=jpeg" width="400"/>
-
-### [浅析负载均衡与应用路由](https://mp.weixin.qq.com/s/h6u15uC0dOVN7GnPEx7Qjw)
-
-- **发布日期**：2017-05-11 11:21  
-- **所属合集**：nan  
-- **摘要**：了解应用路由和负载均衡的差异应为设计高可扩展架构提供坚实的基础。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHQFMoibss4DWHf19uJibCw0ibcLSRe5jtvUmzvbFrwhBFWympYbgWlHPadEFoiaCAl2Kybibb77JQoxD1A/0?wx_fmt=png" width="400"/>
-
-### [五个Serverless技术常见误区](https://mp.weixin.qq.com/s/lYh7eScUVS3Nb59OOuCFOw)
-
-- **发布日期**：2017-05-06 23:47  
-- **所属合集**：nan  
-- **摘要**：5 Common Misconceptions of Serverless Technology（5个Serverless技术常见误区）。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHTNnXbUhUSpyJssMFeFYgI3VmIc50ibiaf4Hbga1fib4z8iacCNbOhz6LwZ1whAOLvgbQlnq25ghgy7NQ/0?wx_fmt=png" width="400"/>
-
-### [SOLID, GRASP和其他面向对象设计的基本原则（三）](https://mp.weixin.qq.com/s/Xl6Kbet1L5hqPAiZKZQkzQ)
-
-- **发布日期**：2017-05-05 11:44  
-- **所属合集**：nan  
-- **摘要**：面向对象的设计原则，SOLID和GRASP规则背后的思想系列之三。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQVH2Stv57H0ib5F8qsAgwLECia4ibicatvxAzJMXg39Ru5RNMkibrnHF47sw2ibwOLK7WTQSOibOv2f1FFQ/0?wx_fmt=jpeg" width="400"/>
-
-### [SOLID, GRASP和其他面向对象设计的基本原则（二）](https://mp.weixin.qq.com/s/8UZmQeqldsAoACSr7J3DJQ)
-
-- **发布日期**：2017-05-02 10:19  
-- **所属合集**：nan  
-- **摘要**：面向对象的设计原则，SOLID和GRASP规则背后的思想系列之二。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHQRR3CSCbHQEK1e4cgq8hcPl7SGsTjYBKvgHxlaggn280cJicXyXHQy5IKI0eg0k5Scibbu5ibicg99xg/0?wx_fmt=jpeg" width="400"/>
-
-### [SOLID, GRASP和其他面向对象设计的基本原则（一）](https://mp.weixin.qq.com/s/7xHquulC3TDA3rOpHkvnvw)
-
-- **发布日期**：2017-04-27 16:53  
-- **所属合集**：nan  
-- **摘要**：面向对象的设计原则，SOLID和GRASP规则背后的思想！  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHRniakbbPLib9y24W4XU0A6P5vBmPqMEjfPJIm56Ky29Zdkn6QHHicBYCY7icwWts3mDbrW8vYjLCOz5g/0?wx_fmt=jpeg" width="400"/>
-
-### [注入原力的我们满载技术干货回来了！](https://mp.weixin.qq.com/s/AZl1KYU3rOYtb8bIQARlqQ)
-
-- **发布日期**：2017-04-20 11:19  
-- **所属合集**：nan  
-- **摘要**：原力注入（Force Injection，F.I），这个名字来源于星球大战中的原力以及Spring的依赖注入（Dependency Injection），希望通过我们的努力将互联网技术的“原力”注入给广大技术从业者。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz_png/7xEgl6ic8qHSgK2un5WGicJia5sKiafmx3eZjtoVmy1SvEvicJ74j4Dc3MiciaicROyv0kjkicaElyXNPag8OzE7P2TCWBw/0?wx_fmt=png" width="400"/>
-
-### [基于AWS构建在线视频服务实践](https://mp.weixin.qq.com/s/U7q-u74cd2aFA9HDYZCvjQ)
-
-- **发布日期**：2016-05-16 18:47  
-- **所属合集**：nan  
-- **摘要**：↑请点击上方“NewFinTech”免费订阅我们
-
-天下武功，唯快不破！作为互联网企业，快速迭代／快速上线是其生存基本法则。现在的系统都会涉及到一些公用的服务，云计算恰恰是解决这些问题的最佳方案，是加快互联网企业IT交付的法宝之一!  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz/7xEgl6ic8qHTQemY6CDBkDcB1cvLXYmhh6s3EKfcgFFPsf1iaKoeMsLDFKQ0r7O5lmIwu4Iad5W1CTen9pCn6Ztg/0?wx_fmt=png" width="400"/>
-
-### [围棋入门&浅谈人工智能](https://mp.weixin.qq.com/s/qCoilhMF22XAa37oFnuEyg)
-
-- **发布日期**：2016-05-08 16:36  
-- **所属合集**：nan  
-- **摘要**：作者：朱恩杰  麻袋理财产品经理，将从一个IT从业者、业余棋手的角度谈围棋和alphago ，并分享了其对于人工智能的理解及未来的展望。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz/7xEgl6ic8qHTmqjouG6mpbwx2Jrv1jKjtiaR5m8yGZN0FcQ3hlz9LFFvAHrwowhHKynU5UhgdyTiccMOdwRDnAdbg/0?wx_fmt=jpeg" width="400"/>
-
-### [程序员败家指南之机械键盘篇 by麻袋极客帮](https://mp.weixin.qq.com/s/6kmDF-ql5dPtmLf2l7h2EQ)
-
-- **发布日期**：2016-05-02 22:44  
-- **所属合集**：nan  
-- **摘要**：当当当当！大数据工程师陈运海倾情为大伙儿带来了一个简单的机械键盘败家指南，让我们一起来看看吧。  
-- **封面图**：  
-  <img src="http://mmbiz.qpic.cn/mmbiz/7xEgl6ic8qHQUibIbOYRbibibdJmd2eLTH9x3Ayzl9eqaiab6EDjvgvDSCltPibcM799mlb7f7iblZqdw8PmXa1HLXecg/0?wx_fmt=jpeg" width="400"/>
+- **发布日期**：2023-11-15 09:33
+- **所属合集**：#Linux 小技巧 #Linux
+- **摘要**：Linux 系统下删除大量文件
+- **封面图**：  
+  <img src="https://mmbiz.qpic.cn/mmbiz_jpg/7xEgl6ic8qHS9ibO7ck5UH83TabFrCHnwXk92v1huQia5wCU8C80SOuuDGhvlZGveErRDJ8FqkQSkzdTdtYFd37Rw/0?wx_fmt=jpeg" width="400"/>
